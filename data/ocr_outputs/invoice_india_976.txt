@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0620
+Date: 1975-04-22
+Time: 12:42:23
+Buyer Name: Darshit Madan
+Buyer Address: 378, Vala Circle, Nagercoil 444873
+PAN: ABCDE9412F
+GSTIN: 23ABCDE0867Z71
+
+Item Details:
+
+Item: Earphones
+Quantity: 2 Rate: Rs.145 Amount: Rs.290
+
+CGST (9%): Rs.26.1
+SGST (9%): Rs.26.1
+Total Amount Payable: Rs.342.2
+
+Goods once sold will not be taken back.

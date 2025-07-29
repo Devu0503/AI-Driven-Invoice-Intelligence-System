@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0230
+Date: 2001-12-20
+Time: 16:51:25
+Buyer Name: Zaina Bath
+Buyer Address: 47/67, Hegde Nagar, Rajpur Sonarpur-193376
+PAN: ABCDE2048F
+GSTIN: 12ABCDE3988Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.411 Amount: Rs.2055
+
+CGST (9%): Rs.184.95
+SGST (9%): Rs.184.95
+Total Amount Payable: Rs.2424.9
+
+Goods once sold will not be taken back.

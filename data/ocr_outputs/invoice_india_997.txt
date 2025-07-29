@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2043/0081
+Date: 1983-03-16
+Time: 21:14:37
+Buyer Name: Kiara Aurora
+Buyer Address: 88/54, Devan Road, Hubli-Dharwad 526475
+PAN: ABCDE9746F
+GSTIN: 83ABCDE0227Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.466 Amount: Rs.466
+
+CGST (9%): Rs.41.94
+SGST (9%): Rs.41.94
+Total Amount Payable: Rs.549.88
+
+Goods once sold will not be taken back.

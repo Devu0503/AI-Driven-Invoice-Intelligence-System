@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0406
+Date: 2008-06-08
+Time: 16:03:48
+Buyer Name: Vivaan Gandhi
+Buyer Address: H.No. 62, Krishnan Nagar, Dibrugarh-211383
+PAN: ABCDE1053F
+GSTIN: 82ABCDE7173Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.990 Amount: Rs.4950
+
+CGST (9%): Rs.445.5
+SGST (9%): Rs.445.5
+Total Amount Payable: Rs.5841.0
+
+Goods once sold will not be taken back.

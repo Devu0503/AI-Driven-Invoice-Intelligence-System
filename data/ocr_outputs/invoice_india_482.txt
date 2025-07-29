@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2013/0579
+Date: 1981-03-30
+Time: 06:40:02
+Buyer Name: Nitara Chand
+Buyer Address: H.No. 29, Ahuja Circle, Thoothukudi 872270
+PAN: ABCDE2182F
+GSTIN: 21ABCDE1449Z51
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.251 Amount: Rs.502
+
+CGST (9%): Rs.45.18
+SGST (9%): Rs.45.18
+Total Amount Payable: Rs.592.36
+
+Goods once sold will not be taken back.

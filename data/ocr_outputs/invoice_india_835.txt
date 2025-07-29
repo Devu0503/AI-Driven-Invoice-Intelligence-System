@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0609
+Date: 2019-03-18
+Time: 11:16:09
+Buyer Name: Taran Lata
+Buyer Address: H.No. 30, Rao Street, Phagwara-517200
+PAN: ABCDE0337F
+GSTIN: 41ABCDE3751Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.596 Amount: Rs.2384
+
+CGST (9%): Rs.214.56
+SGST (9%): Rs.214.56
+Total Amount Payable: Rs.2813.12
+
+Goods once sold will not be taken back.

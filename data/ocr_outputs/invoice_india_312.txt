@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0015
+Date: 1985-11-19
+Time: 04:20:42
+Buyer Name: Devansh Aggarwal
+Buyer Address: 75/284, Malhotra Nagar, Karnal-677664
+PAN: ABCDE7555F
+GSTIN: 683ABCDE9329Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.532 Amount: Rs.1596
+
+CGST (9%): Rs.143.64
+SGST (9%): Rs.143.64
+Total Amount Payable: Rs.1883.28
+
+Goods once sold will not be taken back.

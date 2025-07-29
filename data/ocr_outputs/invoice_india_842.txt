@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2016/0938
+Date: 2001-07-14
+Time: 14:09:56
+Buyer Name: Yuvaan Ratta
+Buyer Address: 13, Dar Path, Buxar-970597
+PAN: ABCDE3039F
+GSTIN: 36ABCDE1041Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.755 Amount: Rs.3775
+
+CGST (9%): Rs.339.75
+SGST (9%): Rs.339.75
+Total Amount Payable: Rs.4454.5
+
+Goods once sold will not be taken back.

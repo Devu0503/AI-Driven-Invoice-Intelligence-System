@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2004/0776
+Date: 1979-05-03
+Time: 07:58:30
+Buyer Name: Sana Borra
+Buyer Address: 42/17, Bhat Ganj, Bokaro 178854
+PAN: ABCDE3046F
+GSTIN: 58ABCDE8171Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.223 Amount: Rs.1115
+
+CGST (9%): Rs.100.35
+SGST (9%): Rs.100.35
+Total Amount Payable: Rs.1315.7
+
+Goods once sold will not be taken back.

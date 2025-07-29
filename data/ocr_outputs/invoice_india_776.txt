@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2043/0549
+Date: 2021-03-14
+Time: 19:13:27
+Buyer Name: Yakshit Reddy
+Buyer Address: 35/189, Char Zila, Chandrapur 027362
+PAN: ABCDE1317F
+GSTIN: O6ABCDE1455Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.801 Amount: Rs.1602
+
+CGST (9%): Rs.144.18
+SGST (9%): Rs.144.18
+Total Amount Payable: Rs.1890.36
+
+Goods once sold will not be taken back.

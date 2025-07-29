@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2015/0805
+Date: 2024-02-21
+Time: 17:14:06
+Buyer Name: Indrajit De
+Buyer Address: H.No. 318, Bajwa Road, Nadiad 240663
+PAN: ABCDE1043F
+GSTIN: 38ABCDE8878Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.482 Amount: Rs.482
+
+CGST (9%): Rs.43.38
+SGST (9%): Rs.43.38
+Total Amount Payable: Rs.568.76
+
+Goods once sold will not be taken back.

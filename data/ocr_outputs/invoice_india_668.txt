@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0817
+Date: 2025-03-18
+Time: 10:59:51
+Buyer Name: Oorja Mand
+Buyer Address: H.No. 610, Krish Ganj, Mira-Bhayandar-084600
+PAN: ABCDE1210F
+GSTIN: 95ABCDE4954Z41
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.306 Amount: Rs.1224
+
+CGST (9%): Rs.110.16
+SGST (9%): Rs.110.16
+Total Amount Payable: Rs.1444.32
+
+Goods once sold will not be taken back.

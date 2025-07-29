@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0754
+Date: 2000-01-20
+Time: 01:19:02
+Buyer Name: Rati Grewal
+Buyer Address: 51, Bala Nagar, Bhagalpur-177404
+PAN: ABCDE0610F
+GSTIN: 99ABCDE0670Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.807 Amount: Rs.4035
+
+CGST (9%): Rs.363.15
+SGST (9%): Rs.363.15
+Total Amount Payable: Rs.4761.3
+
+Goods once sold will not be taken back.

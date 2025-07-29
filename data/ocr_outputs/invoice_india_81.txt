@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0367
+Date: 2021-08-10
+Time: 08:04:53
+Buyer Name: Faiyaz Thakur
+Buyer Address: 62/22, Sen Zila, Jaipur 650060
+PAN: ABCDE9213F
+GSTIN: 37ABCDE1588Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.174 Amount: Rs.174
+
+CGST (9%): Rs.15.66
+SGST (9%): Rs.15.66
+Total Amount Payable: Rs.205.32
+
+Goods once sold will not be taken back.

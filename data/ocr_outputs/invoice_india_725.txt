@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2032/0870
+Date: 1997-06-22
+Time: 07:48:08
+Buyer Name: Misha Sabharwal
+Buyer Address: 44, Thakur Marg, Mira-Bhayandar-111567
+PAN: ABCDE4093F
+GSTIN: 33ABCDE5591Z71
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.150 Amount: Rs.450
+
+CGST (9%): Rs.40.5
+SGST (9%): Rs.40.5
+Total Amount Payable: Rs.531.0
+
+Goods once sold will not be taken back.

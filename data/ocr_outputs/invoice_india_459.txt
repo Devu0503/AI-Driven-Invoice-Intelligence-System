@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0134
+Date: 1997-10-25
+Time: 15:02:49
+Buyer Name: Kismat Karnik
+Buyer Address: 41/17, Bahri Path, Gangtok-627562
+PAN: ABCDE4695F
+GSTIN: 62ABCDE4412Z41
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.921 Amount: Rs.921
+
+CGST (9%): Rs.82.89
+SGST (9%): Rs.82.89
+Total Amount Payable: Rs.1086.78
+
+Goods once sold will not be taken back.

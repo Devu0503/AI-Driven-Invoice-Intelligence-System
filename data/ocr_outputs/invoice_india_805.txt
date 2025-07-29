@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2032/0445
+Date: 1980-07-04
+Time: 03:24:59
+Buyer Name: Kaira Gopal
+Buyer Address: 94/831, Vasa Ganj, Uluberia-695089
+PAN: ABCDE9827F
+GSTIN: 39ABCDE1223Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.275 Amount: Rs.275
+
+CGST (9%): Rs.24.75
+SGST (9%): Rs.24.75
+Total Amount Payable: Rs.324.5
+
+Goods once sold will not be taken back.

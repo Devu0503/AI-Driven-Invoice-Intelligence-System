@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2038/0159
+Date: 2025-02-04
+Time: 06:29:38
+Buyer Name: Sana Brar
+Buyer Address: 05/39, Krishna, Warangal 008569
+PAN: ABCDE7691F
+GSTIN: 29ABCDE1010Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.497 Amount: Rs.1491
+
+CGST (9%): Rs.134.19
+SGST (9%): Rs.134.19
+Total Amount Payable: Rs.1759.38
+
+Goods once sold will not be taken back.

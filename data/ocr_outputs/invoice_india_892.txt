@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0097
+Date: 2020-10-09
+Time: 13:35:32
+Buyer Name: Vihaan Venkataraman
+Buyer Address: 22/32, Bir Circle, Gorakhpur 749737
+PAN: ABCDE3957F
+GSTIN: 32ABCDE0760Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.662 Amount: Rs.662
+
+CGST (9%): Rs.59.58
+SGST (9%): Rs.59.58
+Total Amount Payable: Rs.781.16
+
+Goods once sold will not be taken back.

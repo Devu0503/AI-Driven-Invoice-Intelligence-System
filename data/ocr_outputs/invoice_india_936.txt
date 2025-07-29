@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0120
+Date: 2002-08-25
+Time: 13:58:50
+Buyer Name: Pari Lata
+Buyer Address: H.No. 75, Yogi, Kadapa 889881
+PAN: ABCDE6827F
+GSTIN: 73ABCDE9322Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.169 Amount: Rs.676
+
+CGST (9%): Rs.60.84
+SGST (9%): Rs.60.84
+Total Amount Payable: Rs.797.68
+
+Goods once sold will not be taken back.

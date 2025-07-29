@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0182
+Date: 1992-10-16
+Time: 20:15:15
+Buyer Name: Piya Chacko
+Buyer Address: 17/471, Thaman Ganj, Barasat 481305
+PAN: ABCDE7304F
+GSTIN: 66ABCDE0700Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.212 Amount: Rs.212
+
+CGST (9%): Rs.19.08
+SGST (9%): Rs.19.08
+Total Amount Payable: Rs.250.16
+
+Goods once sold will not be taken back.

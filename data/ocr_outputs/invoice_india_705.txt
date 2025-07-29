@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0944
+Date: 1989-12-29
+Time: 16:39:53
+Buyer Name: Amani Kalita
+Buyer Address: H.No. 59, Sandal Nagar, Sagar-194260
+PAN: ABCDE9508F
+GSTIN: 63ABCDE1089Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.502 Amount: Rs.502
+
+CGST (9%): Rs.45.18
+SGST (9%): Rs.45.18
+Total Amount Payable: Rs.592.36
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0986
+Date: 1999-03-11
+Time: 01:39:23
+Buyer Name: Taimur Saha
+Buyer Address: 64/548, lyengar, Kota-239666
+PAN: ABCDE5853F
+GSTIN: 12ABCDE2468Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.472 Amount: Rs.2360
+
+CGST (9%): Rs.212.4
+SGST (9%): Rs.212.4
+Total Amount Payable: Rs.2784.8
+
+Goods once sold will not be taken back.

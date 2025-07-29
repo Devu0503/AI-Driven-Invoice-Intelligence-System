@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2020/0900
+Date: 2009-06-28
+Time: 17:21:49
+Buyer Name: Adah Dhar
+Buyer Address: 24/498, Goel Path, Miryalaguda-543254
+PAN: ABCDE8635F
+GSTIN: 21ABCDE4411Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: Rs.902 Amount: Rs.3608
+
+CGST (9%): Rs.324.72
+SGST (9%): Rs.324.72
+Total Amount Payable: Rs.4257.44
+
+Goods once sold will not be taken back.

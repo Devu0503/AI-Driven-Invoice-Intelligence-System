@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2038/0201
+Date: 1975-05-27
+Time: 13:50:29
+Buyer Name: Vedika Kuruvilla
+Buyer Address: H.No. 764, Sastry Chowk, North Dumdum 740496
+PAN: ABCDE3783F
+GSTIN: 19ABCDE2981Z61
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.793 Amount: Rs.2379
+
+CGST (9%): Rs.214.11
+SGST (9%): Rs.214.11
+Total Amount Payable: Rs.2807.22
+
+Goods once sold will not be taken back.

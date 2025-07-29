@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0752
+Date: 2006-03-06
+Time: 10:01:19
+Buyer Name: Nirvaan Hayre
+Buyer Address: H.No. 88, Bala Marg, Salem 973353
+PAN: ABCDE3773F
+GSTIN: 96ABCDE7448Z41
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.983 Amount: Rs.1966
+
+CGST (9%): Rs.176.94
+SGST (9%): Rs.176.94
+Total Amount Payable: Rs.2319.88
+
+Goods once sold will not be taken back.

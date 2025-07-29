@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0445
+Date: 1999-03-30
+Time: 14:49:33
+Buyer Name: Samar Bhasin
+Buyer Address: H.No. 47, Yohannan Road, Hospet-595430
+PAN: ABCDE4031F
+GSTIN: 40ABCDE1874211
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.797 Amount: Rs.3188
+
+CGST (9%): Rs.286.92
+SGST (9%): Rs.286.92
+Total Amount Payable: Rs.3761.84
+
+Goods once sold will not be taken back.

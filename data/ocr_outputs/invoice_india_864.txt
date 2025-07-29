@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0655
+Date: 1984-03-23
+Time: 08:43:08
+Buyer Name: Vritika Goel
+Buyer Address: 21/61, Kamdar Marg, Raebareli-737432
+PAN: ABCDE9700F
+GSTIN: 66ABCDE5932Z11
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.434 Amount: Rs.1302
+
+CGST (9%): Rs.117.18
+SGST (9%): Rs.117.18
+Total Amount Payable: Rs.1536.36
+
+Goods once sold will not be taken back.

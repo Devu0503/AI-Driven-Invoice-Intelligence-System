@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0540
+Date: 2009-07-20
+Time: 12:41:28
+Buyer Name: Veer Balakrishnan
+Buyer Address: 56/812, Sengupta Street, Bhilwara-847184
+PAN: ABCDE5342F
+GSTIN: 88ABCDE1328Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.211 Amount: Rs.1055
+
+CGST (9%): Rs.94.95
+SGST (9%): Rs.94.95
+Total Amount Payable: Rs.1244.9
+
+Goods once sold will not be taken back.

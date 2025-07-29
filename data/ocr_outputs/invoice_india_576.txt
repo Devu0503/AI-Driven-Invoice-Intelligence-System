@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0985
+Date: 1991-11-29
+Time: 16:41:36
+Buyer Name: Arnav Bhatti
+Buyer Address: 22, Lall Ganj, Phagwara-130393
+PAN: ABCDE9150F
+GSTIN: 83ABCDE0576Z61
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.323 Amount: Rs.969
+
+CGST (9%): Rs.87.21
+SGST (9%): Rs.87.21
+Total Amount Payable: Rs.1143.42
+
+Goods once sold will not be taken back.

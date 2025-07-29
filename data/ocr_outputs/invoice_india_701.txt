@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0744
+Date: 2010-09-21
+Time: 01:39:54
+Buyer Name: Parinaaz Bali
+Buyer Address: 25/38, Bhatti Circle, Madhyamgram 115437
+PAN: ABCDE3503F
+GSTIN: 55ABCDE9593Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.962 Amount: Rs.1924
+
+CGST (9%): Rs.173.16
+SGST (9%): Rs.173.16
+Total Amount Payable: Rs.2270.32
+
+Goods once sold will not be taken back.

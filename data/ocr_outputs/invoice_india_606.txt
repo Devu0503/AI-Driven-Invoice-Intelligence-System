@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0488
+Date: 2004-04-17
+Time: 03:12:18
+Buyer Name: Trisha Krishnamurthy
+Buyer Address: 69/45, Dugar Ganj, Uluberia-444260
+PAN: ABCDE4373F
+GSTIN: 25ABCDE3192Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.312 Amount: Rs.624
+
+CGST (9%): Rs.56.16
+SGST (9%): Rs.56.16
+Total Amount Payable: Rs.736.32
+
+Goods once sold will not be taken back.

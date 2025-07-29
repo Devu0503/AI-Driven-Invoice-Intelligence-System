@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2002/0337
+Date: 1977-07-28
+Time: 11:17:52
+Buyer Name: Zara Garg
+Buyer Address: 40/57, Hans Nagar, Pali-162161
+PAN: ABCDE0306F
+GSTIN: 78ABCDE0409Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.421 Amount: Rs.842
+
+CGST (9%): Rs.75.78
+SGST (9%): Rs.75.78
+Total Amount Payable: Rs.993.56
+
+Goods once sold will not be taken back.

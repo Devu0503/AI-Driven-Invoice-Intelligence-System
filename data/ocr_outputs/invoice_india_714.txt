@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2080/0228
+Date: 1984-06-02
+Time: 06:03:07
+Buyer Name: Anahi Bora
+Buyer Address: 29, Chaudhry Ganj, Saharanpur 477819
+PAN: ABCDE7319F
+GSTIN: 85ABCDE3295Z51
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.806 Amount: Rs.3224
+
+CGST (9%): Rs.290.16
+SGST (9%): Rs.290.16
+Total Amount Payable: Rs.3804.32
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2012/0881
+Date: 2019-03-05
+Time: 20:08:40
+Buyer Name: Ritvik Cherian
+Buyer Address: 77, Rana Zila, Adoni 675329
+PAN: ABCDE2258F
+GSTIN: 75ABCDE8136Z71
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.757 Amount: Rs.3785
+
+CGST (9%): Rs.340.65
+SGST (9%): Rs.340.65
+Total Amount Payable: Rs.4466.3
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0591
+Date: 1977-03-15
+Time: 09:04:52
+Buyer Name: Azad Magar
+Buyer Address: 924, Char Circle, Gopalpur-336375
+PAN: ABCDE3717F
+GSTIN: 90ABCDE4701Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.231 Amount: Rs.462
+
+CGST (9%): Rs.41.58
+SGST (9%): Rs.41.58
+Total Amount Payable: Rs.545.16
+
+Goods once sold will not be taken back.

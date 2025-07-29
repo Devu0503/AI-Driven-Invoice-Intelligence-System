@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0262
+Date: 1977-01-20
+Time: 20:56:10
+Buyer Name: Farhan Luthra
+Buyer Address: 99, Subramanian Chowk, Panipat-216953
+PAN: ABCDE5S199F
+GSTIN: 84ABCDE5660Z21
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.585 Amount: Rs.2340
+
+CGST (9%): Rs.210.6
+SGST (9%): Rs.210.6
+Total Amount Payable: Rs.2761.2
+
+Goods once sold will not be taken back.

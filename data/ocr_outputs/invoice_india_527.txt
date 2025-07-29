@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0290
+Date: 1974-05-19
+Time: 11:22:18
+Buyer Name: Pranay Chokshi
+Buyer Address: 85/308, Bhatti Nagar, Madurai-129090
+PAN: ABCDE2994F
+GSTIN: 16ABCDE2500Z41
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.673 Amount: Rs.2692
+
+CGST (9%): Rs.242.28
+SGST (9%): Rs.242.28
+Total Amount Payable: Rs.3176.56
+
+Goods once sold will not be taken back.

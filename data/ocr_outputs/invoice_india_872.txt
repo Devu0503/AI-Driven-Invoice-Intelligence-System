@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0637
+Date: 2016-05-28
+Time: 14:18:53
+Buyer Name: Mannat Tailor
+Buyer Address: 21, Shetty Marg, Kollam 757279
+PAN: ABCDE8919F
+GSTIN: 30ABCDE3564Z21
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.516 Amount: Rs.2580
+
+CGST (9%): Rs.232.2
+SGST (9%): Rs.232.2
+Total Amount Payable: Rs.3044.4
+
+Goods once sold will not be taken back.

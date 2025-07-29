@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0941
+Date: 2022-08-16
+Time: 23:31:41
+Buyer Name: Yakshit Wali
+Buyer Address: H.No. 64, Vasa Path, Begusarai-143137
+PAN: ABCDE3634F
+GSTIN: 54ABCDE4769Z31
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.982 Amount: Rs.1964
+
+CGST (9%): Rs.176.76
+SGST (9%): Rs.176.76
+Total Amount Payable: Rs.2317.52
+
+Goods once sold will not be taken back.

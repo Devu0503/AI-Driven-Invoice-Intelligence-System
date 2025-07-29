@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0876
+Date: 2004-10-23
+Time: 13:37:39
+Buyer Name: Raunak Saran
+Buyer Address: H.No. 04, Sule Nagar, Burhanpur 678727
+PAN: ABCDE7023F
+GSTIN: 07ABCDE2410Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.796 Amount: Rs.796
+
+CGST (9%): Rs.71.64
+SGST (9%): Rs.71.64
+Total Amount Payable: Rs.939.28
+
+Goods once sold will not be taken back.

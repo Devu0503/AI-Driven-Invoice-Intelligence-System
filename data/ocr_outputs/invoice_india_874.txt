@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2064/0614
+Date: 1985-09-14
+Time: 14:56:24
+Buyer Name: Krish Sinha
+Buyer Address: 609, Shetty Chowk, Mango 592801
+PAN: ABCDE8011F
+GSTIN: 15ABCDE3800Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.179 Amount: Rs.537
+
+CGST (9%): Rs.48.33
+SGST (9%): Rs.48.33
+Total Amount Payable: Rs.633.66
+
+Goods once sold will not be taken back.

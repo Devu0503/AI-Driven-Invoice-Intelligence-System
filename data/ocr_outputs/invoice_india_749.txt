@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0765
+Date: 2024-07-07
+Time: 17:54:36
+Buyer Name: Pihu Swamy
+Buyer Address: 79/484, Hegde Path, Sonipat 265561
+PAN: ABCDE2070F
+GSTIN: 98ABCDE1832Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.212 Amount: Rs.848
+
+CGST (9%): Rs.76.32
+SGST (9%): Rs.76.32
+Total Amount Payable: Rs.1000.64
+
+Goods once sold will not be taken back.

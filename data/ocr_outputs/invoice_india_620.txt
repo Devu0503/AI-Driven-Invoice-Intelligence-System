@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2079/0294
+Date: 1982-04-01
+Time: 18:53:55
+Buyer Name: Samiha Agarwal
+Buyer Address: 25/60, Sagar Marg, Ajmer 017984
+PAN: ABCDE5342F
+GSTIN: 85ABCDE5047Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.668 Amount: Rs.668
+
+CGST (9%): Rs.60.12
+SGST (9%): Rs.60.12
+Total Amount Payable: Rs.788.24
+
+Goods once sold will not be taken back.

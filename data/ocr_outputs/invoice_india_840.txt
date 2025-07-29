@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0638
+Date: 1970-10-13
+Time: 22:19:06
+Buyer Name: Lakshay Ganguly
+Buyer Address: 55/072, Bhardwaj Marg, Tirupati 995996
+PAN: ABCDE3502F
+GSTIN: 03ABCDE3646Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.766 Amount: Rs.1532
+
+CGST (9%): Rs.137.88
+SGST (9%): Rs.137.88
+Total Amount Payable: Rs.1807.76
+
+Goods once sold will not be taken back.

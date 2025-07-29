@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2032/0676
+Date: 1989-12-04
+Time: 05:07:13
+Buyer Name: Anvi Bassi
+Buyer Address: 327, Vaidya Path, Nagaon 892113
+PAN: ABCDE7859F
+GSTIN: 88ABCDE2352Z41
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.832 Amount: Rs.4160
+
+CGST (9%): Rs.374.4
+SGST (9%): Rs.374.4
+Total Amount Payable: Rs.4908.8
+
+Goods once sold will not be taken back.

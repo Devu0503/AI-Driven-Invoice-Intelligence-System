@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0629
+Date: 2021-02-09
+Time: 11:58:56
+Buyer Name: Lavanya Kara
+Buyer Address: 84/83, Mani, Chinsurah 109253
+PAN: ABCDE1485F
+GSTIN: 61ABCDE0806Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.728 Amount: Rs.2184
+
+CGST (9%): Rs.196.56
+SGST (9%): Rs.196.56
+Total Amount Payable: Rs.2577.12
+
+Goods once sold will not be taken back.

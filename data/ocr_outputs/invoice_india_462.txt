@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0364
+Date: 2018-06-06
+Time: 14:56:17
+Buyer Name: Yakshit Buch
+Buyer Address: H.No. 65, Kale, Morbi 061256
+PAN: ABCDE0717F
+GSTIN: 79ABCDE7153Z41
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.829 Amount: Rs.4145
+
+CGST (9%): Rs.373.05
+SGST (9%): Rs.373.05
+Total Amount Payable: Rs.4891.1
+
+Goods once sold will not be taken back.

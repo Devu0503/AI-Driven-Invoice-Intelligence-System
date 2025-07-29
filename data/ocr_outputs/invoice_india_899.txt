@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0315
+Date: 2011-03-04
+Time: 17:17:25
+Buyer Name: Damini Magar
+Buyer Address: 23/020, Chandran Chowk, Madurai-422371
+PAN: ABCDE7802F
+GSTIN: O9ABCDE3479Z41
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.500 Amount: Rs.2500
+
+CGST (9%): Rs.225.0
+SGST (9%): Rs.225.0
+Total Amount Payable: Rs.2950.0
+
+Goods once sold will not be taken back.

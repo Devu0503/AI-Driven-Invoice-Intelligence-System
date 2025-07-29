@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0307
+Date: 2021-10-28
+Time: 00:48:52
+Buyer Name: Anay Krishnamurthy
+Buyer Address: 821, Balasubramanian Chowk, Chandrapur 564053
+PAN: ABCDE3497F
+GSTIN: 30ABCDE1574Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.456 Amount: Rs.1368
+
+CGST (9%): Rs.123.12
+SGST (9%): Rs.123.12
+Total Amount Payable: Rs.1614.24
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0783
+Date: 1993-06-20
+Time: 12:37:05
+Buyer Name: Divit Sami
+Buyer Address: 92/148, Savant Street, Kolhapur-230335
+PAN: ABCDE5676F
+GSTIN: 71ABCDE5672Z21
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 5 Rate: Rs.666 Amount: Rs.3330
+
+CGST (9%): Rs.299.7
+SGST (9%): Rs.299.7
+Total Amount Payable: Rs.3929.4
+
+Goods once sold will not be taken back.

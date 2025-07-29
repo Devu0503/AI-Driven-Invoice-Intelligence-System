@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0301
+Date: 1973-10-19
+Time: 23:56:25
+Buyer Name: Samaira Barman
+Buyer Address: 69, Kalita Ganj, Adoni-589810
+PAN: ABCDES039F
+GSTIN: 77ABCDE2485Z41
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.745 Amount: Rs.1490
+
+CGST (9%): Rs.134.1
+SGST (9%): Rs.134.1
+Total Amount Payable: Rs.1758.2
+
+Goods once sold will not be taken back.

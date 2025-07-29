@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2012/0462
+Date: 1975-01-18
+Time: 08:41:26
+Buyer Name: Farhan Sathe
+Buyer Address: H.No. 70, Bhargava Zila, Amravati-704146
+PAN: ABCDE2482F
+GSTIN: 20ABCDE5396Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.1000 Amount: Rs.3000
+
+CGST (9%): Rs.270.0
+SGST (9%): Rs.270.0
+Total Amount Payable: Rs.3540.0
+
+Goods once sold will not be taken back.

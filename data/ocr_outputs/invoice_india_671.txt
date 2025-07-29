@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0763
+Date: 1971-11-28
+Time: 19:38:37
+Buyer Name: Aradhya Dugal
+Buyer Address: 45/908, Mallick Circle, Arrah-391701
+PAN: ABCDE6111F
+GSTIN: 60ABCDE8947Z01
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.537 Amount: Rs.2148
+
+CGST (9%): Rs.193.32
+SGST (9%): Rs.193.32
+Total Amount Payable: Rs.2534.64
+
+Goods once sold will not be taken back.

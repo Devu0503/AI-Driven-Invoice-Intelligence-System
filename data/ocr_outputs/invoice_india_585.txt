@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0041
+Date: 2002-11-02
+Time: 18:20:39
+Buyer Name: Abram Randhawa
+Buyer Address: 66, Cheema Circle, Nagaon 492535
+PAN: ABCDE4200F
+GSTIN: 80ABCDE9010Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.908 Amount: Rs.4540
+
+CGST (9%): Rs.408.6
+SGST (9%): Rs.408.6
+Total Amount Payable: Rs.5357.2
+
+Goods once sold will not be taken back.

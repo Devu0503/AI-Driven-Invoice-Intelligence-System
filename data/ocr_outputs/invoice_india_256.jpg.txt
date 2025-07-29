@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2071/0642
-Date: 1997-07-02
-Buyer Name: Jayan Kothari
-Buyer Address: 47, Dhar Ganj, Patna-813507
-PAN No: ABCDE7028F
-GSTIN: 67ABCDE15792Z11
+Invoice No: INV/2085/0790
+Date: 2013-05-22
+Time: 11:44:00
+Buyer Name: Samaira Dutt
+Buyer Address: H.No. 400, Baria Chowk, Bhusawal 184318
+PAN: ABCDE0170F
+GSTIN: 589ABCDE6373Z81
 
 Item Details:
 
-Item: Power Bank
-Quantity: 1 Rate: 3144 Amount: 144
+Item: Webcam
+Quantity: 4 Rate: Rs.847 Amount: Rs.3388
 
-CGST (9%): %12.96
-SGST (9%): 212.96
-Total Amount Payable: 2169.92
+CGST (9%): Rs.304.92
+SGST (9%): Rs.304.92
+Total Amount Payable: Rs.3997.84
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0564
+Date: 1987-09-23
+Time: 08:03:41
+Buyer Name: Kiaan Gokhale
+Buyer Address: 69, Khurana Marg, Surendranagar Dudhrej-882055
+PAN: ABCDE5135F
+GSTIN: 07ABCDE8134Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.469 Amount: Rs.938
+
+CGST (9%): Rs.84.42
+SGST (9%): Rs.84.42
+Total Amount Payable: Rs.1106.84
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2060/0138
+Date: 1978-03-13
+Time: 08:03:50
+Buyer Name: Shamik Choudhury
+Buyer Address: 76/449, Subramaniam Marg, Phusro-866691
+PAN: ABCDE1405F
+GSTIN: 69ABCDE2644Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.609 Amount: Rs.1827
+
+CGST (9%): Rs.164.43
+SGST (9%): Rs.164.43
+Total Amount Payable: Rs.2155.86
+
+Goods once sold will not be taken back.

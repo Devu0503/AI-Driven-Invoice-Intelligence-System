@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0839
+Date: 1993-01-02
+Time: 20:36:56
+Buyer Name: Kartik Sarma
+Buyer Address: 58/64, Thaman Road, Guna 011543
+PAN: ABCDE6611F
+GSTIN: 24ABCDE5530Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.609 Amount: Rs.1827
+
+CGST (9%): Rs.164.43
+SGST (9%): Rs.164.43
+Total Amount Payable: Rs.2155.86
+
+Goods once sold will not be taken back.

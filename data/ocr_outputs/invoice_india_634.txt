@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0104
+Date: 2010-11-03
+Time: 10:15:19
+Buyer Name: Yuvraj Krishna
+Buyer Address: H.No. 56, Solanki Zila, Amaravati-870942
+PAN: ABCDE0760F
+GSTIN: 29ABCDE7943Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.826 Amount: Rs.4130
+
+CGST (9%): Rs.371.7
+SGST (9%): Rs.371.7
+Total Amount Payable: Rs.4873.4
+
+Goods once sold will not be taken back.

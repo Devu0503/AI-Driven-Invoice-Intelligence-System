@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0610
+Date: 1999-02-21
+Time: 10:31:23
+Buyer Name: Aniruddh Mane
+Buyer Address: H.No. 615, Ramakrishnan Street, Saharanpur 936065
+PAN: ABCDE4431F
+GSTIN: 28ABCDE0918Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.616 Amount: Rs.1848
+
+CGST (9%): Rs.166.32
+SGST (9%): Rs.166.32
+Total Amount Payable: Rs.2180.64
+
+Goods once sold will not be taken back.

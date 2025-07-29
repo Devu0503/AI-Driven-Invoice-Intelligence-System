@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2081/0734
+Date: 1998-05-22
+Time: 10:39:28
+Buyer Name: Indrans Shetty
+Buyer Address: 22/664, Ghose Ganj, Bally 201608
+PAN: ABCDE2573F
+GSTIN: 29ABCDE6071Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.918 Amount: Rs.918
+
+CGST (9%): Rs.82.62
+SGST (9%): Rs.82.62
+Total Amount Payable: Rs.1083.24
+
+Goods once sold will not be taken back.

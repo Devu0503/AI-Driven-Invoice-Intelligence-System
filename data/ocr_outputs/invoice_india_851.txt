@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0428
+Date: 1971-05-13
+Time: 19:46:46
+Buyer Name: Yashvi Upadhyay
+Buyer Address: 63/566, Sachdeva Ganj, Bharatpur-911964
+PAN: ABCDE5984F
+GSTIN: 69ABCDE1753Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.592 Amount: Rs.592
+
+CGST (9%): Rs.53.28
+SGST (9%): Rs.53.28
+Total Amount Payable: Rs.698.56
+
+Goods once sold will not be taken back.

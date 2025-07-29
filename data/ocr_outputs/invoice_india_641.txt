@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0680
+Date: 2006-04-04
+Time: 19:16:23
+Buyer Name: Trisha Chopra
+Buyer Address: H.No. 454, Tailor Zila, Shimla 833256
+PAN: ABCDE4103F
+GSTIN: 22ABCDE1868Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.489 Amount: Rs.2445
+
+CGST (9%): Rs.220.05
+SGST (9%): Rs.220.05
+Total Amount Payable: Rs.2885.1
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0821
+Date: 2011-07-06
+Time: 16:56:36
+Buyer Name: Shayak Krishnan
+Buyer Address: 77/557, Salvi Marg, Silchar-106693
+PAN: ABCDE8726F
+GSTIN: 56ABCDE38 11211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.393 Amount: Rs.393
+
+CGST (9%): Rs.35.37
+SGST (9%): Rs.35.37
+Total Amount Payable: Rs.463.74
+
+Goods once sold will not be taken back.

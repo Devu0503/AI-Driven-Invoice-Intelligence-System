@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0105
+Date: 1986-08-12
+Time: 01:41:39
+Buyer Name: Jayan Trivedi
+Buyer Address: H.No. 387, Bandi Marg, Kumbakonam-828173
+PAN: ABCDE1823F
+GSTIN: 63ABCDE5713Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.963 Amount: Rs.4815
+
+CGST (9%): Rs.433.35
+SGST (9%): Rs.433.35
+Total Amount Payable: Rs.5681.7
+
+Goods once sold will not be taken back.

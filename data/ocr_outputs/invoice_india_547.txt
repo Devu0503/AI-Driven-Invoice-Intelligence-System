@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0975
+Date: 2020-12-11
+Time: 06:02:05
+Buyer Name: Ivan Vig
+Buyer Address: H.No. 87, Sachdev, Baranagar 086340
+PAN: ABCDE8102F
+GSTIN: 60ABCDE3956Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 4 Rate: Rs.878 Amount: Rs.3512
+
+CGST (9%): Rs.316.08
+SGST (9%): Rs.316.08
+Total Amount Payable: Rs.4144.16
+
+Goods once sold will not be taken back.

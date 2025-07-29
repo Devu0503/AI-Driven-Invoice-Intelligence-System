@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2020/0980
+Date: 2007-05-07
+Time: 07:04:27
+Buyer Name: Hunar Mander
+Buyer Address: H.No. 41, Borra Marg, Barasat 785345
+PAN: ABCDE9178F
+GSTIN: 77ABCDE7358Z41
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.691 Amount: Rs.2073
+
+CGST (9%): Rs.186.57
+SGST (9%): Rs.186.57
+Total Amount Payable: Rs.2446.14
+
+Goods once sold will not be taken back.

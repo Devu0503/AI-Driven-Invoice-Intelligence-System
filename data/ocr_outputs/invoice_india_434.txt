@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0492
+Date: 1983-05-25
+Time: 03:12:06
+Buyer Name: Divyansh Sant
+Buyer Address: 36/43, Rao, Gandhidham-972872
+PAN: ABCDE8513F
+GSTIN: 46ABCDE0177Z71
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.995 Amount: Rs.3980
+
+CGST (9%): Rs.358.2
+SGST (9%): Rs.358.2
+Total Amount Payable: Rs.4696.4
+
+Goods once sold will not be taken back.

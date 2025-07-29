@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2052/0429
+Date: 1993-10-09
+Time: 06:16:20
+Buyer Name: Zeeshan Keer
+Buyer Address: 53/084, Swaminathan Circle, Hapur 094419
+PAN: ABCDE8901F
+GSTIN: 25ABCDE1256Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.520 Amount: Rs.2600
+
+CGST (9%): Rs.234.0
+SGST (9%): Rs.234.0
+Total Amount Payable: Rs.3068.0
+
+Goods once sold will not be taken back.

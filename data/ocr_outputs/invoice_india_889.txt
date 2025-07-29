@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0739
+Date: 2005-01-13
+Time: 12:33:56
+Buyer Name: Advika Bhagat
+Buyer Address: 85/85, Malhotra Path, Aurangabad-67 8674
+PAN: ABCDE6274F
+GSTIN: 92ABCDE0083Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.412 Amount: Rs.412
+
+CGST (9%): Rs.37.08
+SGST (9%): Rs.37.08
+Total Amount Payable: Rs.486.16
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2065/0140
+Date: 2000-07-07
+Time: 19:12:01
+Buyer Name: Sana Virk
+Buyer Address: H.No. 968, lyengar Road, Muzaffarpur-595648
+PAN: ABCDE6023F
+GSTIN: 33ABCDE3688Z51
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 4 Rate: Rs.619 Amount: Rs.2476
+
+CGST (9%): Rs.222.84
+SGST (9%): Rs.222.84
+Total Amount Payable: Rs.2921.68
+
+Goods once sold will not be taken back.

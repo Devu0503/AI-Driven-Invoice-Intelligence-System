@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0272
+Date: 1976-01-12
+Time: 10:11:33
+Buyer Name: Kismat Chad
+Buyer Address: 33/684, Kalita Path, Pimpri-Chinchwad-064295
+PAN: ABCDE0421F
+GSTIN: 22ABCDE3356Z91
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.285 Amount: Rs.285
+
+CGST (9%): Rs.25.65
+SGST (9%): Rs.25.65
+Total Amount Payable: Rs.336.3
+
+Goods once sold will not be taken back.

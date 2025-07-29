@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0904
+Date: 2012-10-26
+Time: 18:52:27
+Buyer Name: Jivika Sem
+Buyer Address: H.No. 09, Bhatia Street, Mango 918967
+PAN: ABCDE8065F
+GSTIN: 98ABCDE5986Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.833 Amount: Rs.2499
+
+CGST (9%): Rs.224.91
+SGST (9%): Rs.224.91
+Total Amount Payable: Rs.2948.82
+
+Goods once sold will not be taken back.

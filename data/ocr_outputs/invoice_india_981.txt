@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0800
+Date: 2016-11-20
+Time: 14:20:53
+Buyer Name: Nirvi Roy
+Buyer Address: 75/36, Sankaran Chowk, Ongole 640967
+PAN: ABCDE6112F
+GSTIN: 75ABCDE2315Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.849 Amount: Rs.2547
+
+CGST (9%): Rs.229.23
+SGST (9%): Rs.229.23
+Total Amount Payable: Rs.3005.46
+
+Goods once sold will not be taken back.

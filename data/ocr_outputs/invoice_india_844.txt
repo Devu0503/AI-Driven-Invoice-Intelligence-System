@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2095/0128
+Date: 2009-09-12
+Time: 10:27:42
+Buyer Name: Yuvaan Bandi
+Buyer Address: H.No. 508, Kari Chowk, Nangloi Jat 399574
+PAN: ABCDE2794F
+GSTIN: 98ABCDE5062Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.206 Amount: Rs.412
+
+CGST (9%): Rs.37.08
+SGST (9%): Rs.37.08
+Total Amount Payable: Rs.486.16
+
+Goods once sold will not be taken back.

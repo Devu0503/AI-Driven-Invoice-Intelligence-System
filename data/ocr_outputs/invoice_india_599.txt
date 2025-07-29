@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0539
+Date: 1976-04-28
+Time: 15:00:40
+Buyer Name: Advika Sankar
+Buyer Address: 43/243, Chand, Baranagar-116079
+PAN: ABCDE6212F
+GSTIN: 01ABCDE3065Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: Rs.128 Amount: Rs.256
+
+CGST (9%): Rs.23.04
+SGST (9%): Rs.23.04
+Total Amount Payable: Rs.302.08
+
+Goods once sold will not be taken back.

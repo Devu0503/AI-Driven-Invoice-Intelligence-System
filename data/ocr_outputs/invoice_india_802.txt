@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0048
+Date: 1995-12-07
+Time: 10:32:04
+Buyer Name: Kartik Ahluwalia
+Buyer Address: 42/156, Butala Ganj, Raichur 430342
+PAN: ABCDE6825F
+GSTIN: 47ABCDE7140211
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.772 Amount: Rs.3088
+
+CGST (9%): Rs.277.92
+SGST (9%): Rs.277.92
+Total Amount Payable: Rs.3643.84
+
+Goods once sold will not be taken back.

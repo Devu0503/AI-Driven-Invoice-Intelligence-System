@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0085
+Date: 2006-05-05
+Time: 22:04:15
+Buyer Name: Sara Balakrishnan
+Buyer Address: 55, Barad Circle, Proddatur-735289
+PAN: ABCDE8986F
+GSTIN: 02ABCDE8921Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.558 Amount: Rs.1674
+
+CGST (9%): Rs.150.66
+SGST (9%): Rs.150.66
+Total Amount Payable: Rs.1975.32
+
+Goods once sold will not be taken back.

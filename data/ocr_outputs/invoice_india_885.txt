@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0553
+Date: 1983-09-16
+Time: 13:38:03
+Buyer Name: Veer Ramakrishnan
+Buyer Address: 66/338, Chawla Nagar, Kamarhati 086098
+PAN: ABCDE9058F
+GSTIN: 23ABCDE2150Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.146 Amount: Rs.292
+
+CGST (9%): Rs.26.28
+SGST (9%): Rs.26.28
+Total Amount Payable: Rs.344.56
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0168
+Date: 2005-07-19
+Time: 18:24:18
+Buyer Name: Aniruddh Agarwal
+Buyer Address: 93/89, Halder Chowk, Bokaro 062238
+PAN: ABCDE2304F
+GSTIN: 63ABCDE9024Z41
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.252 Amount: Rs.252
+
+CGST (9%): Rs.22.68
+SGST (9%): Rs.22.68
+Total Amount Payable: Rs.297.36
+
+Goods once sold will not be taken back.

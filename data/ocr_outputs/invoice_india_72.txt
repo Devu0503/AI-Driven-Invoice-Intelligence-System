@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2049/0745
+Date: 2003-10-12
+Time: 03:26:44
+Buyer Name: Pranay Bhasin
+Buyer Address: H.No. 80, Sangha Ganj, Motihari-903375
+PAN: ABCDE8887F
+GSTIN: 52ABCDE0674Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.566 Amount: Rs.2264
+
+CGST (9%): Rs.203.76
+SGST (9%): Rs.203.76
+Total Amount Payable: Rs.2671.52
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0956
+Date: 1990-01-07
+Time: 12:20:40
+Buyer Name: Vritika Zachariah
+Buyer Address: 330, Dayal Ganj, Nashik 276819
+PAN: ABCDE3301F
+GSTIN: 02ABCDE1234Z11
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.835 Amount: Rs.3340
+
+CGST (9%): Rs.300.6
+SGST (9%): Rs.300.6
+Total Amount Payable: Rs.3941.2
+
+Goods once sold will not be taken back.

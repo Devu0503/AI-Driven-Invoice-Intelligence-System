@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0529
+Date: 2001-11-11
+Time: 06:31:52
+Buyer Name: Renee Sunder
+Buyer Address: H.No. 387, Kapadia Ganj, Shivpuri 676498
+PAN: ABCDE1842F
+GSTIN: 76ABCDE1930Z51
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.869 Amount: Rs.869
+
+CGST (9%): Rs.78.21
+SGST (9%): Rs.78.21
+Total Amount Payable: Rs.1025.42
+
+Goods once sold will not be taken back.

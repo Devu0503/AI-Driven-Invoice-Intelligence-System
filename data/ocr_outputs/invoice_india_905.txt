@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0763
+Date: 1996-10-03
+Time: 14:07:50
+Buyer Name: Anya Ganesh
+Buyer Address: 67/86, Thakkar Chowk, Unnao 310593
+PAN: ABCDE9101F
+GSTIN: 36ABCDE0573Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.357 Amount: Rs.1428
+
+CGST (9%): Rs.128.52
+SGST (9%): Rs.128.52
+Total Amount Payable: Rs.1685.04
+
+Goods once sold will not be taken back.

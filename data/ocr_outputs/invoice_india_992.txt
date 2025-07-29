@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0742
+Date: 2002-06-08
+Time: 11:39:59
+Buyer Name: Akarsh Taneja
+Buyer Address: 98/741, Vohra Marg, Sikar-729272
+PAN: ABCDE7671F
+GSTIN: 71ABCDE4411Z91
+
+Item Details:
+
+Item: Earphones
+Quantity: 2 Rate: Rs.168 Amount: Rs.336
+
+CGST (9%): Rs.30.24
+SGST (9%): Rs.30.24
+Total Amount Payable: Rs.396.48
+
+Goods once sold will not be taken back.

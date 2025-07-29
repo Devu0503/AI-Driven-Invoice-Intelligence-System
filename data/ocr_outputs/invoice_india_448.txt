@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0589
+Date: 2009-04-06
+Time: 06:05:47
+Buyer Name: Ivana Aurora
+Buyer Address: 70/54, Khosla, Patiala-740916
+PAN: ABCDE4892F
+GSTIN: 27ABCDE0346Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.918 Amount: Rs.4590
+
+CGST (9%): Rs.413.1
+SGST (9%): Rs.413.1
+Total Amount Payable: Rs.5416.2
+
+Goods once sold will not be taken back.

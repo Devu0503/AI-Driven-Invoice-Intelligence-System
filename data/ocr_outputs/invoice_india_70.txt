@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0882
+Date: 1972-06-25
+Time: 10:13:03
+Buyer Name: Arnav Ganesh
+Buyer Address: H.No. 23, Sha Ganj, Rajahmundry 228764
+PAN: ABCDE9078F
+GSTIN: 17ABCDE1347Z01
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.120 Amount: Rs.480
+
+CGST (9%): Rs.43.2
+SGST (9%): Rs.43.2
+Total Amount Payable: Rs.566.4
+
+Goods once sold will not be taken back.

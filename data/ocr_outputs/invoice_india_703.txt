@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0384
+Date: 2013-10-26
+Time: 06:30:11
+Buyer Name: Ranbir Sharaf
+Buyer Address: H.No. 521, Gera Chowk, Ranchi-223163
+PAN: ABCDE3907F
+GSTIN: 32ABCDE0609Z61
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.656 Amount: Rs.1312
+
+CGST (9%): Rs.118.08
+SGST (9%): Rs.118.08
+Total Amount Payable: Rs.1548.16
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0281
+Date: 1991-04-02
+Time: 02:36:16
+Buyer Name: Emir Sagar
+Buyer Address: H.No. 86, Jain, Hyderabad 760514
+PAN: ABCDE0331F
+GSTIN: 16ABCDE9603Z41
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.118 Amount: Rs.590
+
+CGST (9%): Rs.53.1
+SGST (9%): Rs.53.1
+Total Amount Payable: Rs.696.2
+
+Goods once sold will not be taken back.

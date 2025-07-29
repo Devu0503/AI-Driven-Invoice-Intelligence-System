@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0833
+Date: 1979-07-01
+Time: 13:50:42
+Buyer Name: Navya Ray
+Buyer Address: H.No. 120, Sarma Zila, Durg 012534
+PAN: ABCDE8240F
+GSTIN: 92ABCDE5532Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: Rs.444 Amount: Rs.1776
+
+CGST (9%): Rs.159.84
+SGST (9%): Rs.159.84
+Total Amount Payable: Rs.2095.68
+
+Goods once sold will not be taken back.

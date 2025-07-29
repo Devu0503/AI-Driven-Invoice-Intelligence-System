@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0084
+Date: 1970-11-06
+Time: 00:38:28
+Buyer Name: Taran Chada
+Buyer Address: 76/66, Chaudhuri Chowk, Kirari Suleman Nagar 234276
+PAN: ABCDES774F
+GSTIN: 62ABCDE0392Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.208 Amount: Rs.624
+
+CGST (9%): Rs.56.16
+SGST (9%): Rs.56.16
+Total Amount Payable: Rs.736.32
+
+Goods once sold will not be taken back.

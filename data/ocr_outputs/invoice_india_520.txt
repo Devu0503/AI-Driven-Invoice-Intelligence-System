@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2057/0327
+Date: 2005-07-19
+Time: 13:39:14
+Buyer Name: Zain Chad
+Buyer Address: 92, Loke Path, Dhule 670808
+PAN: ABCDE5184F
+GSTIN: 47ABCDE5706Z61
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.302 Amount: Rs.906
+
+CGST (9%): Rs.81.54
+SGST (9%): Rs.81.54
+Total Amount Payable: Rs.1069.08
+
+Goods once sold will not be taken back.

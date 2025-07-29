@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2050/0856
+Date: 1987-09-22
+Time: 02:21:46
+Buyer Name: Neysa Saran
+Buyer Address: 00, Halder Road, Sultan Pur Majra 591934
+PAN: ABCDE0084F
+GSTIN: 88ABCDE5623Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.609 Amount: Rs.1218
+
+CGST (9%): Rs.109.62
+SGST (9%): Rs.109.62
+Total Amount Payable: Rs.1437.24
+
+Goods once sold will not be taken back.

@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2028/0880
-Date: 2014-04-14
-Buyer Name: Bhavin Mander
-Buyer Address: H.No. 16, Bera Road, Thane-350292
-PAN No: ABCDE2608F
-GSTIN: 95ABCDE8028Z01
+Invoice No: INV/2031/0312
+Date: 1979-09-15
+Time: 07:10:27
+Buyer Name: Ehsaan Tak
+Buyer Address: H.No. 769, Bera Zila, Indore 689118
+PAN: ABCDE6708F
+GSTIN: OSABCDE1398Z91
 
 Item Details:
 
-Item: Mobile Case
-Quantity: 3 Rate: 814 Amount: 2442
+Item: Mouse
+Quantity: 3 Rate: Rs.161 Amount: Rs.483
 
-CGST (9%): %219.78
-SGST (9%): 8219.78
-Total Amount Payable: 2881.56
+CGST (9%): Rs.43.47
+SGST (9%): Rs.43.47
+Total Amount Payable: Rs.569.94
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

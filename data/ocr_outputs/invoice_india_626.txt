@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0492
+Date: 1973-06-30
+Time: 04:28:43
+Buyer Name: Shray Sanghvi
+Buyer Address: H.No. 87, Malhotra Zila, Rourkela 089257
+PAN: ABCDE2128F
+GSTIN: 86ABCDE11732Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.172 Amount: Rs.344
+
+CGST (9%): Rs.30.96
+SGST (9%): Rs.30.96
+Total Amount Payable: Rs.405.92
+
+Goods once sold will not be taken back.

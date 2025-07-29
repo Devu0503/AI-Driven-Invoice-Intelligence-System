@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0007
+Date: 1974-08-15
+Time: 17:28:03
+Buyer Name: Zara Rastogi
+Buyer Address: 83/69, Gandhi, Bareilly 924313
+PAN: ABCDE4790F
+GSTIN: 589ABCDE9496Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.166 Amount: Rs.166
+
+CGST (9%): Rs.14.94
+SGST (9%): Rs.14.94
+Total Amount Payable: Rs.195.88
+
+Goods once sold will not be taken back.

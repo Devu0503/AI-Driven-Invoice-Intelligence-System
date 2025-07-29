@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2080/0044
+Date: 2002-10-05
+Time: 11:15:54
+Buyer Name: Trisha Chopra
+Buyer Address: 33, Tailor Ganj, Bardhaman 155644
+PAN: ABCDE0316F
+GSTIN: 14ABCDE2927Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.423 Amount: Rs.1269
+
+CGST (9%): Rs.114.21
+SGST (9%): Rs.114.21
+Total Amount Payable: Rs.1497.42
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0033
+Date: 1980-09-23
+Time: 05:39:44
+Buyer Name: Nayantara Sinha
+Buyer Address: 72, Goel, Gaya 469888
+PAN: ABCDE6378F
+GSTIN: 45ABCDE1213Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.866 Amount: Rs.2598
+
+CGST (9%): Rs.233.82
+SGST (9%): Rs.233.82
+Total Amount Payable: Rs.3065.64
+
+Goods once sold will not be taken back.

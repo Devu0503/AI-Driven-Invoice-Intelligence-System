@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0230
+Date: 2022-06-29
+Time: 15:34:25
+Buyer Name: Charvi Baral
+Buyer Address: 47, Chahal Road, Bhusawal 856207
+PAN: ABCDE0775F
+GSTIN: 43ABCDE8134Z71
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.254 Amount: Rs.254
+
+CGST (9%): Rs.22.86
+SGST (9%): Rs.22.86
+Total Amount Payable: Rs.299.72
+
+Goods once sold will not be taken back.

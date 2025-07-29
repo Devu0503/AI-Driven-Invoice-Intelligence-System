@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2095/0622
+Date: 1999-04-21
+Time: 01:15:28
+Buyer Name: Madhup Uppal
+Buyer Address: 49/531, Vora, Hyderabad 579516
+PAN: ABCDE3815F
+GSTIN: 69ABCDE3920Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.506 Amount: Rs.1518
+
+CGST (9%): Rs.136.62
+SGST (9%): Rs.136.62
+Total Amount Payable: Rs.1791.24
+
+Goods once sold will not be taken back.

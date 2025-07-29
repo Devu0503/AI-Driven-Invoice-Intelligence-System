@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0927
+Date: 1996-03-14
+Time: 18:23:18
+Buyer Name: Advik Mahal
+Buyer Address: 542, Contractor, Tiruvottiyur 605715
+PAN: ABCDE2338F
+GSTIN: O9ABCDE4403Z51
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.933 Amount: Rs.933
+
+CGST (9%): Rs.83.97
+SGST (9%): Rs.83.97
+Total Amount Payable: Rs.1100.94
+
+Goods once sold will not be taken back.

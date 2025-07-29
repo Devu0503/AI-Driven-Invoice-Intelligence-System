@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0610
+Date: 1989-12-25
+Time: 00:34:43
+Buyer Name: Shray Chandra
+Buyer Address: H.No. 73, Luthra Path, Amritsar-596624
+PAN: ABCDE1379F
+GSTIN: 43ABCDE8053Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.752 Amount: Rs.752
+
+CGST (9%): Rs.67.68
+SGST (9%): Rs.67.68
+Total Amount Payable: Rs.887.36
+
+Goods once sold will not be taken back.

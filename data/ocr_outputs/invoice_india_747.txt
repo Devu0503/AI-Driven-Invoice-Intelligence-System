@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0898
+Date: 1998-10-14
+Time: 22:12:15
+Buyer Name: Neelofar Karan
+Buyer Address: H.No. 72, Reddy Street, Burhanpur 095059
+PAN: ABCDE9913F
+GSTIN: 0OOABCDE3331Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.163 Amount: Rs.326
+
+CGST (9%): Rs.29.34
+SGST (9%): Rs.29.34
+Total Amount Payable: Rs.384.68
+
+Goods once sold will not be taken back.

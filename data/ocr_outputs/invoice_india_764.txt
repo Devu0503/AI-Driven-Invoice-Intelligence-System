@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0154
+Date: 2007-09-09
+Time: 23:39:05
+Buyer Name: Samarth Anne
+Buyer Address: 09/973, Srivastava Nagar, Medininagar 647800
+PAN: ABCDE0846F
+GSTIN: 74ABCDE6283Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.890 Amount: Rs.890
+
+CGST (9%): Rs.80.1
+SGST (9%): Rs.80.1
+Total Amount Payable: Rs.1050.2
+
+Goods once sold will not be taken back.

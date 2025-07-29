@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0337
+Date: 1976-03-23
+Time: 15:27:25
+Buyer Name: Arhaan Walia
+Buyer Address: H.No. 637, Sathe Chowk, Panchkula 773121
+PAN: ABCDE3574F
+GSTIN: 73ABCDE5485Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.756 Amount: Rs.2268
+
+CGST (9%): Rs.204.12
+SGST (9%): Rs.204.12
+Total Amount Payable: Rs.2676.24
+
+Goods once sold will not be taken back.

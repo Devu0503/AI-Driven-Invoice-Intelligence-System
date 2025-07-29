@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0999
+Date: 1982-06-07
+Time: 02:29:14
+Buyer Name: Bhavin Subramanian
+Buyer Address: H.No. 176, Kuruvilla Road, Burhanpur-213321
+PAN: ABCDE4577F
+GSTIN: 12ABCDE5423Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.650 Amount: Rs.1950
+
+CGST (9%): Rs.175.5
+SGST (9%): Rs.175.5
+Total Amount Payable: Rs.2301.0
+
+Goods once sold will not be taken back.

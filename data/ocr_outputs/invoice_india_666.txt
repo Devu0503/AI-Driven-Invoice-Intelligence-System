@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0811
+Date: 2001-09-16
+Time: 20:33:32
+Buyer Name: Mehul Bansal
+Buyer Address: 83, Lall Path, Anantapuram-466128
+PAN: ABCDE7643F
+GSTIN: 07ABCDE6035Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.611 Amount: Rs.1222
+
+CGST (9%): Rs.109.98
+SGST (9%): Rs.109.98
+Total Amount Payable: Rs.1441.96
+
+Goods once sold will not be taken back.

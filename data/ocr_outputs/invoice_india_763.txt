@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2012/0801
+Date: 1973-11-02
+Time: 13:11:05
+Buyer Name: Tanya Ganesan
+Buyer Address: H.No. 73, Bahri, Agartala-015143
+PAN: ABCDE4723F
+GSTIN: 81ABCDE9565Z21
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.821 Amount: Rs.821
+
+CGST (9%): Rs.73.89
+SGST (9%): Rs.73.89
+Total Amount Payable: Rs.968.78
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0247
+Date: 1973-04-28
+Time: 12:05:28
+Buyer Name: Biju Gandhi
+Buyer Address: 23/671, Mahajan Marg, Guntakal-646667
+PAN: ABCDE1816F
+GSTIN: 71ABCDE4848Z41
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.534 Amount: Rs.1602
+
+CGST (9%): Rs.144.18
+SGST (9%): Rs.144.18
+Total Amount Payable: Rs.1890.36
+
+Goods once sold will not be taken back.

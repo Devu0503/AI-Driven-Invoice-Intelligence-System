@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0708
+Date: 1974-04-19
+Time: 07:11:25
+Buyer Name: Ehsaan Khurana
+Buyer Address: 26, Sarma Path, Machilipatnam-945383
+PAN: ABCDE2557F
+GSTIN: 51ABCDE8041Z61
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.354 Amount: Rs.1062
+
+CGST (9%): Rs.95.58
+SGST (9%): Rs.95.58
+Total Amount Payable: Rs.1253.16
+
+Goods once sold will not be taken back.

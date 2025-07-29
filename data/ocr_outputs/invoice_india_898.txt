@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2004/0885
+Date: 1988-11-29
+Time: 20:49:28
+Buyer Name: Saanvi Sachar
+Buyer Address: H.No. 112, Mannan Marg, Gorakhpur 456083
+PAN: ABCDE3478F
+GSTIN: 78ABCDE2255Z31
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.408 Amount: Rs.408
+
+CGST (9%): Rs.36.72
+SGST (9%): Rs.36.72
+Total Amount Payable: Rs.481.44
+
+Goods once sold will not be taken back.

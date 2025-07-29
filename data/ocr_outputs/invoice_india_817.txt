@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0210
+Date: 1975-05-30
+Time: 21:46:33
+Buyer Name: Emir Subramanian
+Buyer Address: 21/68, Sur Marg, Fatehpur 105363
+PAN: ABCDE2770F
+GSTIN: 31ABCDE6009Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: Rs.325 Amount: Rs.1300
+
+CGST (9%): Rs.117.0
+SGST (9%): Rs.117.0
+Total Amount Payable: Rs.1534.0
+
+Goods once sold will not be taken back.

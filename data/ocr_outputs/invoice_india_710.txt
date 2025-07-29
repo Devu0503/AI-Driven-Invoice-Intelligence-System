@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0118
+Date: 1976-07-05
+Time: 11:29:50
+Buyer Name: Ira Yogi
+Buyer Address: 076, Dhar Nagar, Secunderabad 409123
+PAN: ABCDE8769F
+GSTIN: 40ABCDE2145Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.768 Amount: Rs.3072
+
+CGST (9%): Rs.276.48
+SGST (9%): Rs.276.48
+Total Amount Payable: Rs.3624.96
+
+Goods once sold will not be taken back.

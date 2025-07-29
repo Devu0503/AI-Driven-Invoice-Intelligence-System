@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0473
+Date: 2024-09-09
+Time: 17:35:19
+Buyer Name: Ryan Salvi
+Buyer Address: 87, Wali Road, Malda-844559
+PAN: ABCDE4715F
+GSTIN: S50ABCDE2122Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.244 Amount: Rs.732
+
+CGST (9%): Rs.65.88
+SGST (9%): Rs.65.88
+Total Amount Payable: Rs.863.76
+
+Goods once sold will not be taken back.

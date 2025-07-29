@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0273
+Date: 1972-05-25
+Time: 05:50:04
+Buyer Name: Aniruddh Agrawal
+Buyer Address: 664, Kothari Path, Ongole 095057
+PAN: ABCDE4 148F
+GSTIN: 589ABCDE0024Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.857 Amount: Rs.3428
+
+CGST (9%): Rs.308.52
+SGST (9%): Rs.308.52
+Total Amount Payable: Rs.4045.04
+
+Goods once sold will not be taken back.

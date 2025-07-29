@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0580
+Date: 1977-05-29
+Time: 20:17:43
+Buyer Name: Jayan Dara
+Buyer Address: 47/29, Wable Circle, Raipur-679878
+PAN: ABCDE7104F
+GSTIN: 52ABCDE8813Z11
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.837 Amount: Rs.837
+
+CGST (9%): Rs.75.33
+SGST (9%): Rs.75.33
+Total Amount Payable: Rs.987.66
+
+Goods once sold will not be taken back.

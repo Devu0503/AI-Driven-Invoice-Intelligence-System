@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0450
+Date: 1995-07-10
+Time: 04:02:14
+Buyer Name: Krish Yadav
+Buyer Address: H.No. 280, Sachdev Road, Warangal-640657
+PAN: ABCDE0162F
+GSTIN: 49ABCDE1930Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.709 Amount: Rs.3545
+
+CGST (9%): Rs.319.05
+SGST (9%): Rs.319.05
+Total Amount Payable: Rs.4183.1
+
+Goods once sold will not be taken back.

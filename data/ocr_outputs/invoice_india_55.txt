@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0788
+Date: 1980-11-12
+Time: 22:49:22
+Buyer Name: Miraan Warrior
+Buyer Address: 23/525, Chad Nagar, Ulhasnagar 397547
+PAN: ABCDE6901F
+GSTIN: 95ABCDE3382Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.650 Amount: Rs.3250
+
+CGST (9%): Rs.292.5
+SGST (9%): Rs.292.5
+Total Amount Payable: Rs.3835.0
+
+Goods once sold will not be taken back.

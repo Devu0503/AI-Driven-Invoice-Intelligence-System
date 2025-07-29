@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0611
+Date: 2004-11-12
+Time: 03:56:50
+Buyer Name: Mamooty Thaman
+Buyer Address: 89/11, Seth Nagar, Dehri-135856
+PAN: ABCDE7456F
+GSTIN: 83ABCDE9486Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.688 Amount: Rs.688
+
+CGST (9%): Rs.61.92
+SGST (9%): Rs.61.92
+Total Amount Payable: Rs.811.84
+
+Goods once sold will not be taken back.

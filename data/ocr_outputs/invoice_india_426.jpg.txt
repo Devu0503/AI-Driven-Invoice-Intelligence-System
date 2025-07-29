@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2014/0973
-Date: 1975-01-23
-Buyer Name: Shlok Bains
-Buyer Address: H.No. 53, Tella Marg, Hapur-770097
-PAN No: ABCDE5672F
-GSTIN: 04ABCDE7692241
+Invoice No: INV/2050/0520
+Date: 2001-05-26
+Time: 03:28:27
+Buyer Name: Mehul Walla
+Buyer Address: 693, Bal Nagar, Bhopal 567840
+PAN: ABCDE7 145F
+GSTIN: 96ABCDE5372Z81
 
 Item Details:
 
-Item: Mobile Case
-Quantity: 3 Rate: $716 Amount: 2148
+Item: Earphones
+Quantity: 4 Rate: Rs.264 Amount: Rs.1056
 
-CGST (9%): %193.32
-SGST (9%): %193.32
-Total Amount Payable: 2534.64
+CGST (9%): Rs.95.04
+SGST (9%): Rs.95.04
+Total Amount Payable: Rs.1246.08
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

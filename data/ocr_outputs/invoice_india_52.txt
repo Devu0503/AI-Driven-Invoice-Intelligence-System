@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0437
+Date: 2019-11-14
+Time: 02:09:59
+Buyer Name: Emir Badal
+Buyer Address: 11, Kapadia Path, Mysore-833186
+PAN: ABCDE1833F
+GSTIN: 689ABCDE6866Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.646 Amount: Rs.1938
+
+CGST (9%): Rs.174.42
+SGST (9%): Rs.174.42
+Total Amount Payable: Rs.2286.84
+
+Goods once sold will not be taken back.

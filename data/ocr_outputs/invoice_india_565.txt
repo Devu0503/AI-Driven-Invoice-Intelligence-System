@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0238
+Date: 2008-07-01
+Time: 05:39:00
+Buyer Name: Arhaan Dar
+Buyer Address: H.No. 111, Kakar Path, Bikaner 608709
+PAN: ABCDE6067F
+GSTIN: O6ABCDE3367Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.728 Amount: Rs.728
+
+CGST (9%): Rs.65.52
+SGST (9%): Rs.65.52
+Total Amount Payable: Rs.859.04
+
+Goods once sold will not be taken back.

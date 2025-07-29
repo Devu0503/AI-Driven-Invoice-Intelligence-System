@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0461
+Date: 2023-07-24
+Time: 15:39:10
+Buyer Name: Mehul Bhandari
+Buyer Address: H.No. 127, Gill, Thrissur-143012
+PAN: ABCDE2616F
+GSTIN: 68ABCDE5021Z61
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.958 Amount: Rs.4790
+
+CGST (9%): Rs.431.1
+SGST (9%): Rs.431.1
+Total Amount Payable: Rs.5652.2
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0841
+Date: 2011-02-04
+Time: 05:24:28
+Buyer Name: Amira Devi
+Buyer Address: H.No. 922, Deep Circle, Dhule 276076
+PAN: ABCDE9115F
+GSTIN: 67ABCDE6514Z11
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: Rs.992 Amount: Rs.1984
+
+CGST (9%): Rs.178.56
+SGST (9%): Rs.178.56
+Total Amount Payable: Rs.2341.12
+
+Goods once sold will not be taken back.

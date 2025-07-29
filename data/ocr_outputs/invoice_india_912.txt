@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0340
+Date: 1994-09-11
+Time: 09:57:20
+Buyer Name: Krish Sethi
+Buyer Address: H.No. 84, Bora Nagar, Tiruppur-498031
+PAN: ABCDE4592F
+GSTIN: 97ABCDE8388Z91
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.631 Amount: Rs.2524
+
+CGST (9%): Rs.227.16
+SGST (9%): Rs.227.16
+Total Amount Payable: Rs.2978.32
+
+Goods once sold will not be taken back.

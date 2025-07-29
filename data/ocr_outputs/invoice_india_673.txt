@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0235
+Date: 1986-05-10
+Time: 23:23:38
+Buyer Name: Rasha Wadhwa
+Buyer Address: H.No. 56, Dar, Varanasi 839793
+PAN: ABCDE0588F
+GSTIN: 04ABCDE7685Z21
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.976 Amount: Rs.1952
+
+CGST (9%): Rs.175.68
+SGST (9%): Rs.175.68
+Total Amount Payable: Rs.2303.36
+
+Goods once sold will not be taken back.

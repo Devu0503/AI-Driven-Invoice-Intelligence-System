@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2057/0145
+Date: 1971-02-26
+Time: 09:53:30
+Buyer Name: Vanya Vala
+Buyer Address: 849, Jha Ganj, Bidhannagar 963311
+PAN: ABCDE6179F
+GSTIN: 84ABCDE3779Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.647 Amount: Rs.1294
+
+CGST (9%): Rs.116.46
+SGST (9%): Rs.116.46
+Total Amount Payable: Rs.1526.92
+
+Goods once sold will not be taken back.

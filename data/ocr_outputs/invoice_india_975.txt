@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2052/0678
+Date: 2001-03-26
+Time: 17:55:09
+Buyer Name: Ivan Dubey
+Buyer Address: 40/03, Balasubramanian Chowk, Tenali 227685
+PAN: ABCDE9959F
+GSTIN: 13ABCDE9571Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.858 Amount: Rs.4290
+
+CGST (9%): Rs.386.1
+SGST (9%): Rs.386.1
+Total Amount Payable: Rs.5062.2
+
+Goods once sold will not be taken back.

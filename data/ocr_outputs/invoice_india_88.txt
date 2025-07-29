@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0472
+Date: 2002-06-03
+Time: 11:54:46
+Buyer Name: Anaya Bali
+Buyer Address: H.No. 826, Chand Zila, Raichur 866465
+PAN: ABCDE1089F
+GSTIN: 46ABCDE7135Z21
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.545 Amount: Rs.545
+
+CGST (9%): Rs.49.05
+SGST (9%): Rs.49.05
+Total Amount Payable: Rs.643.1
+
+Goods once sold will not be taken back.

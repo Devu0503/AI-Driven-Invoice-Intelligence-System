@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0102
+Date: 2016-01-27
+Time: 01:39:27
+Buyer Name: Devansh Lata
+Buyer Address: 98/127, Rajagopalan Road, Ozhukarai 563175
+PAN: ABCDE4708F
+GSTIN: 23ABCDE3897Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.364 Amount: Rs.364
+
+CGST (9%): Rs.32.76
+SGST (9%): Rs.32.76
+Total Amount Payable: Rs.429.52
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0373
+Date: 1985-01-27
+Time: 02:10:30
+Buyer Name: Lakshit Barad
+Buyer Address: 79, Raj Zila, Gurgaon 515376
+PAN: ABCDE5883F
+GSTIN: 97ABCDE7705Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.555 Amount: Rs.2775
+
+CGST (9%): Rs.249.75
+SGST (9%): Rs.249.75
+Total Amount Payable: Rs.3274.5
+
+Goods once sold will not be taken back.

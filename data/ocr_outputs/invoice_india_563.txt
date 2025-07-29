@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2008/0597
+Date: 1975-12-08
+Time: 18:52:37
+Buyer Name: Zaina Sama
+Buyer Address: H.No. 08, Chaudry Chowk, Secunderabad-906773
+PAN: ABCDE9644F
+GSTIN: 13ABCDE6209Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: Rs.817 Amount: Rs.1634
+
+CGST (9%): Rs.147.06
+SGST (9%): Rs.147.06
+Total Amount Payable: Rs.1928.12
+
+Goods once sold will not be taken back.

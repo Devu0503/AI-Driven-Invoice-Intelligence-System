@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0035
+Date: 1997-07-18
+Time: 17:11:59
+Buyer Name: Jivika Babu
+Buyer Address: H.No. 638, Chatterjee Zila, Mirzapur-999771
+PAN: ABCDE4351F
+GSTIN: 65ABCDE2656Z91
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.275 Amount: Rs.1100
+
+CGST (9%): Rs.99.0
+SGST (9%): Rs.99.0
+Total Amount Payable: Rs.1298.0
+
+Goods once sold will not be taken back.

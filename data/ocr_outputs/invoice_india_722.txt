@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0642
+Date: 1984-05-07
+Time: 23:39:14
+Buyer Name: Fateh Khanna
+Buyer Address: 445, Sampath Path, Rampur 640544
+PAN: ABCDE7080F
+GSTIN: 67ABCDE2461Z31
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.862 Amount: Rs.3448
+
+CGST (9%): Rs.310.32
+SGST (9%): Rs.310.32
+Total Amount Payable: Rs.4068.64
+
+Goods once sold will not be taken back.

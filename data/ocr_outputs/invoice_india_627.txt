@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0865
+Date: 1982-08-07
+Time: 11:32:24
+Buyer Name: Mehul D’Alia
+Buyer Address: H.No. 667, Konda Chowk, Alappuzha-124264
+PAN: ABCDE9245F
+GSTIN: 77ABCDE0002Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.725 Amount: Rs.3625
+
+CGST (9%): Rs.326.25
+SGST (9%): Rs.326.25
+Total Amount Payable: Rs.4277.5
+
+Goods once sold will not be taken back.

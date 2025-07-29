@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0668
+Date: 2019-04-16
+Time: 15:56:00
+Buyer Name: Ojas Sandal
+Buyer Address: 997, Chander Circle, Karaikudi 095434
+PAN: ABCDE0383F
+GSTIN: 32ABCDE9783Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.803 Amount: Rs.4015
+
+CGST (9%): Rs.361.35
+SGST (9%): Rs.361.35
+Total Amount Payable: Rs.4737.7
+
+Goods once sold will not be taken back.

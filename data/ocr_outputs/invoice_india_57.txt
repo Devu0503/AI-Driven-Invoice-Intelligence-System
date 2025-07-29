@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0362
+Date: 2020-08-23
+Time: 19:02:19
+Buyer Name: Advika Lanka
+Buyer Address: H.No. 426, Guha Path, Sonipat-428572
+PAN: ABCDE8068F
+GSTIN: 58ABCDE6273Z51
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.464 Amount: Rs.1856
+
+CGST (9%): Rs.167.04
+SGST (9%): Rs.167.04
+Total Amount Payable: Rs.2190.08
+
+Goods once sold will not be taken back.

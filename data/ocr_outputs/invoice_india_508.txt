@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2043/0507
+Date: 1976-05-28
+Time: 23:09:24
+Buyer Name: Jayan Loke
+Buyer Address: 99, Hegde Marg, Asansol-323155
+PAN: ABCDE4682F
+GSTIN: 98ABCDE4904Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.555 Amount: Rs.1665
+
+CGST (9%): Rs.149.85
+SGST (9%): Rs.149.85
+Total Amount Payable: Rs.1964.7
+
+Goods once sold will not be taken back.

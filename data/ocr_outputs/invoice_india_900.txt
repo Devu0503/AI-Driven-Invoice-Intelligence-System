@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0240
+Date: 1970-07-29
+Time: 14:11:56
+Buyer Name: Romil Sule
+Buyer Address: H.No. 501, Manne, Katni-910631
+PAN: ABCDE5661F
+GSTIN: 25ABCDE1022Z51
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.825 Amount: Rs.4125
+
+CGST (9%): Rs.371.25
+SGST (9%): Rs.371.25
+Total Amount Payable: Rs.4867.5
+
+Goods once sold will not be taken back.

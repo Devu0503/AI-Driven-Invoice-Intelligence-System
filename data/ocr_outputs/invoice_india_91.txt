@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0613
+Date: 2016-03-19
+Time: 17:04:47
+Buyer Name: Taran Sangha
+Buyer Address: 022, Kurian Zila, Mehsana-569961
+PAN: ABCDE8442F
+GSTIN: 79ABCDE2059Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.744 Amount: Rs.2232
+
+CGST (9%): Rs.200.88
+SGST (9%): Rs.200.88
+Total Amount Payable: Rs.2633.76
+
+Goods once sold will not be taken back.

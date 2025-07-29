@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0463
+Date: 2006-04-26
+Time: 19:55:28
+Buyer Name: Indrans Kari
+Buyer Address: 45/901, Kuruvilla Road, Coimbatore 245083
+PAN: ABCDE3382F
+GSTIN: 54ABCDE1610Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.440 Amount: Rs.1760
+
+CGST (9%): Rs.158.4
+SGST (9%): Rs.158.4
+Total Amount Payable: Rs.2076.8
+
+Goods once sold will not be taken back.

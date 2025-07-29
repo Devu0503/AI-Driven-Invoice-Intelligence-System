@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0320
+Date: 2022-01-02
+Time: 01:49:07
+Buyer Name: Tarini Chaudhari
+Buyer Address: 17/63, Soman Road, Aligarh 886213
+PAN: ABCDE2936F
+GSTIN: 45ABCDE9414Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.263 Amount: Rs.1315
+
+CGST (9%): Rs.118.35
+SGST (9%): Rs.118.35
+Total Amount Payable: Rs.1551.7
+
+Goods once sold will not be taken back.

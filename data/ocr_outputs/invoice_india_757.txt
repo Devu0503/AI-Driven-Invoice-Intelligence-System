@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2057/0931
+Date: 1993-01-05
+Time: 21:54:22
+Buyer Name: Indrans Atwal
+Buyer Address: H.No. 715, Zachariah Path, Gwalior 967451
+PAN: ABCDE0664F
+GSTIN: 66ABCDE9238Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.558 Amount: Rs.558
+
+CGST (9%): Rs.50.22
+SGST (9%): Rs.50.22
+Total Amount Payable: Rs.658.44
+
+Goods once sold will not be taken back.

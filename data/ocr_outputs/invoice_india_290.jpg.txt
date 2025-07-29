@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2088/0783
-Date: 1995-07-28
-Buyer Name: Romil Mani
-Buyer Address: 25/82, De Chowk, Tezpur 301279
-PAN No: ABCDE0691F
-GSTIN: 12ABCDE6827241
+Invoice No: INV/2091/0525
+Date: 1977-08-26
+Time: 18:56:11
+Buyer Name: Shanaya Hayre
+Buyer Address: 48/954, Ramachandran Circle, Kakinada-482696
+PAN: ABCDE4257F
+GSTIN: O8ABCDE6895Z91
 
 Item Details:
 
-Item: USB Cable
-Quantity: 3 Rate: 437 Amount: %1311
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.986 Amount: Rs.2958
 
-CGST (9%): %117.99
-SGST (9%): 2117.99
-Total Amount Payable: 21546.98
+CGST (9%): Rs.266.22
+SGST (9%): Rs.266.22
+Total Amount Payable: Rs.3490.44
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0495
+Date: 2022-02-11
+Time: 13:02:32
+Buyer Name: Divyansh Gopal
+Buyer Address: 69/647, Sankar Marg, Khammam 105970
+PAN: ABCDEO896F
+GSTIN: 17ABCDE4868Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.701 Amount: Rs.1402
+
+CGST (9%): Rs.126.18
+SGST (9%): Rs.126.18
+Total Amount Payable: Rs.1654.36
+
+Goods once sold will not be taken back.

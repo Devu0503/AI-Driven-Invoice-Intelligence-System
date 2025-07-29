@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0479
+Date: 2015-04-13
+Time: 04:46:26
+Buyer Name: Aaina Kunda
+Buyer Address: 79/147, Bail Nagar, Knora 018598
+PAN: ABCDE9710F
+GSTIN: 02ABCDE0488Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.630 Amount: Rs.630
+
+CGST (9%): Rs.56.7
+SGST (9%): Rs.56.7
+Total Amount Payable: Rs.743.4
+
+Goods once sold will not be taken back.

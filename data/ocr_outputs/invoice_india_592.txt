@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0684
+Date: 2007-10-23
+Time: 19:45:59
+Buyer Name: Ahana Lal
+Buyer Address: 219, Tata Nagar, Medininagar-192980
+PAN: ABCDE4979F
+GSTIN: 32ABCDE4153Z11
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.340 Amount: Rs.340
+
+CGST (9%): Rs.30.6
+SGST (9%): Rs.30.6
+Total Amount Payable: Rs.401.2
+
+Goods once sold will not be taken back.

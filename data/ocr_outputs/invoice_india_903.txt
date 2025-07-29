@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2064/0545
+Date: 2020-09-12
+Time: 03:43:41
+Buyer Name: Shamik Bhandari
+Buyer Address: 218, Chander, Karnal-333125
+PAN: ABCDE3018F
+GSTIN: 13ABCDE8384Z41
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.482 Amount: Rs.1446
+
+CGST (9%): Rs.130.14
+SGST (9%): Rs.130.14
+Total Amount Payable: Rs.1706.28
+
+Goods once sold will not be taken back.

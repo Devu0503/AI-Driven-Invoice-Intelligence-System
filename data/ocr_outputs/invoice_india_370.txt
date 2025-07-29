@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0093
+Date: 1997-03-04
+Time: 21:55:34
+Buyer Name: Jivika Dara
+Buyer Address: 835, Shanker Chowk, Kakinada-933722
+PAN: ABCDE2303F
+GSTIN: 63ABCDE7290Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.492 Amount: Rs.2460
+
+CGST (9%): Rs.221.4
+SGST (9%): Rs.221.4
+Total Amount Payable: Rs.2902.8
+
+Goods once sold will not be taken back.

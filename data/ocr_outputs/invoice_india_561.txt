@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2079/0747
+Date: 2007-07-16
+Time: 13:44:57
+Buyer Name: Anaya Brar
+Buyer Address: 72/26, Varty Marg, Visakhapatnam-391493
+PAN: ABCDE7361F
+GSTIN: 63ABCDE0174Z31
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.923 Amount: Rs.923
+
+CGST (9%): Rs.83.07
+SGST (9%): Rs.83.07
+Total Amount Payable: Rs.1089.14
+
+Goods once sold will not be taken back.

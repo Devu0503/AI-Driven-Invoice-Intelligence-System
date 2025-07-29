@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0351
+Date: 2009-11-19
+Time: 10:01:31
+Buyer Name: Armaan Kanda
+Buyer Address: 84/69, Tara Chowk, Gandhidham-659511
+PAN: ABCDE6252F
+GSTIN: 57ABCDE4289Z21
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.329 Amount: Rs.1316
+
+CGST (9%): Rs.118.44
+SGST (9%): Rs.118.44
+Total Amount Payable: Rs.1552.88
+
+Goods once sold will not be taken back.

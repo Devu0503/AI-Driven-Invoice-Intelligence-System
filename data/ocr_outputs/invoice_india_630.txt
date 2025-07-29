@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0522
+Date: 2019-06-04
+Time: 03:57:07
+Buyer Name: Ehsaan Bajaj
+Buyer Address: 12/17, Warrior Ganj, Muzaffarpur-090201
+PAN: ABCDE3305F
+GSTIN: 22ABCDE0548Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.725 Amount: Rs.2175
+
+CGST (9%): Rs.195.75
+SGST (9%): Rs.195.75
+Total Amount Payable: Rs.2566.5
+
+Goods once sold will not be taken back.

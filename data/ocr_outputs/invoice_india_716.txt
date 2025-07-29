@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0024
+Date: 1991-10-25
+Time: 22:48:28
+Buyer Name: Aaina Chaudhuri
+Buyer Address: 08/800, Borah Path, Secunderabad-462224
+PAN: ABCDE9815F
+GSTIN: 94ABCDE2282Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.593 Amount: Rs.2372
+
+CGST (9%): Rs.213.48
+SGST (9%): Rs.213.48
+Total Amount Payable: Rs.2798.96
+
+Goods once sold will not be taken back.

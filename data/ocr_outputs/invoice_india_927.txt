@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0681
+Date: 2015-07-30
+Time: 23:02:19
+Buyer Name: Hunar Brar
+Buyer Address: H.No. 740, Khanna Circle, Kalyan-Dombivli 765235
+PAN: ABCDE4574F
+GSTIN: 36ABCDE0331Z31
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.415 Amount: Rs.415
+
+CGST (9%): Rs.37.35
+SGST (9%): Rs.37.35
+Total Amount Payable: Rs.489.7
+
+Goods once sold will not be taken back.

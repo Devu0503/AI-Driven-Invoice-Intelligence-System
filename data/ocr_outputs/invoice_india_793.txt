@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0693
+Date: 1996-02-25
+Time: 12:35:04
+Buyer Name: Mohanlal Arya
+Buyer Address: 25/54, Sant Nagar, Dehri-304809
+PAN: ABCDE9421F
+GSTIN: 18ABCDE1904Z91
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.760 Amount: Rs.760
+
+CGST (9%): Rs.68.4
+SGST (9%): Rs.68.4
+Total Amount Payable: Rs.896.8
+
+Goods once sold will not be taken back.

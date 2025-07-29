@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0332
+Date: 2009-02-10
+Time: 06:12:30
+Buyer Name: Indrans Luthra
+Buyer Address: H.No. 61, Kalla Zila, Mau 825686
+PAN: ABCDE1205F
+GSTIN: 589ABCDE5068Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.469 Amount: Rs.1407
+
+CGST (9%): Rs.126.63
+SGST (9%): Rs.126.63
+Total Amount Payable: Rs.1660.26
+
+Goods once sold will not be taken back.

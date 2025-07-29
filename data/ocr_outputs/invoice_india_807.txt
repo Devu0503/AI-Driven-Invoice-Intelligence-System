@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0649
+Date: 2023-02-15
+Time: 12:29:55
+Buyer Name: Rhea Chauhan
+Buyer Address: H.No. 125, Bhavsar Ganj, Malegaon 599181
+PAN: ABCDE1420F
+GSTIN: 87ABCDE7651Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.796 Amount: Rs.3184
+
+CGST (9%): Rs.286.56
+SGST (9%): Rs.286.56
+Total Amount Payable: Rs.3757.12
+
+Goods once sold will not be taken back.

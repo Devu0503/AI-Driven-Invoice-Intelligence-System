@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2057/0194
+Date: 2018-05-29
+Time: 02:08:01
+Buyer Name: Saira Dutta
+Buyer Address: H.No. 95, Goyal Marg, Ghaziabad 750207
+PAN: ABCDE8936F
+GSTIN: 93ABCDE2300Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.327 Amount: Rs.981
+
+CGST (9%): Rs.88.29
+SGST (9%): Rs.88.29
+Total Amount Payable: Rs.1157.58
+
+Goods once sold will not be taken back.

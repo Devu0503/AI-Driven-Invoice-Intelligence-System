@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0582
+Date: 2021-05-25
+Time: 01:06:02
+Buyer Name: Kiara Dhaliwal
+Buyer Address: 196, Gole Street, Kozhikode 135436
+PAN: ABCDE2523F
+GSTIN: 29ABCDE2684Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.650 Amount: Rs.2600
+
+CGST (9%): Rs.234.0
+SGST (9%): Rs.234.0
+Total Amount Payable: Rs.3068.0
+
+Goods once sold will not be taken back.

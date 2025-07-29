@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0165
+Date: 1976-04-17
+Time: 21:27:19
+Buyer Name: Kismat Singhal
+Buyer Address: 90/44, Chana Street, Rajpur Sonarpur-795582
+PAN: ABCDE9030F
+GSTIN: 83ABCDE2428Z91
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.736 Amount: Rs.1472
+
+CGST (9%): Rs.132.48
+SGST (9%): Rs.132.48
+Total Amount Payable: Rs.1736.96
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2004/0282
+Date: 1972-05-08
+Time: 05:32:36
+Buyer Name: Anay Gandhi
+Buyer Address: H.No. 309, Badal Chowk, Rourkela 953323
+PAN: ABCDE1573F
+GSTIN: 42ABCDE3425211
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.225 Amount: Rs.1125
+
+CGST (9%): Rs.101.25
+SGST (9%): Rs.101.25
+Total Amount Payable: Rs.1327.5
+
+Goods once sold will not be taken back.

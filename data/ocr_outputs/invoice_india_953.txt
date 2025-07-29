@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2065/0238
+Date: 1996-04-28
+Time: 05:47:22
+Buyer Name: Miraya Kannan
+Buyer Address: 20, Kothari Street, Nellore 066542
+PAN: ABCDE2344F
+GSTIN: 19ABCDE5883Z61
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.189 Amount: Rs.567
+
+CGST (9%): Rs.51.03
+SGST (9%): Rs.51.03
+Total Amount Payable: Rs.669.06
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2057/0400
+Date: 1977-08-11
+Time: 23:06:53
+Buyer Name: Yakshit Shukla
+Buyer Address: H.No. 534, Bobal Path, Vadodara-840005
+PAN: ABCDE1079F
+GSTIN: 80ABCDE9868Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: Rs.169 Amount: Rs.676
+
+CGST (9%): Rs.60.84
+SGST (9%): Rs.60.84
+Total Amount Payable: Rs.797.68
+
+Goods once sold will not be taken back.

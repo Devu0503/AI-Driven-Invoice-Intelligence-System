@@ -1,19 +1,19 @@
 INVOICE
-Invoice No: INV/2041/0886
-Date: 2011-03-04
-Buyer Name: Raunak Yadav
-Buyer Address: 39, D’Alia Zila, Baranagar 876043
-PAN No: ABCDE5369F
-GSTIN: 65ABCDE0060Z01
+Invoice No: INV/2018/0936
+Date: 2022-03-27
+Time: 20:18:50
+Buyer Name: Adah Banerjee
+Buyer Address: 48/36, Goel Road, Rewa 687872
+PAN: ABCDE5780F
+GSTIN: OSABCDE3509Z71
 
 Item Details:
 
-Item: Mobile Case
+Item: Mouse
+Quantity: 2 Rate: Rs.442 Amount: Rs.884
 
-Quantity: 1 Rate: 418 Amount: %418
-CGST (9%): %37.62
+CGST (9%): Rs.79.56
+SGST (9%): Rs.79.56
+Total Amount Payable: Rs.1043.12
 
-SGST (9%): 37.62
-Total Amount Payable: %493.24
-
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

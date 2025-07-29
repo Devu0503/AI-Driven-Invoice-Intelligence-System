@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0714
+Date: 2021-01-02
+Time: 22:39:39
+Buyer Name: Bhavin Aggarwal
+Buyer Address: 43, Kannan Marg, Kishanganj 561719
+PAN: ABCDE5138F
+GSTIN: 60ABCDE5832Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.947 Amount: Rs.1894
+
+CGST (9%): Rs.170.46
+SGST (9%): Rs.170.46
+Total Amount Payable: Rs.2234.92
+
+Goods once sold will not be taken back.

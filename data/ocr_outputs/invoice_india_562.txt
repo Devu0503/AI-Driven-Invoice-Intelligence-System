@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0219
+Date: 1994-05-03
+Time: 02:12:55
+Buyer Name: Miraya Goda
+Buyer Address: 13/131, Kapadia Path, Gorakhpur 058051
+PAN: ABCDE5652F
+GSTIN: 89ABCDE9102Z11
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.945 Amount: Rs.2835
+
+CGST (9%): Rs.255.15
+SGST (9%): Rs.255.15
+Total Amount Payable: Rs.3345.3
+
+Goods once sold will not be taken back.

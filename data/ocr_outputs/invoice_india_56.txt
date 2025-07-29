@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0623
+Date: 2018-07-30
+Time: 06:04:47
+Buyer Name: Lavanya Deo
+Buyer Address: 88/46, Lall Chowk, Ulhasnagar-424370
+PAN: ABCDE7912F
+GSTIN: 65ABCDE5018Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.139 Amount: Rs.556
+
+CGST (9%): Rs.50.04
+SGST (9%): Rs.50.04
+Total Amount Payable: Rs.656.08
+
+Goods once sold will not be taken back.

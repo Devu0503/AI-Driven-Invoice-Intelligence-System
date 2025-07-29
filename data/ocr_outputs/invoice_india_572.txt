@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0264
+Date: 1980-07-02
+Time: 00:39:56
+Buyer Name: Alisha Dugar
+Buyer Address: H.No. 726, Mandal Path, Avadi 611041
+PAN: ABCDE0227F
+GSTIN: 38ABCDE7253Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.961 Amount: Rs.961
+
+CGST (9%): Rs.86.49
+SGST (9%): Rs.86.49
+Total Amount Payable: Rs.1133.98
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2032/0584
+Date: 2009-07-21
+Time: 13:18:05
+Buyer Name: Kavya Bhatia
+Buyer Address: 10/359, Ghose, Bhiwandi-667034
+PAN: ABCDE3243F
+GSTIN: 83ABCDE5780Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.308 Amount: Rs.924
+
+CGST (9%): Rs.83.16
+SGST (9%): Rs.83.16
+Total Amount Payable: Rs.1090.32
+
+Goods once sold will not be taken back.

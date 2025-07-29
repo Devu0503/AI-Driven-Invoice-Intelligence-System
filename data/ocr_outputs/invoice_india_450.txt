@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0794
+Date: 1974-06-02
+Time: 17:18:49
+Buyer Name: Riya Krishnan
+Buyer Address: H.No. 86, Golla Road, Mysore-429315
+PAN: ABCDE0253F
+GSTIN: 7OABCDE4178Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.645 Amount: Rs.645
+
+CGST (9%): Rs.58.05
+SGST (9%): Rs.58.05
+Total Amount Payable: Rs.761.1
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0283
+Date: 2023-04-25
+Time: 17:33:55
+Buyer Name: Jhanvi Madan
+Buyer Address: H.No. 359, Dora Street, Bhubaneswar-228090
+PAN: ABCDE5511F
+GSTIN: 82ABCDE0753Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.840 Amount: Rs.4200
+
+CGST (9%): Rs.378.0
+SGST (9%): Rs.378.0
+Total Amount Payable: Rs.4956.0
+
+Goods once sold will not be taken back.

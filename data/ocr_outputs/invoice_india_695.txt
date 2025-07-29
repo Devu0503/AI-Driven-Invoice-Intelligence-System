@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2034/0672
+Date: 2020-03-30
+Time: 21:56:21
+Buyer Name: Oorja Kannan
+Buyer Address: 70/854, Sanghvi Zila, Gorakhpur-245280
+PAN: ABCDE8573F
+GSTIN: 58ABCDE9735Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.918 Amount: Rs.1836
+
+CGST (9%): Rs.165.24
+SGST (9%): Rs.165.24
+Total Amount Payable: Rs.2166.48
+
+Goods once sold will not be taken back.

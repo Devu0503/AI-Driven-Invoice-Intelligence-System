@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2031/0312
+Date: 1979-09-15
+Time: 07:10:27
+Buyer Name: Ehsaan Tak
+Buyer Address: H.No. 769, Bera Zila, Indore 689118
+PAN: ABCDE6708F
+GSTIN: 0SABCDE1398Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.161 Amount: Rs.483
+
+CGST (9%): Rs.43.47
+SGST (9%): Rs.43.47
+Total Amount Payable: Rs.569.94
+
+Goods once sold will not be taken back.

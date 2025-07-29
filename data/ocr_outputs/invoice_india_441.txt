@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2005/0173
+Date: 2025-06-07
+Time: 13:52:28
+Buyer Name: Ivan Choudhry
+Buyer Address: 307, Rout Street, Pune 305110
+PAN: ABCDE9328F
+GSTIN: 46ABCDE9029Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.990 Amount: Rs.2970
+
+CGST (9%): Rs.267.3
+SGST (9%): Rs.267.3
+Total Amount Payable: Rs.3504.6
+
+Goods once sold will not be taken back.

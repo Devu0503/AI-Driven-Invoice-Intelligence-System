@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2059/0516
+Date: 1998-02-08
+Time: 20:21:50
+Buyer Name: Farhan Varma
+Buyer Address: H.No. 700, Bala Zila, Anand 242595
+PAN: ABCDE4894F
+GSTIN: 38ABCDE2831Z81
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.512 Amount: Rs.2560
+
+CGST (9%): Rs.230.4
+SGST (9%): Rs.230.4
+Total Amount Payable: Rs.3020.8
+
+Goods once sold will not be taken back.

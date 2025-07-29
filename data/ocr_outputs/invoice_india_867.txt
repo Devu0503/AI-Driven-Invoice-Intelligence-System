@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2081/0415
+Date: 2014-11-17
+Time: 12:05:00
+Buyer Name: Taimur Kashyap
+Buyer Address: 126, Grewal Nagar, Kolhapur-733142
+PAN: ABCDE0282F
+GSTIN: 98ABCDE3762Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.246 Amount: Rs.984
+
+CGST (9%): Rs.88.56
+SGST (9%): Rs.88.56
+Total Amount Payable: Rs.1161.12
+
+Goods once sold will not be taken back.

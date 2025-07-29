@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0530
+Date: 1995-06-10
+Time: 03:27:05
+Buyer Name: Dhruv Setty
+Buyer Address: H.No. 572, Basu Street, Noida-400045
+PAN: ABCDE4645F
+GSTIN: 21ABCDE3983Z41
+
+Item Details:
+
+Item: Earphones
+Quantity: 2 Rate: Rs.820 Amount: Rs.1640
+
+CGST (9%): Rs.147.6
+SGST (9%): Rs.147.6
+Total Amount Payable: Rs.1935.2
+
+Goods once sold will not be taken back.

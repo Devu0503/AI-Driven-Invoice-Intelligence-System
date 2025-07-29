@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0478
+Date: 1986-07-31
+Time: 16:05:54
+Buyer Name: Nirvi Savant
+Buyer Address: 69/85, Gaba Zila, Mirzapur-045859
+PAN: ABCDE4020F
+GSTIN: 44ABCDE0134Z11
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.877 Amount: Rs.877
+
+CGST (9%): Rs.78.93
+SGST (9%): Rs.78.93
+Total Amount Payable: Rs.1034.86
+
+Goods once sold will not be taken back.

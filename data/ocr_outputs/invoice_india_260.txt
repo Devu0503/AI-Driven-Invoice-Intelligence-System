@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2030/0034
+Date: 2016-05-13
+Time: 03:21:54
+Buyer Name: Ryan Deshpande
+Buyer Address: 568, Agate Zila, Sirsa 190142
+PAN: ABCDE2517F
+GSTIN: 38ABCDE1390211
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.436 Amount: Rs.1308
+
+CGST (9%): Rs.117.72
+SGST (9%): Rs.117.72
+Total Amount Payable: Rs.1543.44
+
+Goods once sold will not be taken back.

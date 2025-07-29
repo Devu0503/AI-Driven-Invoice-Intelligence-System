@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0633
+Date: 1996-04-25
+Time: 10:39:59
+Buyer Name: Jhanvi Dave
+Buyer Address: H.No. 996, Dora Road, Adoni 827469
+PAN: ABCDE6093F
+GSTIN: 50ABCDE3605Z51
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.843 Amount: Rs.1686
+
+CGST (9%): Rs.151.74
+SGST (9%): Rs.151.74
+Total Amount Payable: Rs.1989.48
+
+Goods once sold will not be taken back.

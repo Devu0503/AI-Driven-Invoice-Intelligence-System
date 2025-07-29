@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2012/0329
+Date: 2024-06-03
+Time: 15:37:21
+Buyer Name: Miraan Bava
+Buyer Address: H.No. 208, Issac Path, Nadiad-881460
+PAN: ABCDE0760F
+GSTIN: 61ABCDE9606Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.789 Amount: Rs.3945
+
+CGST (9%): Rs.355.05
+SGST (9%): Rs.355.05
+Total Amount Payable: Rs.4655.1
+
+Goods once sold will not be taken back.

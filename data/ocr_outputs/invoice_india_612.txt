@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0491
+Date: 1978-05-01
+Time: 19:32:03
+Buyer Name: Anahita Sachdev
+Buyer Address: H.No. 859, Das, Satara-918511
+PAN: ABCDE0957F
+GSTIN: 12ABCDE7407Z71
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 5 Rate: Rs.399 Amount: Rs.1995
+
+CGST (9%): Rs.179.55
+SGST (9%): Rs.179.55
+Total Amount Payable: Rs.2354.1
+
+Goods once sold will not be taken back.

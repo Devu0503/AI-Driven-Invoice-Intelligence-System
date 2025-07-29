@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0849
+Date: 2023-05-02
+Time: 22:36:56
+Buyer Name: Myra Barad
+Buyer Address: 05/767, Roy Chowk, Bhusawal-998310
+PAN: ABCDE1223F
+GSTIN: 28ABCDE5650211
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: Rs.960 Amount: Rs.1920
+
+CGST (9%): Rs.172.8
+SGST (9%): Rs.172.8
+Total Amount Payable: Rs.2265.6
+
+Goods once sold will not be taken back.

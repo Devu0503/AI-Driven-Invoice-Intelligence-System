@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0798
+Date: 1988-03-10
+Time: 21:17:08
+Buyer Name: Hansh Banerjee
+Buyer Address: H.No. 52, Aurora Chowk, Bhind 400861
+PAN: ABCDE5612F
+GSTIN: 69ABCDE1352Z11
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.169 Amount: Rs.676
+
+CGST (9%): Rs.60.84
+SGST (9%): Rs.60.84
+Total Amount Payable: Rs.797.68
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0578
+Date: 1992-05-04
+Time: 10:34:25
+Buyer Name: Mohanlal Brar
+Buyer Address: 703, Choudhry Marg, Kolhapur 696191
+PAN: ABCDE0807F
+GSTIN: 63ABCDE0265Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.509 Amount: Rs.1527
+
+CGST (9%): Rs.137.43
+SGST (9%): Rs.137.43
+Total Amount Payable: Rs.1801.86
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0013
+Date: 2003-03-25
+Time: 16:19:15
+Buyer Name: Madhup Shukla
+Buyer Address: 85, Rout Circle, Gurgaon-035866
+PAN: ABCDE8339F
+GSTIN: 60ABCDE9539Z41
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.262 Amount: Rs.524
+
+CGST (9%): Rs.47.16
+SGST (9%): Rs.47.16
+Total Amount Payable: Rs.618.32
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0791
+Date: 2007-08-25
+Time: 05:32:53
+Buyer Name: Jivika Dani
+Buyer Address: 989, Dash Zila, Rajkot-784967
+PAN: ABCDE5953F
+GSTIN: 31ABCDE1066Z81
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.894 Amount: Rs.1788
+
+CGST (9%): Rs.160.92
+SGST (9%): Rs.160.92
+Total Amount Payable: Rs.2109.84
+
+Goods once sold will not be taken back.

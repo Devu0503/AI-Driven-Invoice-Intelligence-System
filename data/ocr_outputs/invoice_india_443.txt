@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2087/0273
+Date: 1979-07-28
+Time: 17:07:17
+Buyer Name: Alisha Kapoor
+Buyer Address: 37/97, Walia Street, Hapur 094627
+PAN: ABCDE7259F
+GSTIN: 65ABCDE8914Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.578 Amount: Rs.2890
+
+CGST (9%): Rs.260.1
+SGST (9%): Rs.260.1
+Total Amount Payable: Rs.3410.2
+
+Goods once sold will not be taken back.

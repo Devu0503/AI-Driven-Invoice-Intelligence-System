@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0860
+Date: 2002-07-12
+Time: 11:32:57
+Buyer Name: Purab Bains
+Buyer Address: 16, Mand Nagar, Narasaraopet-016894
+PAN: ABCDE1664F
+GSTIN: 61ABCDE2103Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.381 Amount: Rs.381
+
+CGST (9%): Rs.34.29
+SGST (9%): Rs.34.29
+Total Amount Payable: Rs.449.58
+
+Goods once sold will not be taken back.

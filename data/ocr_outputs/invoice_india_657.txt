@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0757
+Date: 1976-01-27
+Time: 02:57:43
+Buyer Name: Zain Krishnamurthy
+Buyer Address: H.No. 219, Bhatnagar Street, Udaipur-488854
+PAN: ABCDE9592F
+GSTIN: 86ABCDE7659Z91
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.999 Amount: Rs.1998
+
+CGST (9%): Rs.179.82
+SGST (9%): Rs.179.82
+Total Amount Payable: Rs.2357.64
+
+Goods once sold will not be taken back.

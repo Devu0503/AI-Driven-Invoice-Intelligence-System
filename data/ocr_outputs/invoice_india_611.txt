@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2060/0057
+Date: 1981-05-27
+Time: 20:40:44
+Buyer Name: Zoya Aurora
+Buyer Address: 005, Sharaf Nagar, Dhule 078956
+PAN: ABCDE1019F
+GSTIN: 54ABCDE5486Z31
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.362 Amount: Rs.1810
+
+CGST (9%): Rs.162.9
+SGST (9%): Rs.162.9
+Total Amount Payable: Rs.2135.8
+
+Goods once sold will not be taken back.

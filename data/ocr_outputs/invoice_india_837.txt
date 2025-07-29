@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0118
+Date: 2001-10-05
+Time: 19:26:40
+Buyer Name: Misha Bala
+Buyer Address: 80/198, Bera Ganj, Visakhapatnam-121752
+PAN: ABCDE3893F
+GSTIN: 91ABCDE8955Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.842 Amount: Rs.4210
+
+CGST (9%): Rs.378.9
+SGST (9%): Rs.378.9
+Total Amount Payable: Rs.4967.8
+
+Goods once sold will not be taken back.

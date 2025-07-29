@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0010
+Date: 1993-07-14
+Time: 02:20:46
+Buyer Name: Amani Mani
+Buyer Address: 78/61, Dhar Marg, Jammu-326594
+PAN: ABCDE5346F
+GSTIN: 61ABCDE5421Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.581 Amount: Rs.1743
+
+CGST (9%): Rs.156.87
+SGST (9%): Rs.156.87
+Total Amount Payable: Rs.2056.74
+
+Goods once sold will not be taken back.

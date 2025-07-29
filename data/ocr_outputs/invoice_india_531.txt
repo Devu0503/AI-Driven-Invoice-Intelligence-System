@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0202
+Date: 2024-10-22
+Time: 16:54:22
+Buyer Name: Amani Tailor
+Buyer Address: 59/75, Chander Chowk, Panihati-415485
+PAN: ABCDE3040F
+GSTIN: 59ABCDE3536Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: Rs.836 Amount: Rs.836
+
+CGST (9%): Rs.75.24
+SGST (9%): Rs.75.24
+Total Amount Payable: Rs.986.48
+
+Goods once sold will not be taken back.

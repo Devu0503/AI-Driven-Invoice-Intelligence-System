@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0566
+Date: 1972-04-19
+Time: 19:13:45
+Buyer Name: Divij Golla
+Buyer Address: H.No. 074, Kumar Path, Pudukkottai-347254
+PAN: ABCDE3873F
+GSTIN: 23ABCDE8970Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.436 Amount: Rs.436
+
+CGST (9%): Rs.39.24
+SGST (9%): Rs.39.24
+Total Amount Payable: Rs.514.48
+
+Goods once sold will not be taken back.

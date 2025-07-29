@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0702
+Date: 1991-02-11
+Time: 12:36:24
+Buyer Name: Kaira Vyas
+Buyer Address: 94, Yadav Circle, Karawal Nagar-276670
+PAN: ABCDE4315F
+GSTIN: 08ABCDE1923Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.748 Amount: Rs.3740
+
+CGST (9%): Rs.336.6
+SGST (9%): Rs.336.6
+Total Amount Payable: Rs.4413.2
+
+Goods once sold will not be taken back.

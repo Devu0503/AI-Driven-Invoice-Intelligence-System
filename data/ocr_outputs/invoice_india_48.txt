@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0739
+Date: 2011-01-01
+Time: 23:48:55
+Buyer Name: Kiara Sehgal
+Buyer Address: H.No. 516, Borra Street, Firozabad 418546
+PAN: ABCDE3317F
+GSTIN: 28ABCDE5460Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.460 Amount: Rs.460
+
+CGST (9%): Rs.41.4
+SGST (9%): Rs.41.4
+Total Amount Payable: Rs.542.8
+
+Goods once sold will not be taken back.
