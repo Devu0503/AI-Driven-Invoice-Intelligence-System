@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0602
+Date: 1991-12-11
+Time: 22:50:40
+Buyer Name: Chirag Ratta
+Buyer Address: 316, Lal Ganj, Siliguri 406387
+PAN: ABCDE7361F
+GSTIN: 88ABCDE5710Z01
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.151 Amount: Rs.151
+
+CGST (9%): Rs.13.59
+SGST (9%): Rs.13.59
+Total Amount Payable: Rs.178.18
+
+Goods once sold will not be taken back.

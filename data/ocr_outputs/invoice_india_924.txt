@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0320
+Date: 1992-05-04
+Time: 05:59:17
+Buyer Name: Ishaan Sama
+Buyer Address: H.No. 62, Suresh Road, Khora 534779
+PAN: ABCDE9793F
+GSTIN: 13ABCDE9227Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: Rs.730 Amount: Rs.1460
+
+CGST (9%): Rs.131.4
+SGST (9%): Rs.131.4
+Total Amount Payable: Rs.1722.8
+
+Goods once sold will not be taken back.

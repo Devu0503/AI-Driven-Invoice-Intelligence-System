@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0692
+Date: 2002-02-17
+Time: 04:00:23
+Buyer Name: Saksham Sen
+Buyer Address: 85/97, Verma Street, Pimpri-Chinchwad 235380
+PAN: ABCDE7003F
+GSTIN: 40ABCDE2372Z11
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.989 Amount: Rs.3956
+
+CGST (9%): Rs.356.04
+SGST (9%): Rs.356.04
+Total Amount Payable: Rs.4668.08
+
+Goods once sold will not be taken back.

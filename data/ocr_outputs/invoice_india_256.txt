@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0790
+Date: 2013-05-22
+Time: 11:44:00
+Buyer Name: Samaira Dutt
+Buyer Address: H.No. 400, Baria Chowk, Bhusawal 184318
+PAN: ABCDE0170F
+GSTIN: 59ABCDE6373Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.847 Amount: Rs.3388
+
+CGST (9%): Rs.304.92
+SGST (9%): Rs.304.92
+Total Amount Payable: Rs.3997.84
+
+Goods once sold will not be taken back.

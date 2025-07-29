@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0033
+Date: 2004-03-02
+Time: 19:49:41
+Buyer Name: Mannat Swaminathan
+Buyer Address: 47/70, Chana Ganj, Dewas-484346
+PAN: ABCDE7989F
+GSTIN: 03ABCDE3032Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.966 Amount: Rs.4830
+
+CGST (9%): Rs.434.7
+SGST (9%): Rs.434.7
+Total Amount Payable: Rs.5699.4
+
+Goods once sold will not be taken back.

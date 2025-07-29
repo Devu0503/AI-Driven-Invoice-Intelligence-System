@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0134
+Date: 2014-07-13
+Time: 06:09:54
+Buyer Name: Samar Chaudhry
+Buyer Address: H.No. 54, Cherian, Bettiah-749724
+PAN: ABCDE2789F
+GSTIN: 66ABCDE0915Z41
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.672 Amount: Rs.2688
+
+CGST (9%): Rs.241.92
+SGST (9%): Rs.241.92
+Total Amount Payable: Rs.3171.84
+
+Goods once sold will not be taken back.

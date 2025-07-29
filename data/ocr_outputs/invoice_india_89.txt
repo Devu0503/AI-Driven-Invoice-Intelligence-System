@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2016/0222
+Date: 1989-09-08
+Time: 17:52:57
+Buyer Name: Stuvan Sanghvi
+Buyer Address: 85/98, Deshpande Ganj, Adoni-293928
+PAN: ABCDE4527F
+GSTIN: 31ABCDE0704Z61
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.588 Amount: Rs.1764
+
+CGST (9%): Rs.158.76
+SGST (9%): Rs.158.76
+Total Amount Payable: Rs.2081.52
+
+Goods once sold will not be taken back.

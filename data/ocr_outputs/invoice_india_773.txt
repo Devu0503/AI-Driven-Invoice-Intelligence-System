@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0544
+Date: 1983-02-21
+Time: 21:59:14
+Buyer Name: Kiara Saha
+Buyer Address: 48/47, Sathe Street, Gudivada-175048
+PAN: ABCDE6717F
+GSTIN: 48ABCDE2078Z11
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.967 Amount: Rs.4835
+
+CGST (9%): Rs.435.15
+SGST (9%): Rs.435.15
+Total Amount Payable: Rs.5705.3
+
+Goods once sold will not be taken back.

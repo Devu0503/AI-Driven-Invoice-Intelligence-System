@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0212
+Date: 1980-07-02
+Time: 17:48:48
+Buyer Name: Anika Chaudhry
+Buyer Address: 21/87, Gopal Marg, Mira-Bhayandar-0067 19
+PAN: ABCDE8137F
+GSTIN: 82ABCDE1156Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.843 Amount: Rs.2529
+
+CGST (9%): Rs.227.61
+SGST (9%): Rs.227.61
+Total Amount Payable: Rs.2984.22
+
+Goods once sold will not be taken back.

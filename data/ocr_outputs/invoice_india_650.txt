@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0625
+Date: 1970-12-30
+Time: 13:30:15
+Buyer Name: Hiran Deshmukh
+Buyer Address: 45/995, Verma Ganj, Jalna-247848
+PAN: ABCDE1393F
+GSTIN: 62ABCDE1513Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.735 Amount: Rs.3675
+
+CGST (9%): Rs.330.75
+SGST (9%): Rs.330.75
+Total Amount Payable: Rs.4336.5
+
+Goods once sold will not be taken back.

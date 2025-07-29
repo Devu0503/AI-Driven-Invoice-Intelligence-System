@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2099/0798
+Date: 1976-08-25
+Time: 00:19:35
+Buyer Name: Samarth Bajwa
+Buyer Address: H.No. 607, Basu Circle, Ozhukarai 383689
+PAN: ABCDE5482F
+GSTIN: 67ABCDE8535Z41
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.286 Amount: Rs.286
+
+CGST (9%): Rs.25.74
+SGST (9%): Rs.25.74
+Total Amount Payable: Rs.337.48
+
+Goods once sold will not be taken back.

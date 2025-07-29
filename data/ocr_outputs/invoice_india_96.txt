@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0842
+Date: 1993-06-13
+Time: 21:10:21
+Buyer Name: Elakshi Virk
+Buyer Address: H.No. 066, Kar Marg, Khammam 343443
+PAN: ABCDE3362F
+GSTIN: 91ABCDE3299Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.690 Amount: Rs.2070
+
+CGST (9%): Rs.186.3
+SGST (9%): Rs.186.3
+Total Amount Payable: Rs.2442.6
+
+Goods once sold will not be taken back.

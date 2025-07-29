@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0932
+Date: 1995-09-02
+Time: 09:52:13
+Buyer Name: Krish Malhotra
+Buyer Address: 74/86, Sura Street, Anantapuram-289279
+PAN: ABCDE5562F
+GSTIN: 66ABCDE8490211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.971 Amount: Rs.971
+
+CGST (9%): Rs.87.39
+SGST (9%): Rs.87.39
+Total Amount Payable: Rs.1145.78
+
+Goods once sold will not be taken back.

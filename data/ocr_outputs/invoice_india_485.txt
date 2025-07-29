@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0010
+Date: 1995-12-15
+Time: 06:55:45
+Buyer Name: Kismat Bala
+Buyer Address: 35/888, Saxena Ganj, Mau-225807
+PAN: ABCDE1301F
+GSTIN: 7O0ABCDE1653Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.447 Amount: Rs.2235
+
+CGST (9%): Rs.201.15
+SGST (9%): Rs.201.15
+Total Amount Payable: Rs.2637.3
+
+Goods once sold will not be taken back.

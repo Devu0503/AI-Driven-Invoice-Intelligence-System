@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0047
+Date: 1987-04-11
+Time: 12:46:35
+Buyer Name: Eshani Boase
+Buyer Address: H.No. 47, Doctor Marg, Nadiad 026202
+PAN: ABCDE0661F
+GSTIN: 53ABCDE0153Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.481 Amount: Rs.1443
+
+CGST (9%): Rs.129.87
+SGST (9%): Rs.129.87
+Total Amount Payable: Rs.1702.74
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2025/0195
+Date: 1980-01-01
+Time: 03:00:52
+Buyer Name: Prisha Bala
+Buyer Address: 91/16, Kamdar Street, Gandhinagar 360685
+PAN: ABCDE1076F
+GSTIN: 75ABCDE6984Z41
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: Rs.487 Amount: Rs.974
+
+CGST (9%): Rs.87.66
+SGST (9%): Rs.87.66
+Total Amount Payable: Rs.1149.32
+
+Goods once sold will not be taken back.

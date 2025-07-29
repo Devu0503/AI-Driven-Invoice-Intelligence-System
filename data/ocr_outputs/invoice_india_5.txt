@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2004/0591
+Date: 2003-01-27
+Time: 00:47:32
+Buyer Name: Anya Ghosh
+Buyer Address: H.No. 207, Banik Nagar, Hajipur 070525
+PAN: ABCDE4571F
+GSTIN: 51ABCDE3129Z11
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.954 Amount: Rs.954
+
+CGST (9%): Rs.85.86
+SGST (9%): Rs.85.86
+Total Amount Payable: Rs.1125.72
+
+Goods once sold will not be taken back.

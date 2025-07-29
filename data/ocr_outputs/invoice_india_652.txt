@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0945
+Date: 1977-06-05
+Time: 17:37:25
+Buyer Name: Azad Sankar
+Buyer Address: H.No. 83, Dara Road, Rajpur Sonarpur 953209
+PAN: ABCDE6574F
+GSTIN: 02ABCDE7211241
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.345 Amount: Rs.690
+
+CGST (9%): Rs.62.1
+SGST (9%): Rs.62.1
+Total Amount Payable: Rs.814.2
+
+Goods once sold will not be taken back.

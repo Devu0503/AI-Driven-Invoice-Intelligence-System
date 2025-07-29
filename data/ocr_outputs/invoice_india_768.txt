@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0997
+Date: 2010-08-19
+Time: 04:09:04
+Buyer Name: Zaina Jaggi
+Buyer Address: H.No. 585, Kumar Road, Barasat 934598
+PAN: ABCDE1796F
+GSTIN: 60ABCDE1237Z41
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.463 Amount: Rs.463
+
+CGST (9%): Rs.41.67
+SGST (9%): Rs.41.67
+Total Amount Payable: Rs.546.34
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0212
+Date: 2012-02-13
+Time: 11:42:16
+Buyer Name: Krish Bajwa
+Buyer Address: 337, Lall Street, Hazaribagh-997353
+PAN: ABCDE4429F
+GSTIN: 64ABCDE6794Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.339 Amount: Rs.339
+
+CGST (9%): Rs.30.51
+SGST (9%): Rs.30.51
+Total Amount Payable: Rs.400.02
+
+Goods once sold will not be taken back.

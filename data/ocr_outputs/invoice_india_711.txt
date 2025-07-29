@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0003
+Date: 1999-05-09
+Time: 17:38:21
+Buyer Name: Devansh Chokshi
+Buyer Address: 385, Koshy Nagar, Aizawl-305524
+PAN: ABCDE2796F
+GSTIN: 36ABCDE5455Z91
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.858 Amount: Rs.858
+
+CGST (9%): Rs.77.22
+SGST (9%): Rs.77.22
+Total Amount Payable: Rs.1012.44
+
+Goods once sold will not be taken back.

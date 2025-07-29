@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0037
+Date: 1970-07-05
+Time: 03:21:19
+Buyer Name: Ira Bose
+Buyer Address: H.No. 24, Chad Marg, Hubli-Dharwad 384413
+PAN: ABCDE7785F
+GSTIN: 45ABCDE9030Z61
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.788 Amount: Rs.788
+
+CGST (9%): Rs.70.92
+SGST (9%): Rs.70.92
+Total Amount Payable: Rs.929.84
+
+Goods once sold will not be taken back.

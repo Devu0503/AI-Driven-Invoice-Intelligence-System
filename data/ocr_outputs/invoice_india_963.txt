@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2081/0924
+Date: 2018-08-26
+Time: 21:37:57
+Buyer Name: Seher Sem
+Buyer Address: 97/60, Char Chowk, Nandyal-709910
+PAN: ABCDE1503F
+GSTIN: 01ABCDE9655Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.493 Amount: Rs.2465
+
+CGST (9%): Rs.221.85
+SGST (9%): Rs.221.85
+Total Amount Payable: Rs.2908.7
+
+Goods once sold will not be taken back.

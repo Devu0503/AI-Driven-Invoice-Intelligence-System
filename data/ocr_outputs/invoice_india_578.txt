@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0082
+Date: 1987-05-19
+Time: 01:42:39
+Buyer Name: Kanav Ganesan
+Buyer Address: 97/096, Keer Road, Ambattur-020249
+PAN: ABCDE4674F
+GSTIN: 81ABCDE9151Z71
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.503 Amount: Rs.2515
+
+CGST (9%): Rs.226.35
+SGST (9%): Rs.226.35
+Total Amount Payable: Rs.2967.7
+
+Goods once sold will not be taken back.

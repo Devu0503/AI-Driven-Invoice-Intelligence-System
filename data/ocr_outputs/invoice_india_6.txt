@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2049/0782
+Date: 2008-10-25
+Time: 20:34:39
+Buyer Name: Sana Kakar
+Buyer Address: 99/71, Raj Chowk, Tumkur 724780
+PAN: ABCDEO556F
+GSTIN: 51ABCDE2410Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.346 Amount: Rs.692
+
+CGST (9%): Rs.62.28
+SGST (9%): Rs.62.28
+Total Amount Payable: Rs.816.56
+
+Goods once sold will not be taken back.

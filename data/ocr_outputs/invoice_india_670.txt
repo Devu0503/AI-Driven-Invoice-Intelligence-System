@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0591
+Date: 1975-03-21
+Time: 14:50:05
+Buyer Name: Abram Bal
+Buyer Address: 471, Sehgal Path, Chittoor 946057
+PAN: ABCDE9022F
+GSTIN: 46ABCDE8234Z01
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.790 Amount: Rs.790
+
+CGST (9%): Rs.71.1
+SGST (9%): Rs.71.1
+Total Amount Payable: Rs.932.2
+
+Goods once sold will not be taken back.

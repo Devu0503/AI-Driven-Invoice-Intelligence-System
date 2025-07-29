@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0155
+Date: 1970-02-27
+Time: 12:42:05
+Buyer Name: Hazel Tandon
+Buyer Address: 12/40, Edwin Circle, Durg-940516
+PAN: ABCDE0387F
+GSTIN: 54ABCDE3345Z11
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.844 Amount: Rs.2532
+
+CGST (9%): Rs.227.88
+SGST (9%): Rs.227.88
+Total Amount Payable: Rs.2987.76
+
+Goods once sold will not be taken back.

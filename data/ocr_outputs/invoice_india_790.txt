@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2029/0787
+Date: 1996-05-30
+Time: 19:10:24
+Buyer Name: Neelofar Choudhry
+Buyer Address: 503, Khanna Path, Raurkela Industrial Township 515083
+PAN: ABCDE6443F
+GSTIN: 34ABCDE2953Z61
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.425 Amount: Rs.425
+
+CGST (9%): Rs.38.25
+SGST (9%): Rs.38.25
+Total Amount Payable: Rs.501.5
+
+Goods once sold will not be taken back.

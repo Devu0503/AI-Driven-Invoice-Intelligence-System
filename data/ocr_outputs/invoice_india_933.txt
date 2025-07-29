@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0395
+Date: 2012-02-22
+Time: 12:47:27
+Buyer Name: Aradhya Barad
+Buyer Address: 20/73, Wagle Ganj, Jehanabad 189709
+PAN: ABCDE1151F
+GSTIN: 55ABCDE5100Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.744 Amount: Rs.744
+
+CGST (9%): Rs.66.96
+SGST (9%): Rs.66.96
+Total Amount Payable: Rs.877.92
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0455
+Date: 2017-08-31
+Time: 17:35:08
+Buyer Name: Mahika Som
+Buyer Address: 556, Kota Nagar, Jaipur 066734
+PAN: ABCDE1030F
+GSTIN: 68ABCDE6763Z11
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.740 Amount: Rs.2960
+
+CGST (9%): Rs.266.4
+SGST (9%): Rs.266.4
+Total Amount Payable: Rs.3492.8
+
+Goods once sold will not be taken back.

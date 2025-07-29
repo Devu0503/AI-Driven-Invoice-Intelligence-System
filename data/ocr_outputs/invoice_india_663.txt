@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0516
+Date: 2013-09-07
+Time: 00:28:36
+Buyer Name: Mehul Bhatti
+Buyer Address: 95, Ram Road, Bikaner-622990
+PAN: ABCDE0885F
+GSTIN: 78ABCDE5004Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: Rs.399 Amount: Rs.798
+
+CGST (9%): Rs.71.82
+SGST (9%): Rs.71.82
+Total Amount Payable: Rs.941.64
+
+Goods once sold will not be taken back.

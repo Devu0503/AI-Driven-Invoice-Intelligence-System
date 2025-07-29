@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0931
+Date: 1970-02-17
+Time: 04:22:46
+Buyer Name: Samiha Jani
+Buyer Address: H.No. 17, Chopra Street, Durg 192217
+PAN: ABCDE9355F
+GSTIN: O9ABCDE6923Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.641 Amount: Rs.2564
+
+CGST (9%): Rs.230.76
+SGST (9%): Rs.230.76
+Total Amount Payable: Rs.3025.52
+
+Goods once sold will not be taken back.

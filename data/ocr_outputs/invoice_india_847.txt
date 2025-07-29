@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0159
+Date: 1975-02-22
+Time: 15:30:09
+Buyer Name: Riaan Yadav
+Buyer Address: 63/440, Mander Nagar, Bihar Sharif-642053
+PAN: ABCDE5116F
+GSTIN: 21ABCDE1261Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.200 Amount: Rs.600
+
+CGST (9%): Rs.54.0
+SGST (9%): Rs.54.0
+Total Amount Payable: Rs.708.0
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0176
+Date: 1978-06-24
+Time: 10:30:04
+Buyer Name: Faiyaz Agarwal
+Buyer Address: 04/812, Apte Road, Bhind-552378
+PAN: ABCDE5722F
+GSTIN: 55ABCDE8275Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.927 Amount: Rs.2781
+
+CGST (9%): Rs.250.29
+SGST (9%): Rs.250.29
+Total Amount Payable: Rs.3281.58
+
+Goods once sold will not be taken back.

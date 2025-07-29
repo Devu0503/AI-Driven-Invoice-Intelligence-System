@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0577
+Date: 2014-12-30
+Time: 14:46:01
+Buyer Name: Devansh Deol
+Buyer Address: 69, Bajaj Ganj, Bhavnagar 168201
+PAN: ABCDE8640F
+GSTIN: 13ABCDE3936Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.538 Amount: Rs.538
+
+CGST (9%): Rs.48.42
+SGST (9%): Rs.48.42
+Total Amount Payable: Rs.634.84
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0983
+Date: 1986-11-29
+Time: 21:02:44
+Buyer Name: Jivin Toor
+Buyer Address: 08, Banik Path, Sultan Pur Majra 303111
+PAN: ABCDES750F
+GSTIN: 01ABCDE9142Z61
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.357 Amount: Rs.1071
+
+CGST (9%): Rs.96.39
+SGST (9%): Rs.96.39
+Total Amount Payable: Rs.1263.78
+
+Goods once sold will not be taken back.

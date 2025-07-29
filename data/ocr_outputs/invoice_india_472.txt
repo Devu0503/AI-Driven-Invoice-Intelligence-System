@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0640
+Date: 1991-01-11
+Time: 13:17:17
+Buyer Name: Aradhya Chad
+Buyer Address: H.No. 55, Thaker Street, Bareilly-075628
+PAN: ABCDE9254F
+GSTIN: 79ABCDE2658Z21
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.668 Amount: Rs.668
+
+CGST (9%): Rs.60.12
+SGST (9%): Rs.60.12
+Total Amount Payable: Rs.788.24
+
+Goods once sold will not be taken back.

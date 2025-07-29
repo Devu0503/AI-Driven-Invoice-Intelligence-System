@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0613
+Date: 1973-02-08
+Time: 19:19:01
+Buyer Name: Krish Wagle
+Buyer Address: 66/040, Dora Circle, Tirunelveli-856353
+PAN: ABCDE2124F
+GSTIN: OSABCDE6282Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.111 Amount: Rs.555
+
+CGST (9%): Rs.49.95
+SGST (9%): Rs.49.95
+Total Amount Payable: Rs.654.9
+
+Goods once sold will not be taken back.

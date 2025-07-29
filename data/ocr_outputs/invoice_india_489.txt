@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2080/0753
+Date: 2020-04-16
+Time: 18:31:36
+Buyer Name: Mehul Saxena
+Buyer Address: 20, Keer Ganj, Narasaraopet 748947
+PAN: ABCDE1926F
+GSTIN: 62ABCDE3904Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.414 Amount: Rs.414
+
+CGST (9%): Rs.37.26
+SGST (9%): Rs.37.26
+Total Amount Payable: Rs.488.52
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0491
+Date: 1996-03-23
+Time: 09:36:10
+Buyer Name: Rasha Mand
+Buyer Address: 48/377, Bobal Path, Alwar 542769
+PAN: ABCDE6103F
+GSTIN: 76ABCDE8105Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.304 Amount: Rs.1216
+
+CGST (9%): Rs.109.44
+SGST (9%): Rs.109.44
+Total Amount Payable: Rs.1434.88
+
+Goods once sold will not be taken back.

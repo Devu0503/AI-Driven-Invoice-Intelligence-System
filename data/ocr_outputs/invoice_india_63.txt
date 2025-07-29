@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0239
+Date: 1986-08-23
+Time: 20:26:33
+Buyer Name: Lakshit Srinivas
+Buyer Address: 64/312, Lata Marg, Ludhiana 864343
+PAN: ABCDE1374F
+GSTIN: 66ABCDE8071Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.570 Amount: Rs.2850
+
+CGST (9%): Rs.256.5
+SGST (9%): Rs.256.5
+Total Amount Payable: Rs.3363.0
+
+Goods once sold will not be taken back.

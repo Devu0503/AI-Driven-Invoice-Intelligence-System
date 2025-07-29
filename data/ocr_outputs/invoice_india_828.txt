@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0369
+Date: 2013-06-08
+Time: 16:15:21
+Buyer Name: Ehsaan Sodhi
+Buyer Address: 668, Choudhury Circle, Katni-733849
+PAN: ABCDE4474F
+GSTIN: 93ABCDE9749Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.686 Amount: Rs.2744
+
+CGST (9%): Rs.246.96
+SGST (9%): Rs.246.96
+Total Amount Payable: Rs.3237.92
+
+Goods once sold will not be taken back.

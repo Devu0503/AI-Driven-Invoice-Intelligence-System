@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0395
+Date: 1990-08-24
+Time: 23:51:23
+Buyer Name: Anvi Das
+Buyer Address: 05, Atwal Street, Dehradun 304213
+PAN: ABCDE3653F
+GSTIN: 04ABCDE8203Z11
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.884 Amount: Rs.3536
+
+CGST (9%): Rs.318.24
+SGST (9%): Rs.318.24
+Total Amount Payable: Rs.4172.48
+
+Goods once sold will not be taken back.

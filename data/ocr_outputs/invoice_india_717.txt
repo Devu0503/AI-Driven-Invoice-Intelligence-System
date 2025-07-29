@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0381
+Date: 2024-08-18
+Time: 06:51:49
+Buyer Name: Stuvan D’Alia
+Buyer Address: 40/458, Keer Ganj, Parbhani-642402
+PAN: ABCDE5432F
+GSTIN: 68ABCDE9938Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.850 Amount: Rs.1700
+
+CGST (9%): Rs.153.0
+SGST (9%): Rs.153.0
+Total Amount Payable: Rs.2006.0
+
+Goods once sold will not be taken back.

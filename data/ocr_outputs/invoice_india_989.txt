@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2034/0617
+Date: 1991-01-04
+Time: 18:09:26
+Buyer Name: Taran Hayer
+Buyer Address: H.No. 57, Babu Path, Visakhapatnam-551871
+PAN: ABCDE4088F
+GSTIN: 41ABCDE7294Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: Rs.796 Amount: Rs.3184
+
+CGST (9%): Rs.286.56
+SGST (9%): Rs.286.56
+Total Amount Payable: Rs.3757.12
+
+Goods once sold will not be taken back.

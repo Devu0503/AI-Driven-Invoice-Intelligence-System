@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0433
+Date: 2011-05-06
+Time: 20:37:53
+Buyer Name: Tarini Tella
+Buyer Address: 40, Randhawa, Kozhikode-689742
+PAN: ABCDE4842F
+GSTIN: 42ABCDE8589Z91
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.429 Amount: Rs.1716
+
+CGST (9%): Rs.154.44
+SGST (9%): Rs.154.44
+Total Amount Payable: Rs.2024.88
+
+Goods once sold will not be taken back.

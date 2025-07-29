@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0189
+Date: 2019-04-02
+Time: 21:59:48
+Buyer Name: Amani Thakur
+Buyer Address: 32/703, Walla Zila, Tadipatri 901902
+PAN: ABCDE1155F
+GSTIN: 51ABCDE2053Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.996 Amount: Rs.4980
+
+CGST (9%): Rs.448.2
+SGST (9%): Rs.448.2
+Total Amount Payable: Rs.5876.4
+
+Goods once sold will not be taken back.

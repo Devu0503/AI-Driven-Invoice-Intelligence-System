@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0194
+Date: 2005-07-27
+Time: 10:47:05
+Buyer Name: Devansh Basak
+Buyer Address: 07, Bala Nagar, Sambhal 911675
+PAN: ABCDE9166F
+GSTIN: 50ABCDE6918Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.949 Amount: Rs.949
+
+CGST (9%): Rs.85.41
+SGST (9%): Rs.85.41
+Total Amount Payable: Rs.1119.82
+
+Goods once sold will not be taken back.

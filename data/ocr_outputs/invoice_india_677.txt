@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2065/0541
+Date: 2018-03-05
+Time: 03:26:05
+Buyer Name: Manjari Salvi
+Buyer Address: 01/80, Dayal Road, Narasaraopet 219597
+PAN: ABCDE5306F
+GSTIN: 95ABCDE5509Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.872 Amount: Rs.2616
+
+CGST (9%): Rs.235.44
+SGST (9%): Rs.235.44
+Total Amount Payable: Rs.3086.88
+
+Goods once sold will not be taken back.

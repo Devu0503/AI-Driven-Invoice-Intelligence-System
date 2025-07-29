@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0296
+Date: 1978-12-26
+Time: 15:40:43
+Buyer Name: Veer Barad
+Buyer Address: 429, Agrawal Nagar, Tirunelveli 401224
+PAN: ABCDE9576F
+GSTIN: 16ABCDE0044Z01
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.909 Amount: Rs.1818
+
+CGST (9%): Rs.163.62
+SGST (9%): Rs.163.62
+Total Amount Payable: Rs.2145.24
+
+Goods once sold will not be taken back.

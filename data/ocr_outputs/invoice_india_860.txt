@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2027/0748
+Date: 1999-08-08
+Time: 05:17:12
+Buyer Name: Piya Bhatia
+Buyer Address: 433, Kapur Ganj, Gandhidham-741870
+PAN: ABCDE4486F
+GSTIN: 99ABCDE9889Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.648 Amount: Rs.1296
+
+CGST (9%): Rs.116.64
+SGST (9%): Rs.116.64
+Total Amount Payable: Rs.1529.28
+
+Goods once sold will not be taken back.

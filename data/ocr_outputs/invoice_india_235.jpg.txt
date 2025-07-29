@@ -1,19 +1,19 @@
 INVOICE
-Invoice No: INV/2045/0603
-Date: 1978-08-27
-Buyer Name: Yuvraj Dixit
-Buyer Address: 60/75, Balasubramanian Zila, Chandrapur-454534
-PAN No: ABCDE0418F
-GSTIN: 62ABCDE6304Z71
+Invoice No: INV/2014/0617
+Date: 1998-04-07
+Time: 16:42:36
+Buyer Name: Hazel Ramesh
+Buyer Address: H.No. 181, Dugar Path, Mira-Bhayandar 393694
+PAN: ABCDE8141F
+GSTIN: S0ABCDE6779Z91
 
 Item Details:
 
-Item: Mobile Case
+Item: Charger
+Quantity: 3 Rate: Rs.179 Amount: Rs.537
 
-Quantity: 1 Rate: 719 Amount: 719
-CGST (9%): 364.71
+CGST (9%): Rs.48.33
+SGST (9%): Rs.48.33
+Total Amount Payable: Rs.633.66
 
-SGST (9%): %64.71
-Total Amount Payable: %848.42
-
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

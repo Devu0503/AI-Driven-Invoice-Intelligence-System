@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0736
+Date: 2016-09-02
+Time: 17:27:06
+Buyer Name: Krish Edwin
+Buyer Address: H.No. 661, Kant Circle, Bokaro-079818
+PAN: ABCDES658F
+GSTIN: 34ABCDE4583Z91
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.906 Amount: Rs.3624
+
+CGST (9%): Rs.326.16
+SGST (9%): Rs.326.16
+Total Amount Payable: Rs.4276.32
+
+Goods once sold will not be taken back.

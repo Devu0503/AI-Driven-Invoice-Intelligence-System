@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0366
+Date: 1970-10-25
+Time: 15:42:49
+Buyer Name: Yakshit Chaudhari
+Buyer Address: 23/74, Madan Chowk, Tumkur-055653
+PAN: ABCDE1154F
+GSTIN: 08ABCDE4575Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.972 Amount: Rs.972
+
+CGST (9%): Rs.87.48
+SGST (9%): Rs.87.48
+Total Amount Payable: Rs.1146.96
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2034/0302
+Date: 2002-10-14
+Time: 21:48:52
+Buyer Name: Himmat Choudhury
+Buyer Address: 68, Kannan Chowk, Akola-827489
+PAN: ABCDE3937F
+GSTIN: 43ABCDE1354Z31
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.574 Amount: Rs.2296
+
+CGST (9%): Rs.206.64
+SGST (9%): Rs.206.64
+Total Amount Payable: Rs.2709.28
+
+Goods once sold will not be taken back.

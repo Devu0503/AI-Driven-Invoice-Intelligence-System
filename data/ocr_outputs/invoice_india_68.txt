@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0266
+Date: 2022-08-17
+Time: 21:27:37
+Buyer Name: Priyansh Bail
+Buyer Address: 63/211, Sastry Chowk, Purnia 169895
+PAN: ABCDE3084F
+GSTIN: 35ABCDE6915Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.215 Amount: Rs.430
+
+CGST (9%): Rs.38.7
+SGST (9%): Rs.38.7
+Total Amount Payable: Rs.507.4
+
+Goods once sold will not be taken back.

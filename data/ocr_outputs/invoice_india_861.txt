@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0871
+Date: 1983-11-05
+Time: 04:53:44
+Buyer Name: Indranil Rana
+Buyer Address: 933, Koshy Ganj, Bilaspur-893862
+PAN: ABCDE8247F
+GSTIN: 22ABCDE9082Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.247 Amount: Rs.494
+
+CGST (9%): Rs.44.46
+SGST (9%): Rs.44.46
+Total Amount Payable: Rs.582.92
+
+Goods once sold will not be taken back.

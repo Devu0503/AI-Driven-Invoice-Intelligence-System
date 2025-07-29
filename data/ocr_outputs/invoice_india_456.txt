@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0050
+Date: 2003-10-13
+Time: 05:31:32
+Buyer Name: Samiha Jaggi
+Buyer Address: H.No. 85, Venkatesh Circle, Kozhikode 845721
+PAN: ABCDE6661F
+GSTIN: 52ABCDE8933Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.479 Amount: Rs.2395
+
+CGST (9%): Rs.215.55
+SGST (9%): Rs.215.55
+Total Amount Payable: Rs.2826.1
+
+Goods once sold will not be taken back.

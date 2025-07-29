@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0677
+Date: 2015-02-22
+Time: 07:09:37
+Buyer Name: Bhamini Kulkarni
+Buyer Address: 05/703, Kuruvilla, Hyderabad 860178
+PAN: ABCDE1513F
+GSTIN: 13ABCDE1913Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.277 Amount: Rs.831
+
+CGST (9%): Rs.74.79
+SGST (9%): Rs.74.79
+Total Amount Payable: Rs.980.58
+
+Goods once sold will not be taken back.

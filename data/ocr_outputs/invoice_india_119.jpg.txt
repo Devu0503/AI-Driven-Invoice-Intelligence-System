@@ -1,19 +1,19 @@
 INVOICE
-Invoice No: INV/2055/0375
-Date: 2008-02-06
-Buyer Name: Kanav Ben
-Buyer Address: H.No. 59, Choudhary Street, Phagwara-132493
-PAN No: ABCDE0995F
-GSTIN: 98ABCDE82492Z21
+Invoice No: INV/2048/0027
+Date: 2007-09-04
+Time: 05:15:44
+Buyer Name: Zaina Shanker
+Buyer Address: H.No. 143, Kohli Ganj, Jnansi-201792
+PAN: ABCDE3848F
+GSTIN: 0O3ABCDE6767Z71
 
 Item Details:
 
-Item: Mobile Case
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.511 Amount: Rs.511
 
-Quantity: 2 Rate: 3109 Amount: 218
-CGST (9%): %19.62
+CGST (9%): Rs.45.99
+SGST (9%): Rs.45.99
+Total Amount Payable: Rs.602.98
 
-SGST (9%): %19.62
-Total Amount Payable: %257.24
-
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

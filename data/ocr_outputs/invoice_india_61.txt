@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0067
+Date: 1974-05-23
+Time: 23:07:38
+Buyer Name: Heer Khanna
+Buyer Address: 89, Lala Nagar, Deoghar-634841
+PAN: ABCDE9581F
+GSTIN: 23ABCDE0793Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.812 Amount: Rs.4060
+
+CGST (9%): Rs.365.4
+SGST (9%): Rs.365.4
+Total Amount Payable: Rs.4790.8
+
+Goods once sold will not be taken back.

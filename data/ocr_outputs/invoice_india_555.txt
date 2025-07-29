@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2060/0212
+Date: 1981-01-07
+Time: 16:56:01
+Buyer Name: Urvi Dhingra
+Buyer Address: 34, Chauhan Nagar, Bahraich 865182
+PAN: ABCDE6507F
+GSTIN: 20ABCDE3161Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.889 Amount: Rs.2667
+
+CGST (9%): Rs.240.03
+SGST (9%): Rs.240.03
+Total Amount Payable: Rs.3147.06
+
+Goods once sold will not be taken back.

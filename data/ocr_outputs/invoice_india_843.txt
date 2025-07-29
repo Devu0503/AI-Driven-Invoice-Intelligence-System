@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0202
+Date: 2013-11-15
+Time: 14:31:23
+Buyer Name: Umang Banik
+Buyer Address: H.No. 19, Kadakia Ganj, Arrah-050186
+PAN: ABCDE8545F
+GSTIN: 98ABCDE6947Z01
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.734 Amount: Rs.2936
+
+CGST (9%): Rs.264.24
+SGST (9%): Rs.264.24
+Total Amount Payable: Rs.3464.48
+
+Goods once sold will not be taken back.

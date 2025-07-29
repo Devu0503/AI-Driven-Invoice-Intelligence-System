@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0482
+Date: 2017-11-04
+Time: 09:38:55
+Buyer Name: Keya Chana
+Buyer Address: 28/454, Gara Chowk, Raebareli 847749
+PAN: ABCDE0365F
+GSTIN: 96ABCDE8240Z71
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.366 Amount: Rs.732
+
+CGST (9%): Rs.65.88
+SGST (9%): Rs.65.88
+Total Amount Payable: Rs.863.76
+
+Goods once sold will not be taken back.

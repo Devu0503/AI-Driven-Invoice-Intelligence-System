@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2034/0267
+Date: 2004-04-24
+Time: 16:13:43
+Buyer Name: Vihaan Bhatti
+Buyer Address: 65/222, Sahni Street, Vijayanagaram-913298
+PAN: ABCDE4436F
+GSTIN: 34ABCDE7478Z31
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.675 Amount: Rs.2025
+
+CGST (9%): Rs.182.25
+SGST (9%): Rs.182.25
+Total Amount Payable: Rs.2389.5
+
+Goods once sold will not be taken back.

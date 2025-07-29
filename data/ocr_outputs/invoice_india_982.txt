@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2008/0653
+Date: 2025-01-10
+Time: 01:57:57
+Buyer Name: Emir Jha
+Buyer Address: 17/207, Baral Circle, Jammu 936660
+PAN: ABCDE2508F
+GSTIN: 10ABCDE0444Z01
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.861 Amount: Rs.2583
+
+CGST (9%): Rs.232.47
+SGST (9%): Rs.232.47
+Total Amount Payable: Rs.3047.94
+
+Goods once sold will not be taken back.

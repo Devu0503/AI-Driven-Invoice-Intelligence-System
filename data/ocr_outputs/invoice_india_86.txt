@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0686
+Date: 2007-08-14
+Time: 16:52:53
+Buyer Name: Amani Swamy
+Buyer Address: H.No. 40, Sathe Chowk, Anmedabad-717621
+PAN: ABCDE8731F
+GSTIN: 67ABCDE4643Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.434 Amount: Rs.1302
+
+CGST (9%): Rs.117.18
+SGST (9%): Rs.117.18
+Total Amount Payable: Rs.1536.36
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0146
+Date: 2023-07-21
+Time: 21:55:14
+Buyer Name: Manjari Mandal
+Buyer Address: H.No. 199, Krish Road, Mango-020018
+PAN: ABCDE5835F
+GSTIN: 23ABCDE4407Z41
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.205 Amount: Rs.820
+
+CGST (9%): Rs.73.8
+SGST (9%): Rs.73.8
+Total Amount Payable: Rs.967.6
+
+Goods once sold will not be taken back.

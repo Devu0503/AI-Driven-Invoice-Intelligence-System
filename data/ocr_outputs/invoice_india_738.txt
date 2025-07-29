@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0379
+Date: 2024-08-18
+Time: 11:04:29
+Buyer Name: Raghav Bhatnagar
+Buyer Address: 66/133, Cheema Zila, Jamalpur-939230
+PAN: ABCDE9981F
+GSTIN: 25ABCDE4756Z41
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.633 Amount: Rs.3165
+
+CGST (9%): Rs.284.85
+SGST (9%): Rs.284.85
+Total Amount Payable: Rs.3734.7
+
+Goods once sold will not be taken back.

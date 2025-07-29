@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0016
+Date: 1991-09-11
+Time: 03:17:39
+Buyer Name: Darshit Suresh
+Buyer Address: H.No. 107, Dutt Zila, Kadapa-805339
+PAN: ABCDE9694F
+GSTIN: 22ABCDE3977Z61
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.679 Amount: Rs.3395
+
+CGST (9%): Rs.305.55
+SGST (9%): Rs.305.55
+Total Amount Payable: Rs.4006.1
+
+Goods once sold will not be taken back.

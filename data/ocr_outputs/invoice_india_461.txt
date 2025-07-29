@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0604
+Date: 2021-07-29
+Time: 17:01:16
+Buyer Name: Aaryahi Dara
+Buyer Address: 550, Ramesh Circle, Kollam-482162
+PAN: ABCDE1734F
+GSTIN: 92ABCDE9017Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.208 Amount: Rs.1040
+
+CGST (9%): Rs.93.6
+SGST (9%): Rs.93.6
+Total Amount Payable: Rs.1227.2
+
+Goods once sold will not be taken back.

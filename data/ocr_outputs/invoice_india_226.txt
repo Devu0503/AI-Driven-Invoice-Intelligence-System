@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0698
+Date: 1976-05-28
+Time: 04:30:32
+Buyer Name: Kashvi Choudhry
+Buyer Address: 60, Bhagat Chowk, Rewa 372999
+PAN: ABCDE6498F
+GSTIN: 0SABCDE2447Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.117 Amount: Rs.468
+
+CGST (9%): Rs.42.12
+SGST (9%): Rs.42.12
+Total Amount Payable: Rs.552.24
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0386
+Date: 1990-04-19
+Time: 03:09:44
+Buyer Name: Nayantara Bobal
+Buyer Address: 727, Choudhury Chowk, Mirzapur-581181
+PAN: ABCDE9914F
+GSTIN: 96ABCDE2609Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.682 Amount: Rs.1364
+
+CGST (9%): Rs.122.76
+SGST (9%): Rs.122.76
+Total Amount Payable: Rs.1609.52
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0354
+Date: 2021-12-21
+Time: 10:17:32
+Buyer Name: Yashvi Lala
+Buyer Address: 386, Varkey Chowk, Ratlam 939320
+PAN: ABCDE9464F
+GSTIN: 57ABCDE2567Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.909 Amount: Rs.2727
+
+CGST (9%): Rs.245.43
+SGST (9%): Rs.245.43
+Total Amount Payable: Rs.3217.86
+
+Goods once sold will not be taken back.

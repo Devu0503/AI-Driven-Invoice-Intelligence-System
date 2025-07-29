@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0858
+Date: 1976-07-06
+Time: 06:39:44
+Buyer Name: Kimaya Mane
+Buyer Address: 78, Reddy Ganj, Visakhapatnam-757636
+PAN: ABCDE3936F
+GSTIN: 87ABCDE7066Z21
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 4 Rate: Rs.902 Amount: Rs.3608
+
+CGST (9%): Rs.324.72
+SGST (9%): Rs.324.72
+Total Amount Payable: Rs.4257.44
+
+Goods once sold will not be taken back.

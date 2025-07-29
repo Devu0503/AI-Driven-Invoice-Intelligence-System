@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2050/0603
+Date: 2013-06-10
+Time: 05:32:22
+Buyer Name: Divit Deshmukh
+Buyer Address: 17/67, Chacko Zila, Shimla-867413
+PAN: ABCDES776F
+GSTIN: 83ABCDE7609Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: Rs.392 Amount: Rs.1568
+
+CGST (9%): Rs.141.12
+SGST (9%): Rs.141.12
+Total Amount Payable: Rs.1850.24
+
+Goods once sold will not be taken back.

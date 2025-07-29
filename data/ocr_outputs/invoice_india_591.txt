@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0026
+Date: 2003-12-22
+Time: 07:10:08
+Buyer Name: Nitya Balay
+Buyer Address: 92, Kadakia Nagar, Darbhanga 714692
+PAN: ABCDE1750F
+GSTIN: 85ABCDE3284Z51
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.716 Amount: Rs.2148
+
+CGST (9%): Rs.193.32
+SGST (9%): Rs.193.32
+Total Amount Payable: Rs.2534.64
+
+Goods once sold will not be taken back.

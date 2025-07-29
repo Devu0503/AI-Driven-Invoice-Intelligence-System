@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2059/0163
+Date: 2002-08-07
+Time: 16:30:57
+Buyer Name: Vritika Rajan
+Buyer Address: 02/31, Bali Ganj, Munger 382307
+PAN: ABCDE5211F
+GSTIN: 80ABCDE0575Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: Rs.814 Amount: Rs.1628
+
+CGST (9%): Rs.146.52
+SGST (9%): Rs.146.52
+Total Amount Payable: Rs.1921.04
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2008/0049
+Date: 2004-08-27
+Time: 07:25:56
+Buyer Name: Gokul Dhingra
+Buyer Address: 38/219, Din Street, Morena-215188
+PAN: ABCDE7643F
+GSTIN: 50ABCDE6908Z11
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 5 Rate: Rs.123 Amount: Rs.615
+
+CGST (9%): Rs.55.35
+SGST (9%): Rs.55.35
+Total Amount Payable: Rs.725.7
+
+Goods once sold will not be taken back.

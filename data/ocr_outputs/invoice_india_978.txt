@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0016
+Date: 1975-02-20
+Time: 21:51:27
+Buyer Name: Tara Sami
+Buyer Address: H.No. 602, Chand Street, Ghaziabad-008009
+PAN: ABCDE5152F
+GSTIN: 08ABCDE7051Z11
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.772 Amount: Rs.2316
+
+CGST (9%): Rs.208.44
+SGST (9%): Rs.208.44
+Total Amount Payable: Rs.2732.88
+
+Goods once sold will not be taken back.

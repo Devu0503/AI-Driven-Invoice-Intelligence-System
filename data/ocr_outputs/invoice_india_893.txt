@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0108
+Date: 1981-03-30
+Time: 06:46:50
+Buyer Name: Shalv Chaudhuri
+Buyer Address: 48/859, Sarna Street, Suryapet 061891
+PAN: ABCDE7908F
+GSTIN: O9ABCDE2980Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.203 Amount: Rs.203
+
+CGST (9%): Rs.18.27
+SGST (9%): Rs.18.27
+Total Amount Payable: Rs.239.54
+
+Goods once sold will not be taken back.

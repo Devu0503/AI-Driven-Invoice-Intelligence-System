@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0560
+Date: 1991-12-05
+Time: 06:47:36
+Buyer Name: Nitya Sawhney
+Buyer Address: 696, Cherian Path, Kota 326589
+PAN: ABCDE3204F
+GSTIN: 73ABCDE8896Z11
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: Rs.928 Amount: Rs.928
+
+CGST (9%): Rs.83.52
+SGST (9%): Rs.83.52
+Total Amount Payable: Rs.1095.04
+
+Goods once sold will not be taken back.

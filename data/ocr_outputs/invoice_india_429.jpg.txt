@@ -1,19 +1,19 @@
 INVOICE
-Invoice No: INV/2009/0175
-Date: 1998-08-28
-Buyer Name: Hrishita Malhotra
-Buyer Address: H.No. 04, Chokshi Ganj, Aurangabad 989803
-PAN No: ABCDE6842F
-GSTIN: 23ABCDE8077Z01
+Invoice No: INV/2051/0442
+Date: 2005-12-26
+Time: 05:07:00
+Buyer Name: Adira Bhavsar
+Buyer Address: H.No. 985, Boase Street, Firozabad 385896
+PAN: ABCDE4502F
+GSTIN: 35ABCDE1240Z11
 
 Item Details:
 
-Item: Mobile Case
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.943 Amount: Rs.3772
 
-Quantity: 2 Rate: 258 Amount: 516
-CGST (9%): %46.44
+CGST (9%): Rs.339.48
+SGST (9%): Rs.339.48
+Total Amount Payable: Rs.4450.96
 
-SGST (9%): %46.44
-Total Amount Payable: %608.88
-
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0949
+Date: 2007-06-10
+Time: 19:32:03
+Buyer Name: Adira Sastry
+Buyer Address: 54/801, Kalita Circle, Madurai-939495
+PAN: ABCDE8812F
+GSTIN: 75ABCDE4745Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.162 Amount: Rs.324
+
+CGST (9%): Rs.29.16
+SGST (9%): Rs.29.16
+Total Amount Payable: Rs.382.32
+
+Goods once sold will not be taken back.

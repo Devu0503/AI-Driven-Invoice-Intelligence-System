@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0856
+Date: 1995-03-12
+Time: 14:21:30
+Buyer Name: Anvi Buch
+Buyer Address: 66/56, Swamy Path, Noida 198210
+PAN: ABCDE3756F
+GSTIN: 12ABCDE9244Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.326 Amount: Rs.978
+
+CGST (9%): Rs.88.02
+SGST (9%): Rs.88.02
+Total Amount Payable: Rs.1154.04
+
+Goods once sold will not be taken back.

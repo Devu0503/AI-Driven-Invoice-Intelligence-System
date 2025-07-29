@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2059/0103
+Date: 2003-10-08
+Time: 19:17:40
+Buyer Name: Dhruv Deo
+Buyer Address: H.No. 68, Rajagopalan Road, Kolkata 401304
+PAN: ABCDE2992F
+GSTIN: 43ABCDE3972Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.277 Amount: Rs.277
+
+CGST (9%): Rs.24.93
+SGST (9%): Rs.24.93
+Total Amount Payable: Rs.326.86
+
+Goods once sold will not be taken back.

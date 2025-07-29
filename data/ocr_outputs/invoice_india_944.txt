@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0388
+Date: 2005-10-03
+Time: 07:13:33
+Buyer Name: Prerak Ramakrishnan
+Buyer Address: 76/873, Manda Nagar, Farrukhabad-259647
+PAN: ABCDE2815F
+GSTIN: 33ABCDE1325Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.354 Amount: Rs.708
+
+CGST (9%): Rs.63.72
+SGST (9%): Rs.63.72
+Total Amount Payable: Rs.835.44
+
+Goods once sold will not be taken back.

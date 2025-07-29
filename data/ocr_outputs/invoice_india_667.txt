@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0827
+Date: 2012-10-13
+Time: 22:59:11
+Buyer Name: Tejas Sabharwal
+Buyer Address: 146, Kala Road, Dindigul-864433
+PAN: ABCDE0364F
+GSTIN: 04ABCDE2835Z01
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.987 Amount: Rs.4935
+
+CGST (9%): Rs.444.15
+SGST (9%): Rs.444.15
+Total Amount Payable: Rs.5823.3
+
+Goods once sold will not be taken back.

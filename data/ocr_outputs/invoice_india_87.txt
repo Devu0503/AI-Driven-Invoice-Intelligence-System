@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0473
+Date: 2017-01-03
+Time: 01:03:36
+Buyer Name: Nayantara Lad
+Buyer Address: H.No. 03, Rege Road, Howrah-087839
+PAN: ABCDE4159F
+GSTIN: 66ABCDE7371Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.598 Amount: Rs.598
+
+CGST (9%): Rs.53.82
+SGST (9%): Rs.53.82
+Total Amount Payable: Rs.705.64
+
+Goods once sold will not be taken back.

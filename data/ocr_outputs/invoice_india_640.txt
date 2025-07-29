@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0950
+Date: 2001-06-04
+Time: 10:59:09
+Buyer Name: Vihaan Sangha
+Buyer Address: 61, Badami Street, Jalgaon-946955
+PAN: ABCDE5296F
+GSTIN: 37ABCDE8274Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.670 Amount: Rs.3350
+
+CGST (9%): Rs.301.5
+SGST (9%): Rs.301.5
+Total Amount Payable: Rs.3953.0
+
+Goods once sold will not be taken back.

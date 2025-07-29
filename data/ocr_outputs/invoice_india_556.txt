@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0033
+Date: 1995-08-18
+Time: 00:56:07
+Buyer Name: Amani Amble
+Buyer Address: H.No. 11, Raman Path, Thiruvananthapuram-277296
+PAN: ABCDE7028F
+GSTIN: OSABCDE6514Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.404 Amount: Rs.808
+
+CGST (9%): Rs.72.72
+SGST (9%): Rs.72.72
+Total Amount Payable: Rs.953.44
+
+Goods once sold will not be taken back.

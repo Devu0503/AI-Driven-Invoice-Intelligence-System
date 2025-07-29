@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2043/0596
+Date: 2005-06-01
+Time: 10:09:47
+Buyer Name: Riaan Bobal
+Buyer Address: 74/305, D’Alia Nagar, Hindupur 534428
+PAN: ABCDE9807F
+GSTIN: 76ABCDE5210Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.172 Amount: Rs.860
+
+CGST (9%): Rs.77.4
+SGST (9%): Rs.77.4
+Total Amount Payable: Rs.1014.8
+
+Goods once sold will not be taken back.

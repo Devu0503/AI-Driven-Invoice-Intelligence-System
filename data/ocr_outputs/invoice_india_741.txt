@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0210
+Date: 2011-02-01
+Time: 12:57:38
+Buyer Name: Siya Khurana
+Buyer Address: 700, Bhasin Street, North Dumdum 121411
+PAN: ABCDE5691F
+GSTIN: 13ABCDE9682Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.718 Amount: Rs.3590
+
+CGST (9%): Rs.323.1
+SGST (9%): Rs.323.1
+Total Amount Payable: Rs.4236.2
+
+Goods once sold will not be taken back.

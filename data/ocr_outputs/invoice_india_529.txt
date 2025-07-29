@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2077/0698
+Date: 1984-11-05
+Time: 18:26:26
+Buyer Name: Manjari Reddy
+Buyer Address: H.No. 90, Sani Circle, Unnao 522464
+PAN: ABCDE5271F
+GSTIN: 79ABCDE1820Z71
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 4 Rate: Rs.423 Amount: Rs.1692
+
+CGST (9%): Rs.152.28
+SGST (9%): Rs.152.28
+Total Amount Payable: Rs.1996.56
+
+Goods once sold will not be taken back.

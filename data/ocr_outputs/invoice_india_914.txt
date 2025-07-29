@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2038/0254
+Date: 1977-04-15
+Time: 06:42:14
+Buyer Name: Heer Chad
+Buyer Address: H.No. 078, Chaudry Chowk, Satna 399708
+PAN: ABCDES075F
+GSTIN: OSABCDE5806Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.753 Amount: Rs.1506
+
+CGST (9%): Rs.135.54
+SGST (9%): Rs.135.54
+Total Amount Payable: Rs.1777.08
+
+Goods once sold will not be taken back.

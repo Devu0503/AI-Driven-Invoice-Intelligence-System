@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0302
+Date: 2005-03-28
+Time: 08:52:07
+Buyer Name: Trisha Ramaswamy
+Buyer Address: H.No. 37, Sampath Ganj, Mysore-841143
+PAN: ABCDE2951F
+GSTIN: 589ABCDE9752Z21
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.557 Amount: Rs.2785
+
+CGST (9%): Rs.250.65
+SGST (9%): Rs.250.65
+Total Amount Payable: Rs.3286.3
+
+Goods once sold will not be taken back.

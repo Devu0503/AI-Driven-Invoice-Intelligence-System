@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2095/0255
+Date: 1996-05-16
+Time: 00:24:51
+Buyer Name: Anya Mallick
+Buyer Address: 475, Kulkarni, Jaipur-002022
+PAN: ABCDE6582F
+GSTIN: 22ABCDE6723Z81
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.944 Amount: Rs.1888
+
+CGST (9%): Rs.169.92
+SGST (9%): Rs.169.92
+Total Amount Payable: Rs.2227.84
+
+Goods once sold will not be taken back.

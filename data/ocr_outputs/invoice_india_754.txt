@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2016/0201
+Date: 2016-12-01
+Time: 01:55:10
+Buyer Name: Manjari Gaba
+Buyer Address: 81/776, Sangha, Dibrugarh-503057
+PAN: ABCDE4770F
+GSTIN: 97ABCDE2909Z21
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.810 Amount: Rs.2430
+
+CGST (9%): Rs.218.7
+SGST (9%): Rs.218.7
+Total Amount Payable: Rs.2867.4
+
+Goods once sold will not be taken back.

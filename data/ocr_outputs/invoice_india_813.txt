@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2015/0306
+Date: 1984-08-31
+Time: 20:00:36
+Buyer Name: Pranay Dugar
+Buyer Address: H.No. 17, Sodhi Street, Amravati-103374
+PAN: ABCDE2733F
+GSTIN: 48ABCDE8593Z41
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.794 Amount: Rs.3970
+
+CGST (9%): Rs.357.3
+SGST (9%): Rs.357.3
+Total Amount Payable: Rs.4684.6
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0911
+Date: 1986-01-24
+Time: 12:43:25
+Buyer Name: Hrishita Dugal
+Buyer Address: H.No. 890, Madan Road, Kollam-544352
+PAN: ABCDE6575F
+GSTIN: 61ABCDE4474Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.437 Amount: Rs.1748
+
+CGST (9%): Rs.157.32
+SGST (9%): Rs.157.32
+Total Amount Payable: Rs.2062.64
+
+Goods once sold will not be taken back.

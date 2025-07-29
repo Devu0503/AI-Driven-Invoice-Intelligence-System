@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0627
+Date: 2004-12-08
+Time: 05:40:36
+Buyer Name: Shlok Datta
+Buyer Address: 76, Jain Circle, Sasaram-207842
+PAN: ABCDE6739F
+GSTIN: 24ABCDE3189Z01
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.868 Amount: Rs.868
+
+CGST (9%): Rs.78.12
+SGST (9%): Rs.78.12
+Total Amount Payable: Rs.1024.24
+
+Goods once sold will not be taken back.

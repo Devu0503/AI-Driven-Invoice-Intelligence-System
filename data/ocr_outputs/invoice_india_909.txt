@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2064/0626
+Date: 1972-05-01
+Time: 18:40:47
+Buyer Name: Nitara Sarin
+Buyer Address: 23/04, Mallick Marg, Kirari Suleman Nagar-515018
+PAN: ABCDE6852F
+GSTIN: 41ABCDE3568Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.103 Amount: Rs.103
+
+CGST (9%): Rs.9.27
+SGST (9%): Rs.9.27
+Total Amount Payable: Rs.121.54
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0250
+Date: 1970-04-25
+Time: 16:58:02
+Buyer Name: Yakshit Sidhu
+Buyer Address: H.No. 65, Bhattacharyya Marg, Ghaziabad 686061
+PAN: ABCDE0355F
+GSTIN: 61ABCDE6269Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.743 Amount: Rs.1486
+
+CGST (9%): Rs.133.74
+SGST (9%): Rs.133.74
+Total Amount Payable: Rs.1753.48
+
+Goods once sold will not be taken back.

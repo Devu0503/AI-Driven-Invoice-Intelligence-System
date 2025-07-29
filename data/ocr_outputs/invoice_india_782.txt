@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2065/0207
+Date: 1975-05-27
+Time: 22:10:11
+Buyer Name: Arnav Balay
+Buyer Address: H.No. 60, Dhaliwal Chowk, South Dumdum-215050
+PAN: ABCDE8143F
+GSTIN: 79ABCDE1239Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 4 Rate: Rs.215 Amount: Rs.860
+
+CGST (9%): Rs.77.4
+SGST (9%): Rs.77.4
+Total Amount Payable: Rs.1014.8
+
+Goods once sold will not be taken back.

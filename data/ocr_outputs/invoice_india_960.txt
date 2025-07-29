@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0653
+Date: 2006-02-20
+Time: 21:37:33
+Buyer Name: Shaan Dugar
+Buyer Address: 95/030, Gour Circle, Raiganj 002605
+PAN: ABCDE6116F
+GSTIN: 57ABCDE7667Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.945 Amount: Rs.2835
+
+CGST (9%): Rs.255.15
+SGST (9%): Rs.255.15
+Total Amount Payable: Rs.3345.3
+
+Goods once sold will not be taken back.

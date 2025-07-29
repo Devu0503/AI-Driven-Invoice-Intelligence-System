@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0730
+Date: 1976-04-28
+Time: 11:41:59
+Buyer Name: Jivin Tripathi
+Buyer Address: 95/89, Singh Circle, Jodhpur 176827
+PAN: ABCDE7401F
+GSTIN: 33ABCDE1064Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.893 Amount: Rs.893
+
+CGST (9%): Rs.80.37
+SGST (9%): Rs.80.37
+Total Amount Payable: Rs.1053.74
+
+Goods once sold will not be taken back.

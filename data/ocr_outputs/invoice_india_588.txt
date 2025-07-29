@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0795
+Date: 1977-01-17
+Time: 10:14:12
+Buyer Name: Nitara Subramanian
+Buyer Address: H.No. 014, Vohra Zila, Amritsar-335830
+PAN: ABCDE7712F
+GSTIN: 61ABCDE2935Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.786 Amount: Rs.786
+
+CGST (9%): Rs.70.74
+SGST (9%): Rs.70.74
+Total Amount Payable: Rs.927.48
+
+Goods once sold will not be taken back.

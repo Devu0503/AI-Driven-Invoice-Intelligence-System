@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2038/0070
+Date: 2018-04-15
+Time: 23:11:08
+Buyer Name: Vardaniya Kapoor
+Buyer Address: 55/64, Ramaswamy Zila, Loni-237870
+PAN: ABCDE9101F
+GSTIN: 37ABCDE1408Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.507 Amount: Rs.1014
+
+CGST (9%): Rs.91.26
+SGST (9%): Rs.91.26
+Total Amount Payable: Rs.1196.52
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0919
+Date: 1972-04-07
+Time: 19:51:09
+Buyer Name: Riaan Chakrabarti
+Buyer Address: 15, Walia Nagar, Dharmavaram-029670
+PAN: ABCDE4334F
+GSTIN: 23ABCDE7641Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.674 Amount: Rs.2696
+
+CGST (9%): Rs.242.64
+SGST (9%): Rs.242.64
+Total Amount Payable: Rs.3181.28
+
+Goods once sold will not be taken back.

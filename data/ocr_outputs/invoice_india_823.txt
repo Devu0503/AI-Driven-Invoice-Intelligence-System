@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2034/0418
+Date: 1992-01-01
+Time: 11:52:51
+Buyer Name: Mishti Sehgal
+Buyer Address: 86/763, Rama Circle, Haldia 713872
+PAN: ABCDE7838F
+GSTIN: 56ABCDE8553Z71
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.408 Amount: Rs.408
+
+CGST (9%): Rs.36.72
+SGST (9%): Rs.36.72
+Total Amount Payable: Rs.481.44
+
+Goods once sold will not be taken back.

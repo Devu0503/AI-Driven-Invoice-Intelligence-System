@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0566
+Date: 2015-04-14
+Time: 10:27:48
+Buyer Name: Suhana Raja
+Buyer Address: H.No. 19, Kaur Ganj, Narasaraopet 263716
+PAN: ABCDE0981F
+GSTIN: 04ABCDE3008Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: Rs.929 Amount: Rs.3716
+
+CGST (9%): Rs.334.44
+SGST (9%): Rs.334.44
+Total Amount Payable: Rs.4384.88
+
+Goods once sold will not be taken back.

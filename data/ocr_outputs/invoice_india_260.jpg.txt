@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2085/0804
-Date: 1980-01-05
-Buyer Name: Biju Ahluwalia
-Buyer Address: 87/29, Bail Chowk, Tiruchirappalli 014089
-PAN No: ABCDE6249F
-GSTIN: 75ABCDE19082Z71
+Invoice No: INV/2030/0034
+Date: 2016-05-13
+Time: 03:21:54
+Buyer Name: Ryan Deshpande
+Buyer Address: 568, Agate Zila, Sirsa 190142
+PAN: ABCDE2517F
+GSTIN: 38ABCDE13902Z11
 
 Item Details:
 
-Item: Mobile Case
-Quantity: 3 Rate: 487 Amount: %1461
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.436 Amount: Rs.1308
 
-CGST (9%): %131.49
-SGST (9%): 2131.49
-Total Amount Payable: 21723.98
+CGST (9%): Rs.117.72
+SGST (9%): Rs.117.72
+Total Amount Payable: Rs.1543.44
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

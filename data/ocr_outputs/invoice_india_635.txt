@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0539
+Date: 1996-07-12
+Time: 23:33:05
+Buyer Name: Manikya Tata
+Buyer Address: H.No. 196, Sundaram Marg, Akola-026062
+PAN: ABCDE7053F
+GSTIN: 49ABCDE9674211
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.841 Amount: Rs.841
+
+CGST (9%): Rs.75.69
+SGST (9%): Rs.75.69
+Total Amount Payable: Rs.992.38
+
+Goods once sold will not be taken back.

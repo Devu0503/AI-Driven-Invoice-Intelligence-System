@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0282
+Date: 1972-01-17
+Time: 20:30:31
+Buyer Name: Kaira Verma
+Buyer Address: H.No. 06, Gulati Nagar, Amritsar-896469
+PAN: ABCDE4916F
+GSTIN: 66ABCDE7911Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.522 Amount: Rs.1566
+
+CGST (9%): Rs.140.94
+SGST (9%): Rs.140.94
+Total Amount Payable: Rs.1847.88
+
+Goods once sold will not be taken back.

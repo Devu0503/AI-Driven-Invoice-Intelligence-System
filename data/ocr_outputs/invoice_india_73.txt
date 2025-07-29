@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2043/0786
+Date: 2021-03-09
+Time: 15:20:59
+Buyer Name: Purab Chand
+Buyer Address: 988, Sengupta Nagar, Nanded 113142
+PAN: ABCDE8151F
+GSTIN: 12ABCDE8382Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.959 Amount: Rs.1918
+
+CGST (9%): Rs.172.62
+SGST (9%): Rs.172.62
+Total Amount Payable: Rs.2263.24
+
+Goods once sold will not be taken back.

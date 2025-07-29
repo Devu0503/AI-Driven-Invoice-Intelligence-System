@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2080/0695
+Date: 2008-02-21
+Time: 01:17:42
+Buyer Name: Aniruddh Dayal
+Buyer Address: 401, Bhakta Marg, Srikakulam 716672
+PAN: ABCDE7598F
+GSTIN: 11ABCDE8413Z81
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.551 Amount: Rs.1653
+
+CGST (9%): Rs.148.77
+SGST (9%): Rs.148.77
+Total Amount Payable: Rs.1950.54
+
+Goods once sold will not be taken back.

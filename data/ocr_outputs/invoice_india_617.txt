@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0119
+Date: 2002-12-09
+Time: 04:37:38
+Buyer Name: Riaan Lala
+Buyer Address: 922, Raman Ganj, Navi Mumbai 502312
+PAN: ABCDE1306F
+GSTIN: 11ABCDE5431Z61
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.865 Amount: Rs.1730
+
+CGST (9%): Rs.155.7
+SGST (9%): Rs.155.7
+Total Amount Payable: Rs.2041.4
+
+Goods once sold will not be taken back.

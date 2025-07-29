@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0975
+Date: 1996-02-16
+Time: 20:00:32
+Buyer Name: Aayush Dass
+Buyer Address: 12/522, Dara Marg, Faridabad 867577
+PAN: ABCDE8633F
+GSTIN: 28ABCDE4682Z31
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.175 Amount: Rs.350
+
+CGST (9%): Rs.31.5
+SGST (9%): Rs.31.5
+Total Amount Payable: Rs.413.0
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0547
+Date: 1975-01-18
+Time: 07:23:30
+Buyer Name: Alia Deo
+Buyer Address: 246, Ghose Zila, Jamnagar-786267
+PAN: ABCDE3052F
+GSTIN: 56ABCDE2460211
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.310 Amount: Rs.930
+
+CGST (9%): Rs.83.7
+SGST (9%): Rs.83.7
+Total Amount Payable: Rs.1097.4
+
+Goods once sold will not be taken back.

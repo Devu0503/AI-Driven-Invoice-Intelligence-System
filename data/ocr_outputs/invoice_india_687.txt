@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2052/0119
+Date: 2011-09-29
+Time: 14:15:29
+Buyer Name: Akarsh Sarkar
+Buyer Address: 752, Randhawa Path, Allahabad-813983
+PAN: ABCDE6194F
+GSTIN: 63ABCDE9493Z91
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 5 Rate: Rs.726 Amount: Rs.3630
+
+CGST (9%): Rs.326.7
+SGST (9%): Rs.326.7
+Total Amount Payable: Rs.4283.4
+
+Goods once sold will not be taken back.

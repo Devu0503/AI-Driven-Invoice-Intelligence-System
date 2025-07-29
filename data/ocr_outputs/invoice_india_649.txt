@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0097
+Date: 2022-04-15
+Time: 09:28:12
+Buyer Name: Ishita Ramanathan
+Buyer Address: 27/894, Madan Street, Hapur 931808
+PAN: ABCDE7953F
+GSTIN: 19ABCDE9154Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.934 Amount: Rs.1868
+
+CGST (9%): Rs.168.12
+SGST (9%): Rs.168.12
+Total Amount Payable: Rs.2204.24
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0914
+Date: 1975-09-30
+Time: 23:01:07
+Buyer Name: Damini Shah
+Buyer Address: 55/91, Hegde Circle, Udupi-420993
+PAN: ABCDES100F
+GSTIN: 27ABCDE6728Z31
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.164 Amount: Rs.492
+
+CGST (9%): Rs.44.28
+SGST (9%): Rs.44.28
+Total Amount Payable: Rs.580.56
+
+Goods once sold will not be taken back.

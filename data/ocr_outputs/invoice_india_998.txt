@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0254
+Date: 2017-04-17
+Time: 12:26:30
+Buyer Name: Ivan Sem
+Buyer Address: H.No. 970, Rajan Chowk, Faridabad-235587
+PAN: ABCDE5356F
+GSTIN: 61ABCDE3377Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.184 Amount: Rs.736
+
+CGST (9%): Rs.66.24
+SGST (9%): Rs.66.24
+Total Amount Payable: Rs.868.48
+
+Goods once sold will not be taken back.

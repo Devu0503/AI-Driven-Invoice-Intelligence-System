@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0697
+Date: 1995-01-18
+Time: 09:51:56
+Buyer Name: Riya Golla
+Buyer Address: 23/578, Toor Street, Moradabad 317583
+PAN: ABCDE5951F
+GSTIN: 98ABCDE6941Z11
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: Rs.146 Amount: Rs.292
+
+CGST (9%): Rs.26.28
+SGST (9%): Rs.26.28
+Total Amount Payable: Rs.344.56
+
+Goods once sold will not be taken back.

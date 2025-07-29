@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2052/0802
+Date: 2023-04-08
+Time: 22:50:14
+Buyer Name: Zain Goyal
+Buyer Address: H.No. 42, Choudhary Marg, Suryapet 688230
+PAN: ABCDE4437F
+GSTIN: 48ABCDE3032Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.577 Amount: Rs.2885
+
+CGST (9%): Rs.259.65
+SGST (9%): Rs.259.65
+Total Amount Payable: Rs.3404.3
+
+Goods once sold will not be taken back.

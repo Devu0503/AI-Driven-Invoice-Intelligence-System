@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0199
+Date: 1978-07-25
+Time: 15:17:39
+Buyer Name: Keya Bassi
+Buyer Address: 134, Mand, Ambattur 577491
+PAN: ABCDE4663F
+GSTIN: 47ABCDE31172Z21
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.153 Amount: Rs.612
+
+CGST (9%): Rs.55.08
+SGST (9%): Rs.55.08
+Total Amount Payable: Rs.722.16
+
+Goods once sold will not be taken back.

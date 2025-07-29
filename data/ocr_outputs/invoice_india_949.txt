@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0299
+Date: 2000-02-26
+Time: 22:36:54
+Buyer Name: Yuvraj Tak
+Buyer Address: 625, Loke, Nadiad-817403
+PAN: ABCDE4902F
+GSTIN: 54ABCDE7274Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.899 Amount: Rs.4495
+
+CGST (9%): Rs.404.55
+SGST (9%): Rs.404.55
+Total Amount Payable: Rs.5304.1
+
+Goods once sold will not be taken back.

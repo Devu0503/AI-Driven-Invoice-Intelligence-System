@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0811
+Date: 1980-10-15
+Time: 18:34:36
+Buyer Name: Zaina Sehgal
+Buyer Address: 01/98, Konda Nagar, Anmednagar-738594
+PAN: ABCDE6836F
+GSTIN: 31ABCDE9357Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.582 Amount: Rs.582
+
+CGST (9%): Rs.52.38
+SGST (9%): Rs.52.38
+Total Amount Payable: Rs.686.76
+
+Goods once sold will not be taken back.

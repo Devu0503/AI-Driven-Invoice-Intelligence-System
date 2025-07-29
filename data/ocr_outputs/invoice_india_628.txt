@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0596
+Date: 2023-11-28
+Time: 11:34:23
+Buyer Name: Samaira Kale
+Buyer Address: H.No. 02, Garde Ganj, Davanagere-570712
+PAN: ABCDE0166F
+GSTIN: 26ABCDE7158Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.327 Amount: Rs.654
+
+CGST (9%): Rs.58.86
+SGST (9%): Rs.58.86
+Total Amount Payable: Rs.771.72
+
+Goods once sold will not be taken back.

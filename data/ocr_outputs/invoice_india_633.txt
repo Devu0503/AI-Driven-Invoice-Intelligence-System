@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2049/0876
+Date: 1996-03-30
+Time: 22:21:55
+Buyer Name: Divyansh Bassi
+Buyer Address: 68/241, Buch Circle, Navi Mumbai-651203
+PAN: ABCDE2809F
+GSTIN: 04ABCDE0536Z11
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.991 Amount: Rs.991
+
+CGST (9%): Rs.89.19
+SGST (9%): Rs.89.19
+Total Amount Payable: Rs.1169.38
+
+Goods once sold will not be taken back.

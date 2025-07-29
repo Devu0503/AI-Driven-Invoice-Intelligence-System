@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0185
+Date: 1983-09-06
+Time: 19:14:40
+Buyer Name: Dishani Brahmbhatt
+Buyer Address: H.No. 39, Dora Path, Avadi-869323
+PAN: ABCDE2941F
+GSTIN: 91ABCDE3671Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.801 Amount: Rs.2403
+
+CGST (9%): Rs.216.27
+SGST (9%): Rs.216.27
+Total Amount Payable: Rs.2835.54
+
+Goods once sold will not be taken back.

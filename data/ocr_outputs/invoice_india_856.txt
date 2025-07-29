@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0231
+Date: 1988-03-07
+Time: 11:35:39
+Buyer Name: Keya Master
+Buyer Address: 223, Chakrabarti Path, Sikar-247911
+PAN: ABCDE0209F
+GSTIN: 01ABCDE1213Z61
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.463 Amount: Rs.1852
+
+CGST (9%): Rs. 166.68
+SGST (9%): Rs.166.68
+Total Amount Payable: Rs.2185.36
+
+Goods once sold will not be taken back.

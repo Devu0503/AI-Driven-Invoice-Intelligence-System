@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0178
+Date: 1984-11-22
+Time: 04:16:22
+Buyer Name: Ira Doshi
+Buyer Address: H.No. 782, Ganguly Street, Udupi 603889
+PAN: ABCDE9644F
+GSTIN: 88ABCDE4120Z11
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.308 Amount: Rs.1540
+
+CGST (9%): Rs.138.6
+SGST (9%): Rs.138.6
+Total Amount Payable: Rs.1817.2
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0667
+Date: 1995-02-22
+Time: 18:03:40
+Buyer Name: Eshani Raj
+Buyer Address: H.No. 284, Sankaran Path, Dehradun-435272
+PAN: ABCDE6629F
+GSTIN: 92ABCDE7253Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.126 Amount: Rs.126
+
+CGST (9%): Rs.11.34
+SGST (9%): Rs.11.34
+Total Amount Payable: Rs.148.68
+
+Goods once sold will not be taken back.

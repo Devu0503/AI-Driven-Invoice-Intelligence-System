@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0410
+Date: 1986-08-30
+Time: 12:46:48
+Buyer Name: Nirvaan Bobal
+Buyer Address: H.No. 52, Badal Zila, Shahjahanpur 904117
+PAN: ABCDE0456F
+GSTIN: 21ABCDE1184Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.199 Amount: Rs.597
+
+CGST (9%): Rs.53.73
+SGST (9%): Rs.53.73
+Total Amount Payable: Rs.704.46
+
+Goods once sold will not be taken back.

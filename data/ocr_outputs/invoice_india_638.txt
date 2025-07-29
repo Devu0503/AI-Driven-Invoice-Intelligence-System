@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2015/0318
+Date: 1988-04-27
+Time: 06:46:33
+Buyer Name: Adira Chauhan
+Buyer Address: 29/788, Kapoor Road, Uluberia 489825
+PAN: ABCDE4273F
+GSTIN: 71ABCDE8112221
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.134 Amount: Rs.670
+
+CGST (9%): Rs.60.3
+SGST (9%): Rs.60.3
+Total Amount Payable: Rs.790.6
+
+Goods once sold will not be taken back.

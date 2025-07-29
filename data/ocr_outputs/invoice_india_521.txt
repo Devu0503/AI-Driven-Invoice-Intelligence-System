@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0439
+Date: 1974-01-06
+Time: 04:16:05
+Buyer Name: Ryan Agarwal
+Buyer Address: 27/26, Keer Marg, Ambattur 835221
+PAN: ABCDE7390F
+GSTIN: 25ABCDE6596Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.731 Amount: Rs.3655
+
+CGST (9%): Rs.328.95
+SGST (9%): Rs.328.95
+Total Amount Payable: Rs.4312.9
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0898
+Date: 1993-01-04
+Time: 17:37:06
+Buyer Name: Neelofar Bhat
+Buyer Address: 58/087, Anne Chowk, Ambarnath-039019
+PAN: ABCDE0763F
+GSTIN: O9ABCDE1978Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: Rs.783 Amount: Rs.1566
+
+CGST (9%): Rs.140.94
+SGST (9%): Rs.140.94
+Total Amount Payable: Rs.1847.88
+
+Goods once sold will not be taken back.

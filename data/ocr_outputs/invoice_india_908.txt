@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2052/0708
+Date: 1970-02-06
+Time: 20:32:46
+Buyer Name: Khushi Shanker
+Buyer Address: 49/677, Warrior Street, Ozhukarai 889056
+PAN: ABCDE4910F
+GSTIN: 64ABCDE3495Z01
+
+Item Details:
+
+Item: Earphones
+Quantity: 2 Rate: Rs.790 Amount: Rs.1580
+
+CGST (9%): Rs.142.2
+SGST (9%): Rs.142.2
+Total Amount Payable: Rs.1864.4
+
+Goods once sold will not be taken back.

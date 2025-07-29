@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0568
+Date: 1981-07-16
+Time: 10:26:06
+Buyer Name: Nakul Chadha
+Buyer Address: 80/05, Vohra Chowk, Khammam 585763
+PAN: ABCDE8227F
+GSTIN: 49ABCDE3346Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.323 Amount: Rs.646
+
+CGST (9%): Rs.58.14
+SGST (9%): Rs.58.14
+Total Amount Payable: Rs.762.28
+
+Goods once sold will not be taken back.

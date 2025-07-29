@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0912
+Date: 1989-08-22
+Time: 11:53:56
+Buyer Name: Ivana Taneja
+Buyer Address: H.No. 702, Chad, Baranagar 146607
+PAN: ABCDE8233F
+GSTIN: 71ABCDE8403Z41
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.473 Amount: Rs.1419
+
+CGST (9%): Rs.127.71
+SGST (9%): Rs.127.71
+Total Amount Payable: Rs.1674.42
+
+Goods once sold will not be taken back.

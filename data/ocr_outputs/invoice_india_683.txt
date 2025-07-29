@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0449
+Date: 1980-03-08
+Time: 15:08:44
+Buyer Name: Nishith Dora
+Buyer Address: 42/255, Srinivasan Ganj, Indore-800846
+PAN: ABCDESOSOF
+GSTIN: 26ABCDE0122Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.764 Amount: Rs.1528
+
+CGST (9%): Rs.137.52
+SGST (9%): Rs.137.52
+Total Amount Payable: Rs.1803.04
+
+Goods once sold will not be taken back.

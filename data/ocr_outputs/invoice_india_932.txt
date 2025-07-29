@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0456
+Date: 1977-04-16
+Time: 03:44:06
+Buyer Name: Kanav Choudhry
+Buyer Address: 52, Mahajan Road, Farrukhabad 341981
+PAN: ABCDE9753F
+GSTIN: 51ABCDE4931Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.203 Amount: Rs.609
+
+CGST (9%): Rs.54.81
+SGST (9%): Rs.54.81
+Total Amount Payable: Rs.718.62
+
+Goods once sold will not be taken back.

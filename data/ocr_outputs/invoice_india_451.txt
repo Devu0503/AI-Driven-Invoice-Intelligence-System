@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2031/0697
+Date: 2021-02-13
+Time: 13:03:19
+Buyer Name: Jhanvi Saraf
+Buyer Address: 10/02, Bose, Kamarhati 996784
+PAN: ABCDE6612F
+GSTIN: 65ABCDE2726Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.228 Amount: Rs.912
+
+CGST (9%): Rs.82.08
+SGST (9%): Rs.82.08
+Total Amount Payable: Rs.1076.16
+
+Goods once sold will not be taken back.

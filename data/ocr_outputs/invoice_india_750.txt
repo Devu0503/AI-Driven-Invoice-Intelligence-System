@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0074
+Date: 1998-08-23
+Time: 17:09:41
+Buyer Name: Bhamini Sanghvi
+Buyer Address: 18/45, Basu Chowk, Jodhpur-008098
+PAN: ABCDE9852F
+GSTIN: 18ABCDE9139Z51
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.889 Amount: Rs.3556
+
+CGST (9%): Rs.320.04
+SGST (9%): Rs.320.04
+Total Amount Payable: Rs.4196.08
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0433
+Date: 1979-08-07
+Time: 06:38:49
+Buyer Name: Indrajit Bandi
+Buyer Address: 58, Ghose Zila, Malegaon 435895
+PAN: ABCDE4944F
+GSTIN: 20ABCDE1943Z11
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.886 Amount: Rs.2658
+
+CGST (9%): Rs.239.22
+SGST (9%): Rs.239.22
+Total Amount Payable: Rs.3136.44
+
+Goods once sold will not be taken back.

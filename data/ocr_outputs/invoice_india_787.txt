@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0681
+Date: 2013-08-04
+Time: 17:35:38
+Buyer Name: Kaira Joshi
+Buyer Address: H.No. 745, Saraf Road, Kozhikode 773188
+PAN: ABCDE9927F
+GSTIN: 50ABCDE6599Z91
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: Rs.220 Amount: Rs.220
+
+CGST (9%): Rs.19.8
+SGST (9%): Rs.19.8
+Total Amount Payable: Rs.259.6
+
+Goods once sold will not be taken back.

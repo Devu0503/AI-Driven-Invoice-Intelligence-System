@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0800
+Date: 1998-12-13
+Time: 02:35:06
+Buyer Name: Manjari Deshmukh
+Buyer Address: 81, Shetty Circle, Anand 476843
+PAN: ABCDE5047F
+GSTIN: 77ABCDE2780Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.513 Amount: Rs.513
+
+CGST (9%): Rs.46.17
+SGST (9%): Rs.46.17
+Total Amount Payable: Rs.605.34
+
+Goods once sold will not be taken back.

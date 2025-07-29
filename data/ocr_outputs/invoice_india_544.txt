@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0210
+Date: 1987-07-07
+Time: 08:02:22
+Buyer Name: Zoya Raj
+Buyer Address: H.No. 91, Issac Circle, Durg-549890
+PAN: ABCDE4885F
+GSTIN: 40ABCDE0440Z61
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.330 Amount: Rs.660
+
+CGST (9%): Rs.59.4
+SGST (9%): Rs.59.4
+Total Amount Payable: Rs.778.8
+
+Goods once sold will not be taken back.

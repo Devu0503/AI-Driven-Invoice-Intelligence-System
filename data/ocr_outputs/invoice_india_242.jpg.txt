@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2022/0540
-Date: 1972-07-04
-Buyer Name: Ivana Kohli
-Buyer Address: 24, Roy Road, Malda 373203
-PAN No: ABCDE5872F
-GSTIN: 41ABCDE05672Z71
+Invoice No: INV/2003/0473
+Date: 2024-09-09
+Time: 17:35:19
+Buyer Name: Ryan Salvi
+Buyer Address: 87, Wali Road, Malda-844559
+PAN: ABCDE4715F
+GSTIN: S0OABCDE2122Z61
 
 Item Details:
 
-Item: Mobile Case
-Quantity: 2 Rate: 3596 Amount: =1192
+Item: Keyboard
+Quantity: 3 Rate: Rs.244 Amount: Rs.732
 
-CGST (9%): %107.28
-SGST (9%): 107.28
-Total Amount Payable: =1406.56
+CGST (9%): Rs.65.88
+SGST (9%): Rs.65.88
+Total Amount Payable: Rs.863.76
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0682
+Date: 1983-05-07
+Time: 00:43:07
+Buyer Name: Suhana Verma
+Buyer Address: H.No. 75, Kunda Marg, Guna-767733
+PAN: ABCDE3752F
+GSTIN: 76ABCDE6478Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.718 Amount: Rs.1436
+
+CGST (9%): Rs.129.24
+SGST (9%): Rs.129.24
+Total Amount Payable: Rs.1694.48
+
+Goods once sold will not be taken back.

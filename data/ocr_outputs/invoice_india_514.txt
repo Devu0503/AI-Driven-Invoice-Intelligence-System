@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0188
+Date: 1972-10-11
+Time: 06:05:44
+Buyer Name: Siya Raj
+Buyer Address: H.No. 857, Suresh Zila, Saharanpur-385773
+PAN: ABCDE1510F
+GSTIN: 13ABCDE2787Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.308 Amount: Rs.308
+
+CGST (9%): Rs.27.72
+SGST (9%): Rs.27.72
+Total Amount Payable: Rs.363.44
+
+Goods once sold will not be taken back.

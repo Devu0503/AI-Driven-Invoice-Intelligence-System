@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0010
+Date: 2015-10-22
+Time: 20:38:32
+Buyer Name: Nitya Sen
+Buyer Address: 96/77, Bhalla Road, Ghaziabad-687066
+PAN: ABCDE8205F
+GSTIN: 24ABCDE2291Z51
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.850 Amount: Rs.3400
+
+CGST (9%): Rs.306.0
+SGST (9%): Rs.306.0
+Total Amount Payable: Rs.4012.0
+
+Goods once sold will not be taken back.

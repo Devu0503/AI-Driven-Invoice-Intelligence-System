@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0525
+Date: 1977-08-26
+Time: 18:56:11
+Buyer Name: Shanaya Hayre
+Buyer Address: 48/954, Ramachandran Circle, Kakinada-482696
+PAN: ABCDE4257F
+GSTIN: 08ABCDE6895Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.986 Amount: Rs.2958
+
+CGST (9%): Rs.266.22
+SGST (9%): Rs.266.22
+Total Amount Payable: Rs.3490.44
+
+Goods once sold will not be taken back.

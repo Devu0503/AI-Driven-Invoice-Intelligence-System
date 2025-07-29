@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0027
+Date: 2007-09-04
+Time: 05:15:44
+Buyer Name: Zaina Shanker
+Buyer Address: H.No. 143, Kohli Ganj, Jhansi-201792
+PAN: ABCDE3848F
+GSTIN: 03ABCDE6767Z71
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.511 Amount: Rs.511
+
+CGST (9%): Rs.45.99
+SGST (9%): Rs.45.99
+Total Amount Payable: Rs.602.98
+
+Goods once sold will not be taken back.

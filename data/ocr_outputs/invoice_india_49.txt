@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0968
+Date: 2019-07-03
+Time: 08:21:47
+Buyer Name: Sara Chad
+Buyer Address: 97/173, Walia Circle, Ozhukarai-647061
+PAN: ABCDE4418F
+GSTIN: 90ABCDE6274Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.907 Amount: Rs.907
+
+CGST (9%): Rs.81.63
+SGST (9%): Rs.81.63
+Total Amount Payable: Rs.1070.26
+
+Goods once sold will not be taken back.

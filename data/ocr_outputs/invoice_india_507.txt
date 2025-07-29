@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0881
+Date: 1989-09-13
+Time: 23:11:58
+Buyer Name: Jayesh Bera
+Buyer Address: 74/474, Sule Circle, Patiala-697601
+PAN: ABCDE5323F
+GSTIN: 89ABCDE1034Z81
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.567 Amount: Rs.1134
+
+CGST (9%): Rs.102.06
+SGST (9%): Rs.102.06
+Total Amount Payable: Rs.1338.12
+
+Goods once sold will not be taken back.

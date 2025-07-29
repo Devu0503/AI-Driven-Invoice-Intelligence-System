@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0678
+Date: 1980-09-28
+Time: 19:23:25
+Buyer Name: Aaryahi Swamy
+Buyer Address: 23, Choudhary Chowk, Kolhapur-125063
+PAN: ABCDE7575F
+GSTIN: 40ABCDE9736Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.583 Amount: Rs.2332
+
+CGST (9%): Rs.209.88
+SGST (9%): Rs.209.88
+Total Amount Payable: Rs.2751.76
+
+Goods once sold will not be taken back.

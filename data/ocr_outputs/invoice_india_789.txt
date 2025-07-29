@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2059/0210
+Date: 1995-05-18
+Time: 13:07:45
+Buyer Name: Drishya Bhattacharyya
+Buyer Address: 81, Bora, Guntakal 176713
+PAN: ABCDE7249F
+GSTIN: 68ABCDE3134Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.601 Amount: Rs.3005
+
+CGST (9%): Rs.270.45
+SGST (9%): Rs.270.45
+Total Amount Payable: Rs.3545.9
+
+Goods once sold will not be taken back.

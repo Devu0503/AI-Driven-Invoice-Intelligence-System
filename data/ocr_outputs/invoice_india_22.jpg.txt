@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2044/0319
-Date: 1974-04-19
-Buyer Name: Sana Chad
-Buyer Address: 58/58, Dugar Street, Dhanbad-741822
-PAN No: ABCDE1129F
-GSTIN: 23ABCDE6418Z41
+Invoice No: INV/2079/0890
+Date: 2019-07-23
+Time: 19:53:26
+Buyer Name: Vivaan Borra
+Buyer Address: 37/66, Srivastava Ganj, Srinagar-716190
+PAN: ABCDE6698F
+GSTIN: 0S5ABCDE9779Z11
 
 Item Details:
 
-Item: Mouse
-Quantity: 3 Rate: 814 Amount: 2442
+Item: USB Cable
+Quantity: 4 Rate: Rs.296 Amount: Rs.1184
 
-CGST (9%): %219.78
-SGST (9%): 8219.78
-Total Amount Payable: 2881.56
+CGST (9%): Rs.106.56
+SGST (9%): Rs.106.56
+Total Amount Payable: Rs.1397.12
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

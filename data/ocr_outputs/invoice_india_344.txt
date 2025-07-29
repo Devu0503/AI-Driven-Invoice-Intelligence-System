@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0152
+Date: 2021-11-12
+Time: 12:03:54
+Buyer Name: Sahil Shukla
+Buyer Address: 52/945, Kibe Ganj, Knandwa 258914
+PAN: ABCDE0512F
+GSTIN: 7O0ABCDE4001Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.163 Amount: Rs.652
+
+CGST (9%): Rs.58.68
+SGST (9%): Rs.58.68
+Total Amount Payable: Rs.769.36
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0850
+Date: 1975-06-28
+Time: 17:19:11
+Buyer Name: Tanya Kota
+Buyer Address: H.No. 42, Sangha Nagar, Salem-210975
+PAN: ABCDE9332F
+GSTIN: 11ABCDE0567Z01
+
+Item Details:
+
+Item: Webcam
+Quantity: 1 Rate: Rs.484 Amount: Rs.484
+
+CGST (9%): Rs.43.56
+SGST (9%): Rs.43.56
+Total Amount Payable: Rs.571.12
+
+Goods once sold will not be taken back.

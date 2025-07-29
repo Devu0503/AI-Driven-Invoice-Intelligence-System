@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2099/0664
+Date: 2010-11-14
+Time: 00:21:18
+Buyer Name: Bhavin Mangat
+Buyer Address: 820, Sheth Ganj, Berhampore-306778
+PAN: ABCDE7878F
+GSTIN: 81ABCDE3305Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.192 Amount: Rs.768
+
+CGST (9%): Rs.69.12
+SGST (9%): Rs.69.12
+Total Amount Payable: Rs.906.24
+
+Goods once sold will not be taken back.

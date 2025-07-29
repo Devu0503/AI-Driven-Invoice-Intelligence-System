@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0578
+Date: 2022-09-26
+Time: 23:22:18
+Buyer Name: Uthkarsh Issac
+Buyer Address: 12, Hora Nagar, Nizamabad-598182
+PAN: ABCDE7876F
+GSTIN: 79ABCDE9557Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.803 Amount: Rs.3212
+
+CGST (9%): Rs.289.08
+SGST (9%): Rs.289.08
+Total Amount Payable: Rs.3790.16
+
+Goods once sold will not be taken back.

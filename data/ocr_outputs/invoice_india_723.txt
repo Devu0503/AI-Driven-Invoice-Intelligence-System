@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0990
+Date: 1994-02-09
+Time: 04:12:17
+Buyer Name: Miraya Kumar
+Buyer Address: H.No. 54, Wadhwa Street, Ongole-242781
+PAN: ABCDE4157F
+GSTIN: 54ABCDE9782Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.366 Amount: Rs.366
+
+CGST (9%): Rs.32.94
+SGST (9%): Rs.32.94
+Total Amount Payable: Rs.431.88
+
+Goods once sold will not be taken back.

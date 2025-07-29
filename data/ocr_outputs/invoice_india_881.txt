@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0052
+Date: 2007-07-28
+Time: 08:49:00
+Buyer Name: Darshit Varkey
+Buyer Address: H.No. 62, Dayal Nagar, Tiruppur-115366
+PAN: ABCDE8412F
+GSTIN: 26ABCDE2883Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.448 Amount: Rs.448
+
+CGST (9%): Rs.40.32
+SGST (9%): Rs.40.32
+Total Amount Payable: Rs.528.64
+
+Goods once sold will not be taken back.

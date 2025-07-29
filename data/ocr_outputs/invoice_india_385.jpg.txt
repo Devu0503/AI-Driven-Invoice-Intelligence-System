@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2054/0717
-Date: 1997-09-28
-Buyer Name: Ojas Devan
-Buyer Address: H.No. 15, Ben Zila, Aizawl-689095
-PAN No: ABCDE8540F
-GSTIN: 83ABCDE9666Z61
+Invoice No: INV/2068/0731
+Date: 1995-07-04
+Time: 00:22:29
+Buyer Name: Dhanuk Lanka
+Buyer Address: H.No. 18, Dubey, Mysore 089445
+PAN: ABCDE5S795F
+GSTIN: 93ABCDE70112Z91
 
 Item Details:
 
-Item: Power Bank
-Quantity: 1 Rate: 602 Amount: %602
+Item: Keyboard
+Quantity: 3 Rate: Rs.336 Amount: Rs.1008
 
-CGST (9%): 354.18
-SGST (9%): %54.18
-Total Amount Payable: 2710.36
+CGST (9%): Rs.90.72
+SGST (9%): Rs.90.72
+Total Amount Payable: Rs.1189.44
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

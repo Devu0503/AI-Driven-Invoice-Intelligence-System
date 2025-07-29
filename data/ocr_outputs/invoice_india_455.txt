@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0554
+Date: 1989-11-23
+Time: 06:11:27
+Buyer Name: Abram Char
+Buyer Address: 297, Jayaraman, Jamnagar 819151
+PAN: ABCDE8018F
+GSTIN: 98ABCDE2375Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.568 Amount: Rs.2272
+
+CGST (9%): Rs.204.48
+SGST (9%): Rs.204.48
+Total Amount Payable: Rs.2680.96
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0919
+Date: 2008-11-21
+Time: 18:42:09
+Buyer Name: Anika Sheth
+Buyer Address: H.No. 39, Bhakta, Dhanbad 708169
+PAN: ABCDE8143F
+GSTIN: 26ABCDE2602Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.464 Amount: Rs.464
+
+CGST (9%): Rs.41.76
+SGST (9%): Rs.41.76
+Total Amount Payable: Rs.547.52
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0304
+Date: 1981-04-09
+Time: 00:32:37
+Buyer Name: Myra Kapur
+Buyer Address: H.No. 058, Raju Road, Tirupati-O83606
+PAN: ABCDE8090F
+GSTIN: 81ABCDE4586Z21
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.329 Amount: Rs.987
+
+CGST (9%): Rs.88.83
+SGST (9%): Rs.88.83
+Total Amount Payable: Rs.1164.66
+
+Goods once sold will not be taken back.

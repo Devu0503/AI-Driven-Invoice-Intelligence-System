@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0924
+Date: 1992-05-18
+Time: 01:21:15
+Buyer Name: Jayant Gulati
+Buyer Address: H.No. 44, Amble Ganj, Adoni-194760
+PAN: ABCDE1331F
+GSTIN: 52ABCDE3485Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.751 Amount: Rs.3004
+
+CGST (9%): Rs.270.36
+SGST (9%): Rs.270.36
+Total Amount Payable: Rs.3544.72
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2013/0281
+Date: 2000-05-28
+Time: 08:25:29
+Buyer Name: Shayak Dani
+Buyer Address: 00/828, Sridhar Chowk, Ulhasnagar-148626
+PAN: ABCDE5380F
+GSTIN: 17ABCDE6066Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.673 Amount: Rs.3365
+
+CGST (9%): Rs.302.85
+SGST (9%): Rs.302.85
+Total Amount Payable: Rs.3970.7
+
+Goods once sold will not be taken back.

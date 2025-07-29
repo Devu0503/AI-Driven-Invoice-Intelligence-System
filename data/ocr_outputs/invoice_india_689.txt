@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0034
+Date: 2025-03-07
+Time: 09:02:46
+Buyer Name: Jayant Khare
+Buyer Address: H.No. 78, Wali Street, Barasat-458262
+PAN: ABCDE7394F
+GSTIN: 20ABCDE5848Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.258 Amount: Rs.258
+
+CGST (9%): Rs.23.22
+SGST (9%): Rs.23.22
+Total Amount Payable: Rs.304.44
+
+Goods once sold will not be taken back.

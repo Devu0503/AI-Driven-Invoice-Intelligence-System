@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0865
+Date: 1998-08-26
+Time: 05:18:57
+Buyer Name: Shalv Bandi
+Buyer Address: H.No. 26, Kuruvilla Ganj, Berhampore-846341
+PAN: ABCDE1312F
+GSTIN: OOABCDE0294Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.844 Amount: Rs.2532
+
+CGST (9%): Rs.227.88
+SGST (9%): Rs.227.88
+Total Amount Payable: Rs.2987.76
+
+Goods once sold will not be taken back.

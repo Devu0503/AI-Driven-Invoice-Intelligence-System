@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2008/0809
+Date: 1999-12-03
+Time: 09:49:04
+Buyer Name: Myra Gole
+Buyer Address: 85/26, Biswas, Kolkata-525017
+PAN: ABCDE9758F
+GSTIN: 97ABCDE9317Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.756 Amount: Rs.2268
+
+CGST (9%): Rs.204.12
+SGST (9%): Rs.204.12
+Total Amount Payable: Rs.2676.24
+
+Goods once sold will not be taken back.

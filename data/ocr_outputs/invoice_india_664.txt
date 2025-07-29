@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0309
+Date: 2024-06-25
+Time: 19:59:37
+Buyer Name: Arhaan Sekhon
+Buyer Address: H.No. 265, Sarin Path, Jamshedpur-198977
+PAN: ABCDE3245F
+GSTIN: 89ABCDE1497Z61
+
+Item Details:
+
+Item: Webcam
+Quantity: 1 Rate: Rs.690 Amount: Rs.690
+
+CGST (9%): Rs.62.1
+SGST (9%): Rs.62.1
+Total Amount Payable: Rs.814.2
+
+Goods once sold will not be taken back.

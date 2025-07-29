@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0529
+Date: 1999-06-13
+Time: 10:13:14
+Buyer Name: Devansh Mannan
+Buyer Address: H.No. 232, Dara Road, Kirari Suleman Nagar-718541
+PAN: ABCDE4388F
+GSTIN: 99ABCDE3030Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.330 Amount: Rs.660
+
+CGST (9%): Rs.59.4
+SGST (9%): Rs.59.4
+Total Amount Payable: Rs.778.8
+
+Goods once sold will not be taken back.

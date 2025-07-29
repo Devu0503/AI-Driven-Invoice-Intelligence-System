@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0606
+Date: 1981-05-23
+Time: 07:30:36
+Buyer Name: Darshit Mander
+Buyer Address: H.No. 09, Singh Path, Ulhasnagar 727203
+PAN: ABCDE7151F
+GSTIN: 98ABCDE5446Z71
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.372 Amount: Rs.372
+
+CGST (9%): Rs.33.48
+SGST (9%): Rs.33.48
+Total Amount Payable: Rs.438.96
+
+Goods once sold will not be taken back.

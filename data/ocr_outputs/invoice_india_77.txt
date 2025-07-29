@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2099/0870
+Date: 2023-03-03
+Time: 00:27:59
+Buyer Name: Bhavin Raval
+Buyer Address: 48, Madan Ganj, Ulhasnagar-557507
+PAN: ABCDE9226F
+GSTIN: 12ABCDE7440Z21
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.443 Amount: Rs.1772
+
+CGST (9%): Rs.159.48
+SGST (9%): Rs.159.48
+Total Amount Payable: Rs.2090.96
+
+Goods once sold will not be taken back.

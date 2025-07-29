@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2077/0870
+Date: 1973-06-22
+Time: 20:30:46
+Buyer Name: Hunar Jha
+Buyer Address: 603, Swamy Circle, Giridih 334530
+PAN: ABCDE4183F
+GSTIN: 76ABCDE8256Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.249 Amount: Rs.747
+
+CGST (9%): Rs.67.23
+SGST (9%): Rs.67.23
+Total Amount Payable: Rs.881.46
+
+Goods once sold will not be taken back.

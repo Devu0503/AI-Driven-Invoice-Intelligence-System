@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0422
+Date: 1973-04-23
+Time: 11:22:19
+Buyer Name: Drishya Gupta
+Buyer Address: 64/69, Kapur Ganj, Parbhani-149207
+PAN: ABCDE5270F
+GSTIN: 71ABCDE6574Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.777 Amount: Rs.3885
+
+CGST (9%): Rs.349.65
+SGST (9%): Rs.349.65
+Total Amount Payable: Rs.4584.3
+
+Goods once sold will not be taken back.

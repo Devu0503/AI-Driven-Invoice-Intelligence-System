@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0384
+Date: 1973-03-17
+Time: 03:58:58
+Buyer Name: Heer Wable
+Buyer Address: 799, Shan Chowk, Hosur 752752
+PAN: ABCDE4344F
+GSTIN: 07ABCDE8704Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.172 Amount: Rs.860
+
+CGST (9%): Rs.77.4
+SGST (9%): Rs.77.4
+Total Amount Payable: Rs.1014.8
+
+Goods once sold will not be taken back.

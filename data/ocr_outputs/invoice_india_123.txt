@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0418
+Date: 2016-09-04
+Time: 12:19:50
+Buyer Name: Anahita Mahajan
+Buyer Address: 84/515, Korpal Marg, North Dumdum-184168
+PAN: ABCDE3861F
+GSTIN: 61ABCDE9599211
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: Rs.875 Amount: Rs.875
+
+CGST (9%): Rs.78.75
+SGST (9%): Rs.78.75
+Total Amount Payable: Rs.1032.5
+
+Goods once sold will not be taken back.

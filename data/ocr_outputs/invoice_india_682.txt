@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0441
+Date: 2010-05-02
+Time: 10:52:08
+Buyer Name: Hazel Sarraf
+Buyer Address: 90, Kaul Ganj, Etawah-699761
+PAN: ABCDE9171F
+GSTIN: 53ABCDE4385Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.839 Amount: Rs.4195
+
+CGST (9%): Rs.377.55
+SGST (9%): Rs.377.55
+Total Amount Payable: Rs.4950.1
+
+Goods once sold will not be taken back.

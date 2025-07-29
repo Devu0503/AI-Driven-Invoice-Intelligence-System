@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2031/0771
+Date: 2008-09-28
+Time: 18:01:16
+Buyer Name: Ishita Maharaj
+Buyer Address: H.No. 45, Kulkarni, Kota-891516
+PAN: ABCDE4500F
+GSTIN: 22ABCDE0465Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.798 Amount: Rs.1596
+
+CGST (9%): Rs.143.64
+SGST (9%): Rs.143.64
+Total Amount Payable: Rs.1883.28
+
+Goods once sold will not be taken back.

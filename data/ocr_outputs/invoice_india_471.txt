@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2080/0110
+Date: 1996-02-15
+Time: 09:23:08
+Buyer Name: Neysa Seshadri
+Buyer Address: 15, Hayre Marg, Durg 630033
+PAN: ABCDE0247F
+GSTIN: 96ABCDE7014Z91
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.162 Amount: Rs.486
+
+CGST (9%): Rs.43.74
+SGST (9%): Rs.43.74
+Total Amount Payable: Rs.573.48
+
+Goods once sold will not be taken back.

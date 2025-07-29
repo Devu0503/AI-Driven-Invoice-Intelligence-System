@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0709
+Date: 1994-02-10
+Time: 23:21:19
+Buyer Name: Rohan Tripathi
+Buyer Address: 53/214, Sani Zila, Alwar-240203
+PAN: ABCDE5207F
+GSTIN: 98ABCDE5144211
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.872 Amount: Rs.2616
+
+CGST (9%): Rs.235.44
+SGST (9%): Rs.235.44
+Total Amount Payable: Rs.3086.88
+
+Goods once sold will not be taken back.

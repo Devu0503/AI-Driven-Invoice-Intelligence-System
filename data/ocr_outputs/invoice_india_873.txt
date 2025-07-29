@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0140
+Date: 2012-12-09
+Time: 15:45:30
+Buyer Name: Manjari Basak
+Buyer Address: 83, Kadakia Path, Rampur-416401
+PAN: ABCDE4980F
+GSTIN: 74ABCDE7187Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.893 Amount: Rs.2679
+
+CGST (9%): Rs.241.11
+SGST (9%): Rs.241.11
+Total Amount Payable: Rs.3161.22
+
+Goods once sold will not be taken back.

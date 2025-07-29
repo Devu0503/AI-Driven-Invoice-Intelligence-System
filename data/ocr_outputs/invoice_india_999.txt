@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0506
+Date: 1981-03-26
+Time: 11:11:08
+Buyer Name: Vivaan Atwal
+Buyer Address: 93/13, Chawla, Bhavnagar 561560
+PAN: ABCDE2612F
+GSTIN: 14ABCDE5148Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.305 Amount: Rs.610
+
+CGST (9%): Rs.54.9
+SGST (9%): Rs.54.9
+Total Amount Payable: Rs.719.8
+
+Goods once sold will not be taken back.

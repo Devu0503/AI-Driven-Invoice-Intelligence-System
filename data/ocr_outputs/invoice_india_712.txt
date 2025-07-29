@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2043/0146
+Date: 2019-03-24
+Time: 05:42:26
+Buyer Name: Manikya Swamy
+Buyer Address: 31/68, Doshi Path, Chinsurah 014966
+PAN: ABCDE8633F
+GSTIN: 65ABCDE0598Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.744 Amount: Rs.3720
+
+CGST (9%): Rs.334.8
+SGST (9%): Rs.334.8
+Total Amount Payable: Rs.4389.6
+
+Goods once sold will not be taken back.

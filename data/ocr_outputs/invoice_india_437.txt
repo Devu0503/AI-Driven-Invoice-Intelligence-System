@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0574
+Date: 1990-11-09
+Time: 03:51:45
+Buyer Name: Lakshit Cherian
+Buyer Address: H.No. 62, Swaminathan Path, Machilipatnam-089944
+PAN: ABCDE8947F
+GSTIN: 12ABCDE9421Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.791 Amount: Rs.791
+
+CGST (9%): Rs.71.19
+SGST (9%): Rs.71.19
+Total Amount Payable: Rs.933.38
+
+Goods once sold will not be taken back.

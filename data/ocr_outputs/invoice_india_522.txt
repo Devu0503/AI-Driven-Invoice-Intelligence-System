@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2015/0004
+Date: 2002-06-07
+Time: 14:40:49
+Buyer Name: Krish Seth
+Buyer Address: 148, Devi Zila, Hindupur-07 1554
+PAN: ABCDE9533F
+GSTIN: 23ABCDE9361Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.414 Amount: Rs.414
+
+CGST (9%): Rs.37.26
+SGST (9%): Rs.37.26
+Total Amount Payable: Rs.488.52
+
+Goods once sold will not be taken back.

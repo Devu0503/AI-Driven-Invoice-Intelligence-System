@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0647
+Date: 1970-11-06
+Time: 01:41:55
+Buyer Name: Advik Upadhyay
+Buyer Address: 65/884, Varghese Circle, Meerut 277443
+PAN: ABCDE1336F
+GSTIN: 37ABCDE3325Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.741 Amount: Rs.1482
+
+CGST (9%): Rs.133.38
+SGST (9%): Rs.133.38
+Total Amount Payable: Rs.1748.76
+
+Goods once sold will not be taken back.

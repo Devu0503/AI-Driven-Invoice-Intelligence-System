@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0431
+Date: 2016-05-12
+Time: 21:10:39
+Buyer Name: Rhea Subramaniam
+Buyer Address: 426, Khare Street, Jaipur-318140
+PAN: ABCDE1636F
+GSTIN: 47ABCDE0557Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.990 Amount: Rs.2970
+
+CGST (9%): Rs.267.3
+SGST (9%): Rs.267.3
+Total Amount Payable: Rs.3504.6
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0680
+Date: 1988-07-30
+Time: 06:15:40
+Buyer Name: Stuvan Tandon
+Buyer Address: 04/634, Bawa Marg, Jorhat 969641
+PAN: ABCDE9298F
+GSTIN: 58ABCDE1258Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.813 Amount: Rs.2439
+
+CGST (9%): Rs.219.51
+SGST (9%): Rs.219.51
+Total Amount Payable: Rs.2878.02
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0613
+Date: 1999-08-01
+Time: 04:08:15
+Buyer Name: Vritika Sastry
+Buyer Address: H.No. 97, Dora Circle, Durgapur-514725
+PAN: ABCDE7484F
+GSTIN: 30ABCDE9156Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: Rs.515 Amount: Rs.2060
+
+CGST (9%): Rs.185.4
+SGST (9%): Rs.185.4
+Total Amount Payable: Rs.2430.8
+
+Goods once sold will not be taken back.

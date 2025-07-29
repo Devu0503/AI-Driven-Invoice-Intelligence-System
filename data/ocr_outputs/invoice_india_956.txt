@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0417
+Date: 1987-06-17
+Time: 17:04:34
+Buyer Name: Elakshi Upadhyay
+Buyer Address: H.No. 605, Mangat Street, Kharagpur 963978
+PAN: ABCDE4270F
+GSTIN: 36ABCDE8581211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.207 Amount: Rs.828
+
+CGST (9%): Rs.74.52
+SGST (9%): Rs.74.52
+Total Amount Payable: Rs.977.04
+
+Goods once sold will not be taken back.

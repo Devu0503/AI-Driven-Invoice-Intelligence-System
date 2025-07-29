@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0126
+Date: 2016-05-19
+Time: 07:25:14
+Buyer Name: Piya Sodhi
+Buyer Address: H.No. 51, Sen Nagar, Madurai-858966
+PAN: ABCDES151F
+GSTIN: 66ABCDE4929Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.841 Amount: Rs.4205
+
+CGST (9%): Rs.378.45
+SGST (9%): Rs.378.45
+Total Amount Payable: Rs.4961.9
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0722
+Date: 2020-09-16
+Time: 17:59:21
+Buyer Name: Tarini Magar
+Buyer Address: 60/585, Bajwa, Panihati 018029
+PAN: ABCDES088F
+GSTIN: 01ABCDE8900Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.235 Amount: Rs.705
+
+CGST (9%): Rs.63.45
+SGST (9%): Rs.63.45
+Total Amount Payable: Rs.831.9
+
+Goods once sold will not be taken back.

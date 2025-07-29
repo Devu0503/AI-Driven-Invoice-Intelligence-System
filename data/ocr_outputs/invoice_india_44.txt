@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0109
+Date: 1993-10-31
+Time: 08:29:56
+Buyer Name: Kismat Sarma
+Buyer Address: 85/36, Malhotra Nagar, Medininagar-962013
+PAN: ABCDE1361F
+GSTIN: 75ABCDE4314Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.681 Amount: Rs.681
+
+CGST (9%): Rs.61.29
+SGST (9%): Rs.61.29
+Total Amount Payable: Rs.803.58
+
+Goods once sold will not be taken back.

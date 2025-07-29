@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2029/0139
+Date: 2002-01-10
+Time: 14:43:34
+Buyer Name: Ela Chatterjee
+Buyer Address: 76/33, Sachdeva, Siwan 688587
+PAN: ABCDE6781F
+GSTIN: 37ABCDE7653Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.500 Amount: Rs.2000
+
+CGST (9%): Rs.180.0
+SGST (9%): Rs.180.0
+Total Amount Payable: Rs.2360.0
+
+Goods once sold will not be taken back.

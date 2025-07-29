@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0404
+Date: 1978-05-10
+Time: 20:57:20
+Buyer Name: Tiya Dugar
+Buyer Address: H.No. 00, Malhotra Street, Medininagar-201261
+PAN: ABCDE7159F
+GSTIN: 33ABCDE3516Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.219 Amount: Rs.1095
+
+CGST (9%): Rs.98.55
+SGST (9%): Rs.98.55
+Total Amount Payable: Rs.1292.1
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2004/0404
+Date: 2003-05-10
+Time: 16:44:04
+Buyer Name: Nirvi Wali
+Buyer Address: 91, Gill Road, Raebareli 061349
+PAN: ABCDE8111F
+GSTIN: 70ABCDE3977Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.466 Amount: Rs.2330
+
+CGST (9%): Rs.209.7
+SGST (9%): Rs.209.7
+Total Amount Payable: Rs.2749.4
+
+Goods once sold will not be taken back.

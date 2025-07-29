@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0663
+Date: 1989-05-16
+Time: 21:15:44
+Buyer Name: Rasha Bawa
+Buyer Address: 227, Vaidya Chowk, Mahbubnagar 902732
+PAN: ABCDE8340F
+GSTIN: 44ABCDE1372Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.441 Amount: Rs.441
+
+CGST (9%): Rs.39.69
+SGST (9%): Rs.39.69
+Total Amount Payable: Rs.520.38
+
+Goods once sold will not be taken back.

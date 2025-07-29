@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0879
+Date: 1988-08-26
+Time: 23:33:28
+Buyer Name: Rati Mangal
+Buyer Address: 379, Bahri Ganj, Tadepalligudem 158813
+PAN: ABCDE0685F
+GSTIN: 53ABCDE3209Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.682 Amount: Rs.1364
+
+CGST (9%): Rs.122.76
+SGST (9%): Rs.122.76
+Total Amount Payable: Rs.1609.52
+
+Goods once sold will not be taken back.

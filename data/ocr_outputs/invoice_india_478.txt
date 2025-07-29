@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0286
+Date: 2016-12-06
+Time: 14:27:18
+Buyer Name: Lakshay Jaggi
+Buyer Address: 03/004, Kadakia Marg, Phusro-210332
+PAN: ABCDE3491F
+GSTIN: 02ABCDE8265Z91
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.464 Amount: Rs.2320
+
+CGST (9%): Rs.208.8
+SGST (9%): Rs.208.8
+Total Amount Payable: Rs.2737.6
+
+Goods once sold will not be taken back.

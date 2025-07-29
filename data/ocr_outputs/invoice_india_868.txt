@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0555
+Date: 2009-03-30
+Time: 04:40:20
+Buyer Name: Trisha Deol
+Buyer Address: H.No. 84, Date Nagar, Kumbakonam 787046
+PAN: ABCDE7920F
+GSTIN: 54ABCDE3447Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.253 Amount: Rs.253
+
+CGST (9%): Rs.22.77
+SGST (9%): Rs.22.77
+Total Amount Payable: Rs.298.54
+
+Goods once sold will not be taken back.

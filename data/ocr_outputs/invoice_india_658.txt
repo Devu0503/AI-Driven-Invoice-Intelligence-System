@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0947
+Date: 1985-05-06
+Time: 23:42:49
+Buyer Name: Ivana Savant
+Buyer Address: 05/358, Warrior Marg, Kirari Suleman Nagar-869695
+PAN: ABCDE6376F
+GSTIN: 67ABCDE4927Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.825 Amount: Rs.3300
+
+CGST (9%): Rs.297.0
+SGST (9%): Rs.297.0
+Total Amount Payable: Rs.3894.0
+
+Goods once sold will not be taken back.

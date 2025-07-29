@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2017/0456
+Date: 2025-07-02
+Time: 10:46:45
+Buyer Name: Advika Gour
+Buyer Address: H.No. 75, Bumb, Nashik 053336
+PAN: ABCDE6595F
+GSTIN: 75ABCDE5407Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.437 Amount: Rs.437
+
+CGST (9%): Rs.39.33
+SGST (9%): Rs.39.33
+Total Amount Payable: Rs.515.66
+
+Goods once sold will not be taken back.
