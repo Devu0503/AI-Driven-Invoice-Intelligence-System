@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0914
+Date: 1976-10-20
+Buyer Name: Samiha Tiwari
+Buyer Address: 92, Mahajan Marg, Gandhidham 549812
+PAN No: ABCDES5127F
+GSTIN: 59ABCDE8250241
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 914 Amount: 4570
+CGST (9%): %411.3
+
+SGST (9%): %411.3
+Total Amount Payable: %5392.6
+
+Terms: Goods once sold will not be taken back.

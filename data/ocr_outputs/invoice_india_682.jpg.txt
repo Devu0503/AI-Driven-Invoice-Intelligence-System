@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0343
+Date: 1972-03-21
+Buyer Name: Kiaan Srivastava
+Buyer Address: 47, Butala Zila, Rourkela 972487
+PAN No: ABCDE9515F
+GSTIN: 7OABCDE74372Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3675 Amount: 3375
+
+CGST (9%): %303.75
+SGST (9%): 303.75
+Total Amount Payable: %3982.5
+
+Terms: Goods once sold will not be taken back.

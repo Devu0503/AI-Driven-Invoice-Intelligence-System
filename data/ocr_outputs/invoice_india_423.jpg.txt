@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2070/0815
+Date: 2006-06-06
+Buyer Name: Zain Aggarwal
+Buyer Address: H.No. 99, Kota Marg, Bhind-722513
+PAN No: ABCDES165F
+GSTIN: 89ABCDE80482Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 3511 Amount: %1022
+
+CGST (9%): %91.98
+SGST (9%): 91.98
+Total Amount Payable: =1205.96
+
+Terms: Goods once sold will not be taken back.

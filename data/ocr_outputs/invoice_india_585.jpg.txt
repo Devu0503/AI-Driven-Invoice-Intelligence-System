@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0374
+Date: 2006-03-29
+Buyer Name: Adah Rajan
+Buyer Address: 04/75, Venkataraman Zila, Warangal-354053
+PAN No: ABCDE2730F
+GSTIN: 93ABCDE4921Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 768 Amount: 2304
+
+CGST (9%): %207.36
+SGST (9%): 207.36
+Total Amount Payable: 2718.72
+
+Terms: Goods once sold will not be taken back.

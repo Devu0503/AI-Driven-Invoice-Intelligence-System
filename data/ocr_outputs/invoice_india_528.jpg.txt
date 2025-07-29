@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0381
+Date: 1982-07-25
+Buyer Name: Veer Agrawal
+Buyer Address: H.No. 289, Sandhu Marg, Satara 096050
+PAN No: ABCDE0456F
+GSTIN: 53ABCDE6950Z01
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 778 Amount: ¥3890
+CGST (9%): %350.1
+
+SGST (9%): %350.1
+Total Amount Payable: %4590.2
+
+Terms: Goods once sold will not be taken back.

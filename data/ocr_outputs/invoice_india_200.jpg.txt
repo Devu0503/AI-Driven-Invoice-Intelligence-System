@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2060/0007
+Date: 1976-09-21
+Buyer Name: Taimur Dugal
+Buyer Address: H.No. 00, Uppal Road, Rajkot-031843
+PAN No: ABCDE8999F
+GSTIN: 68ABCDE2496Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 3163 Amount: 815
+
+CGST (9%): 73.35
+SGST (9%): %73.35
+Total Amount Payable: %961.7
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2013/0072
+Date: 1989-08-13
+Buyer Name: Hazel Maharaj
+Buyer Address: 40/66, Bhat Path, Bangalore 743987
+PAN No: ABCDE5473F
+GSTIN: 90ABCDE5283241
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3290 Amount: 1450
+
+CGST (9%): %130.5
+SGST (9%): 130.5
+Total Amount Payable: 21711.0
+
+Terms: Goods once sold will not be taken back.

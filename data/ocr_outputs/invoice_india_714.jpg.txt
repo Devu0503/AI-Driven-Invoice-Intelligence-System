@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2092/0160
+Date: 1982-10-03
+Buyer Name: Yakshit Sankar
+Buyer Address: 18/09, Balasubramanian Ganj, Rajpur Sonarpur 303860
+PAN No: ABCDE1399F
+GSTIN: 91ABCDE8868Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3624 Amount: 1872
+
+CGST (9%): %168.48
+SGST (9%): %168.48
+Total Amount Payable: 2208.96
+
+Terms: Goods once sold will not be taken back.

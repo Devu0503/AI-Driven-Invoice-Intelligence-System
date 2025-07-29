@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2073/0905
+Date: 1972-05-17
+Buyer Name: Jhanvi Bahl
+Buyer Address: H.No. 396, Savant Chowk, Bellary-320749
+PAN No: ABCDE2401F
+GSTIN: 97ABCDE54732Z41
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: 113 Amount: 113
+
+CGST (9%): %10.17
+SGST (9%): 10.17
+Total Amount Payable: 2133.34
+
+Terms: Goods once sold will not be taken back.

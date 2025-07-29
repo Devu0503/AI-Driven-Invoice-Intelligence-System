@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2057/0659
+Date: 1975-05-04
+Buyer Name: Kabir Srinivas
+Buyer Address: 50, Wali, Rajahmundry-077626
+PAN No: ABCDE0504F
+GSTIN: 42ABCDE01002Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 3634 Amount: 71268
+
+CGST (9%): %114.12
+SGST (9%): 8114.12
+Total Amount Payable: 1496.24
+
+Terms: Goods once sold will not be taken back.

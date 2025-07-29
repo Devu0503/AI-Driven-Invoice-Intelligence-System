@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0510
+Date: 2020-09-04
+Buyer Name: Ishita Khatri
+Buyer Address: 03, Yadav Marg, Bhiwandi-264933
+PAN No: ABCDE2315F
+GSTIN: 96ABCDE38122Z91
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 178 Amount: 356
+CGST (9%): %32.04
+
+SGST (9%): %32.04
+Total Amount Payable: %420.08
+
+Terms: Goods once sold will not be taken back.

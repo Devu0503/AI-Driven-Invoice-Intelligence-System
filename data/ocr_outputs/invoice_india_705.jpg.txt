@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2046/0266
+Date: 1986-06-29
+Buyer Name: Kabir Dara
+Buyer Address: H.No. 128, Dewan Ganj, Bijapur-709121
+PAN No: ABCDE2226F
+GSTIN: 7OABCDE0966Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 3183 Amount: 915
+
+CGST (9%): %82.35
+SGST (9%): 82.35
+Total Amount Payable: 21079.7
+
+Terms: Goods once sold will not be taken back.

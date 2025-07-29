@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2028/0842
+Date: 1977-04-16
+Buyer Name: Keya Dixit
+Buyer Address: 173, Sangha Ganj, Udupi 742797
+PAN No: ABCDE6725F
+GSTIN: 56ABCDE3314211
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: 3248 Amount: 744
+CGST (9%): %66.96
+
+SGST (9%): %66.96
+Total Amount Payable: %877.92
+
+Terms: Goods once sold will not be taken back.

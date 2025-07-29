@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2076/0123
+Date: 2024-10-01
+Buyer Name: Ivan Bumb
+Buyer Address: 69, Som Marg, Bhatpara 296064
+PAN No: ABCDE9668F
+GSTIN: 22ABCDE9016241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 374 Amount: 374
+
+CGST (9%): %33.66
+SGST (9%): 33.66
+Total Amount Payable: %441.32
+
+Terms: Goods once sold will not be taken back.

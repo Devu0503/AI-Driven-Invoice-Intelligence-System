@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0333
+Date: 2013-04-22
+Buyer Name: Sumer Sachdeva
+Buyer Address: 448, Sha Path, Tadipatri 946066
+PAN No: ABCDE2789F
+GSTIN: 20ABCDE2964221
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: 3645 Amount: 645
+
+CGST (9%): 358.05
+SGST (9%): %58.05
+Total Amount Payable: 2761.1
+
+Terms: Goods once sold will not be taken back.

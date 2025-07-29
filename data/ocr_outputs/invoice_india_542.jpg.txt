@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0480
+Date: 1992-02-09
+Buyer Name: Trisha Vyas
+Buyer Address: 55/10, Ravi, Sagar-056218
+PAN No: ABCDE8520F
+GSTIN: 0O9ABCDE86452Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: $817 Amount: 4085
+
+CGST (9%): %367.65
+SGST (9%): %367.65
+Total Amount Payable: %4820.3
+
+Terms: Goods once sold will not be taken back.

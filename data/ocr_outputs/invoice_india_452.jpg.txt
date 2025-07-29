@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2050/0008
+Date: 2013-11-07
+Buyer Name: Anika Kamdar
+Buyer Address: 62/058, Kannan Path, Agra-243225
+PAN No: ABCDE8647F
+GSTIN: 66ABCDE5737Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 740 Amount: 2220
+
+CGST (9%): %199.8
+SGST (9%): 199.8
+Total Amount Payable: %2619.6
+
+Terms: Goods once sold will not be taken back.

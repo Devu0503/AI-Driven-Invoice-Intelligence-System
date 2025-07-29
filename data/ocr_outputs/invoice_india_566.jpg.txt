@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2036/0319
+Date: 1982-12-10
+Buyer Name: Keya Tiwari
+Buyer Address: 14/71, Sen, Lucknow 013725
+PAN No: ABCDE6175F
+GSTIN: 45ABCDE8888Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3677 Amount: %2031
+
+CGST (9%): %182.79
+SGST (9%): %182.79
+Total Amount Payable: 2396.58
+
+Terms: Goods once sold will not be taken back.

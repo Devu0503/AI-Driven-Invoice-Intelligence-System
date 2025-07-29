@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2041/0227
+Date: 1989-11-04
+Buyer Name: Aaryahi Talwar
+Buyer Address: 873, Chowdhury Circle, Madanapalle 143132
+PAN No: ABCDES5126F
+GSTIN: O6ABCDE04492Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 769 Amount: 1538
+
+CGST (9%): %138.42
+SGST (9%): 2138.42
+Total Amount Payable: 21814.84
+
+Terms: Goods once sold will not be taken back.

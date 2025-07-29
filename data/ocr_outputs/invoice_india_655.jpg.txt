@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2083/0657
+Date: 2009-12-23
+Buyer Name: Vedika Mandal
+Buyer Address: 26, Gandhi Zila, Thoothukudi 505972
+PAN No: ABCDE7555F
+GSTIN: 0S5ABCDE4670Z91
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 5 Rate: 3694 Amount: 3470
+CGST (9%): %312.3
+
+SGST (9%): 312.3
+Total Amount Payable: %4094.6
+
+Terms: Goods once sold will not be taken back.

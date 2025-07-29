@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0604
+Date: 1986-03-25
+Buyer Name: Onkar Kala
+Buyer Address: H.No. 23, Kuruvilla Marg, Serampore-149373
+PAN No: ABCDE6348F
+GSTIN: 33ABCDE59192Z61
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 4 Rate: 3248 Amount: ¥992
+CGST (9%): %89.28
+SGST (9%): %89.28
+Total Amount Payable: 1170.56
+
+Terms: Goods once sold will not be taken back.

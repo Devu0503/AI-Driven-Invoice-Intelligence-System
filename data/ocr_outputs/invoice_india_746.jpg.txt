@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2077/0171
+Date: 2014-12-18
+Buyer Name: Yasmin Jha
+Buyer Address: 25/32, Vyas Path, Bongaigaon 676548
+PAN No: ABCDE0103F
+GSTIN: 49ABCDE3970Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: $753 Amount: 2259
+
+CGST (9%): %203.31
+SGST (9%): 203.31
+Total Amount Payable: 2665.62
+
+Terms: Goods once sold will not be taken back.

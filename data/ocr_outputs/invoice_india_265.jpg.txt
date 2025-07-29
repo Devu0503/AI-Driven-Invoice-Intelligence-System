@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2019/0417
+Date: 2006-08-04
+Buyer Name: Mehul Dhillon
+Buyer Address: H.No. 12, Bail Marg, Rourkela 655325
+PAN No: ABCDE0699F
+GSTIN: 98ABCDE5830Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 765 Amount: 2295
+
+CGST (9%): %206.55
+SGST (9%): %206.55
+Total Amount Payable: %2708.1
+
+Terms: Goods once sold will not be taken back.

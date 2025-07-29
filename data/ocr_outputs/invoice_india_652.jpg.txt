@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2063/0277
+Date: 1982-06-10
+Buyer Name: Lakshay Garg
+Buyer Address: H.No. 798, Borra Nagar, Bhavnagar 554486
+PAN No: ABCDE7102F
+GSTIN: 17ABCDE7422291
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 694 Amount: 2082
+
+CGST (9%): %187.38
+SGST (9%): 2187.38
+Total Amount Payable: 2456.76
+
+Terms: Goods once sold will not be taken back.

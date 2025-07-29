@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0313
+Date: 1997-02-07
+Buyer Name: Sana Thaman
+Buyer Address: H.No. 10, Thaman Nagar, Sambalpur 471460
+PAN No: ABCDE8499F
+GSTIN: 48ABCDE4135Z51
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: 3154 Amount: 770
+CGST (9%): 269.3
+
+SGST (9%): 369.3
+Total Amount Payable: %908.6
+
+Terms: Goods once sold will not be taken back.

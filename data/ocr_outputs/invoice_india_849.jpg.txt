@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0171
+Date: 1978-09-02
+Buyer Name: Shanaya Sani
+Buyer Address: 530, Chandran, Bhiwandi-166214
+PAN No: ABCDE4947F
+GSTIN: 32ABCDE45232Z81
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1. Rate: 270 Amount: 270
+CGST (9%): 224.3
+
+SGST (9%): 24.3
+Total Amount Payable: %318.6
+
+Terms: Goods once sold will not be taken back.

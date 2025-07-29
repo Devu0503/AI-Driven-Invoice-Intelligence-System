@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0307
+Date: 2023-12-06
+Buyer Name: Saanvi Agarwal
+Buyer Address: H.No. 320, Ghosh Marg, Satna 486452
+PAN No: ABCDE5685F
+GSTIN: 26ABCDE3338Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: $935 Amount: 935
+
+CGST (9%): %84.15
+SGST (9%): 84.15
+Total Amount Payable: %1103.3
+
+Terms: Goods once sold will not be taken back.

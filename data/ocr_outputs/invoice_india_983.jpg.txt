@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2005/0797
+Date: 2006-05-21
+Buyer Name: Nitara Vig
+Buyer Address: 20/289, Chacko, Tezpur 017066
+PAN No: ABCDE3503F
+GSTIN: OOABCDE07812Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: $925 Amount: 4625
+
+CGST (9%): %416.25
+SGST (9%): 8416.25
+Total Amount Payable: %5457.5
+
+Terms: Goods once sold will not be taken back.

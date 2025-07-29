@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0304
+Date: 2014-05-29
+Buyer Name: Anya Chana
+Buyer Address: 474, Batta Street, Karawal Nagar 231676
+PAN No: ABCDE7917F
+GSTIN: 32ABCDE9136Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3149 Amount: 149
+
+CGST (9%): %13.41
+SGST (9%): %13.41
+Total Amount Payable: 2175.82
+
+Terms: Goods once sold will not be taken back.

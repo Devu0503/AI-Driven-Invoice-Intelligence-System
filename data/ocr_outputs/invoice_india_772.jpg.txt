@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0642
+Date: 2017-01-17
+Buyer Name: Diya Kaur
+Buyer Address: 02/596, Char, Alwar 502616
+PAN No: ABCDE2649F
+GSTIN: 17ABCDE7141Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 428 Amount: %428
+CGST (9%): %38.52
+
+SGST (9%): 38.52
+Total Amount Payable: %505.04
+
+Terms: Goods once sold will not be taken back.

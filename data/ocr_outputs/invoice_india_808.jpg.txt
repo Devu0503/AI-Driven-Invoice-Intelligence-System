@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2079/0780
+Date: 2009-08-28
+Buyer Name: Shalv Gopal
+Buyer Address: 50/195, Sami Zila, Surendranagar Dudhrej 920985
+PAN No: ABCDE1833F
+GSTIN: SOABCDE02032Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 275 Amount: 1375
+
+CGST (9%): %123.75
+SGST (9%): 8123.75
+Total Amount Payable: 21622.5
+
+Terms: Goods once sold will not be taken back.

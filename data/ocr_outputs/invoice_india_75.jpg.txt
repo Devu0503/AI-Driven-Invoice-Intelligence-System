@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2013/0989
+Date: 1972-10-02
+Buyer Name: Miraan Dasgupta
+Buyer Address: 519, Khare Marg, Nanded 508556
+PAN No: ABCDE7222F
+GSTIN: 73ABCDE6458Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: $911 Amount: %911
+CGST (9%): %81.99
+
+SGST (9%): 81.99
+Total Amount Payable: 21074.98
+
+Terms: Goods once sold will not be taken back.

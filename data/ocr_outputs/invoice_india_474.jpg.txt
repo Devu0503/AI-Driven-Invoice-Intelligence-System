@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2010/0374
+Date: 1977-10-23
+Buyer Name: Aayush Rao
+Buyer Address: 218, Karan Road, Aurangabad-086409
+PAN No: ABCDE4632F
+GSTIN: 52ABCDE6845Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: $342 Amount: 1710
+
+CGST (9%): %153.9
+SGST (9%): 153.9
+Total Amount Payable: %2017.8
+
+Terms: Goods once sold will not be taken back.

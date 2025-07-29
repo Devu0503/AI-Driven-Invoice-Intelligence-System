@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2060/0224
+Date: 2009-03-05
+Buyer Name: Misha Soni
+Buyer Address: 809, Sagar Chowk, Kolhapur-643814
+PAN No: ABCDE0493F
+GSTIN: 83ABCDE7243Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3512 Amount: 1536
+
+CGST (9%): %138.24
+SGST (9%): 2138.24
+Total Amount Payable: 21812.48
+
+Terms: Goods once sold will not be taken back.

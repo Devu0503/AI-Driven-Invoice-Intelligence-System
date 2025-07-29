@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2075/0430
+Date: 1970-07-26
+Buyer Name: Raunak Magar
+Buyer Address: 365, Lad Marg, Tinsukia 120062
+PAN No: ABCDE9304F
+GSTIN: 08ABCDE3684241
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 194 Amount: 776
+
+CGST (9%): %69.84
+SGST (9%): 69.84
+Total Amount Payable: %915.68
+
+Terms: Goods once sold will not be taken back.

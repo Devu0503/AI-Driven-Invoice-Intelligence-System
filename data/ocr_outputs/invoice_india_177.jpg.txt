@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2095/0754
+Date: 1991-05-27
+Buyer Name: Saksham Vohra
+Buyer Address: 96/808, Varty Ganj, Sri Ganganagar 497347
+PAN No: ABCDE2391F
+GSTIN: 21ABCDE22492Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 605 Amount: 1210
+
+CGST (9%): %108.9
+SGST (9%): %108.9
+Total Amount Payable: 21427.8
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2081/0846
+Date: 1979-01-22
+Buyer Name: Keya Mani
+Buyer Address: 53/33, Chaudhuri Street, Jalna 948859
+PAN No: ABCDE5073F
+GSTIN: OSABCDE78602Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 3544 Amount: 544
+
+CGST (9%): %48.96
+SGST (9%): %48.96
+Total Amount Payable: 641.92
+
+Terms: Goods once sold will not be taken back.

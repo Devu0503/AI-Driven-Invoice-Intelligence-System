@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2013/0109
+Date: 1978-09-07
+Buyer Name: Badal Sane
+Buyer Address: H.No. 86, Bains Road, Bulandshahr-825016
+PAN No: ABCDE1989F
+GSTIN: 85ABCDE4997Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 3182 Amount: 182
+
+CGST (9%): %16.38
+SGST (9%): 216.38
+Total Amount Payable: 2214.76
+
+Terms: Goods once sold will not be taken back.

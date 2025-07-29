@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0983
+Date: 2016-10-31
+Buyer Name: Chirag Chaudry
+Buyer Address: 507, Rajan Nagar, Asansol 667158
+PAN No: ABCDE6980F
+GSTIN: 08ABCDE9759241
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 892 Amount: 2676
+
+CGST (9%): %240.84
+SGST (9%): %240.84
+Total Amount Payable: 3157.68
+
+Terms: Goods once sold will not be taken back.

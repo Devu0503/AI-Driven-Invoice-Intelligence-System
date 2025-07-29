@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2012/0955
+Date: 2025-05-18
+Buyer Name: Anay Gaba
+Buyer Address: 627, Sule Zila, Chinsurah-681039
+PAN No: ABCDE9254F
+GSTIN: 64ABCDE29602Z21
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 5 Rate: 420 Amount: 2100
+CGST (9%): %189.0
+
+SGST (9%): 189.0
+Total Amount Payable: %2478.0
+
+Terms: Goods once sold will not be taken back.

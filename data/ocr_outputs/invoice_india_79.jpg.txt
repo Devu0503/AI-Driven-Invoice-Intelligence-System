@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2088/0684
+Date: 1978-01-05
+Buyer Name: Zeeshan Dua
+Buyer Address: 59, Barman Nagar, Tirunelveli-368169
+PAN No: ABCDE5792F
+GSTIN: 91ABCDE7145Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: 603 Amount: %603
+
+CGST (9%): 854.27
+SGST (9%): %54.27
+Total Amount Payable: 2711.54
+
+Terms: Goods once sold will not be taken back.

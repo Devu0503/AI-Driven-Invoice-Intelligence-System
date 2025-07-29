@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2001/0959
+Date: 2023-04-20
+Buyer Name: Hunar Comar
+Buyer Address: 97/47, Gulati, Hospet 027882
+PAN No: ABCDE5615F
+GSTIN: 02ABCDE52432Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 782 Amount: ¥3910
+
+CGST (9%): %351.9
+SGST (9%): 351.9
+Total Amount Payable: %4613.8
+
+Terms: Goods once sold will not be taken back.

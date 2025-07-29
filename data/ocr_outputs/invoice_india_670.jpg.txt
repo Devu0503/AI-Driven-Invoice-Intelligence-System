@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0289
+Date: 1979-10-14
+Buyer Name: Zeeshan Bhat
+Buyer Address: H.No. 009, Bava Zila, Gudivada 781848
+PAN No: ABCDE9120F
+GSTIN: 26ABCDE3461211
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 3 Rate: 200 Amount: %600
+CGST (9%): 254.0
+
+SGST (9%): 354.0
+Total Amount Payable: 2708.0
+
+Terms: Goods once sold will not be taken back.

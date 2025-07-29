@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0609
+Date: 1980-05-02
+Buyer Name: Lakshay Aurora
+Buyer Address: H.No. 27, Krishnan Chowk, Kulti-764313
+PAN No: ABCDE6176F
+GSTIN: 52ABCDE8759Z81
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 858 Amount: 4290
+CGST (9%): %386.1
+
+SGST (9%): %386.1
+Total Amount Payable: %5062.2
+
+Terms: Goods once sold will not be taken back.

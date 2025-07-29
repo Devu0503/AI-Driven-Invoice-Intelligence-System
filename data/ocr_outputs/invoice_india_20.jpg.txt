@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0042
+Date: 1980-10-17
+Buyer Name: Drishya Chakraborty
+Buyer Address: 398, Choudhry Chowk, Jaipur 731186
+PAN No: ABCDE0559F
+GSTIN: 85ABCDE12132Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 818 Amount: 1636
+
+CGST (9%): %147.24
+SGST (9%): 8147.24
+Total Amount Payable: =1930.48
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2054/0822
+Date: 1984-12-09
+Buyer Name: Divit Anand
+Buyer Address: 95/02, Comar Road, Ballia-346990
+PAN No: ABCDE4823F
+GSTIN: 26ABCDE5185Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: $298 Amount: 298
+
+CGST (9%): %26.82
+SGST (9%): 26.82
+Total Amount Payable: %351.64
+
+Terms: Goods once sold will not be taken back.

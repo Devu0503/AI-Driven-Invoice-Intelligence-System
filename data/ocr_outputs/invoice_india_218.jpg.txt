@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2029/0294
+Date: 2018-03-20
+Buyer Name: Shlok Shetty
+Buyer Address: 79/498, Gour Marg, Ahmednagar 868666
+PAN No: ABCDE6158F
+GSTIN: 37ABCDES5118241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 902 Amount: ¥3608
+
+CGST (9%): %324.72
+SGST (9%): %324.72
+Total Amount Payable: 4257.44
+
+Terms: Goods once sold will not be taken back.

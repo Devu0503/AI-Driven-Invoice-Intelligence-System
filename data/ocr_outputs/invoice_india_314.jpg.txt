@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0931
+Date: 2013-05-20
+Buyer Name: Anaya Bhavsar
+Buyer Address: 34/583, Rana Chowk, Tadipatri-349921
+PAN No: ABCDE7546F
+GSTIN: 08ABCDE9427241
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 866 Amount: 2598
+
+CGST (9%): %233.82
+SGST (9%): 233.82
+Total Amount Payable: %3065.64
+
+Terms: Goods once sold will not be taken back.

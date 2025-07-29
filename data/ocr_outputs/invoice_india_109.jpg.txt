@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2013/0463
+Date: 1999-10-10
+Buyer Name: Kanav Tata
+Buyer Address: 56, Bhakta, Solapur-856672
+PAN No: ABCDE5885F
+GSTIN: 33ABCDE5791Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 3771 Amount: &771
+CGST (9%): %69.39
+
+SGST (9%): 69.39
+Total Amount Payable: %909.78
+
+Terms: Goods once sold will not be taken back.

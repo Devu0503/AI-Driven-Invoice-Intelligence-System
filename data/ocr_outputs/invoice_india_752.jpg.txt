@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2005/0950
+Date: 1981-03-26
+Buyer Name: Kanav Raja
+Buyer Address: H.No. 14, Borde Road, Thrissur 586447
+PAN No: ABCDE0713F
+GSTIN: 64ABCDE9756Z71
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 264 Amount: 528
+CGST (9%): 47.52
+
+SGST (9%): %47.52
+Total Amount Payable: 2623.04
+
+Terms: Goods once sold will not be taken back.

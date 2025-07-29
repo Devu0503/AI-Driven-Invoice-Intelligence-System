@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2095/0493
+Date: 2003-10-27
+Buyer Name: Alia Koshy
+Buyer Address: H.No. 99, Chana, Adoni 494183
+PAN No: ABCDE5844F
+GSTIN: 63ABCDE3354241
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: $359 Amount: 359
+CGST (9%): %32.31
+
+SGST (9%): %32.31
+Total Amount Payable: %423.62
+
+Terms: Goods once sold will not be taken back.

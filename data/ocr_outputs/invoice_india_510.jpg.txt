@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2002/0136
+Date: 1975-06-22
+Buyer Name: Anahita Johal
+Buyer Address: 34, Sule, Mathura 511427
+PAN No: ABCDE8911F
+GSTIN: 13ABCDE5930Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 788 Amount: 3940
+CGST (9%): %354.6
+
+SGST (9%): 354.6
+Total Amount Payable: %4649.2
+
+Terms: Goods once sold will not be taken back.

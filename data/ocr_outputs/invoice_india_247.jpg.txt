@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2090/0113
+Date: 1972-06-09
+Buyer Name: Seher Keer
+Buyer Address: 01/564, Acharya Road, Lucknow 196666
+PAN No: ABCDE4757F
+GSTIN: 81ABCDE74102Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1. Rate: 722 Amount: 722
+
+CGST (9%): %64.98
+SGST (9%): 64.98
+Total Amount Payable: 851.96
+
+Terms: Goods once sold will not be taken back.

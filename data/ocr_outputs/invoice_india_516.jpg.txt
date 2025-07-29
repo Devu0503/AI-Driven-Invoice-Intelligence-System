@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2043/0405
+Date: 1991-10-12
+Buyer Name: Ritvik Tripathi
+Buyer Address: 21, Thaman Street, Bhopal-477832
+PAN No: ABCDE8239F
+GSTIN: 92ABCDE2132Z81
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: 3520 Amount: 2600
+CGST (9%): %234.0
+
+SGST (9%): 234.0
+Total Amount Payable: 3068.0
+
+Terms: Goods once sold will not be taken back.

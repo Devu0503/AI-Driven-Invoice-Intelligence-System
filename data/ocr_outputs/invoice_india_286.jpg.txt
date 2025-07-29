@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2078/0198
+Date: 2006-01-16
+Buyer Name: Vidur Bhattacharyya
+Buyer Address: H.No. 301, Srivastava Marg, Pudukkottai-606219
+PAN No: ABCDE4386F
+GSTIN: 14ABCDE7781Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: $716 Amount: 2148
+
+CGST (9%): %193.32
+SGST (9%): %193.32
+Total Amount Payable: 2534.64
+
+Terms: Goods once sold will not be taken back.

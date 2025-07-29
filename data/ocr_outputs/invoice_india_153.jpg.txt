@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2049/0556
+Date: 1992-10-27
+Buyer Name: Zara Kapadia
+Buyer Address: 78/395, Gour Road, Vadodara-596918
+PAN No: ABCDE5538F
+GSTIN: 87ABCDE6690Z71
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: 3172 Amount: 516
+CGST (9%): %46.44
+
+SGST (9%): %46.44
+Total Amount Payable: %608.88
+
+Terms: Goods once sold will not be taken back.

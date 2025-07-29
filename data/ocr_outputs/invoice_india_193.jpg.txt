@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0804
+Date: 1979-05-23
+Buyer Name: Lakshay Rege
+Buyer Address: 45, Varghese Zila, Latur-801585
+PAN No: ABCDE4293F
+GSTIN: 12ABCDE9323Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: $347 Amount: %1041
+CGST (9%): %93.69
+
+SGST (9%): 93.69
+Total Amount Payable: 1228.38
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0813
+Date: 2022-10-24
+Buyer Name: Dhanush Verma
+Buyer Address: 36, Bora Zila, Mysore-314175
+PAN No: ABCDE6480F
+GSTIN: 67ABCDE6435221
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3263 Amount: 1315
+
+CGST (9%): %118.35
+SGST (9%): 2118.35
+Total Amount Payable: 21551.7
+
+Terms: Goods once sold will not be taken back.

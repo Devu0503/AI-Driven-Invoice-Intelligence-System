@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2052/0801
+Date: 1973-03-21
+Buyer Name: Aayush Ganesh
+Buyer Address: 06, Babu Road, Pallavaram 626924
+PAN No: ABCDE8655F
+GSTIN: 68ABCDE82232Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: $325 Amount: 325
+
+CGST (9%): 29.25
+SGST (9%): %29.25
+Total Amount Payable: %383.5
+
+Terms: Goods once sold will not be taken back.

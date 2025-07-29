@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2025/0462
+Date: 1972-10-02
+Buyer Name: Dhanush Bhagat
+Buyer Address: 21/18, Johal, North Dumdum-993819
+PAN No: ABCDE8455F
+GSTIN: 94ABCDE04832Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 3533 Amount: =1066
+CGST (9%): %95.94
+
+SGST (9%): 95.94
+Total Amount Payable: 1257.88
+
+Terms: Goods once sold will not be taken back.

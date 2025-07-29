@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0404
+Date: 2023-11-06
+Buyer Name: Pari Ahuja
+Buyer Address: 87/759, Rege Zila, Sikar-366260
+PAN No: ABCDE8782F
+GSTIN: 04ABCDE6055221
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 207 Amount: 207
+CGST (9%): %18.63
+
+SGST (9%): %18.63
+Total Amount Payable: 2244.26
+
+Terms: Goods once sold will not be taken back.

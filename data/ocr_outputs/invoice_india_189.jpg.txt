@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2034/0390
+Date: 2005-11-27
+Buyer Name: Manjari Chakrabarti
+Buyer Address: 89/34, Bir Path, Rourkela 658340
+PAN No: ABCDE3196F
+GSTIN: 30ABCDE1371Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $395 Amount: 1580
+
+CGST (9%): %142.2
+SGST (9%): %142.2
+Total Amount Payable: 21864.4
+
+Terms: Goods once sold will not be taken back.

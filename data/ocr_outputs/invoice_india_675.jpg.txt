@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0871
+Date: 1995-02-05
+Buyer Name: Shanaya Rajagopal
+Buyer Address: 52/834, Suresh Zila, Dindigul 575752
+PAN No: ABCDE6115F
+GSTIN: 09ABCDE8473Z01
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 3646 Amount: 646
+CGST (9%): 358.14
+
+SGST (9%): %58.14
+Total Amount Payable: 2762.28
+
+Terms: Goods once sold will not be taken back.

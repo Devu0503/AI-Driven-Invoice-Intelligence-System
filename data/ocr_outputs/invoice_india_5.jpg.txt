@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0252
+Date: 2007-03-20
+Buyer Name: Kanav Malhotra
+Buyer Address: H.No. 62, Ramaswamy Nagar, Kavali 939581
+PAN No: ABCDE7230F
+GSTIN: 09ABCDE3383Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 3655 Amount: 2620
+
+CGST (9%): %235.8
+SGST (9%): 235.8
+Total Amount Payable: %3091.6
+
+Terms: Goods once sold will not be taken back.

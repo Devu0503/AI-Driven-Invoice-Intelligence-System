@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2091/0670
+Date: 1995-01-27
+Buyer Name: Vanya Kant
+Buyer Address: H.No. 516, Dugar Ganj, Rourkela 898036
+PAN No: ABCDE3045F
+GSTIN: 98ABCDE4537Z51
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 994 Amount: ¥994
+CGST (9%): %89.46
+SGST (9%): 89.46
+Total Amount Payable: 21172.92
+
+Terms: Goods once sold will not be taken back.

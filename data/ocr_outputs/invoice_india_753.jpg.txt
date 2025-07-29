@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2050/0848
+Date: 2012-03-30
+Buyer Name: Mehul Ghose
+Buyer Address: 624, Chana Ganj, Raipur 097077
+PAN No: ABCDE0365F
+GSTIN: 72ABCDE0294Z01
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 3276 Amount: 828
+CGST (9%): %74.52
+
+SGST (9%): %74.52
+Total Amount Payable: %977.04
+
+Terms: Goods once sold will not be taken back.

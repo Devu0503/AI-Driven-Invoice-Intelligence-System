@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2066/0182
+Date: 2019-11-28
+Buyer Name: Kiara Rao
+Buyer Address: 81/655, Kota Chowk, Mathura 042224
+PAN No: ABCDE8057F
+GSTIN: 87ABCDE0524211
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3643 Amount: 3215
+
+CGST (9%): %289.35
+SGST (9%): 289.35
+Total Amount Payable: %3793.7
+
+Terms: Goods once sold will not be taken back.

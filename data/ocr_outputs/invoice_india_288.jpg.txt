@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2036/0523
+Date: 2019-03-11
+Buyer Name: Romil Garg
+Buyer Address: H.No. 791, Sankar Nagar, Aligarh-367736
+PAN No: ABCDE3076F
+GSTIN: 47ABCDE0920221
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 403 Amount: 806
+
+CGST (9%): 872.54
+SGST (9%): %72.54
+Total Amount Payable: %951.08
+
+Terms: Goods once sold will not be taken back.

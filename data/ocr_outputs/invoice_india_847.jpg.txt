@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0517
+Date: 1991-01-06
+Buyer Name: Yasmin Jain
+Buyer Address: 50/405, Ranganathan Ganj, Eluru 741237
+PAN No: ABCDE9045F
+GSTIN: 93ABCDE5917211
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 3512 Amount: %1024
+CGST (9%): %92.16
+
+SGST (9%): 92.16
+Total Amount Payable: 21208.32
+
+Terms: Goods once sold will not be taken back.

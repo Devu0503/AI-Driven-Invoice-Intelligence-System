@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0400
+Date: 2002-08-19
+Buyer Name: Pranay Gokhale
+Buyer Address: 37/269, Chacko Marg, Silchar-442882
+PAN No: ABCDE6779F
+GSTIN: 96ABCDE6943Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 873 Amount: 1746
+
+CGST (9%): %157.14
+SGST (9%): 2157.14
+Total Amount Payable: 2060.28
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0652
+Date: 2009-06-14
+Buyer Name: Samiha Lad
+Buyer Address: 67/180, Chand Zila, Durgapur 739137
+PAN No: ABCDE5763F
+GSTIN: 22ABCDE4288Z01
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 3143 Amount: 286
+CGST (9%): 25.74
+
+SGST (9%): %25.74
+Total Amount Payable: %337.48
+
+Terms: Goods once sold will not be taken back.

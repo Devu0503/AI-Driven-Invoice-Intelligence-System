@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0830
+Date: 1995-12-03
+Buyer Name: Oorja Tandon
+Buyer Address: 81, Chandran Circle, Kolkata 353053
+PAN No: ABCDE4114F
+GSTIN: 25ABCDE20122Z91
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: 420 Amount: 2100
+CGST (9%): %189.0
+
+SGST (9%): 189.0
+Total Amount Payable: %2478.0
+
+Terms: Goods once sold will not be taken back.

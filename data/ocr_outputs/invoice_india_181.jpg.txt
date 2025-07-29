@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2009/0528
+Date: 1985-01-16
+Buyer Name: Rohan Khalsa
+Buyer Address: 87/86, Yogi Circle, Rajahmundry 799152
+PAN No: ABCDE4889F
+GSTIN: 35ABCDE8441Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 823 Amount: 2469
+
+CGST (9%): %222.21
+SGST (9%): 222.21
+Total Amount Payable: 2913.42
+
+Terms: Goods once sold will not be taken back.

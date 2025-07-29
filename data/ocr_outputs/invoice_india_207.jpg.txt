@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0797
+Date: 1982-05-17
+Buyer Name: Alisha Krishnan
+Buyer Address: H.No. 623, Arya Chowk, Ichalkaranji 407859
+PAN No: ABCDE0123F
+GSTIN: 33ABCDE19432Z11
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 117 Amount: %351
+
+CGST (9%): %31.59
+SGST (9%): 31.59
+Total Amount Payable: %414.18
+
+Terms: Goods once sold will not be taken back.

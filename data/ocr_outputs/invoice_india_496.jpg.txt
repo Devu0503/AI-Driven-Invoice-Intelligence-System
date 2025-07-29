@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2081/0377
+Date: 2018-08-01
+Buyer Name: Saira Lalla
+Buyer Address: H.No. 142, Garde Zila, Rourkela-533198
+PAN No: ABCDE2320F
+GSTIN: 36ABCDE7446Z31
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 5 Rate: $344 Amount: 1720
+CGST (9%): %154.8
+
+SGST (9%): %154.8
+Total Amount Payable: %2029.6
+
+Terms: Goods once sold will not be taken back.

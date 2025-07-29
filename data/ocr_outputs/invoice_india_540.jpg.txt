@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2090/0297
+Date: 2023-01-03
+Buyer Name: Bhavin Sarin
+Buyer Address: 840, Cherian Chowk, Kharagpur-996339
+PAN No: ABCDE4776F
+GSTIN: 53ABCDE7164Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 868 Amount: 1736
+
+CGST (9%): %156.24
+SGST (9%): 2156.24
+Total Amount Payable: 2048.48
+
+Terms: Goods once sold will not be taken back.

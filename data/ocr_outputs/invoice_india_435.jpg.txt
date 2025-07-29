@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2055/0684
+Date: 1988-09-23
+Buyer Name: Damini Varma
+Buyer Address: 905, Sachar Street, Chandrapur 288279
+PAN No: ABCDE1965F
+GSTIN: 0O9ABCDE8390241
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: $777 Amount: 3108
+
+CGST (9%): 8279.72
+SGST (9%): 8279.72
+Total Amount Payable: 3667.44
+
+Terms: Goods once sold will not be taken back.

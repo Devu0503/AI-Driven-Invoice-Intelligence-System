@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0175
+Date: 1990-09-19
+Buyer Name: Aniruddh Kadakia
+Buyer Address: 33/97, Balay Marg, Moradabad 717501
+PAN No: ABCDE9486F
+GSTIN: 61ABCDE34602Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 3936 Amount: 3744
+
+CGST (9%): %336.96
+SGST (9%): %336.96
+Total Amount Payable: %4417.92
+
+Terms: Goods once sold will not be taken back.

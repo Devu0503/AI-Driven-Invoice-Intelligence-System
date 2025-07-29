@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0831
+Date: 1982-10-31
+Buyer Name: Ehsaan Dugal
+Buyer Address: 48/031, Bora Nagar, Kishanganj 310447
+PAN No: ABCDE7829F
+GSTIN: 02ABCDE1975271
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3685 Amount: 3425
+
+CGST (9%): %308.25
+SGST (9%): 308.25
+Total Amount Payable: %4041.5
+
+Terms: Goods once sold will not be taken back.

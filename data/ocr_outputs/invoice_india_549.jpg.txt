@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2017/0909
+Date: 1995-12-29
+Buyer Name: Kaira Guha
+Buyer Address: H.No. 88, Dayal Chowk, Pudukkottai-644772
+PAN No: ABCDE8881F
+GSTIN: 21ABCDE55362Z61
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 3 Rate: 700 Amount: 2100
+CGST (9%): %189.0
+
+SGST (9%): 189.0
+Total Amount Payable: %2478.0
+
+Terms: Goods once sold will not be taken back.

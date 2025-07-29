@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2043/0434
+Date: 1990-12-15
+Buyer Name: Devansh Mani
+Buyer Address: H.No. 73, Sinha Street, Amravati 323416
+PAN No: ABCDE5794F
+GSTIN: 11ABCDE22582Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3625 Amount: 2500
+
+CGST (9%): %225.0
+SGST (9%): 225.0
+Total Amount Payable: 2950.0
+
+Terms: Goods once sold will not be taken back.

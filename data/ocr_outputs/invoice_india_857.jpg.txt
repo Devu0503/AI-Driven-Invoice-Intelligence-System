@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2011/0097
+Date: 1978-09-10
+Buyer Name: Vritika Tak
+Buyer Address: 665, Soni Marg, Bally 760368
+PAN No: ABCDE3939F
+GSTIN: 18ABCDE9824Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: $819 Amount: 3276
+
+CGST (9%): %294.84
+SGST (9%): %294.84
+Total Amount Payable: %3865.68
+
+Terms: Goods once sold will not be taken back.

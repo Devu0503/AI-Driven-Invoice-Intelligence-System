@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0467
+Date: 1995-05-19
+Buyer Name: Rasha Doctor
+Buyer Address: 786, Mandal Zila, Tadepalligudem 298082
+PAN No: ABCDE3240F
+GSTIN: 77ABCDE0844211
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 3684 Amount: ¥3420
+CGST (9%): %307.8
+
+SGST (9%): 307.8
+Total Amount Payable: %4035.6
+
+Terms: Goods once sold will not be taken back.

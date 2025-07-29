@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2050/0111
+Date: 1982-01-29
+Buyer Name: Vaibhav Sawhney
+Buyer Address: 410, Balasubramanian Path, Pali-637359
+PAN No: ABCDE7159F
+GSTIN: 0O7ABCDE6545271
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3589 Amount: 1767
+
+CGST (9%): %159.03
+SGST (9%): %159.03
+Total Amount Payable: 2085.06
+
+Terms: Goods once sold will not be taken back.

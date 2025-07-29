@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0503
+Date: 2018-03-25
+Buyer Name: Tarini Master
+Buyer Address: 28/314, Upadhyay Marg, Miryalaguda 600402
+PAN No: ABCDE1730F
+GSTIN: 45ABCDE6060Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 927 Amount: 4635
+
+CGST (9%): %417.15
+SGST (9%): 417.15
+Total Amount Payable: %5469.3
+
+Terms: Goods once sold will not be taken back.

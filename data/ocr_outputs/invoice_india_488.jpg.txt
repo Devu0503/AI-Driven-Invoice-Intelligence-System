@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0767
+Date: 2006-06-13
+Buyer Name: Aarna Kata
+Buyer Address: 26/84, Bhalla Marg, Raebareli 000676
+PAN No: ABCDE9666F
+GSTIN: 86ABCDE3161211
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3246 Amount: 492
+CGST (9%): 44.28
+
+SGST (9%): %44.28
+Total Amount Payable: 2580.56
+
+Terms: Goods once sold will not be taken back.

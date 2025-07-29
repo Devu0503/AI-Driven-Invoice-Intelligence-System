@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2039/0863
+Date: 1975-05-15
+Buyer Name: Alia Mand
+Buyer Address: H.No. 808, Dayal Chowk, Baranagar-896614
+PAN No: ABCDE0715F
+GSTIN: 57ABCDE62502Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3507 Amount: 2535
+
+CGST (9%): %228.15
+SGST (9%): 228.15
+Total Amount Payable: %2991.3
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2001/0474
+Date: 1977-05-11
+Buyer Name: Nirvaan Rana
+Buyer Address: 08/27, Barad Path, Varanasi-701018
+PAN No: ABCDE4429F
+GSTIN: 89ABCDE7779Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 404 Amount: 1212
+
+CGST (9%): %109.08
+SGST (9%): %109.08
+Total Amount Payable: =1430.16
+
+Terms: Goods once sold will not be taken back.

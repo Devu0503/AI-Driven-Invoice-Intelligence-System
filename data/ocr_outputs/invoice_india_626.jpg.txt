@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2004/0448
+Date: 1998-05-12
+Buyer Name: Nayantara Choudhry
+Buyer Address: 618, Dutta, Tiruppur-245002
+PAN No: ABCDE2849F
+GSTIN: 57ABCDE91202Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 118 Amount: 354
+
+CGST (9%): %31.86
+SGST (9%): %31.86
+Total Amount Payable: %417.72
+
+Terms: Goods once sold will not be taken back.

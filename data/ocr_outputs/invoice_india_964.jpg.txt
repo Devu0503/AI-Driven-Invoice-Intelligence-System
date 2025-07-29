@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2013/0906
+Date: 1989-10-20
+Buyer Name: Alisha Borra
+Buyer Address: 91/10, Bath Circle, Kalyan-Dombivli 578883
+PAN No: ABCDE6187F
+GSTIN: 79ABCDE45332Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 3603 Amount: 1206
+
+CGST (9%): %108.54
+SGST (9%): 2108.54
+Total Amount Payable: =1423.08
+
+Terms: Goods once sold will not be taken back.

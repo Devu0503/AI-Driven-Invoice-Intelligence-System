@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2024/0031
+Date: 1999-05-02
+Buyer Name: Ritvik Bhatt
+Buyer Address: 59/76, Thaman Nagar, Jorhat-283445
+PAN No: ABCDE8225F
+GSTIN: 23ABCDE6493Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 410 Amount: 1230
+
+CGST (9%): %110.7
+SGST (9%): 110.7
+Total Amount Payable: 21451.4
+
+Terms: Goods once sold will not be taken back.

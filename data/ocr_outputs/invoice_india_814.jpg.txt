@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2033/0557
+Date: 1988-07-29
+Buyer Name: Divit Srivastava
+Buyer Address: 14/47, Chatterjee Street, Amritsar 913354
+PAN No: ABCDE5737F
+GSTIN: 84ABCDE1561Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1. Rate: 3117 Amount: 117
+
+CGST (9%): %10.53
+SGST (9%): %10.53
+Total Amount Payable: 2138.06
+
+Terms: Goods once sold will not be taken back.

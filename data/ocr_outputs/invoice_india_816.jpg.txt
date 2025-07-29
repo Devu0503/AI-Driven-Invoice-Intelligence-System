@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0446
+Date: 1972-11-02
+Buyer Name: Myra Goswami
+Buyer Address: 334, Tara, Mehsana-046162
+PAN No: ABCDE5947F
+GSTIN: 16ABCDE7747Z01
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 3 Rate: 3126 Amount: 378
+CGST (9%): %34.02
+
+SGST (9%): 34.02
+Total Amount Payable: %446.04
+
+Terms: Goods once sold will not be taken back.

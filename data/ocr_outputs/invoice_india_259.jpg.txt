@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2052/0162
+Date: 1993-08-02
+Buyer Name: Bhavin Deo
+Buyer Address: H.No. 19, Bath, Thiruvananthapuram-701156
+PAN No: ABCDE7686F
+GSTIN: 34ABCDE0998Z61
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 3682 Amount: %682
+CGST (9%): %61.38
+
+SGST (9%): 61.38
+Total Amount Payable: %804.76
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2018/0285
+Date: 2009-04-25
+Buyer Name: Elakshi Bhalla
+Buyer Address: H.No. 75, Krishnamurthy Zila, Nagercoil 336598
+PAN No: ABCDE9633F
+GSTIN: 0O9ABCDE0102221
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 121 Amount: %605
+
+CGST (9%): 54.45
+SGST (9%): %54.45
+Total Amount Payable: 2713.9
+
+Terms: Goods once sold will not be taken back.

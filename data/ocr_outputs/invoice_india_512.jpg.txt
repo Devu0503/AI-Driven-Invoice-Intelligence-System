@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2014/0992
+Date: 2021-05-02
+Buyer Name: Jiya Dutta
+Buyer Address: 98/44, Kapadia Nagar, Coimbatore-691005
+PAN No: ABCDE3541F
+GSTIN: 52ABCDE0748Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 831 Amount: %1662
+
+CGST (9%): %149.58
+SGST (9%): 2149.58
+Total Amount Payable: 21961.16
+
+Terms: Goods once sold will not be taken back.

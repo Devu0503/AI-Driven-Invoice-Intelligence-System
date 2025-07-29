@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2060/0695
+Date: 2018-08-15
+Buyer Name: Misha Dasgupta
+Buyer Address: H.No. 750, Date Ganj, Thrissur 304290
+PAN No: ABCDES5134F
+GSTIN: 54ABCDE95622Z31
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 3280 Amount: 280
+CGST (9%): 225.2
+
+SGST (9%): 25.2
+Total Amount Payable: %330.4
+
+Terms: Goods once sold will not be taken back.

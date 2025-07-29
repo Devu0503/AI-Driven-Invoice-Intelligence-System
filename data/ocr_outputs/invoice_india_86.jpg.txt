@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2089/0348
+Date: 1976-07-03
+Buyer Name: Lavanya Chauhan
+Buyer Address: H.No. 07, Dugar Street, Rohtak-243721
+PAN No: ABCDE8147F
+GSTIN: 38ABCDE53902Z41
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 924 Amount: 2772
+
+CGST (9%): %249.48
+SGST (9%): 249.48
+Total Amount Payable: %3270.96
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2069/0221
+Date: 2025-07-12
+Buyer Name: Indranil Biswas
+Buyer Address: H.No. 128, Srinivasan Chowk, Raiganj-544687
+PAN No: ABCDE0765F
+GSTIN: 22ABCDE54372Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3604 Amount: 1208
+
+CGST (9%): %108.72
+SGST (9%): %108.72
+Total Amount Payable: 1425.44
+
+Terms: Goods once sold will not be taken back.

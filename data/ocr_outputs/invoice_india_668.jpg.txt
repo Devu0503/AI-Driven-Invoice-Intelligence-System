@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2077/0374
+Date: 1976-09-13
+Buyer Name: Rania Khanna
+Buyer Address: 68, Bhatt Zila, South Dumdum 925366
+PAN No: ABCDE6139F
+GSTIN: 84ABCDE1657211
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 3236 Amount: 944
+
+CGST (9%): %84.96
+SGST (9%): 84.96
+Total Amount Payable: 1113.92
+
+Terms: Goods once sold will not be taken back.

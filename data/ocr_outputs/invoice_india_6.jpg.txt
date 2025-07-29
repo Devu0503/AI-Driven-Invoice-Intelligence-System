@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2054/0505
+Date: 1997-06-24
+Buyer Name: Abram Vig
+Buyer Address: 552, Sibal Chowk, Gopalpur-446955
+PAN No: ABCDE0974F
+GSTIN: 84ABCDE9398Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 744 Amount: 2232
+
+CGST (9%): %200.88
+SGST (9%): 200.88
+Total Amount Payable: 2633.76
+
+Terms: Goods once sold will not be taken back.

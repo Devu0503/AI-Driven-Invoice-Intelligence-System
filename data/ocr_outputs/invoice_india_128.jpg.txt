@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0948
+Date: 1984-10-02
+Buyer Name: Kavya Dugar
+Buyer Address: 08/141, Hans Circle, Vijayanagaram-614220
+PAN No: ABCDE1635F
+GSTIN: 45ABCDE5937Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 982 Amount: ¥982
+CGST (9%): %88.38
+SGST (9%): %88.38
+Total Amount Payable: 1158.76
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0817
+Date: 2013-11-01
+Buyer Name: Anya Hayer
+Buyer Address: 570, Mani Road, Thoothukudi-840340
+PAN No: ABCDE5888F
+GSTIN: 85ABCDE7767Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 3548 Amount: %1644
+
+CGST (9%): %147.96
+SGST (9%): %147.96
+Total Amount Payable: =1939.92
+
+Terms: Goods once sold will not be taken back.

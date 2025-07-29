@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0323
+Date: 2015-06-13
+Buyer Name: Tiya Tank
+Buyer Address: 62/139, Chhabra Marg, Raipur 446631
+PAN No: ABCDE9267F
+GSTIN: 45ABCDE1094Z01
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 114 Amount: 228
+CGST (9%): %20.52
+
+SGST (9%): 20.52
+Total Amount Payable: 269.04
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0994
+Date: 1984-07-07
+Buyer Name: Tara Balasubramanian
+Buyer Address: H.No. 19, Bhatt Chowk, Thrissur-126625
+PAN No: ABCDE3236F
+GSTIN: 23ABCDE1187Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 114 Amount: 228
+CGST (9%): %20.52
+
+SGST (9%): 20.52
+Total Amount Payable: 269.04
+
+Terms: Goods once sold will not be taken back.

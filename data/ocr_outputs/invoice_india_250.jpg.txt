@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0571
+Date: 1971-04-24
+Buyer Name: Emir Chand
+Buyer Address: H.No. 20, Badal Path, Guntakal-001494
+PAN No: ABCDE4804F
+GSTIN: 85ABCDE87772Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3692 Amount: 1384
+
+CGST (9%): 3124.56
+SGST (9%): 2124.56
+Total Amount Payable: 21633.12
+
+Terms: Goods once sold will not be taken back.

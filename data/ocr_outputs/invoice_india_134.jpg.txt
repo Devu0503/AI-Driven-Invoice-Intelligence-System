@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0833
+Date: 2002-08-03
+Buyer Name: Lavanya Dhawan
+Buyer Address: H.No. 13, Bhatt Zila, Mahbubnagar-014322
+PAN No: ABCDE0534F
+GSTIN: 29ABCDE29552Z91
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 3241 Amount: 482
+CGST (9%): 43.38
+
+SGST (9%): %43.38
+Total Amount Payable: 2568.76
+
+Terms: Goods once sold will not be taken back.

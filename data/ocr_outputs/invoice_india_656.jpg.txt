@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2054/0194
+Date: 1971-08-03
+Buyer Name: Riya Vohra
+Buyer Address: H.No. 046, Rao Ganj, Udupi-055860
+PAN No: ABCDE0729F
+GSTIN: 37ABCDE6340Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: $313 Amount: ¥939
+CGST (9%): %84.51
+SGST (9%): %84.51
+Total Amount Payable: 1108.02
+
+Terms: Goods once sold will not be taken back.

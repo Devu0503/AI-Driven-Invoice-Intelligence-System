@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0947
+Date: 1981-09-16
+Buyer Name: Raunak Dani
+Buyer Address: 86, Magar Chowk, Hosur-153369
+PAN No: ABCDE8473F
+GSTIN: 02ABCDE5861241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $726 Amount: 2904
+
+CGST (9%): %261.36
+SGST (9%): %261.36
+Total Amount Payable: 3426.72
+
+Terms: Goods once sold will not be taken back.

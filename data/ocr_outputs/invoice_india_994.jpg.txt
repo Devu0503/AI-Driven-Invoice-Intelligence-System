@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2069/0898
+Date: 2021-12-26
+Buyer Name: Uthkarsh Sengupta
+Buyer Address: H.No. 09, Mahajan Zila, Bally 156682
+PAN No: ABCDE2642F
+GSTIN: 63ABCDE9242241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 986 Amount: 2958
+
+CGST (9%): %266.22
+SGST (9%): %266.22
+Total Amount Payable: 3490.44
+
+Terms: Goods once sold will not be taken back.

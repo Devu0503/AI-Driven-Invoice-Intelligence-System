@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2014/0149
+Date: 2007-07-19
+Buyer Name: Anya Lall
+Buyer Address: 50/93, Vasa Road, Vasai-Virar-104585
+PAN No: ABCDE5356F
+GSTIN: 0SABCDE5S797Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 3178 Amount: %178
+
+CGST (9%): %16.02
+SGST (9%): %16.02
+Total Amount Payable: 210.04
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0753
+Date: 1999-06-16
+Buyer Name: Akarsh Sahni
+Buyer Address: 83/908, Dada Road, Ramagundam-748975
+PAN No: ABCDE6508F
+GSTIN: 95ABCDE6329Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 452 Amount: 1808
+
+CGST (9%): %162.72
+SGST (9%): 2162.72
+Total Amount Payable: 2133.44
+
+Terms: Goods once sold will not be taken back.

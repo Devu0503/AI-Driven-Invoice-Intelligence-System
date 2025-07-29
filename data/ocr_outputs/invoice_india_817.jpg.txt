@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2073/0257
+Date: 1972-05-14
+Buyer Name: Kashvi Verma
+Buyer Address: 66, Swaminathan Marg, Patna 742680
+PAN No: ABCDE2597F
+GSTIN: 16ABCDE92632Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3117 Amount: 234
+
+CGST (9%): %21.06
+SGST (9%): 21.06
+Total Amount Payable: 2276.12
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2049/0211
+Date: 2020-09-14
+Buyer Name: Hansh Kalita
+Buyer Address: 03/65, Sangha Circle, Sirsa-459421
+PAN No: ABCDE7735F
+GSTIN: 42ABCDE71782Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 402 Amount: 2010
+
+CGST (9%): %180.9
+SGST (9%): 180.9
+Total Amount Payable: %2371.8
+
+Terms: Goods once sold will not be taken back.

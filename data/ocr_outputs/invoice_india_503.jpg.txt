@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2079/0687
+Date: 1992-08-25
+Buyer Name: Tarini Bail
+Buyer Address: 971, Choudhry Road, Hosur 125532
+PAN No: ABCDE0241F
+GSTIN: 81ABCDE09682Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3656 Amount: 1312
+
+CGST (9%): %118.08
+SGST (9%): %118.08
+Total Amount Payable: 1548.16
+
+Terms: Goods once sold will not be taken back.

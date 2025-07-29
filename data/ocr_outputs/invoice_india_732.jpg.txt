@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0484
+Date: 1981-12-30
+Buyer Name: Aarush Dhawan
+Buyer Address: 84, Chaudhary Chowk, Berhampore-013730
+PAN No: ABCDE4930F
+GSTIN: 34ABCDE5471Z01
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 453 Amount: ¥906
+CGST (9%): %81.54
+
+SGST (9%): 81.54
+Total Amount Payable: =1069.08
+
+Terms: Goods once sold will not be taken back.

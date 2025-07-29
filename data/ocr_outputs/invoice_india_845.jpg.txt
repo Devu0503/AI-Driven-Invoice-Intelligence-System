@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2057/0914
+Date: 2017-05-02
+Buyer Name: Vihaan Borah
+Buyer Address: 17/258, Chadha Circle, Aurangabad-958356
+PAN No: ABCDE1205F
+GSTIN: 75ABCDE4660Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 3512 Amount: 2048
+
+CGST (9%): %184.32
+SGST (9%): %184.32
+Total Amount Payable: 2416.64
+
+Terms: Goods once sold will not be taken back.

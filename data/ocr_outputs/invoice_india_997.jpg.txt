@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2038/0249
+Date: 2005-07-29
+Buyer Name: Farhan Chaudry
+Buyer Address: H.No. 51, Khanna Road, Erode-298165
+PAN No: ABCDE4870F
+GSTIN: 24ABCDE90512Z71
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 260 Amount: 260
+CGST (9%): 223.4
+
+SGST (9%): 23.4
+Total Amount Payable: %306.8
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2062/0166
+Date: 2009-03-14
+Buyer Name: Shaan Ravi
+Buyer Address: 773, Chaudhry Marg, Amaravati-988223
+PAN No: ABCDE8213F
+GSTIN: 23ABCDE5778Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: $812 Amount: 812
+
+CGST (9%): %73.08
+SGST (9%): 73.08
+Total Amount Payable: %958.16
+
+Terms: Goods once sold will not be taken back.

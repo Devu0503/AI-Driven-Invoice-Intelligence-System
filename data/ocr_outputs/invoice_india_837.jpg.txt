@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2084/0466
+Date: 2008-12-07
+Buyer Name: Vihaan Sankaran
+Buyer Address: 52/15, Seth Street, Ghaziabad 290774
+PAN No: ABCDE2350F
+GSTIN: 82ABCDE5891Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 877 Amount: 1754
+
+CGST (9%): %157.86
+SGST (9%): 2157.86
+Total Amount Payable: 2069.72
+
+Terms: Goods once sold will not be taken back.

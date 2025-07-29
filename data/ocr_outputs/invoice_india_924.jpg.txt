@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0606
+Date: 2022-12-14
+Buyer Name: Hridaan Mangal
+Buyer Address: 695, Seshadri Path, Guntakal-095576
+PAN No: ABCDE7675F
+GSTIN: 64ABCDE7499Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 3237 Amount: 474
+CGST (9%): %42.66
+
+SGST (9%): %42.66
+Total Amount Payable: %559.32
+
+Terms: Goods once sold will not be taken back.

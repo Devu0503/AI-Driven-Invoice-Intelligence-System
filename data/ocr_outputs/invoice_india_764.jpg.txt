@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2032/0854
+Date: 2000-07-17
+Buyer Name: Yashvi Raju
+Buyer Address: 34/651, Sanghvi Street, Erode 225549
+PAN No: ABCDE4866F
+GSTIN: 35ABCDE4348Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 486 Amount: 2430
+CGST (9%): 8218.7
+
+SGST (9%): 218.7
+Total Amount Payable: 2867.4
+
+Terms: Goods once sold will not be taken back.

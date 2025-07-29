@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0288
+Date: 1976-11-06
+Buyer Name: Indranil Sami
+Buyer Address: 088, Dasgupta Zila, Pudukkottai 124999
+PAN No: ABCDES909F
+GSTIN: 17ABCDE29412Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3501 Amount: 2505
+
+CGST (9%): %225.45
+SGST (9%): 225.45
+Total Amount Payable: 2955.9
+
+Terms: Goods once sold will not be taken back.

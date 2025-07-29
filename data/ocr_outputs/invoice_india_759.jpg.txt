@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0468
+Date: 2005-10-06
+Buyer Name: Mamooty Yogi
+Buyer Address: H.No. 610, Bir Circle, Kota-229434
+PAN No: ABCDE8271F
+GSTIN: 83ABCDE0796Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3222 Amount: 222
+
+CGST (9%): %19.98
+SGST (9%): 19.98
+Total Amount Payable: %261.96
+
+Terms: Goods once sold will not be taken back.

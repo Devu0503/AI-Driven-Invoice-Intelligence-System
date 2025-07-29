@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2057/0636
+Date: 1987-10-09
+Buyer Name: Yuvaan Banik
+Buyer Address: 72/96, Chaudhuri Zila, Agra 037256
+PAN No: ABCDE6081F
+GSTIN: 17ABCDE52262Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 969 Amount: 3876
+
+CGST (9%): %348.84
+SGST (9%): 348.84
+Total Amount Payable: %4573.68
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2088/0746
+Date: 2000-11-18
+Buyer Name: Vedika Srinivasan
+Buyer Address: 73, Walia Ganj, Gulbarga-265167
+PAN No: ABCDE0621F
+GSTIN: 11ABCDE4612241
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 949 Amount: 2847
+
+CGST (9%): %256.23
+SGST (9%): %256.23
+Total Amount Payable: 3359.46
+
+Terms: Goods once sold will not be taken back.

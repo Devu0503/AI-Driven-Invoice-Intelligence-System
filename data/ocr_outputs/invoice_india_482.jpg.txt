@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2067/0789
+Date: 2001-09-20
+Buyer Name: Aaina Chaudry
+Buyer Address: 35/659, Deshpande Zila, Haldia-718782
+PAN No: ABCDE3456F
+GSTIN: 16ABCDE0407221
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 3666 Amount: %666
+CGST (9%): 859.94
+
+SGST (9%): %59.94
+Total Amount Payable: 2785.88
+
+Terms: Goods once sold will not be taken back.

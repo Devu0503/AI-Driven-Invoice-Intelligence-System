@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2000/0179
+Date: 1994-10-16
+Buyer Name: Ishaan Dar
+Buyer Address: 841, Varghese Marg, Indore 417357
+PAN No: ABCDE3097F
+GSTIN: 15ABCDE13872Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: $876 Amount: 2628
+
+CGST (9%): %236.52
+SGST (9%): %236.52
+Total Amount Payable: %3101.04
+
+Terms: Goods once sold will not be taken back.

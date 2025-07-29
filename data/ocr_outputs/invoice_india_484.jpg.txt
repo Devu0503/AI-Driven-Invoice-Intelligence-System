@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2033/0287
+Date: 1982-12-10
+Buyer Name: Devansh Gade
+Buyer Address: H.No. 905, Sane Marg, Ujjain-300279
+PAN No: ABCDE1002F
+GSTIN: 85ABCDE3807241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: $897 Amount: %2691
+
+CGST (9%): %242.19
+SGST (9%): 8242.19
+Total Amount Payable: 3175.38
+
+Terms: Goods once sold will not be taken back.

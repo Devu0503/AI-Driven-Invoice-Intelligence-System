@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2094/0887
+Date: 2010-11-17
+Buyer Name: Jayan Sura
+Buyer Address: 11, Sidhu Zila, Ghaziabad 620199
+PAN No: ABCDE2681F
+GSTIN: 55ABCDE4864Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: $379 Amount: 1137
+
+CGST (9%): %102.33
+SGST (9%): %102.33
+Total Amount Payable: 21341.66
+
+Terms: Goods once sold will not be taken back.

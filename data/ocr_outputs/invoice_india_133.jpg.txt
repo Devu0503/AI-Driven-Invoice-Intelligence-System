@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2050/0210
+Date: 1984-02-07
+Buyer Name: Aaina Soni
+Buyer Address: 26, Sami, Sikar-430007
+PAN No: ABCDE0355F
+GSTIN: 02ABCDE2473Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3687 Amount: 1374
+
+CGST (9%): %123.66
+SGST (9%): 2123.66
+Total Amount Payable: 21621.32
+
+Terms: Goods once sold will not be taken back.

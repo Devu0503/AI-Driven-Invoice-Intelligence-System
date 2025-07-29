@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2015/0708
+Date: 1980-04-16
+Buyer Name: Jayesh Bajaj
+Buyer Address: 052, Som Ganj, Proddatur-640932
+PAN No: ABCDE2143F
+GSTIN: 27ABCDE19592Z81
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 3210 Amount: 1050
+CGST (9%): 294.5
+
+SGST (9%): 94.5
+Total Amount Payable: %1239.0
+
+Terms: Goods once sold will not be taken back.

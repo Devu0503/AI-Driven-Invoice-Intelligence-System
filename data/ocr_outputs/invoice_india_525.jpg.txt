@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2028/0213
+Date: 1973-08-16
+Buyer Name: Aarush Dhingra
+Buyer Address: H.No. 848, Choudhary, Bhagalpur 117509
+PAN No: ABCDE7157F
+GSTIN: 7OABCDE7940Z51
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 750 Amount: 3750
+CGST (9%): %337.5
+
+SGST (9%): 337.5
+Total Amount Payable: %4425.0
+
+Terms: Goods once sold will not be taken back.

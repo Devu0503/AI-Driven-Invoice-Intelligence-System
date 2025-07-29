@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2005/0227
+Date: 1988-04-16
+Buyer Name: Jayesh Bava
+Buyer Address: 84/95, Devi Nagar, Farrukhabad-217327
+PAN No: ABCDE0653F
+GSTIN: 89ABCDE2088Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 991 Amount: 4955
+
+CGST (9%): %445.95
+SGST (9%): 445.95
+Total Amount Payable: %5846.9
+
+Terms: Goods once sold will not be taken back.

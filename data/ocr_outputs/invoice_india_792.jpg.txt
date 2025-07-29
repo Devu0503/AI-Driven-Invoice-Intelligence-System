@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0744
+Date: 1985-01-27
+Buyer Name: Vanya Agate
+Buyer Address: H.No. 267, Ganesh Ganj, Patiala 609362
+PAN No: ABCDE8735F
+GSTIN: 22ABCDE7191241
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 396 Amount: =1980
+CGST (9%): %178.2
+
+SGST (9%): 178.2
+Total Amount Payable: 2336.4
+
+Terms: Goods once sold will not be taken back.

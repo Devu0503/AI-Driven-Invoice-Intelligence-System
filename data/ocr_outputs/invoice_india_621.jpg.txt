@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0654
+Date: 1976-05-20
+Buyer Name: Suhana Bhattacharyya
+Buyer Address: 10/627, Balasubramanian Circle, Gangtok-166038
+PAN No: ABCDE8145F
+GSTIN: 32ABCDE76332Z41
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 970 Amount: 1940
+CGST (9%): 3174.6
+
+SGST (9%): 174.6
+Total Amount Payable: %2289.2
+
+Terms: Goods once sold will not be taken back.

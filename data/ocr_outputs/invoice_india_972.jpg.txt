@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2085/0592
+Date: 2023-06-12
+Buyer Name: Hridaan Upadhyay
+Buyer Address: 14/97, Bhalla Marg, Kadapa 634829
+PAN No: ABCDE4091F
+GSTIN: 86ABCDE3777Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 795 Amount: =1590
+
+CGST (9%): %143.1
+SGST (9%): %143.1
+Total Amount Payable: 21876.2
+
+Terms: Goods once sold will not be taken back.

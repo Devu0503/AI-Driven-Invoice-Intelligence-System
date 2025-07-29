@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2089/0314
+Date: 1980-09-06
+Buyer Name: Advik Dar
+Buyer Address: 92, lyengar Road, Bhopal 930046
+PAN No: ABCDE0106F
+GSTIN: 73ABCDE6469Z91
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 468 Amount: 936
+CGST (9%): %84.24
+SGST (9%): 84.24
+Total Amount Payable: 1104.48
+
+Terms: Goods once sold will not be taken back.

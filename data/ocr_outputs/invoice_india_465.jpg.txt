@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0413
+Date: 2004-02-04
+Buyer Name: Anahi Rana
+Buyer Address: 11/74, Khare Nagar, Durg-221965
+PAN No: ABCDE5305F
+GSTIN: 87ABCDE0840Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 351 Amount: =702
+CGST (9%): %63.18
+
+SGST (9%): 63.18
+Total Amount Payable: %828.36
+
+Terms: Goods once sold will not be taken back.

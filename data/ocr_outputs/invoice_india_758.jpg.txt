@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2005/0770
+Date: 1989-12-18
+Buyer Name: Mohanlal Bhagat
+Buyer Address: H.No. 552, Mani Circle, Satara-860546
+PAN No: ABCDE5209F
+GSTIN: 53ABCDE4476Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3109 Amount: 545
+
+CGST (9%): %49.05
+SGST (9%): %49.05
+Total Amount Payable: 2643.1
+
+Terms: Goods once sold will not be taken back.

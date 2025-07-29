@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2049/0292
+Date: 1986-08-17
+Buyer Name: Divyansh Sridhar
+Buyer Address: 23/329, Sahni Ganj, Jalna 144871
+PAN No: ABCDE2683F
+GSTIN: O6ABCDE3496Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 849 Amount: 1698
+
+CGST (9%): %152.82
+SGST (9%): 2152.82
+Total Amount Payable: 2003.64
+
+Terms: Goods once sold will not be taken back.

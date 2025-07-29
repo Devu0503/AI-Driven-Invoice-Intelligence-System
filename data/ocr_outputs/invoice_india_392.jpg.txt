@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0244
+Date: 1991-04-10
+Buyer Name: Urvi Balakrishnan
+Buyer Address: H.No. 363, Sagar, Hospet 595149
+PAN No: ABCDE9395F
+GSTIN: 14ABCDE22682Z51
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: 3132 Amount: ¥396
+CGST (9%): %35.64
+
+SGST (9%): %35.64
+Total Amount Payable: 2467.28
+
+Terms: Goods once sold will not be taken back.

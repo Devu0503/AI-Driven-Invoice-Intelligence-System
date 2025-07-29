@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0003
+Date: 1982-06-25
+Buyer Name: Mannat Hari
+Buyer Address: H.No. 597, Doctor Chowk, Jaunpur 807118
+PAN No: ABCDE5574F
+GSTIN: 27ABCDE4114Z81
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 4 Rate: 130 Amount: 520
+CGST (9%): 246.8
+
+SGST (9%): 246.8
+Total Amount Payable: %613.6
+
+Terms: Goods once sold will not be taken back.

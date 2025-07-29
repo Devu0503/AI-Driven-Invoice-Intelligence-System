@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0629
+Date: 2016-05-18
+Buyer Name: Prerak Bala
+Buyer Address: H.No. 29, Sha, Gandhinagar-694700
+PAN No: ABCDE7335F
+GSTIN: 99ABCDE2234Z71
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 790 Amount: =790
+CGST (9%): 271.1
+
+SGST (9%): 271.1
+Total Amount Payable: %932.2
+
+Terms: Goods once sold will not be taken back.

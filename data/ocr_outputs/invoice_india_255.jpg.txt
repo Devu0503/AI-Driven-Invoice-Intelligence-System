@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0193
+Date: 2004-02-19
+Buyer Name: Priyansh Sekhon
+Buyer Address: 90/555, Chaudry Chowk, Dhanbad-499966
+PAN No: ABCDE9154F
+GSTIN: 94ABCDE5702Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 3631 Amount: 1262
+
+CGST (9%): %113.58
+SGST (9%): 2113.58
+Total Amount Payable: 1489.16
+
+Terms: Goods once sold will not be taken back.

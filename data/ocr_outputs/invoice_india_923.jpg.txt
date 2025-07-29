@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0490
+Date: 1974-05-07
+Buyer Name: Priyansh Hora
+Buyer Address: H.No. 999, Chaudhuri Zila, Varanasi-285944
+PAN No: ABCDE4836F
+GSTIN: 33ABCDE5392Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 792 Amount: 3168
+
+CGST (9%): %285.12
+SGST (9%): 285.12
+Total Amount Payable: 3738.24
+
+Terms: Goods once sold will not be taken back.

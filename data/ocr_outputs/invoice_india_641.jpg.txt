@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0792
+Date: 2013-12-18
+Buyer Name: Jayant Reddy
+Buyer Address: 97, Sen Circle, Hapur-486036
+PAN No: ABCDE6614F
+GSTIN: 07ABCDE3892Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 3619 Amount: 1857
+
+CGST (9%): %167.13
+SGST (9%): 2167.13
+Total Amount Payable: 2191.26
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2013/0984
+Date: 2004-02-13
+Buyer Name: Drishya Date
+Buyer Address: 45/86, Dua, Bhusawal 246509
+PAN No: ABCDE3539F
+GSTIN: 16ABCDE9305221
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 964 Amount: 2892
+
+CGST (9%): %260.28
+SGST (9%): %260.28
+Total Amount Payable: 3412.56
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2047/0331
+Date: 1973-05-31
+Buyer Name: Zara Batta
+Buyer Address: 34/528, Sachdeva Marg, Jamshedpur 914096
+PAN No: ABCDE9004F
+GSTIN: 14ABCDE00662Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: 941 Amount: %941
+
+CGST (9%): %84.69
+SGST (9%): 84.69
+Total Amount Payable: 1110.38
+
+Terms: Goods once sold will not be taken back.

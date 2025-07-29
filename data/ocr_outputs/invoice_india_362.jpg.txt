@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2085/0519
+Date: 1978-05-29
+Buyer Name: Sahil Shenoy
+Buyer Address: 41, Bora Circle, Ghaziabad 131414
+PAN No: ABCDE6174F
+GSTIN: O6ABCDE1449211
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: $328 Amount: 71312
+
+CGST (9%): %118.08
+SGST (9%): %118.08
+Total Amount Payable: 1548.16
+
+Terms: Goods once sold will not be taken back.

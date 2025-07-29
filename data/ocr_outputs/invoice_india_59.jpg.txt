@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0807
+Date: 2021-04-16
+Buyer Name: Advik Varughese
+Buyer Address: H.No. 62, Jna Road, Patna 710579
+PAN No: ABCDE9775F
+GSTIN: 24ABCDE84282Z21
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 4 Rate: 995 Amount: ¥3980
+CGST (9%): %358.2
+
+SGST (9%): 358.2
+Total Amount Payable: %4696.4
+
+Terms: Goods once sold will not be taken back.

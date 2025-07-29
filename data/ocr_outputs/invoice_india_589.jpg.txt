@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0624
+Date: 1983-02-01
+Buyer Name: Rati Vasa
+Buyer Address: 037, Chand Zila, Kottayam 825803
+PAN No: ABCDE8074F
+GSTIN: 20ABCDE8814Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 3753 Amount: 1506
+
+CGST (9%): %135.54
+SGST (9%): 2135.54
+Total Amount Payable: 21777.08
+
+Terms: Goods once sold will not be taken back.

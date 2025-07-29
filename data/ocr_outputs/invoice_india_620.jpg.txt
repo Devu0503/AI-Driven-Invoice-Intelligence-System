@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2084/0333
+Date: 1988-08-20
+Buyer Name: Inaaya Lall
+Buyer Address: 13/59, Suri Ganj, Ghaziabad 979385
+PAN No: ABCDE8065F
+GSTIN: 25ABCDE38152Z81
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: $316 Amount: 316
+CGST (9%): %28.44
+
+SGST (9%): %28.44
+Total Amount Payable: %372.88
+
+Terms: Goods once sold will not be taken back.

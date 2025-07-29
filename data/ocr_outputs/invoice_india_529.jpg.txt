@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2077/0474
+Date: 1972-10-01
+Buyer Name: Kanav Balay
+Buyer Address: 196, Dewan Marg, Delhi 626197
+PAN No: ABCDE4155F
+GSTIN: 60ABCDE6237Z61
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 5 Rate: 388 Amount: =1940
+CGST (9%): 3174.6
+
+SGST (9%): 174.6
+Total Amount Payable: %2289.2
+
+Terms: Goods once sold will not be taken back.

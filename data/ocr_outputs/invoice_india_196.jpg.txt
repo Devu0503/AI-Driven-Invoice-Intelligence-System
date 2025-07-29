@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2067/0343
+Date: 1974-06-14
+Buyer Name: Suhana Sundaram
+Buyer Address: 580, Balakrishnan Circle, Hajipur 666730
+PAN No: ABCDE9974F
+GSTIN: 54ABCDE48402Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 866 Amount: 4330
+
+CGST (9%): %389.7
+SGST (9%): 389.7
+Total Amount Payable: %5109.4
+
+Terms: Goods once sold will not be taken back.

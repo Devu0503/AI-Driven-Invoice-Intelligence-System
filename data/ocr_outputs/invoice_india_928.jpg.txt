@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2090/0164
+Date: 2019-07-20
+Buyer Name: Darshit Srinivasan
+Buyer Address: 31, Sami Path, Thane 396033
+PAN No: ABCDE3356F
+GSTIN: 37ABCDE2114Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 971 Amount: 2913
+
+CGST (9%): %262.17
+SGST (9%): 262.17
+Total Amount Payable: %3437.34
+
+Terms: Goods once sold will not be taken back.

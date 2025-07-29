@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2015/0843
+Date: 2019-11-04
+Buyer Name: Jayant Kapadia
+Buyer Address: 605, Boase Marg, Ujjain-865792
+PAN No: ABCDE2752F
+GSTIN: 07ABCDE1775271
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 842 Amount: 4210
+CGST (9%): %378.9
+
+SGST (9%): 378.9
+Total Amount Payable: %4967.8
+
+Terms: Goods once sold will not be taken back.

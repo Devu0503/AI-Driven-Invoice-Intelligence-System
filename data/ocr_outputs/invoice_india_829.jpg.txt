@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2047/0183
+Date: 1990-10-17
+Buyer Name: Mahika Madan
+Buyer Address: 86, Sawhney Circle, Sambalpur 149972
+PAN No: ABCDE9321F
+GSTIN: 72ABCDE3409Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 920 Amount: 1840
+
+CGST (9%): %165.6
+SGST (9%): 2165.6
+Total Amount Payable: 22171.2
+
+Terms: Goods once sold will not be taken back.

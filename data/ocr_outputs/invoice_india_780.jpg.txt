@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0524
+Date: 1971-11-02
+Buyer Name: Anya Boase
+Buyer Address: 423, Anne Street, Raebareli 575679
+PAN No: ABCDE8499F
+GSTIN: 53ABCDE8418Z61
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: 3270 Amount: 810
+CGST (9%): 272.9
+
+SGST (9%): 272.9
+Total Amount Payable: %955.8
+
+Terms: Goods once sold will not be taken back.

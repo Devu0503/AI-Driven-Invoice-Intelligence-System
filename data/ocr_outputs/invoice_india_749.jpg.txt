@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2077/0465
+Date: 2017-05-07
+Buyer Name: Lakshit Chada
+Buyer Address: 33, Sengupta Path, Kamarhati-090843
+PAN No: ABCDE6988F
+GSTIN: 88ABCDE75132Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3604 Amount: 2416
+
+CGST (9%): 8217.44
+SGST (9%): 8217.44
+Total Amount Payable: 2850.88
+
+Terms: Goods once sold will not be taken back.

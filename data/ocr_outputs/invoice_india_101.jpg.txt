@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2088/0959
+Date: 1995-10-31
+Buyer Name: Tanya Kota
+Buyer Address: H.No. 78, Bumb, Madhyamgram 384621
+PAN No: ABCDE1034F
+GSTIN: 07ABCDE0055291
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 881 Amount: 1762
+
+CGST (9%): %158.58
+SGST (9%): 2158.58
+Total Amount Payable: 2079.16
+
+Terms: Goods once sold will not be taken back.

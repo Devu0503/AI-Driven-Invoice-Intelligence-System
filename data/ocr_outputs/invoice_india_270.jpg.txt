@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0052
+Date: 2020-05-01
+Buyer Name: Miraya Majumdar
+Buyer Address: 181, Raju Nagar, Pudukkottai-757317
+PAN No: ABCDE6030F
+GSTIN: 12ABCDE50772Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 864 Amount: 3456
+
+CGST (9%): %311.04
+SGST (9%): %311.04
+Total Amount Payable: 4078.08
+
+Terms: Goods once sold will not be taken back.

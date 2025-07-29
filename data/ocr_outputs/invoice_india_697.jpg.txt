@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2037/0708
+Date: 1976-02-19
+Buyer Name: Heer Lad
+Buyer Address: 43/554, Singhal Chowk, Begusarai 771535
+PAN No: ABCDE2115F
+GSTIN: 96ABCDE1536221
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: $933 Amount: ¥3732
+
+CGST (9%): %335.88
+SGST (9%): %335.88
+Total Amount Payable: 4403.76
+
+Terms: Goods once sold will not be taken back.

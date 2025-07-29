@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0879
+Date: 2017-06-22
+Buyer Name: Renee Yadav
+Buyer Address: H.No. 66, Kari Marg, Eluru 099284
+PAN No: ABCDE0314F
+GSTIN: 76ABCDE4282221
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 4 Rate: 480 Amount: 1920
+CGST (9%): 3172.8
+
+SGST (9%): 172.8
+Total Amount Payable: 2265.6
+
+Terms: Goods once sold will not be taken back.

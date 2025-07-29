@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2052/0320
+Date: 1976-02-26
+Buyer Name: Hunar Subramaniam
+Buyer Address: H.No. 942, Batra Marg, Hospet-425847
+PAN No: ABCDE7636F
+GSTIN: 32ABCDE9421Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3614 Amount: 1228
+
+CGST (9%): %110.52
+SGST (9%): 2110.52
+Total Amount Payable: =1449.04
+
+Terms: Goods once sold will not be taken back.

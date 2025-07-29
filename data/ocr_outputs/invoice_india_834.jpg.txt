@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2001/0656
+Date: 1980-06-18
+Buyer Name: Saanvi Rastogi
+Buyer Address: H.No. 55, Deol Street, Tiruchirappalli 100620
+PAN No: ABCDE8200F
+GSTIN: 08ABCDE96712Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 478 Amount: 1434
+
+CGST (9%): %129.06
+SGST (9%): 2129.06
+Total Amount Payable: 21692.12
+
+Terms: Goods once sold will not be taken back.

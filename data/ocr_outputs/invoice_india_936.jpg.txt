@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2072/0799
+Date: 2004-05-03
+Buyer Name: Myra Banerjee
+Buyer Address: 98/47, Devi Zila, Madhyamgram-355045
+PAN No: ABCDE6231F
+GSTIN: 55ABCDE5273Z61
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 490 Amount: ¥980
+CGST (9%): %88.2
+SGST (9%): 388.2
+Total Amount Payable: 21156.4
+
+Terms: Goods once sold will not be taken back.

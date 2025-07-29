@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2093/0645
+Date: 2011-02-27
+Buyer Name: Ishita Ramaswamy
+Buyer Address: H.No. 118, Dasgupta Circle, Nangloi Jat-694382
+PAN No: ABCDE3008F
+GSTIN: S56ABCDE0225261
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 404 Amount: 71616
+
+CGST (9%): %145.44
+SGST (9%): 2145.44
+Total Amount Payable: =1906.88
+
+Terms: Goods once sold will not be taken back.

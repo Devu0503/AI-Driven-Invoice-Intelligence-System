@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2027/0187
+Date: 1990-08-31
+Buyer Name: Yuvraj Taneja
+Buyer Address: H.No. 40, Vasa Marg, Muzaffarpur 564331
+PAN No: ABCDE0388F
+GSTIN: 89ABCDE4355241
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: $293 Amount: 293
+CGST (9%): %26.37
+
+SGST (9%): 26.37
+Total Amount Payable: %345.74
+
+Terms: Goods once sold will not be taken back.

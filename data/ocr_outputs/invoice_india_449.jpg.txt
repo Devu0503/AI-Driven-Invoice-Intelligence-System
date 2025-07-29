@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2084/0556
+Date: 1999-05-22
+Buyer Name: Ira Basu
+Buyer Address: H.No. 387, Sem, Ranchi-853044
+PAN No: ABCDE4257F
+GSTIN: 88ABCDE3932Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 763 Amount: ¥3052
+
+CGST (9%): %274.68
+SGST (9%): 8274.68
+Total Amount Payable: 3601.36
+
+Terms: Goods once sold will not be taken back.

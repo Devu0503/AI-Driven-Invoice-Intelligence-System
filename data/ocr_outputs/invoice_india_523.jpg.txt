@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0951
+Date: 1991-05-23
+Buyer Name: Zoya Sarma
+Buyer Address: 65/940, Manda Chowk, Nashik-333000
+PAN No: ABCDE1204F
+GSTIN: 57ABCDE0650Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 3724 Amount: 1448
+
+CGST (9%): %130.32
+SGST (9%): %130.32
+Total Amount Payable: 1708.64
+
+Terms: Goods once sold will not be taken back.

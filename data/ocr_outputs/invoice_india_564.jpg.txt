@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0132
+Date: 1982-09-21
+Buyer Name: Bhamini Khatri
+Buyer Address: 81/592, Chawla, Bareilly 671133
+PAN No: ABCDE2970F
+GSTIN: 55ABCDE79432Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 338 Amount: %676
+CGST (9%): %60.84
+
+SGST (9%): 60.84
+Total Amount Payable: 2797.68
+
+Terms: Goods once sold will not be taken back.

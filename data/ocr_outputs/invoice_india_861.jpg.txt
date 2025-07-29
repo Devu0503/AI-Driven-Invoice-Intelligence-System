@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2004/0884
+Date: 1984-03-31
+Buyer Name: Akarsh Sachar
+Buyer Address: H.No. 249, Bala Road, Shahjahanpur 523729
+PAN No: ABCDE6276F
+GSTIN: 23ABCDE5105Z81
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 944 Amount: 4720
+CGST (9%): %424.8
+
+SGST (9%): %424.8
+Total Amount Payable: %5569.6
+
+Terms: Goods once sold will not be taken back.

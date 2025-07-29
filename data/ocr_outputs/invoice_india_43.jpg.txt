@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0041
+Date: 1971-11-17
+Buyer Name: Jhanvi Gole
+Buyer Address: H.No. 48, Sarkar Street, Yamunanagar-591570
+PAN No: ABCDE4026F
+GSTIN: 72ABCDE8398Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 3578 Amount: 1734
+
+CGST (9%): %156.06
+SGST (9%): %156.06
+Total Amount Payable: 2046.12
+
+Terms: Goods once sold will not be taken back.

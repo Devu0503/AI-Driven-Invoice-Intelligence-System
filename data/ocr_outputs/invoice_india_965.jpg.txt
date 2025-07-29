@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2017/0672
+Date: 2011-11-16
+Buyer Name: Piya Trivedi
+Buyer Address: 39/93, Lall Nagar, Jhansi 663116
+PAN No: ABCDE0377F
+GSTIN: 03ABCDE9689241
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 3588 Amount: 1176
+
+CGST (9%): %105.84
+SGST (9%): %105.84
+Total Amount Payable: 21387.68
+
+Terms: Goods once sold will not be taken back.

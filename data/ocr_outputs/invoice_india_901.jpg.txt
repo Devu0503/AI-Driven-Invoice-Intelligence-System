@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2014/0419
+Date: 2011-02-27
+Buyer Name: Aaryahi Manne
+Buyer Address: H.No. 151, Sodhi Ganj, Farrukhabad 147316
+PAN No: ABCDE6333F
+GSTIN: 19ABCDE24322Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 999 Amount: 4995
+
+CGST (9%): %449.55
+SGST (9%): 449.55
+Total Amount Payable: %5894.1
+
+Terms: Goods once sold will not be taken back.

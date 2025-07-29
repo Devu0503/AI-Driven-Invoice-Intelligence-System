@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2099/0489
+Date: 1989-03-13
+Buyer Name: Shlok Gaba
+Buyer Address: 57/580, Ramaswamy Nagar, Gopalpur-433834
+PAN No: ABCDE1249F
+GSTIN: 63ABCDE69522Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3529 Amount: 2116
+
+CGST (9%): %190.44
+SGST (9%): %190.44
+Total Amount Payable: 2496.88
+
+Terms: Goods once sold will not be taken back.

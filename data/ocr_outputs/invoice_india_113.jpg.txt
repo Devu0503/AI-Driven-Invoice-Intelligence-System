@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0390
+Date: 1991-05-07
+Buyer Name: Himmat Agarwal
+Buyer Address: H.No. 698, Vohra Chowk, Bijapur-349805
+PAN No: ABCDE0773F
+GSTIN: 17ABCDE0542221
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3294 Amount: 1470
+
+CGST (9%): %132.3
+SGST (9%): %132.3
+Total Amount Payable: 21734.6
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0087
+Date: 1996-03-20
+Buyer Name: Vanya Tripathi
+Buyer Address: 413, Yadav Chowk, Jalgaon-010588
+PAN No: ABCDE0858F
+GSTIN: 57ABCDE0672241
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 892 Amount: 4460
+CGST (9%): %401.4
+
+SGST (9%): 401.4
+Total Amount Payable: %5262.8
+
+Terms: Goods once sold will not be taken back.

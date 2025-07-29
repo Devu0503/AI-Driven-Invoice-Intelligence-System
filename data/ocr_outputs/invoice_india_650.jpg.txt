@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0539
+Date: 1999-11-10
+Buyer Name: Keya Hayre
+Buyer Address: 948, Gour Ganj, Shahjahanpur-648266
+PAN No: ABCDE7980F
+GSTIN: 18ABCDE43292Z61
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 122 Amount: %610
+CGST (9%): 254.9
+
+SGST (9%): 54.9
+Total Amount Payable: 2719.8
+
+Terms: Goods once sold will not be taken back.

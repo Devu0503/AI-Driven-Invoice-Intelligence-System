@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2002/0800
+Date: 2024-12-01
+Buyer Name: Keya Ramanathan
+Buyer Address: 15/44, Dass Street, Secunderabad-675156
+PAN No: ABCDE7339F
+GSTIN: 11ABCDE44092Z01
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 3523 Amount: 1046
+CGST (9%): %94.14
+
+SGST (9%): %94.14
+Total Amount Payable: 1234.28
+
+Terms: Goods once sold will not be taken back.

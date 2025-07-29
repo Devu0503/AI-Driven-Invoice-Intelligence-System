@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2080/0927
+Date: 2007-03-05
+Buyer Name: Ivan Jaggi
+Buyer Address: 26/58, Shan Marg, Gaya-139631
+PAN No: ABCDE1740F
+GSTIN: 06ABCDE3152Z31
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 3 Rate: 290 Amount: 870
+CGST (9%): 278.3
+
+SGST (9%): 278.3
+Total Amount Payable: %1026.6
+
+Terms: Goods once sold will not be taken back.

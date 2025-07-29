@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0018
+Date: 1994-07-10
+Buyer Name: Lagan Kapoor
+Buyer Address: 242, Bhatti, Jamalpur 955137
+PAN No: ABCDE8686F
+GSTIN: 35ABCDE58032Z21
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 424 Amount: 424
+CGST (9%): %38.16
+
+SGST (9%): %38.16
+Total Amount Payable: %500.32
+
+Terms: Goods once sold will not be taken back.

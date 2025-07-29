@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0196
+Date: 1997-03-25
+Buyer Name: Faiyaz Sunder
+Buyer Address: 286, Barad Ganj, Coimbatore-776195
+PAN No: ABCDE6342F
+GSTIN: 37ABCDE7330Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 815 Amount: =1630
+
+CGST (9%): %146.7
+SGST (9%): 2146.7
+Total Amount Payable: %1923.4
+
+Terms: Goods once sold will not be taken back.

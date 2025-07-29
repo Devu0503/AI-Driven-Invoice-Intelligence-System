@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2041/0277
+Date: 1987-07-12
+Buyer Name: Rhea Edwin
+Buyer Address: H.No. 97, Master Ganj, Rajpur Sonarpur 432931
+PAN No: ABCDE8730F
+GSTIN: 23ABCDE8218Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: $917 Amount: %2751
+
+CGST (9%): %247.59
+SGST (9%): 247.59
+Total Amount Payable: 3246.18
+
+Terms: Goods once sold will not be taken back.

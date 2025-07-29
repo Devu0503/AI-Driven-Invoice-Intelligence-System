@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0592
+Date: 1991-11-29
+Buyer Name: Mehul Sama
+Buyer Address: 14, Gill Ganj, Indore-189743
+PAN No: ABCDE4400F
+GSTIN: 85ABCDE3444Z61
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 3 Rate: 339 Amount: 1017
+CGST (9%): %91.53
+
+SGST (9%): %91.53
+Total Amount Payable: =1200.06
+
+Terms: Goods once sold will not be taken back.

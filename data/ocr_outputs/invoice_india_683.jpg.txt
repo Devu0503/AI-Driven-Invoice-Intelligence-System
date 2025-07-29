@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2027/0364
+Date: 1978-10-15
+Buyer Name: Nirvi Randhawa
+Buyer Address: 48, Viswanathan Marg, Raiganj-202665
+PAN No: ABCDE8997F
+GSTIN: O6ABCDE8488Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 741 Amount: 2964
+
+CGST (9%): %266.76
+SGST (9%): %266.76
+Total Amount Payable: 3497.52
+
+Terms: Goods once sold will not be taken back.

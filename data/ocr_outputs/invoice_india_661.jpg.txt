@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0762
+Date: 1976-02-10
+Buyer Name: Ahana Khurana
+Buyer Address: 697, Taneja Ganj, Jalandhar-994816
+PAN No: ABCDE7506F
+GSTIN: 51ABCDE5716241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 883 Amount: ¥3532
+
+CGST (9%): %317.88
+SGST (9%): §317.88
+Total Amount Payable: 4167.76
+
+Terms: Goods once sold will not be taken back.

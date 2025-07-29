@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2067/0004
+Date: 1994-02-14
+Buyer Name: Diya Brar
+Buyer Address: 22/53, Bala, Gorakhpur 969404
+PAN No: ABCDE0235F
+GSTIN: 83ABCDE8839Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: $781 Amount: 2343
+
+CGST (9%): %210.87
+SGST (9%): 210.87
+Total Amount Payable: 2764.74
+
+Terms: Goods once sold will not be taken back.

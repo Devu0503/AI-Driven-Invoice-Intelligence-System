@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0150
+Date: 1986-02-02
+Buyer Name: Jayan Dasgupta
+Buyer Address: H.No. 17, Virk Circle, Asansol 216810
+PAN No: ABCDE2559F
+GSTIN: 26ABCDE01712Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3505 Amount: 2525
+
+CGST (9%): %227.25
+SGST (9%): 8227.25
+Total Amount Payable: %2979.5
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2011/0091
+Date: 1997-11-27
+Buyer Name: Prisha Raval
+Buyer Address: 76/396, Ganesh, Durgapur-605851
+PAN No: ABCDE6080F
+GSTIN: 48ABCDE5004Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: $394 Amount: %1182
+
+CGST (9%): %106.38
+SGST (9%): %106.38
+Total Amount Payable: 21394.76
+
+Terms: Goods once sold will not be taken back.

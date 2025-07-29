@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2081/0386
+Date: 1986-06-01
+Buyer Name: Aaina Sheth
+Buyer Address: H.No. 23, Chacko, Firozabad-866243
+PAN No: ABCDE2588F
+GSTIN: 61ABCDE1694241
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 709 Amount: 3545
+
+CGST (9%): %319.05
+SGST (9%): ¥319.05
+Total Amount Payable: %4183.1
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2069/0718
+Date: 1974-04-06
+Buyer Name: Badal Shenoy
+Buyer Address: 574, Dass Street, Vellore-283998
+PAN No: ABCDE5718F
+GSTIN: 88ABCDE1795211
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: 995 Amount: 995
+
+CGST (9%): %89.55
+SGST (9%): %89.55
+Total Amount Payable: 21174.1
+
+Terms: Goods once sold will not be taken back.

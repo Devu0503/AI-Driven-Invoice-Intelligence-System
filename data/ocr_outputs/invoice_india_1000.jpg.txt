@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2020/0608
+Date: 1985-11-26
+Buyer Name: Ryan Sarraf
+Buyer Address: 10/18, Sinha Marg, Howrah-920342
+PAN No: ABCDE6506F
+GSTIN: 37ABCDE1535241
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: 3127 Amount: %381
+CGST (9%): %34.29
+
+SGST (9%): %34.29
+Total Amount Payable: %449.58
+
+Terms: Goods once sold will not be taken back.

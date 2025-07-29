@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2091/0755
+Date: 1994-03-17
+Buyer Name: Kartik Srinivas
+Buyer Address: 16/871, Sant Marg, Bellary 776991
+PAN No: ABCDE2670F
+GSTIN: 69ABCDE19662Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 887 Amount: 1774
+
+CGST (9%): %159.66
+SGST (9%): 2159.66
+Total Amount Payable: 2093.32
+
+Terms: Goods once sold will not be taken back.

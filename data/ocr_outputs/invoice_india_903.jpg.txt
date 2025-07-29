@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2010/0831
+Date: 2024-05-05
+Buyer Name: Renee Mand
+Buyer Address: H.No. 470, Bal Chowk, Ballia-093263
+PAN No: ABCDE5290F
+GSTIN: 81ABCDE04242Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: $357 Amount: 1785
+
+CGST (9%): %160.65
+SGST (9%): 2160.65
+Total Amount Payable: %2106.3
+
+Terms: Goods once sold will not be taken back.

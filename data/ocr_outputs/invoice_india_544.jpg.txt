@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2036/0607
+Date: 1996-06-14
+Buyer Name: Siya Mangal
+Buyer Address: 978, Ray, Munger 705362
+PAN No: ABCDE8732F
+GSTIN: 10ABCDE7226Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 797 Amount: 3985
+
+CGST (9%): %358.65
+SGST (9%): %358.65
+Total Amount Payable: %4702.3
+
+Terms: Goods once sold will not be taken back.

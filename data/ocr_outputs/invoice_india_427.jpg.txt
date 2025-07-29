@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0880
+Date: 2014-04-14
+Buyer Name: Bhavin Mander
+Buyer Address: H.No. 16, Bera Road, Thane-350292
+PAN No: ABCDE2608F
+GSTIN: 95ABCDE8028Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 814 Amount: 2442
+
+CGST (9%): %219.78
+SGST (9%): 8219.78
+Total Amount Payable: 2881.56
+
+Terms: Goods once sold will not be taken back.

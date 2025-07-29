@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2029/0680
+Date: 1983-07-15
+Buyer Name: Misha Andra
+Buyer Address: 233, Bal Nagar, Mehsana 020312
+PAN No: ABCDE4186F
+GSTIN: 65ABCDE41202Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 3717 Amount: %2151
+
+CGST (9%): %193.59
+SGST (9%): %193.59
+Total Amount Payable: 2538.18
+
+Terms: Goods once sold will not be taken back.

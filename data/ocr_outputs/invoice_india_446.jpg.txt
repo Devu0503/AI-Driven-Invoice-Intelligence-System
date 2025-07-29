@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2060/0892
+Date: 2002-06-17
+Buyer Name: Chirag Dhaliwal
+Buyer Address: 51/36, Dalal Zila, Pimpri-Chinchwad-227520
+PAN No: ABCDE2924F
+GSTIN: 02ABCDE02622Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 416 Amount: 416
+CGST (9%): 37.44
+
+SGST (9%): %37.44
+Total Amount Payable: %490.88
+
+Terms: Goods once sold will not be taken back.

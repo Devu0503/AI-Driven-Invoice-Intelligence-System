@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2046/0877
+Date: 2016-04-16
+Buyer Name: Keya Varma
+Buyer Address: 361, Suri Chowk, Kota-864595
+PAN No: ABCDE3393F
+GSTIN: 47ABCDE42142Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3565 Amount: $565
+
+CGST (9%): 50.85
+SGST (9%): %50.85
+Total Amount Payable: 666.7
+
+Terms: Goods once sold will not be taken back.

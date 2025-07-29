@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2044/0319
+Date: 1974-04-19
+Buyer Name: Sana Chad
+Buyer Address: 58/58, Dugar Street, Dhanbad-741822
+PAN No: ABCDE1129F
+GSTIN: 23ABCDE6418Z41
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 814 Amount: 2442
+
+CGST (9%): %219.78
+SGST (9%): 8219.78
+Total Amount Payable: 2881.56
+
+Terms: Goods once sold will not be taken back.

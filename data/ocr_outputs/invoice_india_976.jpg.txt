@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2089/0247
+Date: 2009-12-06
+Buyer Name: Indranil Aurora
+Buyer Address: 43/31, Vora Ganj, Vadodara-650667
+PAN No: ABCDE0393F
+GSTIN: 20ABCDE28672Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3504 Amount: 1512
+
+CGST (9%): %136.08
+SGST (9%): %136.08
+Total Amount Payable: 1784.16
+
+Terms: Goods once sold will not be taken back.

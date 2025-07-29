@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0400
+Date: 1989-02-22
+Buyer Name: Eshani Lad
+Buyer Address: 36, Kanda Street, Jabalpur 124913
+PAN No: ABCDE5S715F
+GSTIN: 33ABCDE0733Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 865 Amount: 1730
+
+CGST (9%): %155.7
+SGST (9%): 155.7
+Total Amount Payable: %2041.4
+
+Terms: Goods once sold will not be taken back.

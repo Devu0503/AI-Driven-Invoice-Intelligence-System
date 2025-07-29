@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2061/0623
+Date: 1988-12-26
+Buyer Name: Amani Dugar
+Buyer Address: 89/477, Solanki Ganj, Jehanabad-428249
+PAN No: ABCDE2369F
+GSTIN: 82ABCDE9679Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 471 Amount: 2355
+
+CGST (9%): %211.95
+SGST (9%): 8211.95
+Total Amount Payable: %2778.9
+
+Terms: Goods once sold will not be taken back.

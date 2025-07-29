@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2016/0888
+Date: 2003-03-18
+Buyer Name: Stuvan Thaman
+Buyer Address: H.No. 26, Johal Street, Korba-879379
+PAN No: ABCDE2393F
+GSTIN: 34ABCDE5473Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 815 Amount: 2445
+
+CGST (9%): %220.05
+SGST (9%): %220.05
+Total Amount Payable: %2885.1
+
+Terms: Goods once sold will not be taken back.

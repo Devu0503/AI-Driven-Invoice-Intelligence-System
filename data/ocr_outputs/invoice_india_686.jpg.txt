@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0721
+Date: 1987-04-10
+Buyer Name: Parinaaz Badami
+Buyer Address: 277, Ranganathan Circle, Hazaribagh-743620
+PAN No: ABCDE0829F
+GSTIN: 04ABCDE6141Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 983 Amount: ¥3932
+
+CGST (9%): %353.88
+SGST (9%): %353.88
+Total Amount Payable: 4639.76
+
+Terms: Goods once sold will not be taken back.

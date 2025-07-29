@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2061/0007
+Date: 1980-08-17
+Buyer Name: Fateh Rao
+Buyer Address: 57/27, Garg Path, Naihati-065244
+PAN No: ABCDE1308F
+GSTIN: 53ABCDE61402Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: $391 Amount: 1564
+
+CGST (9%): %140.76
+SGST (9%): %140.76
+Total Amount Payable: 21845.52
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0215
+Date: 1973-08-20
+Buyer Name: Nayantara Kohli
+Buyer Address: 503, Karpe Road, Panipat-975230
+PAN No: ABCDE6070F
+GSTIN: 40ABCDE56782Z41
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 4 Rate: 3258 Amount: 1032
+CGST (9%): %92.88
+
+SGST (9%): %92.88
+Total Amount Payable: 21217.76
+
+Terms: Goods once sold will not be taken back.

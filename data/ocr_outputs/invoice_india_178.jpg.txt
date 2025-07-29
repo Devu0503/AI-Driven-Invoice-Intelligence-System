@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0270
+Date: 2004-04-05
+Buyer Name: Sana Mahal
+Buyer Address: 06/85, Manne Road, Aurangabad 129234
+PAN No: ABCDE3739F
+GSTIN: 31ABCDE6215Z21
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 413 Amount: 826
+CGST (9%): 74.34
+
+SGST (9%): %74.34
+Total Amount Payable: %974.68
+
+Terms: Goods once sold will not be taken back.

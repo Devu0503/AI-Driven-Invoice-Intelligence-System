@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2004/0391
+Date: 2013-02-09
+Buyer Name: Kartik Trivedi
+Buyer Address: 21/461, Sibal Path, Karimnagar 376819
+PAN No: ABCDE9884F
+GSTIN: 75ABCDE19192Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3294 Amount: 1176
+
+CGST (9%): %105.84
+SGST (9%): %105.84
+Total Amount Payable: 21387.68
+
+Terms: Goods once sold will not be taken back.

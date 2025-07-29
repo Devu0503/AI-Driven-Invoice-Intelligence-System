@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0908
+Date: 2015-11-11
+Buyer Name: Adah Ray
+Buyer Address: 30, Virk Road, Sultan Pur Majra 484643
+PAN No: ABCDE1866F
+GSTIN: SOABCDE4501211
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 453 Amount: 453
+CGST (9%): %40.77
+
+SGST (9%): %40.77
+Total Amount Payable: 2534.54
+
+Terms: Goods once sold will not be taken back.

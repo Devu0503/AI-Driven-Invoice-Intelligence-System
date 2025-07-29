@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2010/0780
+Date: 1970-10-29
+Buyer Name: Saanvi Doshi
+Buyer Address: 46/987, Lata Circle, Bangalore 082689
+PAN No: ABCDE9936F
+GSTIN: 60ABCDE32492Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3645 Amount: 3225
+
+CGST (9%): %290.25
+SGST (9%): 290.25
+Total Amount Payable: %3805.5
+
+Terms: Goods once sold will not be taken back.

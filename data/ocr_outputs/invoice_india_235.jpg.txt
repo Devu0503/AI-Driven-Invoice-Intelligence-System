@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0603
+Date: 1978-08-27
+Buyer Name: Yuvraj Dixit
+Buyer Address: 60/75, Balasubramanian Zila, Chandrapur-454534
+PAN No: ABCDE0418F
+GSTIN: 62ABCDE6304Z71
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 719 Amount: 719
+CGST (9%): 364.71
+
+SGST (9%): %64.71
+Total Amount Payable: %848.42
+
+Terms: Goods once sold will not be taken back.

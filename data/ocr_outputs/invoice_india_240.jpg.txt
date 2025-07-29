@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2079/0841
+Date: 2011-07-06
+Buyer Name: Vardaniya Bhakta
+Buyer Address: H.No. 04, Chadha Road, Fatehpur-152171
+PAN No: ABCDE6222F
+GSTIN: 93ABCDE98922Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3629 Amount: 1887
+
+CGST (9%): %169.83
+SGST (9%): %169.83
+Total Amount Payable: 32226.66
+
+Terms: Goods once sold will not be taken back.

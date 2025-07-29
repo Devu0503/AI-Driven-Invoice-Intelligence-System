@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2012/0424
+Date: 1983-10-03
+Buyer Name: Navya Varty
+Buyer Address: 25, Kumer Ganj, Rewa-854506
+PAN No: ABCDE4306F
+GSTIN: 35ABCDE0588Z11
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3683 Amount: 2732
+
+CGST (9%): %245.88
+SGST (9%): 245.88
+Total Amount Payable: 3223.76
+
+Terms: Goods once sold will not be taken back.

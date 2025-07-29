@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2071/0153
+Date: 2011-02-10
+Buyer Name: Shanaya Borra
+Buyer Address: 873, Shetty Zila, Bhusawal-213027
+PAN No: ABCDES154F
+GSTIN: 28ABCDE5608241
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 3213 Amount: 1065
+
+CGST (9%): 95.85
+SGST (9%): %95.85
+Total Amount Payable: 21256.7
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0693
+Date: 1970-09-04
+Buyer Name: Ayesha Tata
+Buyer Address: 76/88, Yogi, Patiala 581538
+PAN No: ABCDE6442F
+GSTIN: 94ABCDE40312Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 445 Amount: 2225
+
+CGST (9%): %200.25
+SGST (9%): 200.25
+Total Amount Payable: %2625.5
+
+Terms: Goods once sold will not be taken back.

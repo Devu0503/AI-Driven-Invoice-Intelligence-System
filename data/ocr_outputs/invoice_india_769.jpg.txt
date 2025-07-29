@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2083/0760
+Date: 1974-08-24
+Buyer Name: Aaryahi Sinha
+Buyer Address: 87, Saha Road, Gorakhpur-391762
+PAN No: ABCDE9445F
+GSTIN: 11ABCDE5115Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 3238 Amount: 476
+
+CGST (9%): 42.84
+SGST (9%): %42.84
+Total Amount Payable: 2561.68
+
+Terms: Goods once sold will not be taken back.

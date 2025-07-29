@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0900
+Date: 1986-04-09
+Buyer Name: Shanaya Badami
+Buyer Address: H.No. 475, Brahmbhatt Chowk, Nagaon 803905
+PAN No: ABCDE7517F
+GSTIN: 15ABCDE1882Z01
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 3618 Amount: 618
+CGST (9%): 855.62
+
+SGST (9%): %55.62
+Total Amount Payable: 2729.24
+
+Terms: Goods once sold will not be taken back.

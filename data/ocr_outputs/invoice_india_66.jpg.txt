@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0926
+Date: 1970-08-26
+Buyer Name: Priyansh Divan
+Buyer Address: H.No. 064, Dash Marg, Rajahmundry-637502
+PAN No: ABCDE8364F
+GSTIN: 52ABCDE2928Z11
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 3146 Amount: 730
+CGST (9%): 265.7
+SGST (9%): 365.7
+Total Amount Payable: %861.4
+
+Terms: Goods once sold will not be taken back.

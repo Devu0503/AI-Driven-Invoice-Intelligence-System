@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0248
+Date: 1993-03-11
+Buyer Name: Hridaan Andra
+Buyer Address: 72, Hari Road, Madhyamgram-213078
+PAN No: ABCDE8839F
+GSTIN: 15ABCDE0201221
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3642 Amount: 1284
+
+CGST (9%): %115.56
+SGST (9%): 2115.56
+Total Amount Payable: 1515.12
+
+Terms: Goods once sold will not be taken back.

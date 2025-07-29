@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0154
+Date: 1994-01-15
+Buyer Name: Keya Goyal
+Buyer Address: 54/06, Bal Ganj, Bathinda 896840
+PAN No: ABCDE4196F
+GSTIN: 13ABCDE8370Z81
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: $340 Amount: 1700
+CGST (9%): %153.0
+
+SGST (9%): %153.0
+Total Amount Payable: 2006.0
+
+Terms: Goods once sold will not be taken back.

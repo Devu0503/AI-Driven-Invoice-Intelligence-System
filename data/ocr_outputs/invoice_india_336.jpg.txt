@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2043/0378
+Date: 2001-03-21
+Buyer Name: Pranay Khatri
+Buyer Address: 53/626, Kaur Marg, Panvel-595979
+PAN No: ABCDE1246F
+GSTIN: 87ABCDE0535241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $351 Amount: 1404
+
+CGST (9%): %126.36
+SGST (9%): 2126.36
+Total Amount Payable: 21656.72
+
+Terms: Goods once sold will not be taken back.

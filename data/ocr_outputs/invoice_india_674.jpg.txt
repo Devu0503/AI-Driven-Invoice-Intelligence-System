@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2075/0965
+Date: 2017-08-10
+Buyer Name: Shaan Amble
+Buyer Address: 17, Venkataraman Road, Navi Mumbai-229159
+PAN No: ABCDE3176F
+GSTIN: 11ABCDE2418Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 3586 Amount: 1758
+
+CGST (9%): %158.22
+SGST (9%): 2158.22
+Total Amount Payable: 2074.44
+
+Terms: Goods once sold will not be taken back.

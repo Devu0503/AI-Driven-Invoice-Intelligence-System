@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2075/0449
+Date: 1977-02-24
+Buyer Name: Kanav D’Alia
+Buyer Address: 16, Khurana Road, Salem 173114
+PAN No: ABCDE4942F
+GSTIN: 09ABCDE2437Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3155 Amount: 775
+
+CGST (9%): %69.75
+SGST (9%): 69.75
+Total Amount Payable: %914.5
+
+Terms: Goods once sold will not be taken back.

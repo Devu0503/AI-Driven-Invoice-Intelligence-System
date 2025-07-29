@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2012/0347
+Date: 1999-04-19
+Buyer Name: Hansh Bhandari
+Buyer Address: H.No. 62, Kanda Zila, Tiruppur 499378
+PAN No: ABCDE7879F
+GSTIN: 25ABCDE57502Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 3659 Amount: 3295
+
+CGST (9%): %296.55
+SGST (9%): %296.55
+Total Amount Payable: %3888.1
+
+Terms: Goods once sold will not be taken back.

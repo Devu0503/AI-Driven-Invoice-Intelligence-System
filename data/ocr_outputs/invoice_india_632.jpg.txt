@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0274
+Date: 2016-06-06
+Buyer Name: Raghav Zachariah
+Buyer Address: 536, Desai Nagar, Saharsa-236743
+PAN No: ABCDE8766F
+GSTIN: O6ABCDE9783Z91
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 3517 Amount: 2068
+
+CGST (9%): %186.12
+SGST (9%): 2186.12
+Total Amount Payable: %2440.24
+
+Terms: Goods once sold will not be taken back.

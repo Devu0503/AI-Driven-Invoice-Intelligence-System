@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0435
+Date: 1982-02-18
+Buyer Name: Nakul Biswas
+Buyer Address: H.No. 889, Kalla Marg, Gangtok-159748
+PAN No: ABCDE9827F
+GSTIN: 51ABCDE92332Z41
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 3665 Amount: 1995
+
+CGST (9%): %179.55
+SGST (9%): 2179.55
+Total Amount Payable: %2354.1
+
+Terms: Goods once sold will not be taken back.

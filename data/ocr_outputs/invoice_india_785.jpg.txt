@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0817
+Date: 1976-10-13
+Buyer Name: Badal Solanki
+Buyer Address: 23, Ratta Path, Bhatpara-226860
+PAN No: ABCDE6865F
+GSTIN: 27ABCDE6889Z91
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 3 Rate: $348 Amount: %1044
+CGST (9%): %93.96
+SGST (9%): 93.96
+Total Amount Payable: 21231.92
+
+Terms: Goods once sold will not be taken back.

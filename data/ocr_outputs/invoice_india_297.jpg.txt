@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2084/0709
+Date: 2017-08-08
+Buyer Name: Mishti Jain
+Buyer Address: H.No. 60, Comar Nagar, Bhubaneswar-138964
+PAN No: ABCDE4126F
+GSTIN: 57ABCDE0125241
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 844 Amount: 844
+CGST (9%): 75.96
+
+SGST (9%): 75.96
+Total Amount Payable: 995.92
+
+Terms: Goods once sold will not be taken back.

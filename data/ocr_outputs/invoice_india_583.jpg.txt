@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2039/0104
+Date: 2004-03-19
+Buyer Name: Prisha Srinivas
+Buyer Address: H.No. 17, Bhagat Street, Panipat-865136
+PAN No: ABCDE9967F
+GSTIN: 39ABCDE8310Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 979 Amount: 1958
+
+CGST (9%): %176.22
+SGST (9%): 2176.22
+Total Amount Payable: 2310.44
+
+Terms: Goods once sold will not be taken back.

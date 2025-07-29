@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2012/0868
+Date: 1973-07-14
+Buyer Name: Heer Koshy
+Buyer Address: 76/55, Ramesh Chowk, Gandhinagar-020385
+PAN No: ABCDE8167F
+GSTIN: 59ABCDE9361211
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 195 Amount: ¥390
+CGST (9%): 235.1
+
+SGST (9%): %35.1
+Total Amount Payable: 2460.2
+
+Terms: Goods once sold will not be taken back.

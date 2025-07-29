@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0734
+Date: 2003-10-03
+Buyer Name: Sara Atwal
+Buyer Address: 87/95, Karan Nagar, Orai-683375
+PAN No: ABCDE8015F
+GSTIN: 45ABCDE6044Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 472 Amount: 944
+
+CGST (9%): %84.96
+SGST (9%): 84.96
+Total Amount Payable: 1113.92
+
+Terms: Goods once sold will not be taken back.

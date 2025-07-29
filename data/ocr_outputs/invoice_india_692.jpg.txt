@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2092/0417
+Date: 2001-07-07
+Buyer Name: Priyansh Kadakia
+Buyer Address: H.No. 103, Luthra Chowk, Ludhiana 463155
+PAN No: ABCDE5S405F
+GSTIN: 36ABCDE0317Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 881 Amount: 4405
+
+CGST (9%): %396.45
+SGST (9%): %396.45
+Total Amount Payable: %5197.9
+
+Terms: Goods once sold will not be taken back.

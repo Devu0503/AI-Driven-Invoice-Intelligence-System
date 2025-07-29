@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2071/0176
+Date: 1982-03-28
+Buyer Name: Mishti Sagar
+Buyer Address: 841, Ben Ganj, Baranagar 531488
+PAN No: ABCDE2585F
+GSTIN: 25ABCDE3044Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: $372 Amount: 71116
+
+CGST (9%): %100.44
+SGST (9%): %100.44
+Total Amount Payable: 21316.88
+
+Terms: Goods once sold will not be taken back.

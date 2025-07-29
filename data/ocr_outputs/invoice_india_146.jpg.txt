@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2072/0612
+Date: 1990-12-14
+Buyer Name: Vidur Mann
+Buyer Address: 59/63, Bajwa, Muzaffarnagar-544252
+PAN No: ABCDE8936F
+GSTIN: 22ABCDE2230Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 609 Amount: 1827
+
+CGST (9%): %164.43
+SGST (9%): 2164.43
+Total Amount Payable: 2155.86
+
+Terms: Goods once sold will not be taken back.

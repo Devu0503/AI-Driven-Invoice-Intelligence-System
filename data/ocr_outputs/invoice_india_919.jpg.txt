@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0741
+Date: 1995-04-03
+Buyer Name: Shray Mallick
+Buyer Address: H.No. 74, Rout Road, Berhampore 790463
+PAN No: ABCDE4193F
+GSTIN: 72ABCDE2802Z01
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: 830 Amount: 2490
+CGST (9%): %224.1
+
+SGST (9%): %224.1
+Total Amount Payable: %2938.2
+
+Terms: Goods once sold will not be taken back.

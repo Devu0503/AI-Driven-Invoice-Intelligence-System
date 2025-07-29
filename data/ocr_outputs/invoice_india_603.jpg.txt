@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0867
+Date: 1990-01-15
+Buyer Name: Ishaan Babu
+Buyer Address: H.No. 01, Upadhyay Street, Dibrugarh-411499
+PAN No: ABCDE5738F
+GSTIN: 01ABCDE3955241
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 277 Amount: 554
+CGST (9%): 49.86
+
+SGST (9%): %49.86
+Total Amount Payable: 653.72
+
+Terms: Goods once sold will not be taken back.

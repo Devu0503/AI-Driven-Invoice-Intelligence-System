@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2030/0890
+Date: 1985-03-20
+Buyer Name: Bhavin lyengar
+Buyer Address: H.No. 310, Bhagat Ganj, Nellore-920499
+PAN No: ABCDE5588F
+GSTIN: 81ABCDE22432Z81
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 4 Rate: 114 Amount: 456
+CGST (9%): %41.04
+
+SGST (9%): %41.04
+Total Amount Payable: 2538.08
+
+Terms: Goods once sold will not be taken back.

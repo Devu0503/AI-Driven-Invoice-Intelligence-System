@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2089/0738
+Date: 2008-03-31
+Buyer Name: Darshit Balasubramanian
+Buyer Address: H.No. 34, Dash Path, Aurangabad 371429
+PAN No: ABCDE0300F
+GSTIN: 62ABCDE24932Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 984 Amount: 1968
+
+CGST (9%): 3177.12
+SGST (9%): 8177.12
+Total Amount Payable: 2322.24
+
+Terms: Goods once sold will not be taken back.

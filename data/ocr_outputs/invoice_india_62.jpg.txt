@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2078/0738
+Date: 2022-10-30
+Buyer Name: Kiara Sarkar
+Buyer Address: 84/761, Gara Marg, Tirupati-177162
+PAN No: ABCDE5737F
+GSTIN: 10ABCDE27792Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 871 Amount: 1742
+
+CGST (9%): %156.78
+SGST (9%): 2156.78
+Total Amount Payable: 2055.56
+
+Terms: Goods once sold will not be taken back.

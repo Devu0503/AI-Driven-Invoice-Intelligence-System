@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0963
+Date: 2009-09-14
+Buyer Name: Vaibhav Chowdhury
+Buyer Address: 99/98, Ravel Nagar, Chennai 140541
+PAN No: ABCDE2349F
+GSTIN: 25ABCDE0807241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 830 Amount: 3320
+
+CGST (9%): %298.8
+SGST (9%): 298.8
+Total Amount Payable: %3917.6
+
+Terms: Goods once sold will not be taken back.

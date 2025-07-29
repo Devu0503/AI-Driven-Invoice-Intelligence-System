@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2027/0068
+Date: 1994-03-26
+Buyer Name: Veer Sunder
+Buyer Address: 55/801, Chokshi Marg, Gwalior 443412
+PAN No: ABCDE3637F
+GSTIN: 98ABCDE8526Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3589 Amount: 2356
+
+CGST (9%): %212.04
+SGST (9%): 8212.04
+Total Amount Payable: 2780.08
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2088/0076
+Date: 2018-02-23
+Buyer Name: Shaan Sidhu
+Buyer Address: 545, Suresh Chowk, Indore 311410
+PAN No: ABCDE6568F
+GSTIN: 85ABCDE3930Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3674 Amount: 2022
+
+CGST (9%): %181.98
+SGST (9%): %181.98
+Total Amount Payable: 2385.96
+
+Terms: Goods once sold will not be taken back.

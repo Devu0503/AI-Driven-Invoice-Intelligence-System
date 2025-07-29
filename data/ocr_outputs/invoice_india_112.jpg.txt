@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2014/0549
+Date: 2006-08-17
+Buyer Name: Yasmin Datta
+Buyer Address: 41/25, Datta Ganj, Suryapet-112335
+PAN No: ABCDE2452F
+GSTIN: 93ABCDE9279Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 374 Amount: 1496
+
+CGST (9%): %134.64
+SGST (9%): 2134.64
+Total Amount Payable: 1765.28
+
+Terms: Goods once sold will not be taken back.

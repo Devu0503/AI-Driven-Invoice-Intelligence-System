@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2035/0853
+Date: 1991-05-31
+Buyer Name: Indrajit Bassi
+Buyer Address: 33/052, Sunder, Karnal-521176
+PAN No: ABCDE5425F
+GSTIN: 12ABCDE6492Z31
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: $329 Amount: ¥987
+CGST (9%): %88.83
+SGST (9%): %88.83
+Total Amount Payable: 1164.66
+
+Terms: Goods once sold will not be taken back.

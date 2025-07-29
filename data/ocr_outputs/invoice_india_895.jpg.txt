@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2008/0998
+Date: 2017-10-21
+Buyer Name: Rasha Lad
+Buyer Address: 27/811, Chaudhari Nagar, Varanasi-432261
+PAN No: ABCDE8657F
+GSTIN: OOABCDE7757Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 765 Amount: ¥3060
+
+CGST (9%): %275.4
+SGST (9%): 275.4
+Total Amount Payable: %3610.8
+
+Terms: Goods once sold will not be taken back.

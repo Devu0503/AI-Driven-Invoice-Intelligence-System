@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2085/0643
+Date: 2023-12-29
+Buyer Name: Manikya Sehgal
+Buyer Address: 745, Lad Street, Munger 100154
+PAN No: ABCDE9943F
+GSTIN: 44ABCDE7117Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 431 Amount: 2155
+
+CGST (9%): %193.95
+SGST (9%): %193.95
+Total Amount Payable: %2542.9
+
+Terms: Goods once sold will not be taken back.

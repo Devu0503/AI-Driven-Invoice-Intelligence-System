@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0042
+Date: 1971-02-27
+Buyer Name: Sara Saha
+Buyer Address: 431, Kumar Road, Amravati 339294
+PAN No: ABCDE3025F
+GSTIN: 05ABCDE33502Z81
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 3249 Amount: 498
+CGST (9%): %44.82
+
+SGST (9%): %44.82
+Total Amount Payable: 2587.64
+
+Terms: Goods once sold will not be taken back.

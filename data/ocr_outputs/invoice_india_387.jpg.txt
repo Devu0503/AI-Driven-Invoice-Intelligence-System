@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0816
+Date: 2005-03-05
+Buyer Name: Elakshi Jani
+Buyer Address: 01, Khosla Zila, Bally-895869
+PAN No: ABCDE7115F
+GSTIN: 29ABCDE6642Z11
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: 3109 Amount: 327
+CGST (9%): 29.43
+
+SGST (9%): %29.43
+Total Amount Payable: %385.86
+
+Terms: Goods once sold will not be taken back.

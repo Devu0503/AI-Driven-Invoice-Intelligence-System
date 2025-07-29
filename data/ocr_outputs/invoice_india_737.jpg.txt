@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0786
+Date: 2007-02-02
+Buyer Name: Tarini Tailor
+Buyer Address: H.No. 71, Gola, Danapur-278998
+PAN No: ABCDE3264F
+GSTIN: 10ABCDE7362Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 609 Amount: 1827
+
+CGST (9%): %164.43
+SGST (9%): 2164.43
+Total Amount Payable: 2155.86
+
+Terms: Goods once sold will not be taken back.

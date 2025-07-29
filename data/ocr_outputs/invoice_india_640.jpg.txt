@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0338
+Date: 1990-02-13
+Buyer Name: Seher Bail
+Buyer Address: H.No. 926, Kale Path, Kozhikode-312259
+PAN No: ABCDE9390F
+GSTIN: 67ABCDE41632Z11
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: $920 Amount: 2760
+CGST (9%): %248.4
+
+SGST (9%): %248.4
+Total Amount Payable: %3256.8
+
+Terms: Goods once sold will not be taken back.

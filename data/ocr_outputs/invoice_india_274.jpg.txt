@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0059
+Date: 2025-06-07
+Buyer Name: Renee Chaudry
+Buyer Address: H.No. 64, Khalsa Ganj, Nadiad-460926
+PAN No: ABCDE7585F
+GSTIN: 87ABCDE9240211
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 708 Amount: 1416
+
+CGST (9%): %127.44
+SGST (9%): 8127.44
+Total Amount Payable: 21670.88
+
+Terms: Goods once sold will not be taken back.

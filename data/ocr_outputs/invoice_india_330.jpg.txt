@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0386
+Date: 1980-02-21
+Buyer Name: Inaaya Dixit
+Buyer Address: 67/099, Mander, Gudivada 838186
+PAN No: ABCDE5543F
+GSTIN: 85ABCDE7978Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 4 Rate: 3268 Amount: 1072
+CGST (9%): %96.48
+
+SGST (9%): %96.48
+Total Amount Payable: 21264.96
+
+Terms: Goods once sold will not be taken back.

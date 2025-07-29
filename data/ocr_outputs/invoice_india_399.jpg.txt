@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2001/0237
+Date: 2021-05-06
+Buyer Name: Dhruv Subramanian
+Buyer Address: 09, Boase, Bharatpur-229248
+PAN No: ABCDE9034F
+GSTIN: 82ABCDE42632Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3280 Amount: 1120
+
+CGST (9%): %100.8
+SGST (9%): 100.8
+Total Amount Payable: %1321.6
+
+Terms: Goods once sold will not be taken back.

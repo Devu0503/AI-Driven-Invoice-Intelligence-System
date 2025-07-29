@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2067/0343
+Date: 1994-10-26
+Buyer Name: Dhruv Hayer
+Buyer Address: 77/591, Vig, Unnao 718073
+PAN No: ABCDE4646F
+GSTIN: 93ABCDE2050Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3135 Amount: 405
+
+CGST (9%): %36.45
+SGST (9%): %36.45
+Total Amount Payable: 2477.9
+
+Terms: Goods once sold will not be taken back.

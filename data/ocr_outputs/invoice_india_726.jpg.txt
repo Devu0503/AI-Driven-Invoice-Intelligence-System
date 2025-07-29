@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2035/0265
+Date: 2000-06-03
+Buyer Name: Nirvi Dara
+Buyer Address: H.No. 339, Das Zila, Srikakulam-715778
+PAN No: ABCDE8037F
+GSTIN: 26ABCDE4560Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 470 Amount: 1410
+
+CGST (9%): %126.9
+SGST (9%): %126.9
+Total Amount Payable: 21663.8
+
+Terms: Goods once sold will not be taken back.

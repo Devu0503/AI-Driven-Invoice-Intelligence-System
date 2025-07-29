@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0880
+Date: 2007-09-09
+Buyer Name: Ryan Bava
+Buyer Address: 26/341, Saha Marg, Ghaziabad 876277
+PAN No: ABCDE0380F
+GSTIN: 27ABCDE9215Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 341 Amount: 1364
+
+CGST (9%): %122.76
+SGST (9%): 2122.76
+Total Amount Payable: 21609.52
+
+Terms: Goods once sold will not be taken back.

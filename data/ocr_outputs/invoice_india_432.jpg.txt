@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2079/0122
+Date: 1991-02-09
+Buyer Name: Ivan Singhal
+Buyer Address: H.No. 121, Venkatesh Circle, Thiruvananthapuram 664277
+PAN No: ABCDE2648F
+GSTIN: 14ABCDE53192Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 903 Amount: 3612
+
+CGST (9%): %325.08
+SGST (9%): %325.08
+Total Amount Payable: 4262.16
+
+Terms: Goods once sold will not be taken back.

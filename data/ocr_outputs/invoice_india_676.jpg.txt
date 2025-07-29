@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2094/0550
+Date: 2004-08-14
+Buyer Name: Sara Chokshi
+Buyer Address: 29/66, Barad Path, Akola-062813
+PAN No: ABCDE0550F
+GSTIN: 81ABCDE58282Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3564 Amount: 2256
+
+CGST (9%): %203.04
+SGST (9%): %203.04
+Total Amount Payable: 2662.08
+
+Terms: Goods once sold will not be taken back.

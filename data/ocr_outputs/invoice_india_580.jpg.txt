@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2060/0888
+Date: 1985-04-20
+Buyer Name: Amira Bhalla
+Buyer Address: 21, Bath Circle, Vadodara 939522
+PAN No: ABCDE3123F
+GSTIN: 88ABCDE98742Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3136 Amount: 544
+
+CGST (9%): %48.96
+SGST (9%): %48.96
+Total Amount Payable: 641.92
+
+Terms: Goods once sold will not be taken back.

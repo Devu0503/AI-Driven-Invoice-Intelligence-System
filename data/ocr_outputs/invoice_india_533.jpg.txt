@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0888
+Date: 1977-09-25
+Buyer Name: Navya Barad
+Buyer Address: H.No. 619, Yogi Circle, Hindupur-594052
+PAN No: ABCDE5871F
+GSTIN: 60ABCDE65892Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 989 Amount: 1978
+
+CGST (9%): %178.02
+SGST (9%): %178.02
+Total Amount Payable: 2334.04
+
+Terms: Goods once sold will not be taken back.

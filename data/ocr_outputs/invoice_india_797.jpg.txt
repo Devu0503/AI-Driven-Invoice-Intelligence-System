@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0160
+Date: 2009-12-19
+Buyer Name: Shaan Krish
+Buyer Address: H.No. 529, Badami Marg, Sangli-Miraj & Kupwad-252331
+PAN No: ABCDE8742F
+GSTIN: 07ABCDE5488Z31
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: $337 Amount: 674
+CGST (9%): %60.66
+
+SGST (9%): 60.66
+Total Amount Payable: 2795.32
+
+Terms: Goods once sold will not be taken back.

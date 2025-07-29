@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0754
+Date: 1998-04-17
+Buyer Name: Bhavin Shukla
+Buyer Address: H.No. 752, Buch Zila, Varanasi 913852
+PAN No: ABCDE3427F
+GSTIN: 11ABCDE7076Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 3633 Amount: %633
+CGST (9%): 356.97
+
+SGST (9%): 856.97
+Total Amount Payable: 2746.94
+
+Terms: Goods once sold will not be taken back.

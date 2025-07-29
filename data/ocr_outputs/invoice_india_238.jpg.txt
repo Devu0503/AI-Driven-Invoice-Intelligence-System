@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0068
+Date: 1991-05-05
+Buyer Name: Tejas Khare
+Buyer Address: H.No. 391, Shanker Road, Adoni 154684
+PAN No: ABCDE9172F
+GSTIN: 09ABCDE8837Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 3688 Amount: 2752
+
+CGST (9%): %247.68
+SGST (9%): 8247.68
+Total Amount Payable: 3247.36
+
+Terms: Goods once sold will not be taken back.

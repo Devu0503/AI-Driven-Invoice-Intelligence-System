@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0325
+Date: 2018-08-26
+Buyer Name: Kiaan Karnik
+Buyer Address: 92/06, Rajagopal Ganj, Bangalore-716437
+PAN No: ABCDE1092F
+GSTIN: 60ABCDE0637Z01
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 3593 Amount: 593
+CGST (9%): 853.37
+
+SGST (9%): %53.37
+Total Amount Payable: %699.74
+
+Terms: Goods once sold will not be taken back.

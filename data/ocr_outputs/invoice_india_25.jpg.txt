@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2077/0958
+Date: 2005-12-02
+Buyer Name: Advik Khosla
+Buyer Address: H.No. 51, Choudhary Nagar, Surendranagar Dudhrej-680202
+PAN No: ABCDES101F
+GSTIN: 39ABCDE8758Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 998 Amount: ¥3992
+
+CGST (9%): %359.28
+SGST (9%): %359.28
+Total Amount Payable: 4710.56
+
+Terms: Goods once sold will not be taken back.

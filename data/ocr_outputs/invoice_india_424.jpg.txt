@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0038
+Date: 2014-02-09
+Buyer Name: Elakshi Choudhry
+Buyer Address: 820, Sabharwal Ganj, Delhi-349865
+PAN No: ABCDE0771F
+GSTIN: 72ABCDE6601Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 3639 Amount: 2556
+
+CGST (9%): %230.04
+SGST (9%): %230.04
+Total Amount Payable: 3016.08
+
+Terms: Goods once sold will not be taken back.

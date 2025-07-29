@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2027/0394
+Date: 1991-07-09
+Buyer Name: Damini Garde
+Buyer Address: 385, Sachar Marg, Bhind 527564
+PAN No: ABCDE3001F
+GSTIN: 33ABCDE7126Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: 3519 Amount: 519
+
+CGST (9%): 346.71
+SGST (9%): 246.71
+Total Amount Payable: 612.42
+
+Terms: Goods once sold will not be taken back.

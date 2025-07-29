@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0526
+Date: 1972-03-22
+Buyer Name: Amani Devan
+Buyer Address: H.No. 05, Shroff Nagar, Khora -994092
+PAN No: ABCDE0329F
+GSTIN: 14ABCDE5660221
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3549 Amount: 2745
+
+CGST (9%): %247.05
+SGST (9%): 247.05
+Total Amount Payable: %3239.1
+
+Terms: Goods once sold will not be taken back.

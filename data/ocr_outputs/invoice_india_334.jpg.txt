@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2098/0272
+Date: 1989-01-16
+Buyer Name: Seher Bhalla
+Buyer Address: H.No. 09, Basu Zila, Thoothukudi 856690
+PAN No: ABCDE1201F
+GSTIN: 33ABCDE21892Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 999 Amount: 1998
+
+CGST (9%): %179.82
+SGST (9%): 2179.82
+Total Amount Payable: 2357.64
+
+Terms: Goods once sold will not be taken back.

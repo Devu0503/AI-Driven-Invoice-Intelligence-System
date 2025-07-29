@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0490
+Date: 2021-09-11
+Buyer Name: Abram Gaba
+Buyer Address: 56/826, Jha Zila, Raichur-029492
+PAN No: ABCDE6591F
+GSTIN: 90ABCDE2041Z01
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 4 Rate: 3545 Amount: 2180
+CGST (9%): %196.2
+
+SGST (9%): %196.2
+Total Amount Payable: %2572.4
+
+Terms: Goods once sold will not be taken back.

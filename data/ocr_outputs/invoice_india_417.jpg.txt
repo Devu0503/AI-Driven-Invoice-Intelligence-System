@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2002/0960
+Date: 2020-04-25
+Buyer Name: Zoya Dass
+Buyer Address: 717, Shah Nagar, Mirzapur 248176
+PAN No: ABCDE6586F
+GSTIN: SOABCDE67732Z21
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 5 Rate: 472 Amount: 2360
+CGST (9%): %212.4
+
+SGST (9%): 212.4
+Total Amount Payable: %2784.8
+
+Terms: Goods once sold will not be taken back.

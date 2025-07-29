@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0161
+Date: 2000-09-20
+Buyer Name: Divij Varma
+Buyer Address: 32/962, Wali Street, Aizawl-314650
+PAN No: ABCDE1501F
+GSTIN: 66ABCDE1961Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3642 Amount: 1926
+
+CGST (9%): %173.34
+SGST (9%): 2173.34
+Total Amount Payable: 2272.68
+
+Terms: Goods once sold will not be taken back.

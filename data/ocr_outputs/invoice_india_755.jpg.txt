@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0027
+Date: 1991-11-25
+Buyer Name: Myra Chawla
+Buyer Address: 33, D’Alia Chowk, Imphal-108087
+PAN No: ABCDE6002F
+GSTIN: 12ABCDE72532Z71
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: 3107 Amount: %321
+CGST (9%): %28.89
+
+SGST (9%): %28.89
+Total Amount Payable: %378.78
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0893
+Date: 2002-04-27
+Buyer Name: Lakshay Vyas
+Buyer Address: H.No. 113, Gill Street, Guntur-994060
+PAN No: ABCDE2642F
+GSTIN: 47ABCDE7854Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: $329 Amount: ¥987
+CGST (9%): %88.83
+SGST (9%): %88.83
+Total Amount Payable: 1164.66
+
+Terms: Goods once sold will not be taken back.

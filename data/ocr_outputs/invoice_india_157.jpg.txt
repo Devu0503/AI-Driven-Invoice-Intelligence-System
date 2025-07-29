@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0267
+Date: 1972-05-10
+Buyer Name: Adah Salvi
+Buyer Address: 16, Sheth Circle, Tadipatri 676467
+PAN No: ABCDE4555F
+GSTIN: 48ABCDE17502Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: $366 Amount: 1830
+
+CGST (9%): %164.7
+SGST (9%): %164.7
+Total Amount Payable: %2159.4
+
+Terms: Goods once sold will not be taken back.

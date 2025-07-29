@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2088/0131
+Date: 2009-07-12
+Buyer Name: Saira Thaman
+Buyer Address: H.No. 30, Divan Ganj, Akola-098180
+PAN No: ABCDE1506F
+GSTIN: 28ABCDE4328Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 3699 Amount: 1398
+
+CGST (9%): %125.82
+SGST (9%): 2125.82
+Total Amount Payable: 21649.64
+
+Terms: Goods once sold will not be taken back.

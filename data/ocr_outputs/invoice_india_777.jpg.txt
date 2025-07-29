@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2068/0938
+Date: 1999-04-08
+Buyer Name: Kaira Kala
+Buyer Address: 892, Shetty Zila, Pallavaram 822093
+PAN No: ABCDE6664F
+GSTIN: 85ABCDE2082Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 3588 Amount: 2352
+
+CGST (9%): %211.68
+SGST (9%): 8211.68
+Total Amount Payable: 2775.36
+
+Terms: Goods once sold will not be taken back.

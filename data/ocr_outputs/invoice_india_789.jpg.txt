@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0429
+Date: 2024-09-02
+Buyer Name: Yashvi Viswanathan
+Buyer Address: 091, Mahajan Zila, Ramgarh-338244
+PAN No: ABCDE6613F
+GSTIN: 69ABCDE3903Z01
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 274 Amount: 548
+CGST (9%): 49.32
+
+SGST (9%): %49.32
+Total Amount Payable: 646.64
+
+Terms: Goods once sold will not be taken back.

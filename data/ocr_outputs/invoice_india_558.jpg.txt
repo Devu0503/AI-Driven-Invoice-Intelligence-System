@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2033/0406
+Date: 2005-12-23
+Buyer Name: Yashvi Ganguly
+Buyer Address: 57/879, Gill Street, Aizawl-146829
+PAN No: ABCDE9219F
+GSTIN: 24ABCDE88482Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3173 Amount: 865
+
+CGST (9%): 77.85
+SGST (9%): &77.85
+Total Amount Payable: 1020.7
+
+Terms: Goods once sold will not be taken back.

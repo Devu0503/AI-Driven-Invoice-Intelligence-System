@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2017/0962
+Date: 1996-12-18
+Buyer Name: Veer Bumb
+Buyer Address: 97/26, Viswanathan Circle, Rohtak 178817
+PAN No: ABCDE3011F
+GSTIN: 67ABCDE0027211
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3562 Amount: 2248
+
+CGST (9%): %202.32
+SGST (9%): %202.32
+Total Amount Payable: 2652.64
+
+Terms: Goods once sold will not be taken back.

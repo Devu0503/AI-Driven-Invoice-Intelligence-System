@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2007/0008
+Date: 2016-11-01
+Buyer Name: Nirvi Datta
+Buyer Address: H.No. 403, Kapoor Circle, Bihar Sharif 567287
+PAN No: ABCDE1262F
+GSTIN: 32ABCDE2595Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 481 Amount: 2405
+
+CGST (9%): %216.45
+SGST (9%): 8216.45
+Total Amount Payable: %2837.9
+
+Terms: Goods once sold will not be taken back.

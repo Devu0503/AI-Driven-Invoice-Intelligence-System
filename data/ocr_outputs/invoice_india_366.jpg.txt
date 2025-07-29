@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0019
+Date: 1984-09-09
+Buyer Name: Yuvaan Dewan
+Buyer Address: H.No. 73, Suresh, Mathura-731191
+PAN No: ABCDE7483F
+GSTIN: 14ABCDE2019Z01
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 3596 Amount: $596
+CGST (9%): 353.64
+
+SGST (9%): %53.64
+Total Amount Payable: 2703.28
+
+Terms: Goods once sold will not be taken back.

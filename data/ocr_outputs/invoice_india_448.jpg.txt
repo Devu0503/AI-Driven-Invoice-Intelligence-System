@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0227
+Date: 2010-01-31
+Buyer Name: Chirag Chahal
+Buyer Address: H.No. 90, Kaur Street, Coimbatore-308592
+PAN No: ABCDE6613F
+GSTIN: 43ABCDE7618Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 3696 Amount: 1392
+
+CGST (9%): %125.28
+SGST (9%): 2125.28
+Total Amount Payable: 21642.56
+
+Terms: Goods once sold will not be taken back.

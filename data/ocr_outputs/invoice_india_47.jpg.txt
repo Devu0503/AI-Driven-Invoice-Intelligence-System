@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2075/0773
+Date: 2023-08-24
+Buyer Name: Kiaan Tara
+Buyer Address: 60/42, Baral Marg, Bhusawal 613395
+PAN No: ABCDE7906F
+GSTIN: 30ABCDE8827Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 793 Amount: 3172
+
+CGST (9%): %285.48
+SGST (9%): 285.48
+Total Amount Payable: 3742.96
+
+Terms: Goods once sold will not be taken back.

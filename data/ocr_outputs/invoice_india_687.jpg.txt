@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0641
+Date: 2022-02-27
+Buyer Name: Taran Rao
+Buyer Address: 760, Lal Chowk, Ballia 609731
+PAN No: ABCDE0079F
+GSTIN: 53ABCDE4065251
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 421 Amount: %842
+CGST (9%): 75.78
+
+SGST (9%): %75.78
+Total Amount Payable: %993.56
+
+Terms: Goods once sold will not be taken back.

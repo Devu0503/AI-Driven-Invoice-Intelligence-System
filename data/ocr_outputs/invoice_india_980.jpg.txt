@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2089/0774
+Date: 1976-11-18
+Buyer Name: Onkar Lall
+Buyer Address: H.No. 028, Chakraborty Street, Hazaribagh 520368
+PAN No: ABCDE9814F
+GSTIN: 53ABCDE22032Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 809 Amount: 1618
+
+CGST (9%): %145.62
+SGST (9%): 2145.62
+Total Amount Payable: =1909.24
+
+Terms: Goods once sold will not be taken back.

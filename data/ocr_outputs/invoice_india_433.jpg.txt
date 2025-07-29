@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2045/0637
+Date: 2010-12-04
+Buyer Name: Biju Mallick
+Buyer Address: 803, Dyal Street, Ajmer-677068
+PAN No: ABCDE8173F
+GSTIN: 10ABCDE5332241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 3145 Amount: 145
+
+CGST (9%): %13.05
+SGST (9%): 13.05
+Total Amount Payable: 2171.1
+
+Terms: Goods once sold will not be taken back.

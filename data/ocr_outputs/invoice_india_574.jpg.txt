@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2007/0012
+Date: 2018-07-30
+Buyer Name: Krish Shroff
+Buyer Address: 31, Sule Street, Ujjain-513547
+PAN No: ABCDE7013F
+GSTIN: 15ABCDE95522Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 766 Amount: 2298
+
+CGST (9%): %206.82
+SGST (9%): %206.82
+Total Amount Payable: 2711.64
+
+Terms: Goods once sold will not be taken back.

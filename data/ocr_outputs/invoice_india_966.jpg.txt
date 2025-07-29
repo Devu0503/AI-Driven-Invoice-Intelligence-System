@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0243
+Date: 2018-01-16
+Buyer Name: Miraan Rajagopal
+Buyer Address: H.No. 29, Bansal Path, Karaikudi 841410
+PAN No: ABCDE4031F
+GSTIN: 0S5ABCDE97222Z91
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 3229 Amount: 458
+CGST (9%): 41.22
+
+SGST (9%): %41.22
+Total Amount Payable: 2540.44
+
+Terms: Goods once sold will not be taken back.

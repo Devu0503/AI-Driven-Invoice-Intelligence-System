@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2052/0721
+Date: 2019-10-24
+Buyer Name: Ishaan Barad
+Buyer Address: H.No. 67, Khare Street, Bettiah-078747
+PAN No: ABCDE5022F
+GSTIN: 42ABCDE0972241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3273 Amount: 1365
+
+CGST (9%): %122.85
+SGST (9%): 2122.85
+Total Amount Payable: 21610.7
+
+Terms: Goods once sold will not be taken back.

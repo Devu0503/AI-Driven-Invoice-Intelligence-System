@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0939
+Date: 1987-02-11
+Buyer Name: Lakshay Banerjee
+Buyer Address: H.No. 314, Chaudhry, Bharatpur 967438
+PAN No: ABCDE3416F
+GSTIN: 28ABCDE0346Z01
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 3248 Amount: %248
+CGST (9%): %22.32
+
+SGST (9%): %22.32
+Total Amount Payable: %292.64
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0057
+Date: 2009-09-20
+Buyer Name: Rania Ram
+Buyer Address: 17/722, Thakkar Path, Hubli-Dharwad-958480
+PAN No: ABCDE8173F
+GSTIN: 15ABCDE6230Z81
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 3176 Amount: 176
+CGST (9%): %15.84
+
+SGST (9%): 15.84
+Total Amount Payable: 2207.68
+
+Terms: Goods once sold will not be taken back.

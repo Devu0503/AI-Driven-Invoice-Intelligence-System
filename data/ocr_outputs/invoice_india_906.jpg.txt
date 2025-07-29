@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0154
+Date: 2025-01-24
+Buyer Name: Vihaan Mahal
+Buyer Address: 52/70, Aurora Marg, Tiruchirappalli-949346
+PAN No: ABCDE9619F
+GSTIN: 24ABCDE96852Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 826 Amount: 3304
+
+CGST (9%): %297.36
+SGST (9%): 297.36
+Total Amount Payable: 3898.72
+
+Terms: Goods once sold will not be taken back.

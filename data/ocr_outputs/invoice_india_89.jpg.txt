@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2063/0774
+Date: 1995-09-24
+Buyer Name: Zoya Mane
+Buyer Address: 37/84, Edwin, Bokaro 344066
+PAN No: ABCDE2792F
+GSTIN: 57ABCDE2892241
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 765 Amount: 2295
+
+CGST (9%): %206.55
+SGST (9%): %206.55
+Total Amount Payable: %2708.1
+
+Terms: Goods once sold will not be taken back.

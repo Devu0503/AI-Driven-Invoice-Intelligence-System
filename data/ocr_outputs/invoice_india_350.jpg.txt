@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0154
+Date: 2012-07-25
+Buyer Name: Jiya Kapadia
+Buyer Address: H.No. 85, Rajagopal Nagar, Ludhiana-639456
+PAN No: ABCDE9124F
+GSTIN: 92ABCDE8972Z81
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: 3273 Amount: 819
+CGST (9%): 73.71
+
+SGST (9%): %73.71
+Total Amount Payable: 966.42
+
+Terms: Goods once sold will not be taken back.

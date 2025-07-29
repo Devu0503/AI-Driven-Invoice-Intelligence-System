@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0557
+Date: 2005-06-28
+Buyer Name: Nakul Sant
+Buyer Address: 15/214, Kant Circle, Nangloi Jat 265381
+PAN No: ABCDE4291F
+GSTIN: 25ABCDE90422Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 290 Amount: 290
+CGST (9%): 226.1
+
+SGST (9%): 226.1
+Total Amount Payable: %342.2
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2087/0361
+Date: 1991-06-08
+Buyer Name: Ishita Bhardwaj
+Buyer Address: 91/55, Shetty Path, Maheshtala 684022
+PAN No: ABCDE0015F
+GSTIN: 03ABCDE3398Z51
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 466 Amount: 932
+CGST (9%): %83.88
+
+SGST (9%): 83.88
+Total Amount Payable: =1099.76
+
+Terms: Goods once sold will not be taken back.

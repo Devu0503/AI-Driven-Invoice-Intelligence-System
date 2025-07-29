@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2044/0908
+Date: 1976-10-07
+Buyer Name: Manikya Dara
+Buyer Address: 435, Chakrabarti Circle, Nagercoil-041000
+PAN No: ABCDE4645F
+GSTIN: 97ABCDE8309Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3665 Amount: =2660
+
+CGST (9%): %239.4
+SGST (9%): 239.4
+Total Amount Payable: %3138.8
+
+Terms: Goods once sold will not be taken back.

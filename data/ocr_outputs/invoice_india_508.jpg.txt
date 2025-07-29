@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2076/0341
+Date: 1986-11-24
+Buyer Name: Farhan Madan
+Buyer Address: 99, Jain Nagar, Baranagar 582900
+PAN No: ABCDE7275F
+GSTIN: 68ABCDE18262Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 128 Amount: 384
+
+CGST (9%): %34.56
+SGST (9%): %34.56
+Total Amount Payable: %453.12
+
+Terms: Goods once sold will not be taken back.

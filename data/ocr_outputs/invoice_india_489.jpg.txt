@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0199
+Date: 2019-11-02
+Buyer Name: Devansh Kumar
+Buyer Address: H.No. 93, Saini, Patna-834958
+PAN No: ABCDE7813F
+GSTIN: 31ABCDE9408Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 905 Amount: 905
+
+CGST (9%): %81.45
+SGST (9%): %81.45
+Total Amount Payable: 21067.9
+
+Terms: Goods once sold will not be taken back.

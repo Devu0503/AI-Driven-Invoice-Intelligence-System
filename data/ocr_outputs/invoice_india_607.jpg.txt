@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0025
+Date: 2020-06-02
+Buyer Name: Khushi Sama
+Buyer Address: H.No. 693, Thakur Chowk, Coimbatore 844397
+PAN No: ABCDE7289F
+GSTIN: 85ABCDE2573Z51
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 5 Rate: 492 Amount: 2460
+CGST (9%): %221.4
+
+SGST (9%): 221.4
+Total Amount Payable: %2902.8
+
+Terms: Goods once sold will not be taken back.

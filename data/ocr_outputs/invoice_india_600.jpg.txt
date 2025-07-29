@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2091/0930
+Date: 1973-12-30
+Buyer Name: Kartik Vig
+Buyer Address: 05, Goyal Chowk, Bhilai-475206
+PAN No: ABCDE2957F
+GSTIN: 96ABCDE0055221
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 941 Amount: %941
+
+CGST (9%): %84.69
+SGST (9%): 84.69
+Total Amount Payable: 1110.38
+
+Terms: Goods once sold will not be taken back.

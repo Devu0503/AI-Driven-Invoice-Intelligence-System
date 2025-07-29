@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2047/0028
+Date: 1976-08-20
+Buyer Name: Zain Mandal
+Buyer Address: 32, Arora Circle, Mahbubnagar 521542
+PAN No: ABCDE4698F
+GSTIN: 42ABCDE9004Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: 495 Amount: 495
+
+CGST (9%): 44.55
+SGST (9%): %44.55
+Total Amount Payable: 2584.1
+
+Terms: Goods once sold will not be taken back.

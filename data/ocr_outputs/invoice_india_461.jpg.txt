@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0644
+Date: 2002-09-01
+Buyer Name: Adira Krishna
+Buyer Address: 278, Dass Road, Pondicherry 140689
+PAN No: ABCDE9927F
+GSTIN: 7OABCDE5830Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 3570 Amount: 1140
+
+CGST (9%): %102.6
+SGST (9%): %102.6
+Total Amount Payable: %1345.2
+
+Terms: Goods once sold will not be taken back.

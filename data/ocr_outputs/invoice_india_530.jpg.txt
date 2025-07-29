@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2055/0248
+Date: 1970-10-20
+Buyer Name: Krish Boase
+Buyer Address: 96/503, Doshi Marg, Dehradun 293106
+PAN No: ABCDE4327F
+GSTIN: 68ABCDE5122271
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 3514 Amount: 2056
+
+CGST (9%): %185.04
+SGST (9%): %185.04
+Total Amount Payable: 2426.08
+
+Terms: Goods once sold will not be taken back.

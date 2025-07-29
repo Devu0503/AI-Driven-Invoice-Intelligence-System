@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2050/0875
+Date: 1982-07-08
+Buyer Name: Amira Sehgal
+Buyer Address: 47, Garde Chowk, Farrukhabad 124977
+PAN No: ABCDE7113F
+GSTIN: 27ABCDE05452Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: $982 Amount: 4910
+CGST (9%): %441.9
+
+SGST (9%): %441.9
+Total Amount Payable: %5793.8
+
+Terms: Goods once sold will not be taken back.

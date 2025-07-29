@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2063/0924
+Date: 2003-05-01
+Buyer Name: Jayant Kapadia
+Buyer Address: 45/828, Varma Path, Dewas 948069
+PAN No: ABCDE8400F
+GSTIN: 01ABCDE8272241
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: $335 Amount: 1005
+
+CGST (9%): 90.45
+SGST (9%): %90.45
+Total Amount Payable: 21185.9
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2076/0333
+Date: 2012-09-12
+Buyer Name: Hridaan Sha
+Buyer Address: 36/164, Solanki Chowk, Buxar-689926
+PAN No: ABCDE5062F
+GSTIN: 97ABCDE86232Z21
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 486 Amount: 972
+CGST (9%): 87.48
+SGST (9%): %87.48
+Total Amount Payable: 1146.96
+
+Terms: Goods once sold will not be taken back.

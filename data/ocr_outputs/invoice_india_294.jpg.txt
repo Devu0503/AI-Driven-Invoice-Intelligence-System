@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0198
+Date: 2018-04-14
+Buyer Name: Nehmat Sant
+Buyer Address: 25, Bail, Moradabad 534694
+PAN No: ABCDE2833F
+GSTIN: 80ABCDE0225211
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 3237 Amount: 474
+CGST (9%): %42.66
+
+SGST (9%): %42.66
+Total Amount Payable: %559.32
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2089/0820
+Date: 2001-05-24
+Buyer Name: Heer Mangat
+Buyer Address: 52/83, Mallick Path, Amroha-570509
+PAN No: ABCDE3546F
+GSTIN: 27ABCDE5931Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3520 Amount: 1560
+
+CGST (9%): %140.4
+SGST (9%): 140.4
+Total Amount Payable: %1840.8
+
+Terms: Goods once sold will not be taken back.

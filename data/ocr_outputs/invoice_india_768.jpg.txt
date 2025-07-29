@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2032/0827
+Date: 1997-01-09
+Buyer Name: Samarth Mand
+Buyer Address: 21, Maharaj Road, Hajipur-108623
+PAN No: ABCDE9267F
+GSTIN: 60ABCDE53032Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 3672 Amount: 2016
+
+CGST (9%): %181.44
+SGST (9%): %181.44
+Total Amount Payable: 2378.88
+
+Terms: Goods once sold will not be taken back.

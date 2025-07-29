@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0784
+Date: 1990-12-12
+Buyer Name: Yashvi Rau
+Buyer Address: 95, Rau Road, Anantapuram-689516
+PAN No: ABCDE1920F
+GSTIN: 53ABCDE15592Z31
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 921 Amount: %921
+CGST (9%): %82.89
+
+SGST (9%): 82.89
+Total Amount Payable: 1086.78
+
+Terms: Goods once sold will not be taken back.

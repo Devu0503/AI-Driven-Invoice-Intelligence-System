@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0305
+Date: 2014-04-05
+Buyer Name: Arnav Sarma
+Buyer Address: H.No. 92, Bali Street, Tadepalligudem-385605
+PAN No: ABCDE9035F
+GSTIN: 62ABCDE4452Z51
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 3507 Amount: 1014
+CGST (9%): %91.26
+SGST (9%): %91.26
+Total Amount Payable: =1196.52
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0235
+Date: 1984-02-11
+Buyer Name: Shamik Sane
+Buyer Address: 32/134, Walla Path, Dhanbad-954360
+PAN No: ABCDE3453F
+GSTIN: 39ABCDE9911Z01
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 409 Amount: 818
+CGST (9%): %73.62
+
+SGST (9%): 73.62
+Total Amount Payable: %965.24
+
+Terms: Goods once sold will not be taken back.

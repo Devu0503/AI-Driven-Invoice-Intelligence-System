@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0441
+Date: 2024-08-20
+Buyer Name: Aaryahi Atwal
+Buyer Address: H.No. 51, Barad Nagar, Dharmavaram 071158
+PAN No: ABCDE3099F
+GSTIN: 60ABCDE45942Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 736 Amount: 1472
+
+CGST (9%): %132.48
+SGST (9%): 2132.48
+Total Amount Payable: 21736.96
+
+Terms: Goods once sold will not be taken back.

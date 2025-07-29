@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2086/0045
+Date: 1996-07-05
+Buyer Name: Lakshay Ganesan
+Buyer Address: 32, Brar Zila, Dhule-287171
+PAN No: ABCDE6369F
+GSTIN: 33ABCDE0103Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3646 Amount: 2584
+
+CGST (9%): %232.56
+SGST (9%): %232.56
+Total Amount Payable: 3049.12
+
+Terms: Goods once sold will not be taken back.

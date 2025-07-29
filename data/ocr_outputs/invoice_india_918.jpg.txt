@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2017/0099
+Date: 2014-11-06
+Buyer Name: Tanya Bedi
+Buyer Address: H.No. 431, Dhillon Ganj, Sambhal 999404
+PAN No: ABCDE6152F
+GSTIN: 64ABCDE6942211
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 483 Amount: =966
+CGST (9%): %86.94
+SGST (9%): 86.94
+Total Amount Payable: %1139.88
+
+Terms: Goods once sold will not be taken back.

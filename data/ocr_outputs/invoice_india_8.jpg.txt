@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0212
+Date: 1972-01-19
+Buyer Name: Saksham Chakrabarti
+Buyer Address: H.No. 79, Bandi Ganj, Hindupur 660941
+PAN No: ABCDE1784F
+GSTIN: 64ABCDE35812Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 893 Amount: 1786
+
+CGST (9%): %160.74
+SGST (9%): %160.74
+Total Amount Payable: 2107.48
+
+Terms: Goods once sold will not be taken back.

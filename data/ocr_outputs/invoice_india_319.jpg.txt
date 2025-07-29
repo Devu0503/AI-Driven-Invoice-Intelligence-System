@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2052/0054
+Date: 1976-09-11
+Buyer Name: Samiha Tank
+Buyer Address: 39/936, Wagle Path, Darbhanga 546225
+PAN No: ABCDE7084F
+GSTIN: 74ABCDE70692Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3528 Amount: 1584
+
+CGST (9%): %142.56
+SGST (9%): %142.56
+Total Amount Payable: 21869.12
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2016/0624
+Date: 1981-03-12
+Buyer Name: Vihaan Rout
+Buyer Address: H.No. 94, Bhardwaj Ganj, Jamshedpur-388733
+PAN No: ABCDE6522F
+GSTIN: 03ABCDE5480Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3265 Amount: 265
+
+CGST (9%): 23.85
+SGST (9%): %23.85
+Total Amount Payable: %312.7
+
+Terms: Goods once sold will not be taken back.

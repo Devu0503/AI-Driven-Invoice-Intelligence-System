@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0402
+Date: 1993-01-25
+Buyer Name: Anaya Thaman
+Buyer Address: 60/03, Dutt, Vellore 395201
+PAN No: ABCDE3915F
+GSTIN: 36ABCDE0282211
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 4 Rate: 800 Amount: ¥3200
+CGST (9%): %288.0
+
+SGST (9%): 288.0
+Total Amount Payable: %3776.0
+
+Terms: Goods once sold will not be taken back.

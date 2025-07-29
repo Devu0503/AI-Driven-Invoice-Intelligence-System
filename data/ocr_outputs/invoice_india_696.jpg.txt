@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0638
+Date: 1976-01-13
+Buyer Name: Vanya Kamdar
+Buyer Address: 02, Sachdev, Karnal-053050
+PAN No: ABCDE1569F
+GSTIN: 25ABCDE0300Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 855 Amount: 1710
+
+CGST (9%): %153.9
+SGST (9%): 153.9
+Total Amount Payable: %2017.8
+
+Terms: Goods once sold will not be taken back.

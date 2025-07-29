@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2028/0678
+Date: 1998-11-20
+Buyer Name: Aradhya Jhaveri
+Buyer Address: 93, Chatterjee, Meerut-279044
+PAN No: ABCDE3055F
+GSTIN: 48ABCDE8705211
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 3159 Amount: 477
+CGST (9%): %42.93
+
+SGST (9%): %42.93
+Total Amount Payable: 2562.86
+
+Terms: Goods once sold will not be taken back.

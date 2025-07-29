@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2081/0878
+Date: 2014-01-08
+Buyer Name: Mamooty Ganesh
+Buyer Address: 56/788, Bhatt Street, Kharagpur 001313
+PAN No: ABCDE2128F
+GSTIN: 81ABCDE0947Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 391 Amount: %391
+
+CGST (9%): %35.19
+SGST (9%): %35.19
+Total Amount Payable: 2461.38
+
+Terms: Goods once sold will not be taken back.

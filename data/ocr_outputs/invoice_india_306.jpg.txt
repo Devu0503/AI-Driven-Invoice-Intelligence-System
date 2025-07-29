@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0701
+Date: 1989-04-05
+Buyer Name: Saanvi Sane
+Buyer Address: H.No. 166, Sandhu Street, Bhiwandi-827663
+PAN No: ABCDE8176F
+GSTIN: 46ABCDE3266Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: $342 Amount: 342
+CGST (9%): %30.78
+
+SGST (9%): %30.78
+Total Amount Payable: %403.56
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0009
+Date: 1970-01-10
+Buyer Name: Chirag Borra
+Buyer Address: 25, Jaggi Ganj, Shimla-025868
+PAN No: ABCDE9764F
+GSTIN: 10ABCDE3412Z51
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 3 Rate: 144 Amount: 432
+CGST (9%): 38.88
+
+SGST (9%): %38.88
+Total Amount Payable: %509.76
+
+Terms: Goods once sold will not be taken back.

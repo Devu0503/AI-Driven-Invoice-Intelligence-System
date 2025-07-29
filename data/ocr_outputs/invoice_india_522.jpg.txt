@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2093/0272
+Date: 2025-05-25
+Buyer Name: Myra Agrawal
+Buyer Address: 78/988, Chowdhury Marg, Chandigarh-004059
+PAN No: ABCDE4903F
+GSTIN: 62ABCDE8640Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 4 Rate: 3161 Amount: %644
+CGST (9%): 857.96
+
+SGST (9%): %57.96
+Total Amount Payable: 2759.92
+
+Terms: Goods once sold will not be taken back.

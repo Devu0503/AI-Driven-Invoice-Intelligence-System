@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2099/0537
+Date: 2022-09-26
+Buyer Name: Emir Kala
+Buyer Address: 64, Rege Street, Nellore 846895
+PAN No: ABCDE9180F
+GSTIN: 31ABCDE22462Z71
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 413 Amount: 826
+CGST (9%): 74.34
+
+SGST (9%): %74.34
+Total Amount Payable: %974.68
+
+Terms: Goods once sold will not be taken back.

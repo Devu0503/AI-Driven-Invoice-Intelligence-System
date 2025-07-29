@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0478
+Date: 2019-03-31
+Buyer Name: Aarush Sha
+Buyer Address: H.No. 04, Mand Ganj, Hazaribagh-078402
+PAN No: ABCDE7301F
+GSTIN: 48ABCDE6409241
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 3247 Amount: %741
+CGST (9%): %66.69
+
+SGST (9%): %66.69
+Total Amount Payable: %874.38
+
+Terms: Goods once sold will not be taken back.

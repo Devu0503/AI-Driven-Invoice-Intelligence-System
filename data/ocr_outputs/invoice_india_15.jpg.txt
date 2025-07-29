@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2077/0534
+Date: 2016-11-23
+Buyer Name: Aarna Deshmukh
+Buyer Address: 08/76, Bhagat Street, Srikakulam 623226
+PAN No: ABCDE4134F
+GSTIN: 22ABCDE6160Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 3178 Amount: 534
+
+CGST (9%): %48.06
+SGST (9%): %48.06
+Total Amount Payable: %630.12
+
+Terms: Goods once sold will not be taken back.

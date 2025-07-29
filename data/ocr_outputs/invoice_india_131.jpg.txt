@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2003/0570
+Date: 1977-01-19
+Buyer Name: Navya Bail
+Buyer Address: 18/424, Kalla Ganj, Danapur-057712
+PAN No: ABCDE5489F
+GSTIN: 13ABCDE4377Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3577 Amount: 2885
+
+CGST (9%): %259.65
+SGST (9%): %259.65
+Total Amount Payable: %3404.3
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2014/0973
+Date: 1975-01-23
+Buyer Name: Shlok Bains
+Buyer Address: H.No. 53, Tella Marg, Hapur-770097
+PAN No: ABCDE5672F
+GSTIN: 04ABCDE7692241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: $716 Amount: 2148
+
+CGST (9%): %193.32
+SGST (9%): %193.32
+Total Amount Payable: 2534.64
+
+Terms: Goods once sold will not be taken back.

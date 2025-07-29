@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2070/0998
+Date: 2018-01-17
+Buyer Name: Nitara Mane
+Buyer Address: 26/52, Ahuja Circle, Bangalore-116774
+PAN No: ABCDE5935F
+GSTIN: 58ABCDE2112Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 883 Amount: 1766
+
+CGST (9%): %158.94
+SGST (9%): 2158.94
+Total Amount Payable: 2083.88
+
+Terms: Goods once sold will not be taken back.

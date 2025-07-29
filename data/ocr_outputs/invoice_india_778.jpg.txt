@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0045
+Date: 1992-09-06
+Buyer Name: Tanya Choudhury
+Buyer Address: 70/21, Konda, Khandwa-559013
+PAN No: ABCDE3008F
+GSTIN: 26ABCDE9867Z51
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 860 Amount: =860
+CGST (9%): 277.4
+
+SGST (9%): 377.4
+Total Amount Payable: 21014.8
+
+Terms: Goods once sold will not be taken back.

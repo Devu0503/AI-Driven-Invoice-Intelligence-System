@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0115
+Date: 1975-08-15
+Buyer Name: Aaina Varma
+Buyer Address: H.No. 55, Acharya Nagar, Rajkot 689070
+PAN No: ABCDE7769F
+GSTIN: 60ABCDE82292Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3621 Amount: 3105
+
+CGST (9%): %279.45
+SGST (9%): 279.45
+Total Amount Payable: %3663.9
+
+Terms: Goods once sold will not be taken back.

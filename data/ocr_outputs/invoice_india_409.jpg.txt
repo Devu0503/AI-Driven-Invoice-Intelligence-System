@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0362
+Date: 2023-11-18
+Buyer Name: Anika Dube
+Buyer Address: 16/91, Sani, Vasai-Virar 984666
+PAN No: ABCDE5422F
+GSTIN: 31ABCDE9011211
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: $754 Amount: 3016
+
+CGST (9%): %271.44
+SGST (9%): 8271.44
+Total Amount Payable: 3558.88
+
+Terms: Goods once sold will not be taken back.

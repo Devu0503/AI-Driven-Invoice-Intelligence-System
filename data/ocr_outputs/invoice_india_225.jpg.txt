@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0127
+Date: 2025-03-27
+Buyer Name: Yuvraj Raman
+Buyer Address: 99, Chand Zila, Thane 872373
+PAN No: ABCDE3046F
+GSTIN: 07ABCDE52862Z21
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 5 Rate: 440 Amount: 2200
+CGST (9%): %198.0
+
+SGST (9%): %198.0
+Total Amount Payable: 2596.0
+
+Terms: Goods once sold will not be taken back.

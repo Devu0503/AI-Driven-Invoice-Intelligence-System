@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2089/0528
+Date: 2006-12-04
+Buyer Name: Dhruv Sood
+Buyer Address: 763, Bora Road, Karaikudi-638522
+PAN No: ABCDE8521F
+GSTIN: 41ABCDE96752Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 488 Amount: 1952
+
+CGST (9%): %175.68
+SGST (9%): 2175.68
+Total Amount Payable: 2303.36
+
+Terms: Goods once sold will not be taken back.

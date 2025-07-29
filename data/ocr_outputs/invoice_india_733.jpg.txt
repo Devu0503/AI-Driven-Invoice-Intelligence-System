@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2024/0661
+Date: 1989-11-04
+Buyer Name: Kimaya Ratti
+Buyer Address: 714, Hegde Road, Durgapur 509317
+PAN No: ABCDE0447F
+GSTIN: 35ABCDE1405Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 701 Amount: 2103
+
+CGST (9%): %189.27
+SGST (9%): %189.27
+Total Amount Payable: %2481.54
+
+Terms: Goods once sold will not be taken back.

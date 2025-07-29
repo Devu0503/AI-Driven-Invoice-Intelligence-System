@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2043/0551
+Date: 2000-07-31
+Buyer Name: Bhamini Goyal
+Buyer Address: H.No. 76, Rao Chowk, Shivpuri 665444
+PAN No: ABCDE3322F
+GSTIN: 94ABCDE81752Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 798 Amount: ¥3192
+
+CGST (9%): %287.28
+SGST (9%): 287.28
+Total Amount Payable: 3766.56
+
+Terms: Goods once sold will not be taken back.

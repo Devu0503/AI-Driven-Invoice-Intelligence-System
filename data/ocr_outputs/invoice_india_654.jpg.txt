@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0461
+Date: 1991-06-02
+Buyer Name: Indranil Majumdar
+Buyer Address: H.No. 26, Andra Chowk, Ichalkaranji-601437
+PAN No: ABCDE2044F
+GSTIN: 73ABCDE8142Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: $719 Amount: 2157
+
+CGST (9%): %194.13
+SGST (9%): 2194.13
+Total Amount Payable: %2545.26
+
+Terms: Goods once sold will not be taken back.

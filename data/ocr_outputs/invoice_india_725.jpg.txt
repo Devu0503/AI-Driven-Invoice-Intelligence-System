@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0307
+Date: 2015-02-17
+Buyer Name: Suhana Karpe
+Buyer Address: H.No. 89, Bahri Path, Udaipur-873688
+PAN No: ABCDE8207F
+GSTIN: 75ABCDE6004Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 491 Amount: 1473
+
+CGST (9%): %132.57
+SGST (9%): 2132.57
+Total Amount Payable: 1738.14
+
+Terms: Goods once sold will not be taken back.

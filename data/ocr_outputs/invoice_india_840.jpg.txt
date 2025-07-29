@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2075/0133
+Date: 1997-12-09
+Buyer Name: Devansh Kota
+Buyer Address: 80/95, Handa Street, Singrauli 110368
+PAN No: ABCDE8430F
+GSTIN: 36ABCDE72962Z21
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 4 Rate: 3252 Amount: 1008
+CGST (9%): %90.72
+SGST (9%): 90.72
+Total Amount Payable: %1189.44
+
+Terms: Goods once sold will not be taken back.

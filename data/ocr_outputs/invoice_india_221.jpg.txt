@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0798
+Date: 1981-09-25
+Buyer Name: Nitara Buch
+Buyer Address: 994, Virk Circle, Burhanpur 045127
+PAN No: ABCDE9102F
+GSTIN: 19ABCDE86932Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3534 Amount: 2136
+
+CGST (9%): %192.24
+SGST (9%): 2192.24
+Total Amount Payable: 2520.48
+
+Terms: Goods once sold will not be taken back.

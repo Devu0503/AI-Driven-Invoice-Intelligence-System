@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2029/0873
+Date: 2011-12-09
+Buyer Name: Sana Ganesan
+Buyer Address: H.No. 71, Manda Road, Bhagalpur-008476
+PAN No: ABCDE4139F
+GSTIN: 16ABCDE1185Z01
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 393 Amount: 393
+CGST (9%): %35.37
+
+SGST (9%): 35.37
+Total Amount Payable: 2463.74
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2050/0128
+Date: 2002-09-04
+Buyer Name: Urvi Dayal
+Buyer Address: 20, Bhattacharyya Zila, Rewa-504578
+PAN No: ABCDE3813F
+GSTIN: 82ABCDE5434Z01
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 669 Amount: %669
+CGST (9%): 360.21
+
+SGST (9%): %60.21
+Total Amount Payable: 2789.42
+
+Terms: Goods once sold will not be taken back.

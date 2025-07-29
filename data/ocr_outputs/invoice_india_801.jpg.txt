@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2067/0215
+Date: 1999-08-16
+Buyer Name: Lakshay Mall
+Buyer Address: 503, Issac, Ranchi-105005
+PAN No: ABCDE2838F
+GSTIN: 60ABCDE4115Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 344 Amount: $688
+
+CGST (9%): %61.92
+SGST (9%): 861.92
+Total Amount Payable: %811.84
+
+Terms: Goods once sold will not be taken back.

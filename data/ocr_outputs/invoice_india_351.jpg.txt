@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0292
+Date: 1977-03-31
+Buyer Name: Aaina Bhatti
+Buyer Address: H.No. 48, Barad Circle, Raebareli 094416
+PAN No: ABCDE8009F
+GSTIN: 19ABCDE4695241
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3655 Amount: 3275
+
+CGST (9%): %294.75
+SGST (9%): 294.75
+Total Amount Payable: %3864.5
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2069/0689
+Date: 1992-03-05
+Buyer Name: Anay Baria
+Buyer Address: 77/83, Ramaswamy Zila, Panvel 018975
+PAN No: ABCDE5362F
+GSTIN: 10ABCDE87872Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3512 Amount: 512
+
+CGST (9%): %46.08
+SGST (9%): %46.08
+Total Amount Payable: %604.16
+
+Terms: Goods once sold will not be taken back.

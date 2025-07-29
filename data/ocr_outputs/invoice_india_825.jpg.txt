@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0667
+Date: 2024-07-10
+Buyer Name: Raunak Sastry
+Buyer Address: 06/658, Solanki Chowk, Navi Mumbai 683329
+PAN No: ABCDE8512F
+GSTIN: 57ABCDE4541Z91
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 413 Amount: 413
+CGST (9%): %37.17
+
+SGST (9%): 37.17
+Total Amount Payable: 2487.34
+
+Terms: Goods once sold will not be taken back.

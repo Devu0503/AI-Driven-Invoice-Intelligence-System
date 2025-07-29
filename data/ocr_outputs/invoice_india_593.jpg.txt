@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2049/0007
+Date: 2012-10-30
+Buyer Name: Heer Jain
+Buyer Address: 57/860, Mane Ganj, Korba-845578
+PAN No: ABCDE0624F
+GSTIN: 01ABCDE6774Z31
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 429 Amount: 429
+CGST (9%): %38.61
+
+SGST (9%): %38.61
+Total Amount Payable: %506.22
+
+Terms: Goods once sold will not be taken back.

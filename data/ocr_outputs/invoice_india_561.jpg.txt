@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0916
+Date: 1988-08-17
+Buyer Name: Anahita Chakrabarti
+Buyer Address: 20/88, Chaudhuri Ganj, Bidar-472971
+PAN No: ABCDE6126F
+GSTIN: 51ABCDE9338Z31
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: $344 Amount: 1032
+CGST (9%): %92.88
+
+SGST (9%): %92.88
+Total Amount Payable: 21217.76
+
+Terms: Goods once sold will not be taken back.

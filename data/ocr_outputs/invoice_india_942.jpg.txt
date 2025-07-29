@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2041/0805
+Date: 2005-08-24
+Buyer Name: Ishita Varughese
+Buyer Address: H.No. 075, Dar, Dewas 075029
+PAN No: ABCDE4601F
+GSTIN: OOABCDE20542Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: $726 Amount: 2904
+
+CGST (9%): %261.36
+SGST (9%): %261.36
+Total Amount Payable: 3426.72
+
+Terms: Goods once sold will not be taken back.

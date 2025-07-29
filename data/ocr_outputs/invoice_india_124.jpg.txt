@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2074/0308
+Date: 1973-11-18
+Buyer Name: Saira Koshy
+Buyer Address: 46, Trivedi Street, Ratlam-245802
+PAN No: ABCDE7924F
+GSTIN: 54ABCDE02822Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: $967 Amount: %2901
+
+CGST (9%): %261.09
+SGST (9%): %261.09
+Total Amount Payable: %3423.18
+
+Terms: Goods once sold will not be taken back.

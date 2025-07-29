@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2027/0301
+Date: 1990-09-30
+Buyer Name: Jayesh Jhaveri
+Buyer Address: 02/87, Kamdar Zila, Serampore 025969
+PAN No: ABCDE7116F
+GSTIN: 03ABCDE69832Z41
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 786 Amount: ¥3930
+CGST (9%): %353.7
+
+SGST (9%): 353.7
+Total Amount Payable: %4637.4
+
+Terms: Goods once sold will not be taken back.

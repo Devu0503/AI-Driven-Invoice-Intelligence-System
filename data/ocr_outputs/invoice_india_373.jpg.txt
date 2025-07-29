@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2048/0833
+Date: 2009-07-07
+Buyer Name: Pari Karan
+Buyer Address: H.No. 99, Sahni Circle, Ulhasnagar-026526
+PAN No: ABCDE4830F
+GSTIN: 77ABCDE79252Z91
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 3269 Amount: 1345
+
+CGST (9%): %121.05
+SGST (9%): 2121.05
+Total Amount Payable: %1587.1
+
+Terms: Goods once sold will not be taken back.

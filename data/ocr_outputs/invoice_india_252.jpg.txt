@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2064/0126
+Date: 2017-07-02
+Buyer Name: Kashvi Shere
+Buyer Address: 62/676, Kalla Street, Ambala 068413
+PAN No: ABCDE2162F
+GSTIN: O6ABCDE78552Z31
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 3 Rate: 294 Amount: %882
+CGST (9%): 79.38
+
+SGST (9%): %79.38
+Total Amount Payable: =1040.76
+
+Terms: Goods once sold will not be taken back.

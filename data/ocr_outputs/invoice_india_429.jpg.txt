@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0175
+Date: 1998-08-28
+Buyer Name: Hrishita Malhotra
+Buyer Address: H.No. 04, Chokshi Ganj, Aurangabad 989803
+PAN No: ABCDE6842F
+GSTIN: 23ABCDE8077Z01
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 258 Amount: 516
+CGST (9%): %46.44
+
+SGST (9%): %46.44
+Total Amount Payable: %608.88
+
+Terms: Goods once sold will not be taken back.

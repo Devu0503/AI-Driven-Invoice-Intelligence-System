@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2003/0462
+Date: 1991-07-10
+Buyer Name: Manikya Deshmukh
+Buyer Address: H.No. 18, Rau Nagar, Pondicherry 831451
+PAN No: ABCDE5597F
+GSTIN: 08ABCDE5839Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 371 Amount: 1484
+
+CGST (9%): %133.56
+SGST (9%): 2133.56
+Total Amount Payable: 1751.12
+
+Terms: Goods once sold will not be taken back.

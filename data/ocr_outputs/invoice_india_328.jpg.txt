@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2059/0006
+Date: 1980-05-21
+Buyer Name: Ivan Dasgupta
+Buyer Address: H.No. 333, Deol Zila, Katihar-452191
+PAN No: ABCDE9661F
+GSTIN: 29ABCDE1317Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3579 Amount: 579
+
+CGST (9%): 352.11
+SGST (9%): %52.11
+Total Amount Payable: 2683.22
+
+Terms: Goods once sold will not be taken back.

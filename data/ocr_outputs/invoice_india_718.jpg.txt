@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2047/0035
+Date: 1992-09-19
+Buyer Name: Aniruddh Maharaj
+Buyer Address: H.No. 72, Mannan Marg, Loni-858430
+PAN No: ABCDE3719F
+GSTIN: 76ABCDE64702Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 408 Amount: %1632
+
+CGST (9%): %146.88
+SGST (9%): 2146.88
+Total Amount Payable: 1925.76
+
+Terms: Goods once sold will not be taken back.

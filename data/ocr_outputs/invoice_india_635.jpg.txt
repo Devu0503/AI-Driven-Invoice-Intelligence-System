@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2033/0518
+Date: 1978-12-10
+Buyer Name: Veer Singh
+Buyer Address: 84/490, Bali, Vijayanagaram-125970
+PAN No: ABCDE2502F
+GSTIN: 38ABCDE7785241
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 942 Amount: 1884
+
+CGST (9%): %169.56
+SGST (9%): 2169.56
+Total Amount Payable: 22223.12
+
+Terms: Goods once sold will not be taken back.

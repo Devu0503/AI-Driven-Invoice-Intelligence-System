@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0347
+Date: 2010-04-12
+Buyer Name: Anay Shenoy
+Buyer Address: 00/89, Mall Ganj, Eluru-526944
+PAN No: ABCDE2530F
+GSTIN: 43ABCDE81722Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 738 Amount: 2952
+
+CGST (9%): %265.68
+SGST (9%): %265.68
+Total Amount Payable: %3483.36
+
+Terms: Goods once sold will not be taken back.

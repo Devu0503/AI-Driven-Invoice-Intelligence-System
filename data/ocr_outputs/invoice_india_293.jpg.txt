@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0586
+Date: 1972-09-26
+Buyer Name: Rhea Mangat
+Buyer Address: 50/14, Hari Circle, Davanagere-425985
+PAN No: ABCDE1247F
+GSTIN: 16ABCDE8041221
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 794 Amount: 794
+CGST (9%): 871.46
+
+SGST (9%): %71.46
+Total Amount Payable: 936.92
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2036/0816
+Date: 2005-12-18
+Buyer Name: Zeeshan Venkataraman
+Buyer Address: 33/97, Sahni, Sambalpur 941601
+PAN No: ABCDE3043F
+GSTIN: 37ABCDE3198Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 3639 Amount: 2556
+
+CGST (9%): %230.04
+SGST (9%): %230.04
+Total Amount Payable: 3016.08
+
+Terms: Goods once sold will not be taken back.

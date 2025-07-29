@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2099/0147
+Date: 2017-03-17
+Buyer Name: Madhup Sahni
+Buyer Address: 593, Kaul Chowk, Hubli-Dharwad 043479
+PAN No: ABCDE4943F
+GSTIN: 20ABCDE99652Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3649 Amount: 2596
+
+CGST (9%): %233.64
+SGST (9%): %233.64
+Total Amount Payable: 3063.28
+
+Terms: Goods once sold will not be taken back.

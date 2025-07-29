@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2017/0153
+Date: 2020-04-04
+Buyer Name: Devansh Yohannan
+Buyer Address: 09/08, Baral Nagar, Dharmavaram 578535
+PAN No: ABCDE2705F
+GSTIN: 57ABCDE7201Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 484 Amount: %484
+
+CGST (9%): 43.56
+SGST (9%): %43.56
+Total Amount Payable: 2571.12
+
+Terms: Goods once sold will not be taken back.

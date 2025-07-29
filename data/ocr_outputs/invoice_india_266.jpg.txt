@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0979
+Date: 1997-11-30
+Buyer Name: Lakshay Kar
+Buyer Address: H.No. 722, Kapadia Path, Nagpur 519845
+PAN No: ABCDE3810F
+GSTIN: 13ABCDE4011Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3530 Amount: =1060
+CGST (9%): 295.4
+
+SGST (9%): 395.4
+Total Amount Payable: %1250.8
+
+Terms: Goods once sold will not be taken back.

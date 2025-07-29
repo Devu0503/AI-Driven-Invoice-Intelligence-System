@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0553
+Date: 2001-09-11
+Buyer Name: Shlok Gour
+Buyer Address: 20/48, Gade Ganj, Mau 000749
+PAN No: ABCDE6046F
+GSTIN: 40ABCDE9223211
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3661 Amount: 2644
+
+CGST (9%): %237.96
+SGST (9%): 8237.96
+Total Amount Payable: 3119.92
+
+Terms: Goods once sold will not be taken back.

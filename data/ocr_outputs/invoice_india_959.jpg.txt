@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2050/0966
+Date: 2006-04-28
+Buyer Name: Kavya Atwal
+Buyer Address: 34, Rattan Circle, Sultan Pur Majra-950029
+PAN No: ABCDE8301F
+GSTIN: 94ABCDE86222Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 3569 Amount: 1707
+
+CGST (9%): %153.63
+SGST (9%): %153.63
+Total Amount Payable: 2014.26
+
+Terms: Goods once sold will not be taken back.

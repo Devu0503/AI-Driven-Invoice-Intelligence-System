@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0692
+Date: 2013-09-13
+Buyer Name: Aarush Vohra
+Buyer Address: 384, Gour Marg, Barasat 212872
+PAN No: ABCDE9790F
+GSTIN: 24ABCDE32182Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: $385 Amount: 1925
+
+CGST (9%): %173.25
+SGST (9%): 173.25
+Total Amount Payable: %2271.5
+
+Terms: Goods once sold will not be taken back.

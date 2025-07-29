@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0015
+Date: 2007-04-16
+Buyer Name: Kartik Lad
+Buyer Address: 439, Behl Path, Thrissur 632207
+PAN No: ABCDE5852F
+GSTIN: OOABCDE2249211
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $310 Amount: 1240
+
+CGST (9%): %111.6
+SGST (9%): 2111.6
+Total Amount Payable: 21463.2
+
+Terms: Goods once sold will not be taken back.

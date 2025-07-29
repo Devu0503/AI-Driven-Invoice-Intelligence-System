@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2079/0634
+Date: 2020-08-17
+Buyer Name: Kabir Talwar
+Buyer Address: 45, Sanghvi Path, Raurkela Industrial Township-108073
+PAN No: ABCDE8033F
+GSTIN: 71ABCDE2602Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: 383 Amount: 383
+
+CGST (9%): %34.47
+SGST (9%): 34.47
+Total Amount Payable: %451.94
+
+Terms: Goods once sold will not be taken back.

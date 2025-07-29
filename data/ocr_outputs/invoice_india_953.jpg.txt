@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2013/0890
+Date: 2009-10-12
+Buyer Name: Emir Bains
+Buyer Address: 302, Master Marg, Bokaro-758820
+PAN No: ABCDE3018F
+GSTIN: 71ABCDE55782Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3652 Amount: ¥3260
+
+CGST (9%): %293.4
+SGST (9%): 293.4
+Total Amount Payable: %3846.8
+
+Terms: Goods once sold will not be taken back.

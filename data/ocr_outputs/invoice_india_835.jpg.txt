@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2052/0722
+Date: 1987-11-11
+Buyer Name: Emir Banerjee
+Buyer Address: H.No. 61, Dass Zila, Alappuzha-708991
+PAN No: ABCDE6377F
+GSTIN: 11ABCDE1504221
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 963 Amount: %4815
+
+CGST (9%): %433.35
+SGST (9%): %433.35
+Total Amount Payable: %5681.7
+
+Terms: Goods once sold will not be taken back.

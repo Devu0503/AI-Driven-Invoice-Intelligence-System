@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0213
+Date: 1998-12-31
+Buyer Name: Seher Seshadri
+Buyer Address: H.No. 181, Bath Road, Alappuzha 700855
+PAN No: ABCDE7414F
+GSTIN: 23ABCDE3122251
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 3228 Amount: 456
+CGST (9%): %41.04
+
+SGST (9%): %41.04
+Total Amount Payable: 2538.08
+
+Terms: Goods once sold will not be taken back.

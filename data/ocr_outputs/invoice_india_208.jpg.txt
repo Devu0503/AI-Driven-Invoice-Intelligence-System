@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0228
+Date: 2008-09-04
+Buyer Name: Neelofar Krish
+Buyer Address: 56/78, Suresh Road, Meerut 716215
+PAN No: ABCDE2086F
+GSTIN: 65ABCDE6654Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 446 Amount: 892
+CGST (9%): %80.28
+
+SGST (9%): %80.28
+Total Amount Payable: 21052.56
+
+Terms: Goods once sold will not be taken back.

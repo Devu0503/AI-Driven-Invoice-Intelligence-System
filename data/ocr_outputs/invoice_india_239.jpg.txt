@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2031/0401
+Date: 2021-02-18
+Buyer Name: Divij Sarna
+Buyer Address: 11/12, Srinivas Marg, Ramagundam 051469
+PAN No: ABCDE7470F
+GSTIN: 19ABCDE85352Z61
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 4 Rate: 3204 Amount: 816
+CGST (9%): 873.44
+
+SGST (9%): %73.44
+Total Amount Payable: %962.88
+
+Terms: Goods once sold will not be taken back.

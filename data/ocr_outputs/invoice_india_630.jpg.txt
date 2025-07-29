@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0646
+Date: 1993-05-05
+Buyer Name: Emir Saha
+Buyer Address: 91, Bath Path, Vadodara 284595
+PAN No: ABCDE9676F
+GSTIN: 92ABCDE0518Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 496 Amount: 1984
+
+CGST (9%): %178.56
+SGST (9%): 2178.56
+Total Amount Payable: 2341.12
+
+Terms: Goods once sold will not be taken back.

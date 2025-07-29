@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0778
+Date: 1979-04-24
+Buyer Name: Nitara Saran
+Buyer Address: 65/056, Buch Road, Uluberia-475472
+PAN No: ABCDE6693F
+GSTIN: 62ABCDE7896Z81
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3511 Amount: %1022
+CGST (9%): %91.98
+
+SGST (9%): 91.98
+Total Amount Payable: =1205.96
+
+Terms: Goods once sold will not be taken back.

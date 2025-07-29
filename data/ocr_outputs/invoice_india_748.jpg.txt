@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0607
+Date: 2017-02-08
+Buyer Name: Zoya Chadha
+Buyer Address: 535, Kala Marg, Chandrapur 157142
+PAN No: ABCDE7377F
+GSTIN: 10ABCDE4419Z91
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 3162 Amount: 324
+CGST (9%): %29.16
+
+SGST (9%): %29.16
+Total Amount Payable: %382.32
+
+Terms: Goods once sold will not be taken back.

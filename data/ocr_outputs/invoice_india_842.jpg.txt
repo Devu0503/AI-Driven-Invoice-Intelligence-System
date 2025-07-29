@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2060/0092
+Date: 1999-09-30
+Buyer Name: Uthkarsh Tak
+Buyer Address: 74/261, Mani Ganj, Sangli-Miraj & Kupwad 338073
+PAN No: ABCDE2823F
+GSTIN: O9ABCDE6822Z91
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $850 Amount: ¥3400
+
+CGST (9%): %306.0
+SGST (9%): %306.0
+Total Amount Payable: %4012.0
+
+Terms: Goods once sold will not be taken back.

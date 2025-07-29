@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2045/0343
+Date: 1977-09-13
+Buyer Name: Reyansh Kala
+Buyer Address: 34, Sheth Road, Kolkata 004496
+PAN No: ABCDE3116F
+GSTIN: 10ABCDE26432Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: 205 Amount: 205
+
+CGST (9%): 18.45
+SGST (9%): %18.45
+Total Amount Payable: %241.9
+
+Terms: Goods once sold will not be taken back.

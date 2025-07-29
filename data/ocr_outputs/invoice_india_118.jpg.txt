@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2054/0231
+Date: 2021-03-19
+Buyer Name: Himmat Buch
+Buyer Address: H.No. 217, Golla Road, New Delhi 225062
+PAN No: ABCDE8630F
+GSTIN: 83ABCDE8948Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 425 Amount: 1275
+
+CGST (9%): %114.75
+SGST (9%): 2114.75
+Total Amount Payable: %1504.5
+
+Terms: Goods once sold will not be taken back.

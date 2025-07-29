@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2078/0346
+Date: 2008-02-26
+Buyer Name: Anahi Bhatia
+Buyer Address: H.No. 156, Chauhan Road, Karaikudi-284364
+PAN No: ABCDE0778F
+GSTIN: 97ABCDE1447221
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 476 Amount: 952
+CGST (9%): %85.68
+SGST (9%): 85.68
+Total Amount Payable: 1123.36
+
+Terms: Goods once sold will not be taken back.

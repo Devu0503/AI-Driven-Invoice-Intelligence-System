@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2002/0587
+Date: 1980-10-15
+Buyer Name: Yuvraj Borah
+Buyer Address: 36/29, Rajagopal Nagar, Amritsar 615563
+PAN No: ABCDE9419F
+GSTIN: 12ABCDE5495211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 962 Amount: 1924
+
+CGST (9%): %173.16
+SGST (9%): 2173.16
+Total Amount Payable: 2270.32
+
+Terms: Goods once sold will not be taken back.

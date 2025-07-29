@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0748
+Date: 1995-05-24
+Buyer Name: Indranil Varughese
+Buyer Address: H.No. 16, Chander Road, Shimoga 418139
+PAN No: ABCDE8305F
+GSTIN: 38ABCDE76362Z21
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 3563 Amount: 8563
+CGST (9%): %50.67
+
+SGST (9%): 50.67
+Total Amount Payable: 664.34
+
+Terms: Goods once sold will not be taken back.

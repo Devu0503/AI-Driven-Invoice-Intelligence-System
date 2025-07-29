@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2004/0131
+Date: 1973-01-19
+Buyer Name: Ranbir Soman
+Buyer Address: 31/977, Barad Circle, Avadi 819626
+PAN No: ABCDE6435F
+GSTIN: 87ABCDE4175Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 499 Amount: 1497
+
+CGST (9%): %134.73
+SGST (9%): 2134.73
+Total Amount Payable: =1766.46
+
+Terms: Goods once sold will not be taken back.

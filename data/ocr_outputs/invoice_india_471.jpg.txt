@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2083/0456
+Date: 1984-12-30
+Buyer Name: Indrajit Kar
+Buyer Address: 90/52, Wagle Marg, Bijapur 457736
+PAN No: ABCDE6822F
+GSTIN: 85ABCDE7089Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 989 Amount: 4945
+
+CGST (9%): %445.05
+SGST (9%): 445.05
+Total Amount Payable: %5835.1
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2036/0041
+Date: 2009-05-30
+Buyer Name: Kartik Dutta
+Buyer Address: 084, Thaman Circle, Alwar 158347
+PAN No: ABCDE6646F
+GSTIN: 79ABCDE9301Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 960 Amount: =960
+CGST (9%): 386.4
+SGST (9%): 386.4
+Total Amount Payable: 21132.8
+
+Terms: Goods once sold will not be taken back.

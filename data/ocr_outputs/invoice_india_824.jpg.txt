@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0710
+Date: 2014-07-31
+Buyer Name: Dishani Subramanian
+Buyer Address: 55/42, Suresh Chowk, Gwalior 922105
+PAN No: ABCDE5594F
+GSTIN: 31ABCDE2573Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 436 Amount: 436
+
+CGST (9%): %39.24
+SGST (9%): %39.24
+Total Amount Payable: 2514.48
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2099/0855
+Date: 1983-04-16
+Buyer Name: Hridaan Bath
+Buyer Address: 65/898, Tailor Circle, Sri Ganganagar-373323
+PAN No: ABCDE6908F
+GSTIN: 11ABCDE53702Z61
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 5 Rate: 798 Amount: ¥3990
+CGST (9%): %359.1
+
+SGST (9%): %359.1
+Total Amount Payable: %4708.2
+
+Terms: Goods once sold will not be taken back.

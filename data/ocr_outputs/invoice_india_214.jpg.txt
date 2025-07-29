@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0322
+Date: 2022-11-14
+Buyer Name: Azad Kale
+Buyer Address: 63/825, Deol Marg, Madurai-316286
+PAN No: ABCDE2675F
+GSTIN: 26ABCDE0960241
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 3226 Amount: 452
+CGST (9%): %40.68
+
+SGST (9%): %40.68
+Total Amount Payable: 2533.36
+
+Terms: Goods once sold will not be taken back.

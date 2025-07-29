@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2015/0427
+Date: 1981-11-21
+Buyer Name: Oorja Grewal
+Buyer Address: 35/981, Kohli Path, Aizawl 308421
+PAN No: ABCDE6321F
+GSTIN: 66ABCDE8222261
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3514 Amount: 2056
+
+CGST (9%): %185.04
+SGST (9%): %185.04
+Total Amount Payable: 2426.08
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2049/0891
+Date: 2001-09-17
+Buyer Name: Amani Bajwa
+Buyer Address: 02/93, Gaba Path, Sikar 976958
+PAN No: ABCDE8405F
+GSTIN: 52ABCDE3622221
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 996 Amount: 2988
+
+CGST (9%): %268.92
+SGST (9%): %268.92
+Total Amount Payable: 3525.84
+
+Terms: Goods once sold will not be taken back.

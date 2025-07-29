@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2047/0258
+Date: 1979-09-18
+Buyer Name: Alia Ram
+Buyer Address: 19/15, Subramanian Street, Gangtok-975222
+PAN No: ABCDE5383F
+GSTIN: 44ABCDE8694Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: 436 Amount: 436
+
+CGST (9%): %39.24
+SGST (9%): %39.24
+Total Amount Payable: 2514.48
+
+Terms: Goods once sold will not be taken back.

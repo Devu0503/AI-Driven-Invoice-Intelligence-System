@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0869
+Date: 1984-02-26
+Buyer Name: Nitara Kapoor
+Buyer Address: 17, Issac Nagar, Mau-918657
+PAN No: ABCDE5941F
+GSTIN: OOABCDE43512Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3611 Amount: 2444
+
+CGST (9%): %219.96
+SGST (9%): %219.96
+Total Amount Payable: 2883.92
+
+Terms: Goods once sold will not be taken back.

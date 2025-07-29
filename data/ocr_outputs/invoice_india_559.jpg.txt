@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2010/0156
+Date: 1996-06-30
+Buyer Name: Farhan Kant
+Buyer Address: 71, Sekhon Chowk, Medininagar-084147
+PAN No: ABCDE0578F
+GSTIN: 80ABCDE43552Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 3696 Amount: %696
+
+CGST (9%): %62.64
+SGST (9%): 862.64
+Total Amount Payable: %821.28
+
+Terms: Goods once sold will not be taken back.

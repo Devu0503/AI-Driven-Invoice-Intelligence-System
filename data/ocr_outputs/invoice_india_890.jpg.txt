@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0780
+Date: 1970-05-31
+Buyer Name: Saksham Yohannan
+Buyer Address: 14/26, Wason, Hajipur-844203
+PAN No: ABCDE2082F
+GSTIN: 7OABCDE78142Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 3686 Amount: 2058
+
+CGST (9%): %185.22
+SGST (9%): 2185.22
+Total Amount Payable: %2428.44
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0375
+Date: 2008-02-06
+Buyer Name: Kanav Ben
+Buyer Address: H.No. 59, Choudhary Street, Phagwara-132493
+PAN No: ABCDE0995F
+GSTIN: 98ABCDE82492Z21
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3109 Amount: 218
+CGST (9%): %19.62
+
+SGST (9%): %19.62
+Total Amount Payable: %257.24
+
+Terms: Goods once sold will not be taken back.

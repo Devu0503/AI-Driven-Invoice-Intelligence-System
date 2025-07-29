@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0569
+Date: 2008-04-02
+Buyer Name: Eshani Chaudhry
+Buyer Address: 04/08, Char Chowk, Noida 687013
+PAN No: ABCDES068F
+GSTIN: 26ABCDE0040221
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3272 Amount: 1360
+
+CGST (9%): %122.4
+SGST (9%): %122.4
+Total Amount Payable: 21604.8
+
+Terms: Goods once sold will not be taken back.

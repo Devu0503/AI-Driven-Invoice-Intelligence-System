@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2011/0030
+Date: 1995-02-08
+Buyer Name: Aarna Hari
+Buyer Address: H.No. 997, Swaminathan Street, Kolkata 972056
+PAN No: ABCDE8493F
+GSTIN: 74ABCDE9603Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 727 Amount: %2181
+
+CGST (9%): %196.29
+SGST (9%): %196.29
+Total Amount Payable: 2573.58
+
+Terms: Goods once sold will not be taken back.

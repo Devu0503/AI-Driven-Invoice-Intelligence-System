@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2042/0045
+Date: 2009-01-31
+Buyer Name: Jivika Behl
+Buyer Address: H.No. 13, Sridhar, Jehanabad-789213
+PAN No: ABCDES166F
+GSTIN: 15ABCDE6074Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: $381 Amount: 1905
+
+CGST (9%): %171.45
+SGST (9%): 2171.45
+Total Amount Payable: %2247.9
+
+Terms: Goods once sold will not be taken back.

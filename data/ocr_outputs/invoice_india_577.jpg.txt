@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0904
+Date: 2025-05-13
+Buyer Name: Bhavin Sarkar
+Buyer Address: H.No. 429, Agate Path, Panihati-627722
+PAN No: ABCDE6289F
+GSTIN: 68ABCDE7683Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 934 Amount: 3736
+
+CGST (9%): %336.24
+SGST (9%): %336.24
+Total Amount Payable: %4408.48
+
+Terms: Goods once sold will not be taken back.

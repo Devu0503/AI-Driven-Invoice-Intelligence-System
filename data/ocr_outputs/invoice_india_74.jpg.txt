@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0346
+Date: 2018-09-05
+Buyer Name: Nishith Dara
+Buyer Address: 28/312, Krishnan Street, Srikakulam-903750
+PAN No: ABCDE5412F
+GSTIN: 72ABCDE76452Z81
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: 726 Amount: ¥3630
+CGST (9%): %326.7
+
+SGST (9%): %326.7
+Total Amount Payable: %4283.4
+
+Terms: Goods once sold will not be taken back.

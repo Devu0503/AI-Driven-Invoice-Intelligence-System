@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2005/0840
+Date: 1974-08-10
+Buyer Name: Zara Borah
+Buyer Address: 26/16, Anne Marg, Ambala-330524
+PAN No: ABCDE9835F
+GSTIN: 89ABCDE12442Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 3179 Amount: 895
+
+CGST (9%): %80.55
+SGST (9%): %80.55
+Total Amount Payable: =1056.1
+
+Terms: Goods once sold will not be taken back.

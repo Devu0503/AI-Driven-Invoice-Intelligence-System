@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2050/0361
+Date: 2006-06-19
+Buyer Name: Dhanush Chaudhuri
+Buyer Address: H.No. 587, Walia Circle, Adoni 045721
+PAN No: ABCDE6112F
+GSTIN: 44ABCDE0649241
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 861 Amount: 3444
+
+CGST (9%): %309.96
+SGST (9%): %309.96
+Total Amount Payable: %4063.92
+
+Terms: Goods once sold will not be taken back.

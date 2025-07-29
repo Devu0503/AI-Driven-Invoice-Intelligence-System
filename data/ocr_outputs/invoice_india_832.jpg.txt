@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0606
+Date: 1985-06-03
+Buyer Name: Ishaan Majumdar
+Buyer Address: 84, Deol Path, Nizamabad-180164
+PAN No: ABCDE4815F
+GSTIN: 07ABCDE5822Z01
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 813 Amount: 813
+CGST (9%): 873.17
+
+SGST (9%): 73.17
+Total Amount Payable: %959.34
+
+Terms: Goods once sold will not be taken back.

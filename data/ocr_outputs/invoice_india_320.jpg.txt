@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2044/0803
+Date: 1970-10-31
+Buyer Name: Nitya Dyal
+Buyer Address: 06/176, Kibe Nagar, Barasat 085935
+PAN No: ABCDE7019F
+GSTIN: 10ABCDE87722Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 480 Amount: 2400
+
+CGST (9%): %216.0
+SGST (9%): 216.0
+Total Amount Payable: %2832.0
+
+Terms: Goods once sold will not be taken back.

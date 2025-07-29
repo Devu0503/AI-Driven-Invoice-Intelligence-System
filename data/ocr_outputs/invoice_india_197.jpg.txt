@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0285
+Date: 2012-11-16
+Buyer Name: Urvi Sathe
+Buyer Address: 73, Tiwari Path, Thoothukudi-269007
+PAN No: ABCDE3620F
+GSTIN: 22ABCDE4308Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: $861 Amount: %861
+CGST (9%): 877.49
+
+SGST (9%): %77.49
+Total Amount Payable: 21015.98
+
+Terms: Goods once sold will not be taken back.

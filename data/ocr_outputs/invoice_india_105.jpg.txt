@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2062/0987
+Date: 1971-04-26
+Buyer Name: Akarsh Dubey
+Buyer Address: 65/794, Varghese Path, Akola 701469
+PAN No: ABCDE4056F
+GSTIN: 19ABCDE2008Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 963 Amount: ¥3852
+
+CGST (9%): %346.68
+SGST (9%): %346.68
+Total Amount Payable: %4545.36
+
+Terms: Goods once sold will not be taken back.

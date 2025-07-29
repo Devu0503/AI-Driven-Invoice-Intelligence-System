@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2011/0966
+Date: 2001-05-08
+Buyer Name: Vidur lyer
+Buyer Address: 735, Varkey Chowk, Avadi 555762
+PAN No: ABCDE0943F
+GSTIN: 03ABCDE3505241
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 801 Amount: %1602
+
+CGST (9%): %144.18
+SGST (9%): 2144.18
+Total Amount Payable: =1890.36
+
+Terms: Goods once sold will not be taken back.

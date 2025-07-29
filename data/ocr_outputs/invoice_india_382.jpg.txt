@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2071/0332
+Date: 2023-06-20
+Buyer Name: Alia Chaudhry
+Buyer Address: H.No. 34, Khurana, Maheshtala-687164
+PAN No: ABCDE4782F
+GSTIN: 08ABCDE0700Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 451 Amount: %451
+
+CGST (9%): %40.59
+SGST (9%): %40.59
+Total Amount Payable: 2532.18
+
+Terms: Goods once sold will not be taken back.

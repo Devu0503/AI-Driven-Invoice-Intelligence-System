@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2024/0117
+Date: 2006-01-03
+Buyer Name: Raunak Banerjee
+Buyer Address: 494, Rana Zila, Pimpri-Chinchwad-409654
+PAN No: ABCDE8633F
+GSTIN: 04ABCDE0509211
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 3608 Amount: 1216
+
+CGST (9%): %109.44
+SGST (9%): %109.44
+Total Amount Payable: 1434.88
+
+Terms: Goods once sold will not be taken back.

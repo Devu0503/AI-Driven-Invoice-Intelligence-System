@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2071/0642
+Date: 1997-07-02
+Buyer Name: Jayan Kothari
+Buyer Address: 47, Dhar Ganj, Patna-813507
+PAN No: ABCDE7028F
+GSTIN: 67ABCDE15792Z11
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3144 Amount: 144
+
+CGST (9%): %12.96
+SGST (9%): 212.96
+Total Amount Payable: 2169.92
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2014/0797
+Date: 1990-07-01
+Buyer Name: Mannat Singhal
+Buyer Address: H.No. 534, Karan Nagar, Varanasi 855148
+PAN No: ABCDE9512F
+GSTIN: 92ABCDE3296Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 436 Amount: 1308
+
+CGST (9%): %117.72
+SGST (9%): 8117.72
+Total Amount Payable: 1543.44
+
+Terms: Goods once sold will not be taken back.

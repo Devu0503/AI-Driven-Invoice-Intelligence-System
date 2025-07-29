@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2093/0418
+Date: 1996-01-22
+Buyer Name: Aradhya Ganesh
+Buyer Address: H.No. 53, Raval Road, Guntakal 479986
+PAN No: ABCDE0799F
+GSTIN: 47ABCDE51242Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 3610 Amount: 1220
+
+CGST (9%): %109.8
+SGST (9%): 109.8
+Total Amount Payable: %1439.6
+
+Terms: Goods once sold will not be taken back.

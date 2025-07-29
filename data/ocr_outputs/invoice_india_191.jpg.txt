@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2020/0738
+Date: 1998-08-02
+Buyer Name: Ivan Tailor
+Buyer Address: 92, Bahri Marg, Pune 876328
+PAN No: ABCDE6533F
+GSTIN: 81ABCDE1324211
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3653 Amount: =1959
+
+CGST (9%): %176.31
+SGST (9%): 2176.31
+Total Amount Payable: 2311.62
+
+Terms: Goods once sold will not be taken back.

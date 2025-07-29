@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2019/0560
+Date: 2003-03-29
+Buyer Name: Baiju Sidhu
+Buyer Address: 519, Suresh, Pimpri-Chinchwad 994522
+PAN No: ABCDE4881F
+GSTIN: 19ABCDE4131Z41
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: $922 Amount: 3688
+
+CGST (9%): %331.92
+SGST (9%): %331.92
+Total Amount Payable: %4351.84
+
+Terms: Goods once sold will not be taken back.

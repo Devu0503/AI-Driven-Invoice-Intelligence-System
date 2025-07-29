@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2012/0052
+Date: 2021-09-10
+Buyer Name: Samiha Setty
+Buyer Address: 69, Sachdev Path, Amroha-556803
+PAN No: ABCDE7751F
+GSTIN: 45ABCDE3586Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: $331 Amount: %331
+CGST (9%): 29.79
+
+SGST (9%): %29.79
+Total Amount Payable: %390.58
+
+Terms: Goods once sold will not be taken back.

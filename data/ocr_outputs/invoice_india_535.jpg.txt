@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2072/0333
+Date: 2008-09-24
+Buyer Name: Ojas Kale
+Buyer Address: H.No. 05, Sabharwal Chowk, Jalgaon-017576
+PAN No: ABCDE9053F
+GSTIN: 22ABCDE4353Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 3694 Amount: 1388
+
+CGST (9%): %124.92
+SGST (9%): %124.92
+Total Amount Payable: 21637.84
+
+Terms: Goods once sold will not be taken back.

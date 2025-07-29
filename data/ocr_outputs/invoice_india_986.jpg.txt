@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2013/0865
+Date: 2003-05-14
+Buyer Name: Drishya Atwal
+Buyer Address: H.No. 191, Sawhney Street, Bathinda-317087
+PAN No: ABCDE9529F
+GSTIN: 46ABCDE7962Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 992 Amount: 1984
+
+CGST (9%): %178.56
+SGST (9%): 2178.56
+Total Amount Payable: 2341.12
+
+Terms: Goods once sold will not be taken back.

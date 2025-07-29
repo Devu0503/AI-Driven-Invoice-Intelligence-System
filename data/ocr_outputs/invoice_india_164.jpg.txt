@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0472
+Date: 2016-06-25
+Buyer Name: Anay Issac
+Buyer Address: 20, Ahuja Nagar, Vijayawada-785001
+PAN No: ABCDE7724F
+GSTIN: 84ABCDE6048Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 3663 Amount: $663
+CGST (9%): 359.67
+
+SGST (9%): %59.67
+Total Amount Payable: 2782.34
+
+Terms: Goods once sold will not be taken back.

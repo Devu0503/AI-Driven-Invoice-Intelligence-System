@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2095/0324
+Date: 1989-04-21
+Buyer Name: Elakshi Goel
+Buyer Address: 180, Wadhwa Road, Ichalkaranji 597548
+PAN No: ABCDE1955F
+GSTIN: 49ABCDE7708Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3542 Amount: 1084
+CGST (9%): %97.56
+
+SGST (9%): 97.56
+Total Amount Payable: 21279.12
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2092/0980
+Date: 1986-06-13
+Buyer Name: Nakul Uppal
+Buyer Address: 361, Sunder Road, Anand 001232
+PAN No: ABCDE8315F
+GSTIN: 26ABCDE3540Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 878 Amount: 3512
+
+CGST (9%): %316.08
+SGST (9%): %316.08
+Total Amount Payable: %4144.16
+
+Terms: Goods once sold will not be taken back.

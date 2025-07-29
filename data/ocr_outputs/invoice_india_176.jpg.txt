@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0395
+Date: 1991-03-17
+Buyer Name: Alia Sharaf
+Buyer Address: 858, Mangal Road, Mahbubnagar 049572
+PAN No: ABCDE4952F
+GSTIN: 55ABCDE0209241
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 4 Rate: 3177 Amount: 708
+CGST (9%): %63.72
+
+SGST (9%): 863.72
+Total Amount Payable: %835.44
+
+Terms: Goods once sold will not be taken back.

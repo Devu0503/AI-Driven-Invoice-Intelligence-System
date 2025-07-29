@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2044/0964
+Date: 1980-04-15
+Buyer Name: Keya Ahuja
+Buyer Address: H.No. 57, Ganesan Road, Kulti-466393
+PAN No: ABCDE8679F
+GSTIN: 84ABCDE1951241
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 994 Amount: 2982
+
+CGST (9%): %268.38
+SGST (9%): %268.38
+Total Amount Payable: 3518.76
+
+Terms: Goods once sold will not be taken back.

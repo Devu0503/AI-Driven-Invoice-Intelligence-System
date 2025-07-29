@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0717
+Date: 2016-01-18
+Buyer Name: Bhamini Thakur
+Buyer Address: 86/512, Tata Circle, Knammam-310454
+PAN No: ABCDE6813F
+GSTIN: 53ABCDE8916241
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 378 Amount: 756
+CGST (9%): %68.04
+
+SGST (9%): 868.04
+Total Amount Payable: 892.08
+
+Terms: Goods once sold will not be taken back.

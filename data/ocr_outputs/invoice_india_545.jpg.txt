@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0335
+Date: 1987-05-25
+Buyer Name: Hansh Mammen
+Buyer Address: H.No. 150, Soman Path, Rewa-635283
+PAN No: ABCDE3109F
+GSTIN: 0O9ABCDE3768Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 4 Rate: 1000 Amount: ¥4000
+CGST (9%): %360.0
+
+SGST (9%): %360.0
+Total Amount Payable: %4720.0
+
+Terms: Goods once sold will not be taken back.

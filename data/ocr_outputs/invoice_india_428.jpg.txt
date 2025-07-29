@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2092/0986
+Date: 2015-12-29
+Buyer Name: Akarsh Sawhney
+Buyer Address: H.No. 62, Ray Nagar, Kadapa-902298
+PAN No: ABCDE1668F
+GSTIN: 91ABCDE58352Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 793 Amount: 3172
+
+CGST (9%): %285.48
+SGST (9%): 285.48
+Total Amount Payable: 3742.96
+
+Terms: Goods once sold will not be taken back.

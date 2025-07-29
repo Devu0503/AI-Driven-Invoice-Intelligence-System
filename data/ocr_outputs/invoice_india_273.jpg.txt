@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2020/0850
+Date: 2008-05-28
+Buyer Name: Kiara Jayaraman
+Buyer Address: 183, Handa Marg, Jalandhar-576253
+PAN No: ABCDE8437F
+GSTIN: 82ABCDE5536Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 855 Amount: 1710
+
+CGST (9%): %153.9
+SGST (9%): 153.9
+Total Amount Payable: %2017.8
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2084/0483
+Date: 2002-08-28
+Buyer Name: Tarini Tank
+Buyer Address: 41/33, Choudhury Chowk, Singrauli 679634
+PAN No: ABCDE2967F
+GSTIN: 84ABCDE8507Z51
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 972 Amount: 4860
+CGST (9%): 437.4
+
+SGST (9%): %437.4
+Total Amount Payable: %5734.8
+
+Terms: Goods once sold will not be taken back.

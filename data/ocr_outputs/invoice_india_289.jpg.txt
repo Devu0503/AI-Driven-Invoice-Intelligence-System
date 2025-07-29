@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2060/0725
+Date: 1981-10-03
+Buyer Name: Zain Agarwal
+Buyer Address: H.No. 29, Krish Ganj, Ludhiana-710344
+PAN No: ABCDE8933F
+GSTIN: 45ABCDE3344Z71
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: $877 Amount: 877
+CGST (9%): 78.93
+
+SGST (9%): %78.93
+Total Amount Payable: 21034.86
+
+Terms: Goods once sold will not be taken back.

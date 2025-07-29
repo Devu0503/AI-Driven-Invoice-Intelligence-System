@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2005/0415
+Date: 1989-01-16
+Buyer Name: Adira Bora
+Buyer Address: H.No. 61, Ram Chowk, Muzaffarnagar 981616
+PAN No: ABCDE4227F
+GSTIN: 40ABCDE4147Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 471 Amount: 1884
+
+CGST (9%): %169.56
+SGST (9%): 2169.56
+Total Amount Payable: 22223.12
+
+Terms: Goods once sold will not be taken back.

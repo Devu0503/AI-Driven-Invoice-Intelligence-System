@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0767
+Date: 1996-05-09
+Buyer Name: Saira Manne
+Buyer Address: H.No. 11, Chaudhuri Chowk, Moradabad 578419
+PAN No: ABCDE9327F
+GSTIN: 30ABCDE12412Z61
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 4 Rate: 3215 Amount: =860
+CGST (9%): 277.4
+
+SGST (9%): 377.4
+Total Amount Payable: 21014.8
+
+Terms: Goods once sold will not be taken back.

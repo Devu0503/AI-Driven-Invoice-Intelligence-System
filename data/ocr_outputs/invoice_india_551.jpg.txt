@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2005/0960
+Date: 2025-03-05
+Buyer Name: Prerak Khatri
+Buyer Address: 984, Bava, Bhavnagar-335439
+PAN No: ABCDE5137F
+GSTIN: 25ABCDE2846Z51
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: $387 Amount: 387
+CGST (9%): 34.83
+
+SGST (9%): %34.83
+Total Amount Payable: 2456.66
+
+Terms: Goods once sold will not be taken back.

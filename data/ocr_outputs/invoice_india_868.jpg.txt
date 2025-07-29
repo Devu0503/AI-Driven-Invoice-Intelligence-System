@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0763
+Date: 1991-09-22
+Buyer Name: Suhana Lala
+Buyer Address: 15/77, Bakshi Zila, Gaya-285815
+PAN No: ABCDE0228F
+GSTIN: 38ABCDE2737Z61
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 5 Rate: 138 Amount: %690
+CGST (9%): 262.1
+
+SGST (9%): 62.1
+Total Amount Payable: %814.2
+
+Terms: Goods once sold will not be taken back.

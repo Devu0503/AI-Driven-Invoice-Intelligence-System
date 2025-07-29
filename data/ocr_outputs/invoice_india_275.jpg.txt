@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2029/0378
+Date: 1993-07-06
+Buyer Name: Shray Lall
+Buyer Address: 45, Vasa Nagar, Nagercoil 664373
+PAN No: ABCDE3031F
+GSTIN: 41ABCDE7532Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 3566 Amount: 1698
+
+CGST (9%): %152.82
+SGST (9%): 2152.82
+Total Amount Payable: 2003.64
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0449
+Date: 1981-10-13
+Buyer Name: Abram Aggarwal
+Buyer Address: 07/771, Bhattacharyya Circle, Udaipur-920418
+PAN No: ABCDE8173F
+GSTIN: 38ABCDE5315Z51
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 3109 Amount: 218
+CGST (9%): %19.62
+
+SGST (9%): %19.62
+Total Amount Payable: %257.24
+
+Terms: Goods once sold will not be taken back.

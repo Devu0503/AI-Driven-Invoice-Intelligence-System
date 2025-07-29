@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0064
+Date: 1975-08-16
+Buyer Name: Vaibhav Bath
+Buyer Address: 24/79, Kar Zila, Anantapur 319644
+PAN No: ABCDE7144F
+GSTIN: 67ABCDE1534Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 463 Amount: 926
+CGST (9%): %83.34
+
+SGST (9%): 83.34
+Total Amount Payable: 21092.68
+
+Terms: Goods once sold will not be taken back.

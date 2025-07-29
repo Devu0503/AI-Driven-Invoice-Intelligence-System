@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0795
+Date: 2023-06-09
+Buyer Name: Shray Som
+Buyer Address: 43, Yadav Ganj, Kumbakonam 190117
+PAN No: ABCDEOS00F
+GSTIN: 90ABCDE44182Z41
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 106 Amount: 106
+CGST (9%): 29.54
+
+SGST (9%): %9.54
+Total Amount Payable: 2125.08
+
+Terms: Goods once sold will not be taken back.

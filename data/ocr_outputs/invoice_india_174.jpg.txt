@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0256
+Date: 2015-06-18
+Buyer Name: Saira Mand
+Buyer Address: H.No. 716, Sekhon Circle, Panihati-978892
+PAN No: ABCDES011F
+GSTIN: 27ABCDE0638Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 3156 Amount: 780
+CGST (9%): 270.2
+
+SGST (9%): 270.2
+Total Amount Payable: %920.4
+
+Terms: Goods once sold will not be taken back.

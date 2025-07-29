@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0913
+Date: 2019-10-09
+Buyer Name: Arhaan Buch
+Buyer Address: 08/188, Ahluwalia, Bongaigaon-7 16944
+PAN No: ABCDE0728F
+GSTIN: 40ABCDE4396Z71
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 4 Rate: 3189 Amount: 756
+CGST (9%): %68.04
+
+SGST (9%): 868.04
+Total Amount Payable: 892.08
+
+Terms: Goods once sold will not be taken back.

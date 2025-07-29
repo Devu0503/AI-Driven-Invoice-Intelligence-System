@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0807
+Date: 1980-05-21
+Buyer Name: Riaan Dhar
+Buyer Address: H.No. 45, Lata Chowk, Mau-133939
+PAN No: ABCDE6840F
+GSTIN: 93ABCDE35222Z61
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 482 Amount: 482
+CGST (9%): 43.38
+
+SGST (9%): %43.38
+Total Amount Payable: 2568.76
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2035/0122
+Date: 2008-03-24
+Buyer Name: Bhavin Kumer
+Buyer Address: 49, Guha Street, Jorhat-081051
+PAN No: ABCDE6787F
+GSTIN: 34ABCDE24722Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3557 Amount: 2228
+
+CGST (9%): %200.52
+SGST (9%): 200.52
+Total Amount Payable: 2629.04
+
+Terms: Goods once sold will not be taken back.

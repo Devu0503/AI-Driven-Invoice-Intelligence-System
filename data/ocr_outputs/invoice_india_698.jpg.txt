@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0253
+Date: 1977-11-28
+Buyer Name: Eshani Sankar
+Buyer Address: 83/649, Khanna Ganj, Pondicherry 576475
+PAN No: ABCDE4809F
+GSTIN: 12ABCDE4132Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 898 Amount: 1796
+
+CGST (9%): %161.64
+SGST (9%): 2161.64
+Total Amount Payable: 2119.28
+
+Terms: Goods once sold will not be taken back.

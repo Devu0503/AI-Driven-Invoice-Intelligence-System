@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2048/0391
+Date: 1988-05-27
+Buyer Name: Vardaniya Dara
+Buyer Address: 44, Kakar Circle, Panchkula 608572
+PAN No: ABCDE0683F
+GSTIN: 60ABCDE51972Z31
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 982 Amount: ¥982
+CGST (9%): %88.38
+SGST (9%): %88.38
+Total Amount Payable: 1158.76
+
+Terms: Goods once sold will not be taken back.

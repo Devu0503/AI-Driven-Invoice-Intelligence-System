@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0381
+Date: 2011-10-31
+Buyer Name: Rasha Kulkarni
+Buyer Address: 161, Bhatia Nagar, Kharagpur 136404
+PAN No: ABCDE6940F
+GSTIN: 31ABCDE2650241
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 3666 Amount: %666
+CGST (9%): 859.94
+
+SGST (9%): %59.94
+Total Amount Payable: 2785.88
+
+Terms: Goods once sold will not be taken back.

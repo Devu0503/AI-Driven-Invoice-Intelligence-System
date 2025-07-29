@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0043
+Date: 1979-04-20
+Buyer Name: Lakshay Shenoy
+Buyer Address: 403, Keer Marg, Sasaram 748717
+PAN No: ABCDE2430F
+GSTIN: 67ABCDE90532Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 831 Amount: 3324
+
+CGST (9%): %299.16
+SGST (9%): %299.16
+Total Amount Payable: 3922.32
+
+Terms: Goods once sold will not be taken back.

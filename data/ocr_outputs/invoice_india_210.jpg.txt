@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0337
+Date: 2008-12-30
+Buyer Name: Drishya Sehgal
+Buyer Address: 505, Jain Marg, Hapur 324755
+PAN No: ABCDE0494F
+GSTIN: 10ABCDE26542Z11
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 3185 Amount: 370
+CGST (9%): %33.3
+
+SGST (9%): %33.3
+Total Amount Payable: 2436.6
+
+Terms: Goods once sold will not be taken back.

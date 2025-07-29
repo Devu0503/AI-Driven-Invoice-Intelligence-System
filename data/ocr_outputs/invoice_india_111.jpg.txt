@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0038
+Date: 1973-01-16
+Buyer Name: Sara Bobal
+Buyer Address: H.No. 342, Ranganathan Zila, Bilaspur 032452
+PAN No: ABCDE0867F
+GSTIN: 01ABCDE6377241
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: $718 Amount: &718
+CGST (9%): %64.62
+
+SGST (9%): %64.62
+Total Amount Payable: %847.24
+
+Terms: Goods once sold will not be taken back.

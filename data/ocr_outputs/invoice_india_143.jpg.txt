@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2035/0361
+Date: 1996-01-10
+Buyer Name: Divij Mahajan
+Buyer Address: 137, Kakar Street, Alappuzha 532665
+PAN No: ABCDE4445F
+GSTIN: 35ABCDE7312Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: $753 Amount: 2259
+
+CGST (9%): %203.31
+SGST (9%): 203.31
+Total Amount Payable: 2665.62
+
+Terms: Goods once sold will not be taken back.

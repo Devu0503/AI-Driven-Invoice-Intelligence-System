@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2099/0926
+Date: 1985-09-01
+Buyer Name: Rati Shan
+Buyer Address: 31/035, Goyal Zila, Guntakal 362743
+PAN No: ABCDE3095F
+GSTIN: 30ABCDE6242Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 798 Amount: 1596
+
+CGST (9%): %143.64
+SGST (9%): 2143.64
+Total Amount Payable: 1883.28
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2075/0700
+Date: 2006-09-09
+Buyer Name: Rhea Loyal
+Buyer Address: 46/057, Vasa Road, Gandhinagar 047497
+PAN No: ABCDE8925F
+GSTIN: S0OABCDE2101Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 842 Amount: 2526
+
+CGST (9%): %227.34
+SGST (9%): 8227.34
+Total Amount Payable: 2980.68
+
+Terms: Goods once sold will not be taken back.

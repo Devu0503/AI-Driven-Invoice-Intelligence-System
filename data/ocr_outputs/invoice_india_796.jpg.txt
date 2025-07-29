@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0554
+Date: 2018-07-17
+Buyer Name: Anahita Johal
+Buyer Address: 45/024, Sahni Zila, Kharagpur 970588
+PAN No: ABCDE6812F
+GSTIN: 51ABCDE0112221
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 415 Amount: 415
+
+CGST (9%): 37.35
+SGST (9%): %37.35
+Total Amount Payable: 2489.7
+
+Terms: Goods once sold will not be taken back.

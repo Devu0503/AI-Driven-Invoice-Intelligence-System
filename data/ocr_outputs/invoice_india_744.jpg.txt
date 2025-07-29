@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2028/0570
+Date: 1976-03-11
+Buyer Name: Prerak Mannan
+Buyer Address: H.No. 70, Choudhary Road, Madanapalle-672532
+PAN No: ABCDE6496F
+GSTIN: 18ABCDE50462Z61
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 720 Amount: 720
+CGST (9%): 264.8
+
+SGST (9%): 364.8
+Total Amount Payable: %849.6
+
+Terms: Goods once sold will not be taken back.

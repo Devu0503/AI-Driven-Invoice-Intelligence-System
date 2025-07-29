@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2020/0324
+Date: 1979-06-13
+Buyer Name: Ivana Roy
+Buyer Address: 762, Garg, Tirunelveli-056983
+PAN No: ABCDE7926F
+GSTIN: 44ABCDE7707Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 838 Amount: 2514
+
+CGST (9%): %226.26
+SGST (9%): %226.26
+Total Amount Payable: %2966.52
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0998
+Date: 2000-12-08
+Buyer Name: Divij Barad
+Buyer Address: 72/319, Kari Ganj, Akola 965405
+PAN No: ABCDE6508F
+GSTIN: 71ABCDE95372Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3535 Amount: $2675
+
+CGST (9%): %240.75
+SGST (9%): 240.75
+Total Amount Payable: %3156.5
+
+Terms: Goods once sold will not be taken back.

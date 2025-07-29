@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2094/0983
+Date: 2012-07-11
+Buyer Name: Vedika Batta
+Buyer Address: H.No. 608, Saini Circle, Silchar 914736
+PAN No: ABCDE3743F
+GSTIN: 73ABCDE8731Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 942 Amount: 3768
+
+CGST (9%): %339.12
+SGST (9%): %339.12
+Total Amount Payable: %4446.24
+
+Terms: Goods once sold will not be taken back.

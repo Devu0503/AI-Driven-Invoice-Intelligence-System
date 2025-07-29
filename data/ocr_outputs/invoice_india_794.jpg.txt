@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0761
+Date: 2024-04-14
+Buyer Name: Akarsh Jani
+Buyer Address: 59/94, Sehgal Zila, Nizamabad-306203
+PAN No: ABCDE6490F
+GSTIN: 18ABCDE15922Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 3777 Amount: %2331
+
+CGST (9%): %209.79
+SGST (9%): 209.79
+Total Amount Payable: 2750.58
+
+Terms: Goods once sold will not be taken back.

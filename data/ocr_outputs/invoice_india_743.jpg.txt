@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0375
+Date: 1998-11-14
+Buyer Name: Ayesha Bawa
+Buyer Address: H.No. 11, Badami Chowk, Nellore-580324
+PAN No: ABCDE5691F
+GSTIN: 65ABCDE2859Z81
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 680 Amount: %680
+CGST (9%): 261.2
+
+SGST (9%): %61.2
+Total Amount Payable: %802.4
+
+Terms: Goods once sold will not be taken back.

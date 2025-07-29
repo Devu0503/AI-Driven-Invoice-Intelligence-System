@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0829
+Date: 1992-03-13
+Buyer Name: Urvi Bahl
+Buyer Address: 05, Shan Chowk, Karawal Nagar 640746
+PAN No: ABCDE0175F
+GSTIN: 51ABCDE7880Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 379 Amount: 758
+CGST (9%): %68.22
+
+SGST (9%): 868.22
+Total Amount Payable: %894.44
+
+Terms: Goods once sold will not be taken back.

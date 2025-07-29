@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2011/0303
+Date: 2000-11-24
+Buyer Name: Tiya Vasa
+Buyer Address: 15, Sani Road, Kalyan-Dombivli 257078
+PAN No: ABCDE7073F
+GSTIN: 28ABCDE80052Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 948 Amount: 2844
+
+CGST (9%): %255.96
+SGST (9%): %255.96
+Total Amount Payable: ¥3355.92
+
+Terms: Goods once sold will not be taken back.

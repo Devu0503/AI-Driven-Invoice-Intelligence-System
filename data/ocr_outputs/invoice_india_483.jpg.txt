@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2084/0704
+Date: 2021-12-23
+Buyer Name: Dishani Sarkar
+Buyer Address: H.No. 81, Ranganathan Zila, Amroha-245836
+PAN No: ABCDE8536F
+GSTIN: 24ABCDE96942Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 3522 Amount: %1566
+
+CGST (9%): %140.94
+SGST (9%): %140.94
+Total Amount Payable: 1847.88
+
+Terms: Goods once sold will not be taken back.

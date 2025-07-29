@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2085/0804
+Date: 1980-01-05
+Buyer Name: Biju Ahluwalia
+Buyer Address: 87/29, Bail Chowk, Tiruchirappalli 014089
+PAN No: ABCDE6249F
+GSTIN: 75ABCDE19082Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 487 Amount: %1461
+
+CGST (9%): %131.49
+SGST (9%): 2131.49
+Total Amount Payable: 21723.98
+
+Terms: Goods once sold will not be taken back.

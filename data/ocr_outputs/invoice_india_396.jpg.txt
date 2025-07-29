@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0385
+Date: 1971-05-08
+Buyer Name: Ryan Lad
+Buyer Address: 38/58, Sundaram Chowk, Bilaspur-886463
+PAN No: ABCDE2038F
+GSTIN: 74ABCDE5610Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: $361 Amount: 1444
+
+CGST (9%): %129.96
+SGST (9%): 2129.96
+Total Amount Payable: 1703.92
+
+Terms: Goods once sold will not be taken back.

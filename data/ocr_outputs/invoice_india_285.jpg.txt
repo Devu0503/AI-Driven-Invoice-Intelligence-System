@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0671
+Date: 2007-12-05
+Buyer Name: Mehul Bhavsar
+Buyer Address: 56, Ben Zila, Bilaspur 972506
+PAN No: ABCDE7773F
+GSTIN: 14ABCDE8710Z81
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 4 Rate: 865 Amount: ¥3460
+CGST (9%): %311.4
+
+SGST (9%): ¥311.4
+Total Amount Payable: %4082.8
+
+Terms: Goods once sold will not be taken back.

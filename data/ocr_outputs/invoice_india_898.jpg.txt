@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2000/0331
+Date: 1984-03-09
+Buyer Name: Jayan Khatri
+Buyer Address: H.No. 140, Yohannan Zila, Ambala 637903
+PAN No: ABCDE5236F
+GSTIN: 43ABCDE7090241
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 794 Amount: 3176
+
+CGST (9%): %285.84
+SGST (9%): %285.84
+Total Amount Payable: 3747.68
+
+Terms: Goods once sold will not be taken back.

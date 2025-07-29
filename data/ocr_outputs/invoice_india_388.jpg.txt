@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2060/0006
+Date: 1978-09-27
+Buyer Name: Darshit D’Alia
+Buyer Address: H.No. 92, Kadakia Chowk, Loni-232966
+PAN No: ABCDE7429F
+GSTIN: 42ABCDE6216Z01
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 3550 Amount: =1100
+CGST (9%): 299.0
+
+SGST (9%): 99.0
+Total Amount Payable: %1298.0
+
+Terms: Goods once sold will not be taken back.

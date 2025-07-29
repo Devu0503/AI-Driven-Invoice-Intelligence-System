@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0967
+Date: 2015-01-12
+Buyer Name: Tarini Sankaran
+Buyer Address: 54, Dayal Marg, Sikar 475121
+PAN No: ABCDE0141F
+GSTIN: 49ABCDE99792Z31
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 131 Amount: 393
+CGST (9%): %35.37
+
+SGST (9%): 35.37
+Total Amount Payable: 2463.74
+
+Terms: Goods once sold will not be taken back.

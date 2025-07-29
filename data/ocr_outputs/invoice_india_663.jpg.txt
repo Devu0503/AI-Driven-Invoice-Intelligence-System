@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0047
+Date: 2020-06-20
+Buyer Name: Shanaya Chaudry
+Buyer Address: 27, Reddy Road, Nangloi Jat 810165
+PAN No: ABCDE8202F
+GSTIN: 30ABCDE90232Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 3587 Amount: %1761
+
+CGST (9%): %158.49
+SGST (9%): 2158.49
+Total Amount Payable: 2077.98
+
+Terms: Goods once sold will not be taken back.

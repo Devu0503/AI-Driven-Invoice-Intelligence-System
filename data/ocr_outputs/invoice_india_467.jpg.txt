@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2066/0466
+Date: 2010-06-01
+Buyer Name: Aaina Kapoor
+Buyer Address: 91/765, Mangat Ganj, Aurangabad-267544
+PAN No: ABCDE6689F
+GSTIN: 35ABCDE89952Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: $751 Amount: 2253
+
+CGST (9%): %202.77
+SGST (9%): 202.77
+Total Amount Payable: 2658.54
+
+Terms: Goods once sold will not be taken back.

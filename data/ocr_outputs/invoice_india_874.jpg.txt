@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2007/0658
+Date: 1988-09-30
+Buyer Name: Hunar Ganesan
+Buyer Address: 65/94, Sangha Zila, Delhi-079597
+PAN No: ABCDE7151F
+GSTIN: 02ABCDE61642Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 3603 Amount: 1206
+
+CGST (9%): %108.54
+SGST (9%): 2108.54
+Total Amount Payable: =1423.08
+
+Terms: Goods once sold will not be taken back.

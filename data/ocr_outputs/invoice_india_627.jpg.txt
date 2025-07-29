@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2059/0292
+Date: 1974-05-07
+Buyer Name: Gokul Thakkar
+Buyer Address: H.No. 893, Wali Path, Bulandshahr 604257
+PAN No: ABCDE7586F
+GSTIN: 83ABCDE9940Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 409 Amount: 1227
+
+CGST (9%): %110.43
+SGST (9%): 110.43
+Total Amount Payable: 1447.86
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0442
+Date: 1971-03-09
+Buyer Name: Tanya Bhakta
+Buyer Address: 29/79, Baria Nagar, Jorhat 771580
+PAN No: ABCDE5924F
+GSTIN: 24ABCDE2860Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: $310 Amount: 1550
+
+CGST (9%): %139.5
+SGST (9%): %139.5
+Total Amount Payable: %1829.0
+
+Terms: Goods once sold will not be taken back.

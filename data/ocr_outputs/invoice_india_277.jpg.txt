@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2081/0217
+Date: 1980-07-11
+Buyer Name: Taran Hari
+Buyer Address: H.No. 672, Butala Street, Serampore 286484
+PAN No: ABCDE8507F
+GSTIN: 74ABCDE85912Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 444 Amount: 71332
+
+CGST (9%): %119.88
+SGST (9%): 2119.88
+Total Amount Payable: 1571.76
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2017/0540
+Date: 1977-04-06
+Buyer Name: Mannat Sastry
+Buyer Address: 36/830, Bhat, Aurangabad-852722
+PAN No: ABCDE8290F
+GSTIN: 28ABCDE96952Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: $905 Amount: 1810
+
+CGST (9%): %162.9
+SGST (9%): %162.9
+Total Amount Payable: %2135.8
+
+Terms: Goods once sold will not be taken back.

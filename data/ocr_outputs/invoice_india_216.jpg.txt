@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2013/0251
+Date: 2009-12-20
+Buyer Name: Renee Vora
+Buyer Address: 18/44, Sheth Nagar, Madanapalle 144109
+PAN No: ABCDE8109F
+GSTIN: 62ABCDE3124271
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 745 Amount: 3725
+
+CGST (9%): %335.25
+SGST (9%): %335.25
+Total Amount Payable: %4395.5
+
+Terms: Goods once sold will not be taken back.

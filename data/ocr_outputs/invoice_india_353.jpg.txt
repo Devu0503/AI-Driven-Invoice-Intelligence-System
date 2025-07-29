@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0564
+Date: 1978-09-19
+Buyer Name: Farhan Vyas
+Buyer Address: 14/82, Mahajan Circle, Shimla-021184
+PAN No: ABCDE4906F
+GSTIN: 30ABCDE4289241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 768 Amount: ¥3072
+
+CGST (9%): %276.48
+SGST (9%): 8276.48
+Total Amount Payable: %3624.96
+
+Terms: Goods once sold will not be taken back.

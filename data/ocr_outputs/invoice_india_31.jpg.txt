@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0317
+Date: 1985-09-28
+Buyer Name: Tarini Bhat
+Buyer Address: 207, Sawhney Road, Bihar Sharif 176799
+PAN No: ABCDE4465F
+GSTIN: 17ABCDE73532Z11
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 261 Amount: %261
+CGST (9%): %23.49
+
+SGST (9%): %23.49
+Total Amount Payable: %307.98
+
+Terms: Goods once sold will not be taken back.

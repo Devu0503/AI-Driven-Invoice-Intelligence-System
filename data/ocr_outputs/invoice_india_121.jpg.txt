@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2071/0957
+Date: 1996-09-15
+Buyer Name: Jhanvi Kant
+Buyer Address: 30/91, Sawhney Ganj, Kishanganj-305541
+PAN No: ABCDE0186F
+GSTIN: 14ABCDE17582Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 497 Amount: %1491
+
+CGST (9%): %134.19
+SGST (9%): 2134.19
+Total Amount Payable: %1759.38
+
+Terms: Goods once sold will not be taken back.

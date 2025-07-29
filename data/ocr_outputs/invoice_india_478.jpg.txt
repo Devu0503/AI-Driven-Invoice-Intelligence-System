@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2004/0319
+Date: 2012-11-30
+Buyer Name: Dhruv Choudhry
+Buyer Address: H.No. 282, Sahni Nagar, Nandyal-017375
+PAN No: ABCDE4040F
+GSTIN: OOABCDE2933Z91
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 3278 Amount: 278
+CGST (9%): %25.02
+
+SGST (9%): 25.02
+Total Amount Payable: %328.04
+
+Terms: Goods once sold will not be taken back.

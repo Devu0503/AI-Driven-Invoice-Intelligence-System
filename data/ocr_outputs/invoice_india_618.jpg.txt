@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0067
+Date: 2015-06-16
+Buyer Name: Shray Bala
+Buyer Address: 95/15, Solanki Road, Hyderabad 803139
+PAN No: ABCDE1298F
+GSTIN: 16ABCDE7407Z51
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 4 Rate: 3610 Amount: 2440
+CGST (9%): %219.6
+
+SGST (9%): 219.6
+Total Amount Payable: %2879.2
+
+Terms: Goods once sold will not be taken back.

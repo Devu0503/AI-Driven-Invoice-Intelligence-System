@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0442
+Date: 1994-05-15
+Buyer Name: Parinaaz Johal
+Buyer Address: H.No. 01, Singh Road, Imphal 905734
+PAN No: ABCDE2110F
+GSTIN: 43ABCDE42322Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 984 Amount: 3936
+
+CGST (9%): %354.24
+SGST (9%): %354.24
+Total Amount Payable: %4644.48
+
+Terms: Goods once sold will not be taken back.

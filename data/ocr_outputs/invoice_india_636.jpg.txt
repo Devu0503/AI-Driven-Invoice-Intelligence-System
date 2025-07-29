@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2099/0430
+Date: 1985-02-13
+Buyer Name: Sana Chaudhry
+Buyer Address: H.No. 799, Hegde Nagar, Silchar-769969
+PAN No: ABCDE3850F
+GSTIN: 46ABCDE0777221
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: $761 Amount: 3044
+
+CGST (9%): %273.96
+SGST (9%): 273.96
+Total Amount Payable: ¥3591.92
+
+Terms: Goods once sold will not be taken back.

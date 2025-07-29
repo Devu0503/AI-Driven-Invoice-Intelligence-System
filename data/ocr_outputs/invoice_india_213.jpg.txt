@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2032/0313
+Date: 1997-11-19
+Buyer Name: Vihaan Jani
+Buyer Address: 42/72, Banerjee Circle, Amritsar-881292
+PAN No: ABCDE4161F
+GSTIN: 0O9ABCDE5611Z01
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 3538 Amount: 538
+CGST (9%): 48.42
+
+SGST (9%): %48.42
+Total Amount Payable: %634.84
+
+Terms: Goods once sold will not be taken back.

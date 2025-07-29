@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2043/0403
+Date: 1989-11-25
+Buyer Name: Ahana Gala
+Buyer Address: H.No. 64, Sridhar Zila, Barasat-001230
+PAN No: ABCDE8591F
+GSTIN: 59ABCDE31572Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 808 Amount: 1616
+
+CGST (9%): %145.44
+SGST (9%): 2145.44
+Total Amount Payable: =1906.88
+
+Terms: Goods once sold will not be taken back.

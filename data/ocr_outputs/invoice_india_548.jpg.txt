@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2031/0150
+Date: 1985-05-30
+Buyer Name: Amira Saran
+Buyer Address: 67/24, Gopal Ganj, Gandhidham 876401
+PAN No: ABCDE3998F
+GSTIN: 64ABCDE5153211
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 3258 Amount: 258
+CGST (9%): %23.22
+
+SGST (9%): 23.22
+Total Amount Payable: %304.44
+
+Terms: Goods once sold will not be taken back.

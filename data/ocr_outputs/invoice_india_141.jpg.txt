@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0481
+Date: 2021-07-21
+Buyer Name: Alia Mann
+Buyer Address: 07/695, Johal Marg, Nadiad 235173
+PAN No: ABCDE7224F
+GSTIN: S56ABCDE0498Z31
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 4 Rate: 3515 Amount: =2060
+CGST (9%): %185.4
+
+SGST (9%): 185.4
+Total Amount Payable: %2430.8
+
+Terms: Goods once sold will not be taken back.

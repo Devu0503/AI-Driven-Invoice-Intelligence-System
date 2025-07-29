@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2044/0255
+Date: 2002-12-21
+Buyer Name: Tanya Joshi
+Buyer Address: H.No. 866, Sane Marg, Jhansi-458780
+PAN No: ABCDE9021F
+GSTIN: 12ABCDE6320Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 3616 Amount: 1232
+
+CGST (9%): %110.88
+SGST (9%): %110.88
+Total Amount Payable: 1453.76
+
+Terms: Goods once sold will not be taken back.

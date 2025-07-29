@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0833
+Date: 1994-02-10
+Buyer Name: Hunar Ghosh
+Buyer Address: 86/88, Agate Road, Panipat 139230
+PAN No: ABCDE7912F
+GSTIN: 03ABCDE0346Z81
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 3 Rate: 3134 Amount: 402
+CGST (9%): %36.18
+
+SGST (9%): %36.18
+Total Amount Payable: 2474.36
+
+Terms: Goods once sold will not be taken back.

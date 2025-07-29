@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2007/0026
+Date: 2005-08-26
+Buyer Name: Nitya Agrawal
+Buyer Address: H.No. 23, Dhaliwal Chowk, Navi Mumbai 545511
+PAN No: ABCDE3686F
+GSTIN: 76ABCDE0877Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: $701 Amount: %701
+
+CGST (9%): %63.09
+SGST (9%): 863.09
+Total Amount Payable: %827.18
+
+Terms: Goods once sold will not be taken back.

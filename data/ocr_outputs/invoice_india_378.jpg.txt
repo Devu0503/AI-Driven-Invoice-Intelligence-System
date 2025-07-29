@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0448
+Date: 2002-05-29
+Buyer Name: Yuvaan Bera
+Buyer Address: 297, Dugar Ganj, Rohtak-517108
+PAN No: ABCDE6044F
+GSTIN: 83ABCDE7629Z61
+
+Item Details:
+
+Item: Charger
+
+Quantity: 4 Rate: 705 Amount: 2820
+CGST (9%): %253.8
+
+SGST (9%): 253.8
+Total Amount Payable: %3327.6
+
+Terms: Goods once sold will not be taken back.

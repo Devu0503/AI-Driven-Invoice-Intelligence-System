@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0288
+Date: 2018-05-06
+Buyer Name: Advika Gola
+Buyer Address: H.No. 629, Sule Chowk, Sambhal-966950
+PAN No: ABCDE2954F
+GSTIN: 36ABCDE28392Z21
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 3684 Amount: ¥3420
+CGST (9%): %307.8
+
+SGST (9%): 307.8
+Total Amount Payable: %4035.6
+
+Terms: Goods once sold will not be taken back.

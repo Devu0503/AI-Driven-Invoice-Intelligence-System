@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0403
+Date: 1991-09-07
+Buyer Name: Mamooty Chana
+Buyer Address: 39/122, Dani Path, Ahmedabad 967083
+PAN No: ABCDE1445F
+GSTIN: 21ABCDE5282Z81
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 4 Rate: 140 Amount: 560
+CGST (9%): 250.4
+
+SGST (9%): %50.4
+Total Amount Payable: 660.8
+
+Terms: Goods once sold will not be taken back.

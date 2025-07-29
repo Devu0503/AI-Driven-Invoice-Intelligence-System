@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2099/0133
+Date: 1980-12-07
+Buyer Name: Mehul Srinivas
+Buyer Address: 26, Raval Path, Bidar-819187
+PAN No: ABCDE8074F
+GSTIN: 41ABCDE7586Z71
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 3560 Amount: 560
+CGST (9%): 250.4
+
+SGST (9%): %50.4
+Total Amount Payable: 660.8
+
+Terms: Goods once sold will not be taken back.

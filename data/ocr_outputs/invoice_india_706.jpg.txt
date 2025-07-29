@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0336
+Date: 2002-07-21
+Buyer Name: Aaina Andra
+Buyer Address: 42/40, Chakrabarti Chowk, Tirupati 467174
+PAN No: ABCDE9559F
+GSTIN: 37ABCDE6742Z81
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: 742 Amount: 3710
+CGST (9%): %333.9
+
+SGST (9%): 333.9
+Total Amount Payable: %4377.8
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2035/0711
+Date: 2004-07-08
+Buyer Name: Anvi Subramaniam
+Buyer Address: H.No. 90, Chad Road, Bathinda-741212
+PAN No: ABCDE2035F
+GSTIN: 16ABCDE85532Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3616 Amount: 2464
+
+CGST (9%): %221.76
+SGST (9%): 8221.76
+Total Amount Payable: 2907.52
+
+Terms: Goods once sold will not be taken back.

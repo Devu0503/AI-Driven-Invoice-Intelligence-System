@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2060/0983
+Date: 2019-08-07
+Buyer Name: Kiara Bal
+Buyer Address: 842, Kaur Road, Karimnagar 623984
+PAN No: ABCDE4919F
+GSTIN: 84ABCDE4240Z01
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 308 Amount: 616
+CGST (9%): 55.44
+
+SGST (9%): %55.44
+Total Amount Payable: 2726.88
+
+Terms: Goods once sold will not be taken back.

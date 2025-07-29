@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2048/0328
+Date: 2009-01-11
+Buyer Name: Anahita Subramaniam
+Buyer Address: 41/661, Wali Ganj, Imphal 438958
+PAN No: ABCDE6671F
+GSTIN: 80ABCDE1839241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 3654 Amount: %1962
+
+CGST (9%): %176.58
+SGST (9%): 2176.58
+Total Amount Payable: 2315.16
+
+Terms: Goods once sold will not be taken back.

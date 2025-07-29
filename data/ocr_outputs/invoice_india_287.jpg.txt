@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2068/0711
+Date: 1993-12-15
+Buyer Name: Sumer Chanda
+Buyer Address: H.No. 03, Rao Street, Gandhidham 270496
+PAN No: ABCDE0582F
+GSTIN: 51ABCDE5254241
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: $313 Amount: ¥939
+CGST (9%): %84.51
+SGST (9%): %84.51
+Total Amount Payable: 1108.02
+
+Terms: Goods once sold will not be taken back.

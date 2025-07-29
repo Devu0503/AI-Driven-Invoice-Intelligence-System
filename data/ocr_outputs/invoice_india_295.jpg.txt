@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2009/0780
+Date: 1995-09-23
+Buyer Name: Anahita Walia
+Buyer Address: H.No. 564, Tailor Road, Bidar-834903
+PAN No: ABCDE0847F
+GSTIN: 39ABCDE70252Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3239 Amount: 1195
+
+CGST (9%): %107.55
+SGST (9%): %107.55
+Total Amount Payable: =1410.1
+
+Terms: Goods once sold will not be taken back.

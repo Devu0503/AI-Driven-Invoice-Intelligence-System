@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2013/0070
+Date: 1979-05-29
+Buyer Name: Raunak Chowdhury
+Buyer Address: 921, Grover, Serampore 262358
+PAN No: ABCDE7342F
+GSTIN: 16ABCDE0798Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 419 Amount: 419
+CGST (9%): 37.71
+
+SGST (9%): %37.71
+Total Amount Payable: %494.42
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0275
+Date: 1972-03-25
+Buyer Name: Pari Gala
+Buyer Address: 30/734, Kashyap Zila, Ongole 332270
+PAN No: ABCDE1839F
+GSTIN: 19ABCDE3544Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 3635 Amount: 1270
+
+CGST (9%): %114.3
+SGST (9%): 114.3
+Total Amount Payable: %1498.6
+
+Terms: Goods once sold will not be taken back.

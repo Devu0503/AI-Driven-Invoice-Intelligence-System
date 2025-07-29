@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2029/0038
+Date: 2004-11-01
+Buyer Name: Sumer Dutt
+Buyer Address: 54, Chander Chowk, Tirupati 197309
+PAN No: ABCDE7536F
+GSTIN: 57ABCDE9174Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: $781 Amount: 3905
+
+CGST (9%): %351.45
+SGST (9%): %351.45
+Total Amount Payable: 4607.9
+
+Terms: Goods once sold will not be taken back.

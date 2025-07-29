@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2017/0243
+Date: 1986-07-03
+Buyer Name: Devansh Arora
+Buyer Address: 09/17, Upadhyay Circle, Kadapa 129912
+PAN No: ABCDE7081F
+GSTIN: 26ABCDE6597211
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 4 Rate: 3610 Amount: 2440
+CGST (9%): %219.6
+
+SGST (9%): 219.6
+Total Amount Payable: %2879.2
+
+Terms: Goods once sold will not be taken back.

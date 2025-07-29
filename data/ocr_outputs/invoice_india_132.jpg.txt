@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0158
+Date: 1973-06-19
+Buyer Name: Alisha Sha
+Buyer Address: 02/65, Chandra Zila, Begusarai-809918
+PAN No: ABCDE6796F
+GSTIN: 47ABCDE84382Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 813 Amount: 1626
+
+CGST (9%): %146.34
+SGST (9%): %146.34
+Total Amount Payable: 21918.68
+
+Terms: Goods once sold will not be taken back.

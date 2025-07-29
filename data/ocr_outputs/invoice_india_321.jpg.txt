@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2016/0323
+Date: 2008-10-13
+Buyer Name: Piya Bumb
+Buyer Address: 43, Sundaram Zila, Panvel 542059
+PAN No: ABCDE7851F
+GSTIN: 51ABCDE9000221
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 380 Amount: 1140
+
+CGST (9%): %102.6
+SGST (9%): %102.6
+Total Amount Payable: %1345.2
+
+Terms: Goods once sold will not be taken back.

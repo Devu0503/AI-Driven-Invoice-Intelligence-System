@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0481
+Date: 2018-03-23
+Buyer Name: Urvi Handa
+Buyer Address: H.No. 234, Bala Marg, Kavali 303672
+PAN No: ABCDE4439F
+GSTIN: 45ABCDE04852Z81
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: 3164 Amount: 492
+CGST (9%): 44.28
+
+SGST (9%): %44.28
+Total Amount Payable: 2580.56
+
+Terms: Goods once sold will not be taken back.

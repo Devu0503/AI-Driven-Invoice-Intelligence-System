@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2039/0454
+Date: 2015-01-10
+Buyer Name: Eshani Mammen
+Buyer Address: 770, Aurora Path, Singrauli-147508
+PAN No: ABCDE3072F
+GSTIN: O6ABCDE4554221
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 362 Amount: 1448
+
+CGST (9%): %130.32
+SGST (9%): %130.32
+Total Amount Payable: 1708.64
+
+Terms: Goods once sold will not be taken back.

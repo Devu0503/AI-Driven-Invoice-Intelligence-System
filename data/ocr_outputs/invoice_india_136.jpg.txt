@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2029/0675
+Date: 1979-10-01
+Buyer Name: Mishti Sule
+Buyer Address: 809, Kar Street, Udupi 780494
+PAN No: ABCDE4644F
+GSTIN: 36ABCDE9137Z81
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 483 Amount: =966
+CGST (9%): %86.94
+SGST (9%): 86.94
+Total Amount Payable: %1139.88
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0530
+Date: 2023-02-09
+Buyer Name: Hiran Rout
+Buyer Address: H.No. 805, Basak Nagar, Satna 943235
+PAN No: ABCDE3727F
+GSTIN: 93ABCDE6254Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 377 Amount: 754
+CGST (9%): %67.86
+
+SGST (9%): 67.86
+Total Amount Payable: %889.72
+
+Terms: Goods once sold will not be taken back.

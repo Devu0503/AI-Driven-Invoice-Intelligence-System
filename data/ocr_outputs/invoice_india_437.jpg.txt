@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2085/0207
+Date: 2007-05-01
+Buyer Name: Shamik Cherian
+Buyer Address: 95/86, Bedi Road, Kamarhati-857810
+PAN No: ABCDE0697F
+GSTIN: 38ABCDE02462Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 401 Amount: %401
+
+CGST (9%): %36.09
+SGST (9%): 36.09
+Total Amount Payable: 2473.18
+
+Terms: Goods once sold will not be taken back.

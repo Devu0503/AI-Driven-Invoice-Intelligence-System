@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0098
+Date: 2018-02-28
+Buyer Name: Pari Basak
+Buyer Address: 71, Bajaj Path, Durg 977815
+PAN No: ABCDE4389F
+GSTIN: 73ABCDE1917Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 735 Amount: 1470
+
+CGST (9%): %132.3
+SGST (9%): %132.3
+Total Amount Payable: 21734.6
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0286
+Date: 2000-10-06
+Buyer Name: Indranil Sane
+Buyer Address: 977, Sidhu Street, Kollam-676585
+PAN No: ABCDE7252F
+GSTIN: 11ABCDE2800Z31
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: $852 Amount: 4260
+CGST (9%): %383.4
+
+SGST (9%): 383.4
+Total Amount Payable: %5026.8
+
+Terms: Goods once sold will not be taken back.

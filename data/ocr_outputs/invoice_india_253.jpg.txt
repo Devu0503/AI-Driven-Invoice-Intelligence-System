@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2024/0335
+Date: 1982-01-16
+Buyer Name: Farhan Mallick
+Buyer Address: 55/497, Bandi Circle, Chinsurah 760139
+PAN No: ABCDE5681F
+GSTIN: 40ABCDE57222Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 709 Amount: 3545
+
+CGST (9%): %319.05
+SGST (9%): ¥319.05
+Total Amount Payable: %4183.1
+
+Terms: Goods once sold will not be taken back.

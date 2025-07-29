@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2024/0680
+Date: 2013-06-07
+Buyer Name: Dhanush Borde
+Buyer Address: H.No. 39, Bhatia Chowk, Silchar-918532
+PAN No: ABCDE8146F
+GSTIN: 61ABCDE22952Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 800 Amount: =1600
+
+CGST (9%): %144.0
+SGST (9%): %144.0
+Total Amount Payable: %1888.0
+
+Terms: Goods once sold will not be taken back.

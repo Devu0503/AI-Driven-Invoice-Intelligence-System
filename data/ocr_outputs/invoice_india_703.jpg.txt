@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2091/0349
+Date: 2018-06-30
+Buyer Name: Prerak Hari
+Buyer Address: 74, Edwin Marg, Bharatpur 420750
+PAN No: ABCDE0689F
+GSTIN: 23ABCDE7717Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 819 Amount: 71638
+
+CGST (9%): %147.42
+SGST (9%): %147.42
+Total Amount Payable: 1932.84
+
+Terms: Goods once sold will not be taken back.

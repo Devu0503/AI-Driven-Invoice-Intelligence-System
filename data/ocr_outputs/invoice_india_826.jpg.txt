@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2089/0234
+Date: 1986-03-09
+Buyer Name: Onkar Baral
+Buyer Address: 231, Chhabra Marg, Erode-886592
+PAN No: ABCDE1359F
+GSTIN: 07ABCDE12852Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 765 Amount: 2295
+
+CGST (9%): %206.55
+SGST (9%): %206.55
+Total Amount Payable: %2708.1
+
+Terms: Goods once sold will not be taken back.

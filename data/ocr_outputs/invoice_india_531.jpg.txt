@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0118
+Date: 2004-10-16
+Buyer Name: Romil Sridhar
+Buyer Address: 06/69, Khanna, Gudivada-314395
+PAN No: ABCDE5S396F
+GSTIN: 41ABCDE6958Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 792 Amount: 2376
+
+CGST (9%): %213.84
+SGST (9%): 213.84
+Total Amount Payable: 2803.68
+
+Terms: Goods once sold will not be taken back.

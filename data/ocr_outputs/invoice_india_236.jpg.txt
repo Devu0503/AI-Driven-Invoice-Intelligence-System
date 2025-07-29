@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2008/0562
+Date: 1989-01-23
+Buyer Name: Hunar Bhatt
+Buyer Address: 94/49, Suresh, Bhiwani-583734
+PAN No: ABCDE5205F
+GSTIN: 32ABCDE7667Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 304 Amount: 1520
+
+CGST (9%): %136.8
+SGST (9%): 136.8
+Total Amount Payable: 21793.6
+
+Terms: Goods once sold will not be taken back.

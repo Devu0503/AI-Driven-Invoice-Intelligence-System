@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0403
+Date: 2016-04-26
+Buyer Name: Adah Sankar
+Buyer Address: 64/065, Mallick Ganj, Bidhannagar-585795
+PAN No: ABCDE0139F
+GSTIN: 25ABCDE00252Z61
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 380 Amount: 760
+CGST (9%): 268.4
+
+SGST (9%): 368.4
+Total Amount Payable: %896.8
+
+Terms: Goods once sold will not be taken back.

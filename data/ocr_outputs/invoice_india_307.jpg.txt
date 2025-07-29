@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0266
+Date: 1981-01-08
+Buyer Name: Aaina Bahl
+Buyer Address: H.No. 85, Chand Zila, Shimoga-625465
+PAN No: ABCDE0507F
+GSTIN: 16ABCDE7209Z81
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 766 Amount: =766
+CGST (9%): %68.94
+
+SGST (9%): 68.94
+Total Amount Payable: %903.88
+
+Terms: Goods once sold will not be taken back.

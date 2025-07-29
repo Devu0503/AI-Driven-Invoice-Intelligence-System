@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2015/0806
+Date: 1975-05-16
+Buyer Name: Hunar Lad
+Buyer Address: H.No. 81, Dani Road, Khandwa 337591
+PAN No: ABCDE9905F
+GSTIN: 19ABCDE1512Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: $322 Amount: =1610
+
+CGST (9%): %144.9
+SGST (9%): %144.9
+Total Amount Payable: %1899.8
+
+Terms: Goods once sold will not be taken back.

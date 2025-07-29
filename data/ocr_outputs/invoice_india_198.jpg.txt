@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2033/0229
+Date: 1999-04-21
+Buyer Name: Anaya Magar
+Buyer Address: 485, Chaudhari Chowk, Guwahati-892250
+PAN No: ABCDE7728F
+GSTIN: 72ABCDE65232Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3679 Amount: 2037
+
+CGST (9%): %183.33
+SGST (9%): %183.33
+Total Amount Payable: 2403.66
+
+Terms: Goods once sold will not be taken back.

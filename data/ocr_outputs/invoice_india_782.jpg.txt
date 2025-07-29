@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2004/0009
+Date: 2016-12-18
+Buyer Name: Zain Saraf
+Buyer Address: 007, Rau Zila, Tiruvottiyur-917556
+PAN No: ABCDE5601F
+GSTIN: 21ABCDE91452Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: $928 Amount: 2784
+
+CGST (9%): %250.56
+SGST (9%): %250.56
+Total Amount Payable: %3285.12
+
+Terms: Goods once sold will not be taken back.

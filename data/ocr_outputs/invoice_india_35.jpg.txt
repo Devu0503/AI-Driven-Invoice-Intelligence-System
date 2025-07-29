@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0768
+Date: 2005-03-27
+Buyer Name: Yuvraj lyer
+Buyer Address: 38/770, Sunder, Panvel 467639
+PAN No: ABCDE2905F
+GSTIN: 59ABCDE6388Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3289 Amount: 1156
+
+CGST (9%): %104.04
+SGST (9%): %104.04
+Total Amount Payable: 21364.08
+
+Terms: Goods once sold will not be taken back.

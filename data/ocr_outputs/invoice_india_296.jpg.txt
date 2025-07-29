@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2038/0637
+Date: 1979-05-02
+Buyer Name: Nitya Zacharia
+Buyer Address: 87/292, Basak Circle, Hosur 367916
+PAN No: ABCDE6515F
+GSTIN: 79ABCDE36102Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 3586 Amount: 1172
+
+CGST (9%): %105.48
+SGST (9%): %105.48
+Total Amount Payable: 21382.96
+
+Terms: Goods once sold will not be taken back.

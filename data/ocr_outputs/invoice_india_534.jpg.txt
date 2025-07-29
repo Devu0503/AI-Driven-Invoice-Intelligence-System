@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2065/0458
+Date: 2023-12-28
+Buyer Name: Yuvaan Bhakta
+Buyer Address: 710, Sama Zila, Ambarnath-952804
+PAN No: ABCDE1966F
+GSTIN: 31ABCDE4217Z61
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 3598 Amount: 2990
+CGST (9%): %269.1
+
+SGST (9%): %269.1
+Total Amount Payable: %3528.2
+
+Terms: Goods once sold will not be taken back.

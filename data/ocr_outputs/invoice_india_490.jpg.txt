@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2046/0049
+Date: 2023-09-26
+Buyer Name: Shray Lad
+Buyer Address: H.No. 49, Dara Street, Orai-235559
+PAN No: ABCDE1910F
+GSTIN: 68ABCDE5234Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 856 Amount: 1712
+
+CGST (9%): %154.08
+SGST (9%): 2154.08
+Total Amount Payable: 2020.16
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0855
+Date: 1981-09-07
+Buyer Name: Bhamini Srinivas
+Buyer Address: 141, Swamy, Jabalpur-250689
+PAN No: ABCDE2369F
+GSTIN: 60ABCDE8329Z31
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 435 Amount: ¥870
+CGST (9%): 278.3
+
+SGST (9%): 278.3
+Total Amount Payable: %1026.6
+
+Terms: Goods once sold will not be taken back.

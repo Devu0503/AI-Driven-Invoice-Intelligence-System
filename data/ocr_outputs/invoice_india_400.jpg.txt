@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0272
+Date: 1993-03-26
+Buyer Name: Ayesha Dua
+Buyer Address: H.No. 507, Dash Road, Bhiwani-853262
+PAN No: ABCDE5315F
+GSTIN: 86ABCDE95592Z71
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 180 Amount: 180
+CGST (9%): 216.2
+
+SGST (9%): 216.2
+Total Amount Payable: %212.4
+
+Terms: Goods once sold will not be taken back.

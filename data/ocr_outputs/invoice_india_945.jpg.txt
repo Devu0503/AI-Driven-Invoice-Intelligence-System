@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2078/0938
+Date: 1996-05-14
+Buyer Name: Rasha Kata
+Buyer Address: 48/336, Kamdar Road, Panihati 718426
+PAN No: ABCDE2704F
+GSTIN: 57ABCDE1267Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 837 Amount: 3348
+
+CGST (9%): %301.32
+SGST (9%): 301.32
+Total Amount Payable: 3950.64
+
+Terms: Goods once sold will not be taken back.

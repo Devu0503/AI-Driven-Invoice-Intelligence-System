@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0648
+Date: 1977-04-22
+Buyer Name: Siya Kala
+Buyer Address: 22/32, Guha Circle, Bareilly 899846
+PAN No: ABCDE1885F
+GSTIN: 27ABCDE75492Z21
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3169 Amount: 338
+CGST (9%): %30.42
+
+SGST (9%): %30.42
+Total Amount Payable: %398.84
+
+Terms: Goods once sold will not be taken back.

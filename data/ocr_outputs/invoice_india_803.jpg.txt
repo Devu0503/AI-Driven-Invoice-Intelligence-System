@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0750
+Date: 1995-12-04
+Buyer Name: Mamooty Singh
+Buyer Address: 85/45, Devan, Chapra 372824
+PAN No: ABCDE3708F
+GSTIN: 69ABCDE15592Z91
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 3559 Amount: 559
+CGST (9%): 350.31
+
+SGST (9%): %50.31
+Total Amount Payable: 659.62
+
+Terms: Goods once sold will not be taken back.

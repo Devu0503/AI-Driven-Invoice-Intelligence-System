@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2037/0001
+Date: 2023-01-15
+Buyer Name: Kashvi Kar
+Buyer Address: 59/11, Hans Street, Katni 071218
+PAN No: ABCDE0203F
+GSTIN: 73ABCDE0264Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 317 Amount: %634
+
+CGST (9%): 357.06
+SGST (9%): 57.06
+Total Amount Payable: 2748.12
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0682
+Date: 2001-08-12
+Buyer Name: Madhav Rastogi
+Buyer Address: 69, Barman, Dewas-666987
+PAN No: ABCDE6697F
+GSTIN: 42ABCDE2990Z91
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 3563 Amount: 8563
+CGST (9%): %50.67
+
+SGST (9%): 50.67
+Total Amount Payable: 664.34
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2068/0681
+Date: 1980-08-14
+Buyer Name: Vedika Mahal
+Buyer Address: H.No. 363, Chakrabarti Ganj, Secunderabad 560406
+PAN No: ABCDE5497F
+GSTIN: 89ABCDE08752Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: $315 Amount: 315
+
+CGST (9%): 28.35
+SGST (9%): %28.35
+Total Amount Payable: 2371.7
+
+Terms: Goods once sold will not be taken back.

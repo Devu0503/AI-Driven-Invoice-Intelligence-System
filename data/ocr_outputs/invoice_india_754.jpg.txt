@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2098/0391
+Date: 1991-04-01
+Buyer Name: Tanya Johal
+Buyer Address: 30/56, Keer Nagar, Khandwa-035206
+PAN No: ABCDE7524F
+GSTIN: 93ABCDE8363Z01
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: $891 Amount: %891
+CGST (9%): %80.19
+SGST (9%): 80.19
+Total Amount Payable: 1051.38
+
+Terms: Goods once sold will not be taken back.

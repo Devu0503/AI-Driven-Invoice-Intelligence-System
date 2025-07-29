@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0985
+Date: 1971-08-06
+Buyer Name: Hunar Ramanathan
+Buyer Address: H.No. 157, Verma Zila, Vellore-020684
+PAN No: ABCDE9781F
+GSTIN: 12ABCDE18562Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 5 Rate: 120 Amount: %600
+CGST (9%): 254.0
+
+SGST (9%): 354.0
+Total Amount Payable: 2708.0
+
+Terms: Goods once sold will not be taken back.

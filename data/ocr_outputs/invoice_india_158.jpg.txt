@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2035/0374
+Date: 1976-02-11
+Buyer Name: Riya Loke
+Buyer Address: 75/31, Grewal Street, Mangalore 827167
+PAN No: ABCDE6113F
+GSTIN: 11ABCDE80012Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 955 Amount: 4775
+
+CGST (9%): %429.75
+SGST (9%): 429.75
+Total Amount Payable: %5634.5
+
+Terms: Goods once sold will not be taken back.

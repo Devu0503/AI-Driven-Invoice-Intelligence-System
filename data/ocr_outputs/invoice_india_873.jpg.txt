@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0171
+Date: 1971-05-16
+Buyer Name: Ranbir Bhatia
+Buyer Address: 36/20, Doshi Marg, Ranchi-862872
+PAN No: ABCDE6937F
+GSTIN: 38ABCDE4050241
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: 3561 Amount: %561
+
+CGST (9%): 50.49
+SGST (9%): %50.49
+Total Amount Payable: 661.98
+
+Terms: Goods once sold will not be taken back.

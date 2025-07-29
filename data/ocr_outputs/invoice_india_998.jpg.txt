@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2051/0044
+Date: 1985-12-20
+Buyer Name: Faiyaz Barad
+Buyer Address: H.No. 05, Mander Street, Naihati 534683
+PAN No: ABCDE1694F
+GSTIN: 18ABCDE1950Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 119 Amount: 357
+
+CGST (9%): %32.13
+SGST (9%): 32.13
+Total Amount Payable: %421.26
+
+Terms: Goods once sold will not be taken back.

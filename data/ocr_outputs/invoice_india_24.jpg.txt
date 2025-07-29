@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2066/0321
+Date: 2006-10-16
+Buyer Name: Heer Loke
+Buyer Address: 14/22, Bath Circle, Tiruppur-599338
+PAN No: ABCDE9746F
+GSTIN: 60ABCDE8890Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 837 Amount: 3348
+
+CGST (9%): %301.32
+SGST (9%): 301.32
+Total Amount Payable: 3950.64
+
+Terms: Goods once sold will not be taken back.

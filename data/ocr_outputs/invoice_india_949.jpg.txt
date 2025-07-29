@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2010/0467
+Date: 1978-10-17
+Buyer Name: Diya Kant
+Buyer Address: 717, Dhar Chowk, Kanpur 240620
+PAN No: ABCDE3823F
+GSTIN: 0O9ABCDE4750Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 3246 Amount: 1230
+
+CGST (9%): %110.7
+SGST (9%): 110.7
+Total Amount Payable: 21451.4
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0061
+Date: 2015-05-05
+Buyer Name: Rohan Shankar
+Buyer Address: 29/50, Bhat Path, Dhule 292369
+PAN No: ABCDE5671F
+GSTIN: 29ABCDE05812Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 3212 Amount: =1060
+CGST (9%): 295.4
+
+SGST (9%): 395.4
+Total Amount Payable: %1250.8
+
+Terms: Goods once sold will not be taken back.

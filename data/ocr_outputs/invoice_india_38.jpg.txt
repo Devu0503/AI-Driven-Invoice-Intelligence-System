@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2076/0226
+Date: 2015-04-25
+Buyer Name: Farhan Luthra
+Buyer Address: 85/93, Banik Circle, North Dumdum 474354
+PAN No: ABCDE4774F
+GSTIN: 68ABCDE95032Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 3578 Amount: 1734
+
+CGST (9%): %156.06
+SGST (9%): %156.06
+Total Amount Payable: 2046.12
+
+Terms: Goods once sold will not be taken back.

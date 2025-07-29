@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0267
+Date: 1997-06-08
+Buyer Name: Mamooty Dass
+Buyer Address: 06/825, Lad Path, Singrauli 685628
+PAN No: ABCDE6538F
+GSTIN: 79ABCDE94952Z51
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 193 Amount: 193
+CGST (9%): 817.37
+
+SGST (9%): %17.37
+Total Amount Payable: 2227.74
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0682
+Date: 1976-03-07
+Buyer Name: Drishya Wadhwa
+Buyer Address: 04/380, Rout Zila, Anmedabad 542805
+PAN No: ABCDE0045F
+GSTIN: 99ABCDE4145211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3559 Amount: 2795
+
+CGST (9%): %251.55
+SGST (9%): ¥251.55
+Total Amount Payable: %3298.1
+
+Terms: Goods once sold will not be taken back.

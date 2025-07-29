@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2058/0943
+Date: 2011-09-10
+Buyer Name: Yasmin Dani
+Buyer Address: 60, Trivedi Chowk, Ratlam 817638
+PAN No: ABCDE7808F
+GSTIN: 72ABCDE1451241
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 888 Amount: 1776
+
+CGST (9%): %159.84
+SGST (9%): 2159.84
+Total Amount Payable: 2095.68
+
+Terms: Goods once sold will not be taken back.

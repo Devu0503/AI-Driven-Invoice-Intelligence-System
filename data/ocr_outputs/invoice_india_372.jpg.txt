@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0986
+Date: 2011-09-05
+Buyer Name: Hazel Reddy
+Buyer Address: H.No. 23, Barman Road, Uluberia-798828
+PAN No: ABCDE1023F
+GSTIN: 20ABCDE9132241
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 336 Amount: 336
+CGST (9%): %30.24
+
+SGST (9%): %30.24
+Total Amount Payable: %396.48
+
+Terms: Goods once sold will not be taken back.

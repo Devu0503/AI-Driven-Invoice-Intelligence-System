@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2043/0603
+Date: 1976-09-17
+Buyer Name: Ehsaan Dutt
+Buyer Address: 746, Grewal Circle, Eluru-701662
+PAN No: ABCDE7826F
+GSTIN: 45ABCDE7482Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 3176 Amount: 352
+
+CGST (9%): %31.68
+SGST (9%): %31.68
+Total Amount Payable: %415.36
+
+Terms: Goods once sold will not be taken back.

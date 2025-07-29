@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0118
+Date: 2020-03-08
+Buyer Name: Umang Kara
+Buyer Address: 135, Singhal Nagar, Etawah-654543
+PAN No: ABCDE7824F
+GSTIN: 31ABCDE6218Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 3505 Amount: 505
+
+CGST (9%): %45.45
+SGST (9%): %45.45
+Total Amount Payable: 2595.9
+
+Terms: Goods once sold will not be taken back.

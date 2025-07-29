@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2061/0940
+Date: 1981-10-10
+Buyer Name: Kashvi Dara
+Buyer Address: H.No. 044, Bandi, Pune 956063
+PAN No: ABCDE8041F
+GSTIN: 18ABCDE34942Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3538 Amount: =2690
+
+CGST (9%): %242.1
+SGST (9%): %242.1
+Total Amount Payable: %3174.2
+
+Terms: Goods once sold will not be taken back.

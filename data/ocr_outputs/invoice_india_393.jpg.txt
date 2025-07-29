@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0814
+Date: 1979-08-22
+Buyer Name: Kimaya Tripathi
+Buyer Address: 11/38, Kunda Chowk, Srinagar 235992
+PAN No: ABCDE6528F
+GSTIN: 53ABCDE9490Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3103 Amount: 206
+CGST (9%): %18.54
+
+SGST (9%): 18.54
+Total Amount Payable: 2243.08
+
+Terms: Goods once sold will not be taken back.

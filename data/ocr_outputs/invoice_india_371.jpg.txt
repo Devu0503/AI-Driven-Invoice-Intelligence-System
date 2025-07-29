@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0039
+Date: 1976-07-12
+Buyer Name: Veer Raman
+Buyer Address: H.No. 95, Kapoor Road, Dindigul-716408
+PAN No: ABCDE9264F
+GSTIN: 57ABCDE7033Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: $721 Amount: 2884
+
+CGST (9%): %259.56
+SGST (9%): %259.56
+Total Amount Payable: 3403.12
+
+Terms: Goods once sold will not be taken back.

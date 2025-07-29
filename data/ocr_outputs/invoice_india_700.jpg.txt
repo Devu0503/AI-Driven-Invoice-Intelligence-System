@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2082/0694
+Date: 1995-01-06
+Buyer Name: Misha Hari
+Buyer Address: H.No. 581, Bali Road, Latur-717302
+PAN No: ABCDE8237F
+GSTIN: 74ABCDE03902Z21
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 3587 Amount: %1761
+
+CGST (9%): %158.49
+SGST (9%): 2158.49
+Total Amount Payable: 2077.98
+
+Terms: Goods once sold will not be taken back.

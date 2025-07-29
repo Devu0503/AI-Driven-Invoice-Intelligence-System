@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0651
+Date: 1978-02-09
+Buyer Name: Ehsaan Kalita
+Buyer Address: 991, Gokhale Street, Guna-279263
+PAN No: ABCDE4083F
+GSTIN: 68ABCDE7782Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 791 Amount: 1582
+
+CGST (9%): %142.38
+SGST (9%): %142.38
+Total Amount Payable: 21866.76
+
+Terms: Goods once sold will not be taken back.

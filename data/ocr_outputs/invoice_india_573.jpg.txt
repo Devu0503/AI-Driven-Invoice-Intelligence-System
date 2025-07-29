@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2059/0888
+Date: 1977-05-12
+Buyer Name: Tara Bava
+Buyer Address: 18/580, Bedi Street, Haldia-585998
+PAN No: ABCDE2873F
+GSTIN: 49ABCDE55262Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 121 Amount: %121
+
+CGST (9%): %10.89
+SGST (9%): 10.89
+Total Amount Payable: 2142.78
+
+Terms: Goods once sold will not be taken back.

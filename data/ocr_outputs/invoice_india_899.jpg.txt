@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2090/0300
+Date: 2024-03-14
+Buyer Name: Shray Sahni
+Buyer Address: H.No. 736, Bhakta Chowk, Dhanbad-216859
+PAN No: ABCDE4339F
+GSTIN: 93ABCDE7885Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 3697 Amount: 3485
+
+CGST (9%): %313.65
+SGST (9%): §313.65
+Total Amount Payable: %4112.3
+
+Terms: Goods once sold will not be taken back.

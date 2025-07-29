@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2082/0335
+Date: 1984-07-26
+Buyer Name: Madhup Bhatti
+Buyer Address: 94/72, Chaudry, Eluru 186669
+PAN No: ABCDE6039F
+GSTIN: 37ABCDE4198Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 815 Amount: =1630
+
+CGST (9%): %146.7
+SGST (9%): 2146.7
+Total Amount Payable: %1923.4
+
+Terms: Goods once sold will not be taken back.

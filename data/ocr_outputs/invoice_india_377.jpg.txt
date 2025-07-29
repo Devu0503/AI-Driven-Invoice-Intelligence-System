@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2020/0184
+Date: 1991-10-18
+Buyer Name: Ehsaan Virk
+Buyer Address: 78/37, Lad Nagar, Hazaribagh-740383
+PAN No: ABCDE6655F
+GSTIN: SOABCDE4647Z61
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 3249 Amount: 498
+CGST (9%): %44.82
+
+SGST (9%): %44.82
+Total Amount Payable: 2587.64
+
+Terms: Goods once sold will not be taken back.

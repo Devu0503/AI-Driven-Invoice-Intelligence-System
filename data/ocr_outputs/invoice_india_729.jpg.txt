@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2068/0976
+Date: 2008-08-05
+Buyer Name: Ivana Bala
+Buyer Address: 61/371, Wali Path, Amritsar-471813
+PAN No: ABCDE5649F
+GSTIN: 13ABCDE4957Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3671 Amount: 1342
+
+CGST (9%): %120.78
+SGST (9%): 2120.78
+Total Amount Payable: 21583.56
+
+Terms: Goods once sold will not be taken back.

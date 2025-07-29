@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2017/0278
+Date: 2022-03-06
+Buyer Name: Anvi Mand
+Buyer Address: 12/352, Master Ganj, Ichalkaranji 402306
+PAN No: ABCDE2111F
+GSTIN: 08ABCDE16582Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 909 Amount: %4545
+
+CGST (9%): %409.05
+SGST (9%): %409.05
+Total Amount Payable: %5363.1
+
+Terms: Goods once sold will not be taken back.

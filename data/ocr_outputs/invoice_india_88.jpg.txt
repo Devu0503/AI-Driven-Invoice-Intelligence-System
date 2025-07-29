@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0121
+Date: 1974-02-24
+Buyer Name: Drishya Konda
+Buyer Address: 80, Chaudhry Marg, Karnal 139526
+PAN No: ABCDE1290F
+GSTIN: 77ABCDE18932Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3505 Amount: 505
+
+CGST (9%): %45.45
+SGST (9%): %45.45
+Total Amount Payable: 2595.9
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2081/0611
+Date: 1994-04-20
+Buyer Name: Aniruddh Sekhon
+Buyer Address: H.No. 834, Raj Road, Bongaigaon-055713
+PAN No: ABCDE7303F
+GSTIN: 74ABCDE54282Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 3284 Amount: 284
+
+CGST (9%): %25.56
+SGST (9%): %25.56
+Total Amount Payable: %335.12
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0419
+Date: 2007-12-01
+Buyer Name: Indrajit Singhal
+Buyer Address: 671, Bhakta Zila, Jamshedpur 708553
+PAN No: ABCDE4635F
+GSTIN: 07ABCDE0749Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 366 Amount: ¥366
+
+CGST (9%): %32.94
+SGST (9%): 32.94
+Total Amount Payable: %431.88
+
+Terms: Goods once sold will not be taken back.

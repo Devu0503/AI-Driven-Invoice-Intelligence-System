@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2037/0807
+Date: 2023-09-09
+Buyer Name: Anay Chada
+Buyer Address: 762, Karan Zila, Aizawl 252494
+PAN No: ABCDE3689F
+GSTIN: 51ABCDE4697Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3608 Amount: 1824
+
+CGST (9%): %164.16
+SGST (9%): 2164.16
+Total Amount Payable: 2152.32
+
+Terms: Goods once sold will not be taken back.

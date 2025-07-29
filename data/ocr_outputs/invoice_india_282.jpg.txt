@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2014/0314
+Date: 1990-11-03
+Buyer Name: Manikya Sarma
+Buyer Address: 15/83, Dutt Marg, Jabalpur-971922
+PAN No: ABCDE5325F
+GSTIN: 97ABCDE03912Z31
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: 188 Amount: 564
+CGST (9%): %50.76
+
+SGST (9%): %50.76
+Total Amount Payable: 665.52
+
+Terms: Goods once sold will not be taken back.

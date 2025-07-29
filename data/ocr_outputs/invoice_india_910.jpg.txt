@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0114
+Date: 1997-01-11
+Buyer Name: Samar Ben
+Buyer Address: 990, Bava Nagar, Shimla-420701
+PAN No: ABCDE2080F
+GSTIN: 30ABCDE44592 11
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 954 Amount: 3816
+
+CGST (9%): %343.44
+SGST (9%): 343.44
+Total Amount Payable: %4502.88
+
+Terms: Goods once sold will not be taken back.

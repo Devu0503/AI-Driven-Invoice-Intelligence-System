@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0234
+Date: 1997-04-14
+Buyer Name: Yasmin Kari
+Buyer Address: 08/69, Dhawan Nagar, Noida-242543
+PAN No: ABCDE2854F
+GSTIN: 18ABCDE95962Z21
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 4 Rate: 3227 Amount: ¥908
+CGST (9%): %81.72
+SGST (9%): 81.72
+Total Amount Payable: 21071.44
+
+Terms: Goods once sold will not be taken back.

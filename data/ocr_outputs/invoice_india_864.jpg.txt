@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2046/0020
+Date: 1994-04-14
+Buyer Name: Manikya Gara
+Buyer Address: 546, Kota Ganj, Kharagpur-275766
+PAN No: ABCDE8379F
+GSTIN: 19ABCDE9210221
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3109 Amount: 545
+
+CGST (9%): %49.05
+SGST (9%): %49.05
+Total Amount Payable: 2643.1
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2093/0590
+Date: 2014-04-20
+Buyer Name: Purab Saha
+Buyer Address: 95/132, Wable Ganj, Morbi 712358
+PAN No: ABCDE2390F
+GSTIN: 15ABCDE8305211
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 942 Amount: 4710
+CGST (9%): %423.9
+
+SGST (9%): %423.9
+Total Amount Payable: %5557.8
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0275
+Date: 2023-04-08
+Buyer Name: Misha Gole
+Buyer Address: 26/566, Mannan Chowk, Gudivada-476530
+PAN No: ABCDE1452F
+GSTIN: 64ABCDE4868Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 3697 Amount: 1394
+
+CGST (9%): %125.46
+SGST (9%): 2125.46
+Total Amount Payable: 71644.92
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0827
+Date: 2001-02-18
+Buyer Name: Keya Dhingra
+Buyer Address: H.No. 294, Bera, Bharatpur 649396
+PAN No: ABCDE0410F
+GSTIN: 20ABCDE63572Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 231 Amount: 462
+
+CGST (9%): 41.58
+SGST (9%): %41.58
+Total Amount Payable: 2545.16
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2069/0110
+Date: 1978-07-13
+Buyer Name: Aaina Konda
+Buyer Address: H.No. 12, Bhat, Sambalpur 947564
+PAN No: ABCDE7283F
+GSTIN: 12ABCDE01592Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 908 Amount: ¥3632
+
+CGST (9%): %326.88
+SGST (9%): %326.88
+Total Amount Payable: 4285.76
+
+Terms: Goods once sold will not be taken back.

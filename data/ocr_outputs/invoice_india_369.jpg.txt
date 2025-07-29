@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0428
+Date: 1978-03-27
+Buyer Name: Ishaan Ben
+Buyer Address: H.No. 588, Baria Street, Dhule 099575
+PAN No: ABCDE1543F
+GSTIN: 20ABCDE86812Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: $385 Amount: 1540
+
+CGST (9%): %138.6
+SGST (9%): %138.6
+Total Amount Payable: 21817.2
+
+Terms: Goods once sold will not be taken back.

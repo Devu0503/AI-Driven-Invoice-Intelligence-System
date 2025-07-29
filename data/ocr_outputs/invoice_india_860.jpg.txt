@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0588
+Date: 2009-04-19
+Buyer Name: Mishti Arora
+Buyer Address: 04, Agarwal Road, Khandwa-839843
+PAN No: ABCDE5253F
+GSTIN: 76ABCDE3177Z01
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 429 Amount: 858
+CGST (9%): 877.22
+
+SGST (9%): 77.22
+Total Amount Payable: 21012.44
+
+Terms: Goods once sold will not be taken back.

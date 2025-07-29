@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2032/0219
+Date: 1983-09-08
+Buyer Name: Ira Bakshi
+Buyer Address: 95/49, Karan Zila, Ghaziabad 601223
+PAN No: ABCDE4070F
+GSTIN: 24ABCDE2588Z11
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 989 Amount: 1978
+
+CGST (9%): %178.02
+SGST (9%): %178.02
+Total Amount Payable: 2334.04
+
+Terms: Goods once sold will not be taken back.

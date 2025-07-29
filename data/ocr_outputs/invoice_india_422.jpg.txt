@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0438
+Date: 1990-02-25
+Buyer Name: Dhruv Sangha
+Buyer Address: 970, Dave Marg, Arrah-121016
+PAN No: ABCDE0348F
+GSTIN: 10ABCDE63902Z21
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 447 Amount: 447
+CGST (9%): 40.23
+
+SGST (9%): %40.23
+Total Amount Payable: 2527.46
+
+Terms: Goods once sold will not be taken back.

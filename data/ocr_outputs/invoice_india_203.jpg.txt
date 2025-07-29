@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0915
+Date: 1989-10-16
+Buyer Name: Mishti Chandra
+Buyer Address: H.No. 28, Raman, Pallavaram-949138
+PAN No: ABCDE9023F
+GSTIN: 10ABCDE2113Z31
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: 726 Amount: ¥3630
+CGST (9%): %326.7
+
+SGST (9%): %326.7
+Total Amount Payable: %4283.4
+
+Terms: Goods once sold will not be taken back.

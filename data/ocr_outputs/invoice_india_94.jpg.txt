@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2082/0601
+Date: 1986-05-17
+Buyer Name: Kanav Saran
+Buyer Address: 018, Sandal Path, Siwan-714920
+PAN No: ABCDE7116F
+GSTIN: 78ABCDE5974Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3282 Amount: 1410
+
+CGST (9%): %126.9
+SGST (9%): %126.9
+Total Amount Payable: 21663.8
+
+Terms: Goods once sold will not be taken back.

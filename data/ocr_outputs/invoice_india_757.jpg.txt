@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0495
+Date: 1980-12-26
+Buyer Name: Anaya Randhawa
+Buyer Address: 26/516, Tank Circle, Kumbakonam 257232
+PAN No: ABCDE2797F
+GSTIN: 55ABCDE04792Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 3601 Amount: %1202
+
+CGST (9%): %108.18
+SGST (9%): %108.18
+Total Amount Payable: 1418.36
+
+Terms: Goods once sold will not be taken back.

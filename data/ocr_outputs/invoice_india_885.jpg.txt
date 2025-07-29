@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0891
+Date: 2000-06-29
+Buyer Name: Emir Suri
+Buyer Address: 99/82, Bora, Sonipat 119424
+PAN No: ABCDE3629F
+GSTIN: 14ABCDE7031211
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: $386 Amount: =1930
+CGST (9%): %173.7
+
+SGST (9%): %173.7
+Total Amount Payable: %2277.4
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0066
+Date: 1981-05-26
+Buyer Name: Lakshay Shankar
+Buyer Address: 70/73, Sethi Path, Karawal Nagar-896320
+PAN No: ABCDE3413F
+GSTIN: 60ABCDE0170241
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 161 Amount: 483
+CGST (9%): 43.47
+
+SGST (9%): %43.47
+Total Amount Payable: %569.94
+
+Terms: Goods once sold will not be taken back.

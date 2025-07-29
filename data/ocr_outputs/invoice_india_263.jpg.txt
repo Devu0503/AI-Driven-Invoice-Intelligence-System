@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2065/0125
+Date: 1993-12-08
+Buyer Name: Aarna Lala
+Buyer Address: 18, Sem Street, Ulhasnagar-813314
+PAN No: ABCDE9949F
+GSTIN: 24ABCDE3561211
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 3620 Amount: 1240
+
+CGST (9%): %111.6
+SGST (9%): 2111.6
+Total Amount Payable: 21463.2
+
+Terms: Goods once sold will not be taken back.

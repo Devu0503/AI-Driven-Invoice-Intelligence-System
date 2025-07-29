@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2084/0196
+Date: 1983-12-27
+Buyer Name: Aarush Chahal
+Buyer Address: 09, Bhakta, Purnia-866999
+PAN No: ABCDE4638F
+GSTIN: 01ABCDE0260241
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: 170 Amount: 510
+CGST (9%): 245.9
+SGST (9%): 245.9
+Total Amount Payable: %601.8
+
+Terms: Goods once sold will not be taken back.

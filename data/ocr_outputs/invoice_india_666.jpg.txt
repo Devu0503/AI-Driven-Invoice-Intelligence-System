@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2061/0527
+Date: 2023-05-12
+Buyer Name: Anaya Dyal
+Buyer Address: H.No. 988, Tiwari Chowk, Shivpuri-944747
+PAN No: ABCDE6282F
+GSTIN: 47ABCDE7191Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3627 Amount: %1881
+
+CGST (9%): %169.29
+SGST (9%): %169.29
+Total Amount Payable: 2219.58
+
+Terms: Goods once sold will not be taken back.

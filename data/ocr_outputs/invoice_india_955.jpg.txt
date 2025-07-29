@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2059/0568
+Date: 2004-01-05
+Buyer Name: Arhaan Srinivasan
+Buyer Address: H.No. 997, Doshi Zila, Vijayawada-444856
+PAN No: ABCDE0286F
+GSTIN: 28ABCDE9713Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 843 Amount: 4215
+
+CGST (9%): %379.35
+SGST (9%): 379.35
+Total Amount Payable: %4973.7
+
+Terms: Goods once sold will not be taken back.

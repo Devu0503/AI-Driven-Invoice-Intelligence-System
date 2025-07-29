@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2020/0443
+Date: 1995-05-17
+Buyer Name: Umang Wadhwa
+Buyer Address: 469, Kulkarni, Panvel-506311
+PAN No: ABCDE2210F
+GSTIN: 24ABCDE4384Z51
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 942 Amount: 4710
+CGST (9%): %423.9
+
+SGST (9%): %423.9
+Total Amount Payable: %5557.8
+
+Terms: Goods once sold will not be taken back.

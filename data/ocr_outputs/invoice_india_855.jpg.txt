@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0593
+Date: 2013-08-26
+Buyer Name: Krish Lal
+Buyer Address: 664, Khare Street, Tiruchirappalli 879824
+PAN No: ABCDE3385F
+GSTIN: 81ABCDE0210241
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: 274 Amount: %822
+CGST (9%): 73.98
+
+SGST (9%): 73.98
+Total Amount Payable: 969.96
+
+Terms: Goods once sold will not be taken back.

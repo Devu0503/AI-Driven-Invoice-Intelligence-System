@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0845
+Date: 1973-10-06
+Buyer Name: Nakul Shukla
+Buyer Address: 02/190, Dutta Street, Kakinada 490825
+PAN No: ABCDE6037F
+GSTIN: 86ABCDE06752Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 345 Amount: 1725
+
+CGST (9%): %155.25
+SGST (9%): 2155.25
+Total Amount Payable: %2035.5
+
+Terms: Goods once sold will not be taken back.

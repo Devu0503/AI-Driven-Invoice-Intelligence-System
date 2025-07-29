@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0529
+Date: 1989-03-17
+Buyer Name: Yuvaan Sankar
+Buyer Address: H.No. 88, Chaudhari Path, Siwan 793308
+PAN No: ABCDE1924F
+GSTIN: 32ABCDE8397Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 797 Amount: %2391
+
+CGST (9%): %215.19
+SGST (9%): ¥215.19
+Total Amount Payable: 2821.38
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2011/0265
+Date: 1981-07-26
+Buyer Name: Samarth Guha
+Buyer Address: 52/28, Setty Marg, Rampur-720785
+PAN No: ABCDE8709F
+GSTIN: 25ABCDE7981Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 3183 Amount: 915
+
+CGST (9%): %82.35
+SGST (9%): 82.35
+Total Amount Payable: 21079.7
+
+Terms: Goods once sold will not be taken back.

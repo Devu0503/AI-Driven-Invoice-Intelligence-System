@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2059/0275
+Date: 2006-08-24
+Buyer Name: Tejas Chacko
+Buyer Address: H.No. 44, Gokhale Road, Madhyamgram-195729
+PAN No: ABCDE3360F
+GSTIN: 71ABCDE6379Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 3685 Amount: 685
+
+CGST (9%): %61.65
+SGST (9%): 61.65
+Total Amount Payable: %808.3
+
+Terms: Goods once sold will not be taken back.

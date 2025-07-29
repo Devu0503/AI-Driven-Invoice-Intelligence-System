@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0168
+Date: 1971-06-22
+Buyer Name: Zain Sodhi
+Buyer Address: H.No. 44, Balakrishnan Marg, Kolhapur-729641
+PAN No: ABCDE7269F
+GSTIN: 90ABCDE13712Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 277 Amount: 554
+CGST (9%): 49.86
+
+SGST (9%): %49.86
+Total Amount Payable: 653.72
+
+Terms: Goods once sold will not be taken back.

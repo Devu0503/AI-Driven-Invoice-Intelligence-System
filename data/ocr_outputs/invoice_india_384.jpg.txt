@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0351
+Date: 2000-11-30
+Buyer Name: Madhav Hayer
+Buyer Address: 999, Gera Ganj, Nandyal-886681
+PAN No: ABCDE4841F
+GSTIN: 10ABCDE8955251
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 255 Amount: 765
+
+CGST (9%): %68.85
+SGST (9%): 68.85
+Total Amount Payable: %902.7
+
+Terms: Goods once sold will not be taken back.

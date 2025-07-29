@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0683
+Date: 2006-07-13
+Buyer Name: Emir Bhandari
+Buyer Address: H.No. 55, Maharaj Road, Sultan Pur Majra 082813
+PAN No: ABCDE4119F
+GSTIN: 41ABCDE4142271
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 160 Amount: =160
+CGST (9%): 214.4
+
+SGST (9%): 14.4
+Total Amount Payable: 2188.8
+
+Terms: Goods once sold will not be taken back.

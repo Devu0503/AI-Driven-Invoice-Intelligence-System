@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0098
+Date: 2017-03-23
+Buyer Name: Seher Dewan
+Buyer Address: 811, Kari, Tenali 715490
+PAN No: ABCDE9474F
+GSTIN: 47ABCDE6556Z51
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 4 Rate: 3515 Amount: =2060
+CGST (9%): %185.4
+
+SGST (9%): 185.4
+Total Amount Payable: %2430.8
+
+Terms: Goods once sold will not be taken back.

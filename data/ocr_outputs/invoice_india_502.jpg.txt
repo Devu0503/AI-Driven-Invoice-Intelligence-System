@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0723
+Date: 1983-04-30
+Buyer Name: Indranil Tak
+Buyer Address: 26/87, Deo Circle, Tirunelveli 001246
+PAN No: ABCDE7904F
+GSTIN: 36ABCDE24882Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: $342 Amount: 1710
+
+CGST (9%): %153.9
+SGST (9%): 153.9
+Total Amount Payable: %2017.8
+
+Terms: Goods once sold will not be taken back.

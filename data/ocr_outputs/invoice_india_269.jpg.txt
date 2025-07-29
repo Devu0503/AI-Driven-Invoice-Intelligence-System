@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2032/0578
+Date: 2002-07-05
+Buyer Name: Zara Rout
+Buyer Address: H.No. 94, Ghose Path, Shimla 029827
+PAN No: ABCDE3540F
+GSTIN: 96ABCDE00452Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 702 Amount: 1404
+
+CGST (9%): %126.36
+SGST (9%): 2126.36
+Total Amount Payable: 21656.72
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2005/0650
+Date: 2015-04-21
+Buyer Name: Advika Khosla
+Buyer Address: 95, Dugal, Chennai-115703
+PAN No: ABCDE1089F
+GSTIN: 07ABCDE72322Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 759 Amount: 3795
+
+CGST (9%): %341.55
+SGST (9%): %341.55
+Total Amount Payable: %4478.1
+
+Terms: Goods once sold will not be taken back.

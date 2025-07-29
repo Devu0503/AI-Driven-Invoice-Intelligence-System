@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0946
+Date: 2022-02-27
+Buyer Name: Mohanlal Ramakrishnan
+Buyer Address: 801, Swaminathan Marg, Kollam 029453
+PAN No: ABCDE6345F
+GSTIN: 19ABCDE58972Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 969 Amount: 2907
+
+CGST (9%): %261.63
+SGST (9%): %261.63
+Total Amount Payable: 3430.26
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0666
+Date: 2016-05-08
+Buyer Name: Aaina Karpe
+Buyer Address: 518, Kumer Nagar, Jalna 710951
+PAN No: ABCDE1591F
+GSTIN: 53ABCDE6546Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3503 Amount: =1006
+CGST (9%): %90.54
+SGST (9%): 90.54
+Total Amount Payable: 1187.08
+
+Terms: Goods once sold will not be taken back.

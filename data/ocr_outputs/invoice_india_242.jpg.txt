@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0540
+Date: 1972-07-04
+Buyer Name: Ivana Kohli
+Buyer Address: 24, Roy Road, Malda 373203
+PAN No: ABCDE5872F
+GSTIN: 41ABCDE05672Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 3596 Amount: =1192
+
+CGST (9%): %107.28
+SGST (9%): 107.28
+Total Amount Payable: =1406.56
+
+Terms: Goods once sold will not be taken back.

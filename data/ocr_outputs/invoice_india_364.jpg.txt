@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2066/0104
+Date: 1981-08-31
+Buyer Name: Ahana_ Kuruvilla
+Buyer Address: H.No. 297, Bakshi Ganj, Bhilwara-892472
+PAN No: ABCDE0578F
+GSTIN: 32ABCDE82252Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 767 Amount: 3835
+
+CGST (9%): %345.15
+SGST (9%): 345.15
+Total Amount Payable: %4525.3
+
+Terms: Goods once sold will not be taken back.

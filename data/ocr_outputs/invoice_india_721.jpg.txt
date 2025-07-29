@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0896
+Date: 2016-11-24
+Buyer Name: Neelofar Chhabra
+Buyer Address: 32/33, Dave Road, Jalandhar 700525
+PAN No: ABCDE1601F
+GSTIN: 19ABCDE45312Z71
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: $868 Amount: 868
+CGST (9%): 78.12
+
+SGST (9%): %78.12
+Total Amount Payable: 21024.24
+
+Terms: Goods once sold will not be taken back.

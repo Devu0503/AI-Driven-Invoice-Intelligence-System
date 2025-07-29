@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0561
+Date: 1991-01-04
+Buyer Name: Divyansh Deshpande
+Buyer Address: H.No. 36, Sidhu Nagar, Mango-348615
+PAN No: ABCDE2282F
+GSTIN: 44ABCDE83132Z41
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3628 Amount: 2512
+
+CGST (9%): %226.08
+SGST (9%): %226.08
+Total Amount Payable: 2964.16
+
+Terms: Goods once sold will not be taken back.

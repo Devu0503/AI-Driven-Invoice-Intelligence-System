@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0225
+Date: 2023-07-05
+Buyer Name: Ranbir Contractor
+Buyer Address: 181, Sankaran Chowk, Gulbarga-987889
+PAN No: ABCDE9034F
+GSTIN: 80ABCDE9980Z61
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 3656 Amount: ¥3280
+CGST (9%): %295.2
+
+SGST (9%): 295.2
+Total Amount Payable: %3870.4
+
+Terms: Goods once sold will not be taken back.

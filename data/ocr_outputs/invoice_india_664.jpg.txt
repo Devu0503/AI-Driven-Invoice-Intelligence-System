@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0085
+Date: 2009-01-29
+Buyer Name: Anay Banik
+Buyer Address: H.No. 541, Sharma, Kolhapur 932206
+PAN No: ABCDE0215F
+GSTIN: 97ABCDE4684Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 747 Amount: 3735
+
+CGST (9%): %336.15
+SGST (9%): %336.15
+Total Amount Payable: %4407.3
+
+Terms: Goods once sold will not be taken back.

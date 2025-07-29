@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2049/0200
+Date: 2015-10-09
+Buyer Name: Anya Hayre
+Buyer Address: 812, Tailor Ganj, Medininagar-857740
+PAN No: ABCDE9400F
+GSTIN: 56ABCDE75502Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: 944 Amount: 944
+
+CGST (9%): %84.96
+SGST (9%): 84.96
+Total Amount Payable: 1113.92
+
+Terms: Goods once sold will not be taken back.

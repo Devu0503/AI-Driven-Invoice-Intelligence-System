@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2077/0072
+Date: 1988-11-18
+Buyer Name: Adah Sood
+Buyer Address: 19/101, Dalal Path, Gandhidham 564111
+PAN No: ABCDE6926F
+GSTIN: 69ABCDE9561221
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 3145 Amount: 290
+CGST (9%): 226.1
+
+SGST (9%): 226.1
+Total Amount Payable: %342.2
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2048/0749
+Date: 2000-04-25
+Buyer Name: Advika De
+Buyer Address: 801, Rau Road, Muzaffarpur-932915
+PAN No: ABCDE3449F
+GSTIN: 83ABCDE4571Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 880 Amount: 2640
+
+CGST (9%): %237.6
+SGST (9%): 237.6
+Total Amount Payable: %3115.2
+
+Terms: Goods once sold will not be taken back.

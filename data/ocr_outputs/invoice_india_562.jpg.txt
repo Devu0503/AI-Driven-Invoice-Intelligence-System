@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0791
+Date: 2017-07-21
+Buyer Name: Kaira Ray
+Buyer Address: H.No. 19, Keer Road, Jaunpur-685036
+PAN No: ABCDE8034F
+GSTIN: 41ABCDE16632Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: $310 Amount: 1240
+
+CGST (9%): %111.6
+SGST (9%): 2111.6
+Total Amount Payable: 21463.2
+
+Terms: Goods once sold will not be taken back.

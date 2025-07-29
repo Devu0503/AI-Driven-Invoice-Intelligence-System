@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2045/0259
+Date: 1974-07-11
+Buyer Name: Dharmajan Yadav
+Buyer Address: 343, Barad Street, Anmedabad-363661
+PAN No: ABCDE9495F
+GSTIN: 95ABCDE6537Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 3165 Amount: 165
+
+CGST (9%): 14.85
+SGST (9%): 14.85
+Total Amount Payable: 2194.7
+
+Terms: Goods once sold will not be taken back.

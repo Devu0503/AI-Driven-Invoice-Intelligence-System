@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0870
+Date: 2015-10-05
+Buyer Name: Farhan Singhal
+Buyer Address: 13/997, Sagar Street, Ahmedabad 650993
+PAN No: ABCDE9129F
+GSTIN: 71ABCDE3917211
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 307 Amount: 614
+CGST (9%): 855.26
+
+SGST (9%): %55.26
+Total Amount Payable: 2724.52
+
+Terms: Goods once sold will not be taken back.

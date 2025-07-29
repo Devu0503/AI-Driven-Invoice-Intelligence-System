@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2090/0278
+Date: 1997-06-05
+Buyer Name: Akarsh Choudhury
+Buyer Address: 59/215, Keer Zila, Mysore 774697
+PAN No: ABCDE2238F
+GSTIN: 08ABCDE2887Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: $818 Amount: ¥3272
+
+CGST (9%): %294.48
+SGST (9%): %294.48
+Total Amount Payable: ¥3860.96
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0379
+Date: 2006-01-25
+Buyer Name: Farhan Sachdeva
+Buyer Address: H.No. 32, Varkey Road, Maheshtala 454849
+PAN No: ABCDE0442F
+GSTIN: 17ABCDE84002Z71
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 974 Amount: 4870
+CGST (9%): %438.3
+
+SGST (9%): %438.3
+Total Amount Payable: %5746.6
+
+Terms: Goods once sold will not be taken back.

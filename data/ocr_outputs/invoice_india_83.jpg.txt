@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0156
+Date: 1995-04-10
+Buyer Name: Zain Kala
+Buyer Address: 77, Samra Nagar, Bhimavaram-283796
+PAN No: ABCDE9025F
+GSTIN: 64ABCDE4677Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 3965 Amount: 1930
+CGST (9%): %173.7
+
+SGST (9%): %173.7
+Total Amount Payable: %2277.4
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0155
+Date: 1981-07-24
+Buyer Name: Amira Wable
+Buyer Address: 21, Kurian Ganj, Kozhikode-704457
+PAN No: ABCDE6361F
+GSTIN: SOABCDE2575241
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 3529 Amount: 1058
+CGST (9%): %95.22
+
+SGST (9%): 95.22
+Total Amount Payable: 1248.44
+
+Terms: Goods once sold will not be taken back.

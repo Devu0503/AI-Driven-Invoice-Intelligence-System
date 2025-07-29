@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2034/0622
+Date: 2000-09-09
+Buyer Name: Kanav Virk
+Buyer Address: 035, Dalal Circle, Ramgarh 696357
+PAN No: ABCDE1760F
+GSTIN: 53ABCDE0886241
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 3183 Amount: 915
+
+CGST (9%): %82.35
+SGST (9%): 82.35
+Total Amount Payable: 21079.7
+
+Terms: Goods once sold will not be taken back.

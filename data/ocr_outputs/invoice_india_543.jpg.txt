@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0113
+Date: 2020-08-26
+Buyer Name: Elakshi Viswanathan
+Buyer Address: 11, Sandal Circle, Tinsukia 756155
+PAN No: ABCDE4277F
+GSTIN: 47ABCDE7393Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3521 Amount: 1042
+CGST (9%): %93.78
+
+SGST (9%): %93.78
+Total Amount Payable: 21229.56
+
+Terms: Goods once sold will not be taken back.

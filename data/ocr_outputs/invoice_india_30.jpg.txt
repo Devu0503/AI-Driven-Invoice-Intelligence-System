@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2051/0382
+Date: 1979-01-27
+Buyer Name: Vihaan Mander
+Buyer Address: H.No. 563, Kakar Circle, Shimla-232740
+PAN No: ABCDE3499F
+GSTIN: 63ABCDE3790Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 783 Amount: 3132
+
+CGST (9%): %281.88
+SGST (9%): 281.88
+Total Amount Payable: ¥3695.76
+
+Terms: Goods once sold will not be taken back.

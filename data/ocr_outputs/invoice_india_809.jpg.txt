@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0346
+Date: 2020-11-14
+Buyer Name: Alisha Gola
+Buyer Address: H.No. 718, Chad Zila, Srinagar-379751
+PAN No: ABCDE9812F
+GSTIN: 75ABCDE8036Z71
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 828 Amount: 4140
+CGST (9%): %372.6
+
+SGST (9%): 372.6
+Total Amount Payable: %4885.2
+
+Terms: Goods once sold will not be taken back.

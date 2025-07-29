@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2095/0263
+Date: 2003-12-20
+Buyer Name: Prisha Barad
+Buyer Address: H.No. 106, Kamdar Nagar, Ranchi-562651
+PAN No: ABCDE5578F
+GSTIN: 22ABCDE2859Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: $332 Amount: 332
+
+CGST (9%): 29.88
+SGST (9%): %29.88
+Total Amount Payable: %391.76
+
+Terms: Goods once sold will not be taken back.

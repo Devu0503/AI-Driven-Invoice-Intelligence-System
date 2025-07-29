@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2092/0553
+Date: 1976-09-17
+Buyer Name: Kiaan Dugar
+Buyer Address: 203, Chaudhary Road, Guna 754995
+PAN No: ABCDE2739F
+GSTIN: 38ABCDE79872Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 471 Amount: 1884
+
+CGST (9%): %169.56
+SGST (9%): 2169.56
+Total Amount Payable: 22223.12
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0955
+Date: 1993-06-13
+Buyer Name: Urvi Mangal
+Buyer Address: 67/69, Biswas Nagar, Rohtak-162229
+PAN No: ABCDE5201F
+GSTIN: 97ABCDE0605271
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 976 Amount: %1952
+
+CGST (9%): %175.68
+SGST (9%): 2175.68
+Total Amount Payable: 2303.36
+
+Terms: Goods once sold will not be taken back.

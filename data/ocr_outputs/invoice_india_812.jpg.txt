@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2011/0650
+Date: 1974-04-18
+Buyer Name: Anay Yohannan
+Buyer Address: 19/58, Ahluwalia Path, Srinagar 247388
+PAN No: ABCDE8314F
+GSTIN: 32ABCDE51962Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3558 Amount: 2232
+
+CGST (9%): %200.88
+SGST (9%): 200.88
+Total Amount Payable: 2633.76
+
+Terms: Goods once sold will not be taken back.

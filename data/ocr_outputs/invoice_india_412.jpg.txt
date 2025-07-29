@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2003/0437
+Date: 2015-02-07
+Buyer Name: Anahita Zacharia
+Buyer Address: H.No. 97, Swaminathan Road, Patiala-033343
+PAN No: ABCDE9516F
+GSTIN: 70ABCDE2192251
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: 3523 Amount: 523
+
+CGST (9%): 847.07
+SGST (9%): 47.07
+Total Amount Payable: 2617.14
+
+Terms: Goods once sold will not be taken back.

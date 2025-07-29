@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2069/0814
+Date: 1976-01-01
+Buyer Name: Rohan Chaudhry
+Buyer Address: 04/11, Singh, Gurgaon-612217
+PAN No: ABCDE1333F
+GSTIN: 76ABCDE61262Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 867 Amount: 1734
+
+CGST (9%): %156.06
+SGST (9%): %156.06
+Total Amount Payable: 2046.12
+
+Terms: Goods once sold will not be taken back.

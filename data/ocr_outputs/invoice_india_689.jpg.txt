@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0072
+Date: 1974-01-12
+Buyer Name: Nehmat Anne
+Buyer Address: 86, Mall Nagar, Kadapa 937984
+PAN No: ABCDE6301F
+GSTIN: 07ABCDE92412Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 779 Amount: 3895
+
+CGST (9%): %350.55
+SGST (9%): %350.55
+Total Amount Payable: %4596.1
+
+Terms: Goods once sold will not be taken back.

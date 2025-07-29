@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2027/0418
+Date: 1976-10-17
+Buyer Name: Hansh Madan
+Buyer Address: 544, Master, Rohtak-638587
+PAN No: ABCDE4594F
+GSTIN: 35ABCDE4279Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3608 Amount: 1824
+
+CGST (9%): %164.16
+SGST (9%): 2164.16
+Total Amount Payable: 2152.32
+
+Terms: Goods once sold will not be taken back.

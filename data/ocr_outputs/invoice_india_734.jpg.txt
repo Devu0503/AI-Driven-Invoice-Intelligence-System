@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0782
+Date: 1975-03-16
+Buyer Name: Pranay Bhavsar
+Buyer Address: H.No. 369, Gokhale Chowk, Bokaro 832208
+PAN No: ABCDE0161F
+GSTIN: 23ABCDE97352Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 846 Amount: 846
+CGST (9%): %76.14
+
+SGST (9%): 76.14
+Total Amount Payable: %998.28
+
+Terms: Goods once sold will not be taken back.

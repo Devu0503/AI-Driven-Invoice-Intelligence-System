@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0773
+Date: 2003-04-05
+Buyer Name: Vardaniya Saxena
+Buyer Address: 10/18, Toor Street, Jalgaon 453994
+PAN No: ABCDE4596F
+GSTIN: 14ABCDE9302Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 3214 Amount: %428
+CGST (9%): %38.52
+
+SGST (9%): 38.52
+Total Amount Payable: %505.04
+
+Terms: Goods once sold will not be taken back.

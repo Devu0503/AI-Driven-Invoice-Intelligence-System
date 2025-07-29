@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0494
+Date: 1978-07-08
+Buyer Name: Ryan Tara
+Buyer Address: H.No. 394, Arya Zila, Miryalaguda-654573
+PAN No: ABCDE3819F
+GSTIN: 28ABCDE6863Z71
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 421 Amount: %421
+CGST (9%): 37.89
+
+SGST (9%): %37.89
+Total Amount Payable: 2496.78
+
+Terms: Goods once sold will not be taken back.

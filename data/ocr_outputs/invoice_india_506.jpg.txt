@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2014/0529
+Date: 2002-07-28
+Buyer Name: Myra Raja
+Buyer Address: 479, Gopal Zila, Sirsa-930314
+PAN No: ABCDE9262F
+GSTIN: 62ABCDE9186241
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3689 Amount: 2067
+
+CGST (9%): %186.03
+SGST (9%): %186.03
+Total Amount Payable: 2439.06
+
+Terms: Goods once sold will not be taken back.

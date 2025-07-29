@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2033/0081
+Date: 2009-08-18
+Buyer Name: Taran Bhagat
+Buyer Address: H.No. 006, Sandal Circle, Alappuzha-346513
+PAN No: ABCDE9051F
+GSTIN: 38ABCDE1504Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1. Rate: $772 Amount: 772
+
+CGST (9%): %69.48
+SGST (9%): %69.48
+Total Amount Payable: 910.96
+
+Terms: Goods once sold will not be taken back.

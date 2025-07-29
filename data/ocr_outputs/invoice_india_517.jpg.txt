@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0511
+Date: 2006-11-29
+Buyer Name: Tejas Dash
+Buyer Address: 05/59, Srinivas Street, Jhansi 874533
+PAN No: ABCDE2524F
+GSTIN: 78ABCDE0933Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 2 Rate: 425 Amount: 850
+CGST (9%): 276.5
+
+SGST (9%): 276.5
+Total Amount Payable: 1003.0
+
+Terms: Goods once sold will not be taken back.

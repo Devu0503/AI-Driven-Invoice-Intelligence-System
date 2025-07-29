@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2065/0453
+Date: 2013-06-09
+Buyer Name: Reyansh Dewan
+Buyer Address: H.No. 76, Mani Path, Erode-813926
+PAN No: ABCDE7302F
+GSTIN: 93ABCDE0534Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3639 Amount: 1917
+
+CGST (9%): %172.53
+SGST (9%): 8172.53
+Total Amount Payable: 2262.06
+
+Terms: Goods once sold will not be taken back.

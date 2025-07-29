@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0084
+Date: 2014-02-24
+Buyer Name: Ishaan Badal
+Buyer Address: 860, Karpe Chowk, Solapur-251480
+PAN No: ABCDE5222F
+GSTIN: 74ABCDE3132211
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 3272 Amount: 272
+CGST (9%): %24.48
+
+SGST (9%): %24.48
+Total Amount Payable: %320.96
+
+Terms: Goods once sold will not be taken back.

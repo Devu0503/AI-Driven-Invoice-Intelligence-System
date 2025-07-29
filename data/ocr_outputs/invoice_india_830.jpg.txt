@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2052/0010
+Date: 1983-07-29
+Buyer Name: Pranay Dua
+Buyer Address: 24/66, Vyas Circle, Patna-996180
+PAN No: ABCDE4391F
+GSTIN: 12ABCDE2365211
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 4 Rate: 3625 Amount: 2500
+CGST (9%): %225.0
+
+SGST (9%): 225.0
+Total Amount Payable: 2950.0
+
+Terms: Goods once sold will not be taken back.

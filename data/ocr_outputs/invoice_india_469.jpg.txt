@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2081/0020
+Date: 1986-01-04
+Buyer Name: Shanaya Hayre
+Buyer Address: 96/62, Goswami Street, Tumkur 280804
+PAN No: ABCDE0140F
+GSTIN: 73ABCDE5511Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 904 Amount: 1808
+
+CGST (9%): %162.72
+SGST (9%): 2162.72
+Total Amount Payable: 2133.44
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2094/0479
+Date: 1991-04-17
+Buyer Name: Nirvi Basu
+Buyer Address: 72/29, Gaba, Shimoga 215234
+PAN No: ABCDE8911F
+GSTIN: 23ABCDE3674Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 997 Amount: 1994
+
+CGST (9%): %179.46
+SGST (9%): 2179.46
+Total Amount Payable: ¥2352.92
+
+Terms: Goods once sold will not be taken back.

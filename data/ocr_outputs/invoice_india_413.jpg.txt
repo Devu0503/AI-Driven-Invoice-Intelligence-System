@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2098/0932
+Date: 1977-09-22
+Buyer Name: Tanya Sama
+Buyer Address: H.No. 38, Ram Nagar, Bhagalpur-169940
+PAN No: ABCDE9561F
+GSTIN: 24ABCDE1691221
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 829 Amount: 1658
+
+CGST (9%): %149.22
+SGST (9%): %149.22
+Total Amount Payable: 21956.44
+
+Terms: Goods once sold will not be taken back.

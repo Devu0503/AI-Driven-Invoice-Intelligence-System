@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2095/0592
+Date: 2006-04-09
+Buyer Name: Saksham Saha
+Buyer Address: 10/944, Rout Road, Raichur-595439
+PAN No: ABCDE3793F
+GSTIN: 95ABCDE1971221
+
+Item Details:
+
+Item: Charger
+
+Quantity: 4 Rate: 705 Amount: 2820
+CGST (9%): %253.8
+
+SGST (9%): 253.8
+Total Amount Payable: %3327.6
+
+Terms: Goods once sold will not be taken back.

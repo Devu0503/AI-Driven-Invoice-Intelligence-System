@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2001/0518
+Date: 1983-03-21
+Buyer Name: Mohanlal Dube
+Buyer Address: H.No. 410, Gaba Nagar, Rampur-836672
+PAN No: ABCDE1122F
+GSTIN: 82ABCDE4082Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: $389 Amount: 1556
+
+CGST (9%): %140.04
+SGST (9%): %140.04
+Total Amount Payable: =1836.08
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2099/0122
+Date: 1982-09-12
+Buyer Name: Nirvaan Divan
+Buyer Address: 74/17, Sanghvi Street, Adoni 225357
+PAN No: ABCDES608F
+GSTIN: 65ABCDE73132Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 3273 Amount: 1365
+
+CGST (9%): %122.85
+SGST (9%): 2122.85
+Total Amount Payable: 21610.7
+
+Terms: Goods once sold will not be taken back.

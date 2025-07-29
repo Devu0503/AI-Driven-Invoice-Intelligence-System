@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0380
+Date: 1992-05-15
+Buyer Name: Lakshit Bhat
+Buyer Address: 25, Venkataraman Chowk, Ulhasnagar-572800
+PAN No: ABCDE5987F
+GSTIN: 26ABCDE78582Z61
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 3579 Amount: 579
+CGST (9%): 352.11
+
+SGST (9%): %52.11
+Total Amount Payable: 2683.22
+
+Terms: Goods once sold will not be taken back.

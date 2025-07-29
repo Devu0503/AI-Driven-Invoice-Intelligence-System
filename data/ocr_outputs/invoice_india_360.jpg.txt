@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2016/0254
+Date: 2010-02-14
+Buyer Name: Advika Tailor
+Buyer Address: 16/851, Bali Ganj, Dindigul-222655
+PAN No: ABCDE3140F
+GSTIN: 92ABCDE53242Z11
+
+Item Details:
+
+Item: Charger
+
+Quantity: 4 Rate: 3610 Amount: 2440
+CGST (9%): %219.6
+
+SGST (9%): 219.6
+Total Amount Payable: %2879.2
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2047/0856
+Date: 1993-10-22
+Buyer Name: Jhanvi Date
+Buyer Address: 81/086, Kumar Zila, Thoothukudi-674107
+PAN No: ABCDE1564F
+GSTIN: 0S5ABCDE24402Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 905 Amount: 905
+
+CGST (9%): %81.45
+SGST (9%): %81.45
+Total Amount Payable: 21067.9
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0516
+Date: 1980-02-02
+Buyer Name: Ehsaan Wali
+Buyer Address: 44/25, Chopra Ganj, Hapur 785316
+PAN No: ABCDE7741F
+GSTIN: 17ABCDE7192Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 3 Rate: 3196 Amount: 588
+CGST (9%): 852.92
+
+SGST (9%): 852.92
+Total Amount Payable: 693.84
+
+Terms: Goods once sold will not be taken back.

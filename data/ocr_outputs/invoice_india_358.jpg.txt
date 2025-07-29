@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0360
+Date: 1987-08-29
+Buyer Name: Trisha Bassi
+Buyer Address: H.No. 182, Comar, Ballia-639284
+PAN No: ABCDE2056F
+GSTIN: 60ABCDE34492Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 3721 Amount: 1442
+
+CGST (9%): %129.78
+SGST (9%): 8129.78
+Total Amount Payable: 1701.56
+
+Terms: Goods once sold will not be taken back.

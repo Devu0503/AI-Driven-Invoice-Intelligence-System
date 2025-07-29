@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0835
+Date: 1992-10-20
+Buyer Name: Taimur Raj
+Buyer Address: 89, Ramanathan Chowk, Panchkula 810716
+PAN No: ABCDE4951F
+GSTIN: 49ABCDE7642Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 4 Rate: 430 Amount: 1720
+CGST (9%): %154.8
+
+SGST (9%): %154.8
+Total Amount Payable: %2029.6
+
+Terms: Goods once sold will not be taken back.

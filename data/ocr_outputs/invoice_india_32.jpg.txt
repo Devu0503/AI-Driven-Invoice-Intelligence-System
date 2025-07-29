@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2043/0932
+Date: 1984-01-09
+Buyer Name: Ishaan Kuruvilla
+Buyer Address: 25/419, Dewan Zila, Nagercoil 459079
+PAN No: ABCDE8845F
+GSTIN: 63ABCDE25482Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3691 Amount: 3455
+
+CGST (9%): %310.95
+SGST (9%): %310.95
+Total Amount Payable: %4076.9
+
+Terms: Goods once sold will not be taken back.

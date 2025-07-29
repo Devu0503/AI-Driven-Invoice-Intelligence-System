@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0223
+Date: 1989-11-02
+Buyer Name: Misha Dubey
+Buyer Address: H.No. 093, Goswami Ganj, Buxar-674515
+PAN No: ABCDE7949F
+GSTIN: 26ABCDE7277Z71
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: $317 Amount: 317
+CGST (9%): %28.53
+
+SGST (9%): %28.53
+Total Amount Payable: %374.06
+
+Terms: Goods once sold will not be taken back.

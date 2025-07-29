@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0320
+Date: 1986-12-04
+Buyer Name: Kartik Barad
+Buyer Address: 05/962, Amble Chowk, Karimnagar 355330
+PAN No: ABCDE0478F
+GSTIN: 97ABCDE96152Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3681 Amount: %1362
+
+CGST (9%): %122.58
+SGST (9%): 2122.58
+Total Amount Payable: 21607.16
+
+Terms: Goods once sold will not be taken back.

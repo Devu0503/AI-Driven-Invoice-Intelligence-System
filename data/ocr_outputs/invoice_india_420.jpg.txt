@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0021
+Date: 2014-01-07
+Buyer Name: Oorja Dasgupta
+Buyer Address: 25/842, Rau Road, Unnao 297110
+PAN No: ABCDE8437F
+GSTIN: 79ABCDE49562Z21
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 415 Amount: 830
+CGST (9%): 274.7
+
+SGST (9%): 374.7
+Total Amount Payable: %979.4
+
+Terms: Goods once sold will not be taken back.

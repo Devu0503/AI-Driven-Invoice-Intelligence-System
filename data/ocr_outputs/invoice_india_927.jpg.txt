@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0161
+Date: 2011-04-30
+Buyer Name: Mahika Dutta
+Buyer Address: H.No. 99, Malhotra Nagar, Ozhukarai 915361
+PAN No: ABCDE9768F
+GSTIN: 20ABCDE8072211
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: $398 Amount: 1592
+
+CGST (9%): %143.28
+SGST (9%): %143.28
+Total Amount Payable: 1878.56
+
+Terms: Goods once sold will not be taken back.

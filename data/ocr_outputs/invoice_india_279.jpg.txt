@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0363
+Date: 2011-01-09
+Buyer Name: Rohan Balasubramanian
+Buyer Address: 373, Wadhwa Street, Singrauli-471874
+PAN No: ABCDE0290F
+GSTIN: 94ABCDE75822Z21
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: 960 Amount: 4800
+CGST (9%): %432.0
+
+SGST (9%): 432.0
+Total Amount Payable: 5664.0
+
+Terms: Goods once sold will not be taken back.

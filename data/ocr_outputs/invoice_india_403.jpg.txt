@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0787
+Date: 1975-05-20
+Buyer Name: Jivika Bhatia
+Buyer Address: 72/049, Kapoor Nagar, Guntur 537920
+PAN No: ABCDE3020F
+GSTIN: 52ABCDE0504Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 839 Amount: 1678
+
+CGST (9%): %151.02
+SGST (9%): 8151.02
+Total Amount Payable: =1980.04
+
+Terms: Goods once sold will not be taken back.

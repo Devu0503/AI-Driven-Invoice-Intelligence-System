@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2049/0383
+Date: 1996-05-31
+Buyer Name: Misha Zacharia
+Buyer Address: 27, Gopal Nagar, Chandigarh 801896
+PAN No: ABCDE9558F
+GSTIN: 59ABCDE0411Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 896 Amount: 1792
+
+CGST (9%): %161.28
+SGST (9%): 2161.28
+Total Amount Payable: 2114.56
+
+Terms: Goods once sold will not be taken back.

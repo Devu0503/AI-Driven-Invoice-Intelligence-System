@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2088/0783
+Date: 1995-07-28
+Buyer Name: Romil Mani
+Buyer Address: 25/82, De Chowk, Tezpur 301279
+PAN No: ABCDE0691F
+GSTIN: 12ABCDE6827241
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 437 Amount: %1311
+
+CGST (9%): %117.99
+SGST (9%): 2117.99
+Total Amount Payable: 21546.98
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2051/0513
+Date: 2017-12-17
+Buyer Name: Misha Devan
+Buyer Address: H.No. 581, Choudhary Street, Bhavnagar 799035
+PAN No: ABCDE4602F
+GSTIN: 45ABCDE41592Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 898 Amount: ¥3592
+
+CGST (9%): %323.28
+SGST (9%): %323.28
+Total Amount Payable: 4238.56
+
+Terms: Goods once sold will not be taken back.

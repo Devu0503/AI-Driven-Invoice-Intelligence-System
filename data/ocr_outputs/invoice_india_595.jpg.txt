@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2028/0742
+Date: 2019-07-23
+Buyer Name: Sahil Talwar
+Buyer Address: 01/623, Gola Street, Bathinda 858609
+PAN No: ABCDE9969F
+GSTIN: 11ABCDE5333Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 461 Amount: 1844
+
+CGST (9%): %165.96
+SGST (9%): 2165.96
+Total Amount Payable: 2175.92
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0408
+Date: 1983-10-11
+Buyer Name: Anahi Krish
+Buyer Address: 58/266, Jaggi Road, Mau-945715
+PAN No: ABCDE7510F
+GSTIN: SOABCDE6927Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 3276 Amount: 552
+
+CGST (9%): %49.68
+SGST (9%): %49.68
+Total Amount Payable: 651.36
+
+Terms: Goods once sold will not be taken back.

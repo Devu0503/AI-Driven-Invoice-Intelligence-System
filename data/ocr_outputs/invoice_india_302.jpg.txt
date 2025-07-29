@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0835
+Date: 1992-05-24
+Buyer Name: Ira Ramakrishnan
+Buyer Address: 967, Ramakrishnan Ganj, Bharatpur-845765
+PAN No: ABCDE6544F
+GSTIN: 44ABCDE42592Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 898 Amount: ¥3592
+
+CGST (9%): %323.28
+SGST (9%): %323.28
+Total Amount Payable: 4238.56
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0916
+Date: 2024-04-09
+Buyer Name: Dhanuk De
+Buyer Address: 27/81, Mann Chowk, Kishanganj 447236
+PAN No: ABCDE6748F
+GSTIN: 7OABCDE4988Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 3232 Amount: 232
+CGST (9%): %20.88
+
+SGST (9%): %20.88
+Total Amount Payable: 2273.76
+
+Terms: Goods once sold will not be taken back.

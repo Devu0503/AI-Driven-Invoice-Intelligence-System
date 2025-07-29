@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2038/0095
+Date: 2022-04-10
+Buyer Name: Neelofar Contractor
+Buyer Address: H.No. 66, Basu Zila, Vadodara 321604
+PAN No: ABCDE7195F
+GSTIN: 86ABCDE06102Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 3145 Amount: 725
+
+CGST (9%): %65.25
+SGST (9%): 65.25
+Total Amount Payable: %855.5
+
+Terms: Goods once sold will not be taken back.

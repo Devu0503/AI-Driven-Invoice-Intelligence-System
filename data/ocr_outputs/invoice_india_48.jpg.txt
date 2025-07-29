@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2079/0070
+Date: 1979-03-11
+Buyer Name: Miraan Wason
+Buyer Address: 61, Cherian Marg, Bhopal 179750
+PAN No: ABCDE9155F
+GSTIN: 29ABCDE44772Z21
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 3172 Amount: 516
+CGST (9%): %46.44
+
+SGST (9%): %46.44
+Total Amount Payable: %608.88
+
+Terms: Goods once sold will not be taken back.

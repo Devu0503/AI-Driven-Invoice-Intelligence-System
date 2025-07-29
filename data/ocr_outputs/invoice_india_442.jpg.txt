@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0008
+Date: 1981-01-01
+Buyer Name: Hridaan Ramakrishnan
+Buyer Address: 49/193, Kaul Nagar, Vijayanagaram-348759
+PAN No: ABCDE4553F
+GSTIN: 15ABCDE3137Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 3227 Amount: 227
+CGST (9%): 20.43
+
+SGST (9%): %20.43
+Total Amount Payable: 2267.86
+
+Terms: Goods once sold will not be taken back.

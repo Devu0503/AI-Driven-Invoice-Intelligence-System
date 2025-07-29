@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2051/0514
+Date: 2009-02-12
+Buyer Name: Biju Sridhar
+Buyer Address: H.No. 98, Jna Street, Khora -315605
+PAN No: ABCDE7065F
+GSTIN: 05ABCDE3172Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: $928 Amount: 2784
+
+CGST (9%): %250.56
+SGST (9%): %250.56
+Total Amount Payable: %3285.12
+
+Terms: Goods once sold will not be taken back.

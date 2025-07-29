@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2015/0709
+Date: 2007-01-09
+Buyer Name: Tara Roy
+Buyer Address: H.No. 294, Srinivas, Amroha-412431
+PAN No: ABCDE7636F
+GSTIN: 81ABCDE57352Z81
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 5 Rate: $826 Amount: 4130
+CGST (9%): %371.7
+
+SGST (9%): %371.7
+Total Amount Payable: %4873.4
+
+Terms: Goods once sold will not be taken back.

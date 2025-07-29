@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2004/0245
+Date: 1997-06-07
+Buyer Name: Priyansh Vasa
+Buyer Address: H.No. 112, Bajwa Nagar, Ambarnath 350061
+PAN No: ABCDE0919F
+GSTIN: 04ABCDE53042Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 866 Amount: 3464
+
+CGST (9%): %311.76
+SGST (9%): §311.76
+Total Amount Payable: 4087.52
+
+Terms: Goods once sold will not be taken back.

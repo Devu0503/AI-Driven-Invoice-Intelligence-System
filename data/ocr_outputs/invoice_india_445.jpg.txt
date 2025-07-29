@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2093/0282
+Date: 2001-06-01
+Buyer Name: Darshit Shenoy
+Buyer Address: 202, Ravel Zila, Mango-940646
+PAN No: ABCDE6281F
+GSTIN: 60ABCDE62702Z11
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 3 Rate: 3160 Amount: 480
+CGST (9%): 243.2
+
+SGST (9%): 243.2
+Total Amount Payable: 2566.4
+
+Terms: Goods once sold will not be taken back.

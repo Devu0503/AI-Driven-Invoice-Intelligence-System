@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2065/0257
+Date: 2007-06-01
+Buyer Name: Shalv Sachdev
+Buyer Address: 34, Bhatia Nagar, Srinagar 508530
+PAN No: ABCDE1096F
+GSTIN: 69ABCDE3642Z11
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 3624 Amount: %624
+CGST (9%): 356.16
+
+SGST (9%): %56.16
+Total Amount Payable: 2736.32
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2091/0041
+Date: 2004-06-11
+Buyer Name: Purab Keer
+Buyer Address: 67, Hayer Marg, Rohtak 320321
+PAN No: ABCDE8944F
+GSTIN: 95ABCDE8378Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 3549 Amount: 549
+
+CGST (9%): %49.41
+SGST (9%): %49.41
+Total Amount Payable: 647.82
+
+Terms: Goods once sold will not be taken back.

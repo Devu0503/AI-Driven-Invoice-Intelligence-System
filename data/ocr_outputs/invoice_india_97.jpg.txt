@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0070
+Date: 1983-12-16
+Buyer Name: Ishaan Edwin
+Buyer Address: 180, Kashyap Nagar, Ramagundam 200308
+PAN No: ABCDE3865F
+GSTIN: 76ABCDE6875241
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 851 Amount: 2553
+
+CGST (9%): %229.77
+SGST (9%): 8229.77
+Total Amount Payable: 3012.54
+
+Terms: Goods once sold will not be taken back.

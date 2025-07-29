@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2039/0973
+Date: 2001-02-21
+Buyer Name: Ela Kala
+Buyer Address: 89/757, Borra Road, Machilipatnam 855742
+PAN No: ABCDE4402F
+GSTIN: 35ABCDE4576Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: $311 Amount: 1244
+
+CGST (9%): %111.96
+SGST (9%): 2111.96
+Total Amount Payable: =1467.92
+
+Terms: Goods once sold will not be taken back.

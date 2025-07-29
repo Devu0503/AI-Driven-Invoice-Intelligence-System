@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2051/0991
+Date: 2007-10-27
+Buyer Name: Sumer Virk
+Buyer Address: 92/50, Kothari Zila, Machilipatnam 476464
+PAN No: ABCDE8329F
+GSTIN: 73ABCDE3955241
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 979 Amount: 979
+CGST (9%): %88.11
+SGST (9%): %88.11
+Total Amount Payable: 1155.22
+
+Terms: Goods once sold will not be taken back.

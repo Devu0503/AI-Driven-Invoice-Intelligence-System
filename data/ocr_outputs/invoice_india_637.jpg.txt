@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0917
+Date: 2017-02-28
+Buyer Name: Nirvi Magar
+Buyer Address: 06/303, Walla Zila, Hosur 653416
+PAN No: ABCDE7539F
+GSTIN: 12ABCDE7794Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 893 Amount: 2679
+
+CGST (9%): %241.11
+SGST (9%): 241.11
+Total Amount Payable: 3161.22
+
+Terms: Goods once sold will not be taken back.

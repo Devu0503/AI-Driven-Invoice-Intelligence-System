@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0263
+Date: 1986-11-06
+Buyer Name: Rania Gopal
+Buyer Address: H.No. 639, Varughese Zila, Guntur 013953
+PAN No: ABCDE3537F
+GSTIN: 46ABCDE90192Z81
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 4 Rate: 3645 Amount: 2580
+CGST (9%): %232.2
+
+SGST (9%): 232.2
+Total Amount Payable: %3044.4
+
+Terms: Goods once sold will not be taken back.

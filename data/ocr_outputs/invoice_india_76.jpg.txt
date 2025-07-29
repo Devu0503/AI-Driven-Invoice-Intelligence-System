@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2038/0708
+Date: 2012-10-17
+Buyer Name: Samarth Loke
+Buyer Address: H.No. 68, Varty Road, Srikakulam-795756
+PAN No: ABCDE2090F
+GSTIN: 94ABCDE6084Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 3721 Amount: 1442
+
+CGST (9%): %129.78
+SGST (9%): 8129.78
+Total Amount Payable: 1701.56
+
+Terms: Goods once sold will not be taken back.

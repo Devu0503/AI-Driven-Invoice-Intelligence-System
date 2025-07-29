@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2019/0498
+Date: 1978-02-15
+Buyer Name: Sumer Sibal
+Buyer Address: 30/53, Bhardwaj Circle, Bathinda-729231
+PAN No: ABCDE4378F
+GSTIN: 62ABCDE4302Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3278 Amount: 1112
+
+CGST (9%): %100.08
+SGST (9%): %100.08
+Total Amount Payable: 21312.16
+
+Terms: Goods once sold will not be taken back.

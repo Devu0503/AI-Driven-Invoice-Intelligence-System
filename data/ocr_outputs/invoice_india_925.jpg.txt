@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0031
+Date: 2010-05-20
+Buyer Name: Vardaniya lyer
+Buyer Address: 925, Khare Marg, Kota 069567
+PAN No: ABCDE5140F
+GSTIN: 61ABCDE5827221
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 779 Amount: 3895
+
+CGST (9%): %350.55
+SGST (9%): %350.55
+Total Amount Payable: %4596.1
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0615
+Date: 2012-03-14
+Buyer Name: Tara Anand
+Buyer Address: H.No. 64, Dhingra Nagar, Ghaziabad 199615
+PAN No: ABCDE7000F
+GSTIN: 58ABCDE4392Z01
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 997 Amount: =997
+CGST (9%): %89.73
+SGST (9%): %89.73
+Total Amount Payable: 1176.46
+
+Terms: Goods once sold will not be taken back.

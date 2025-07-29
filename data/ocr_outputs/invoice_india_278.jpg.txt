@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2024/0131
+Date: 1977-07-09
+Buyer Name: Hrishita Sane
+Buyer Address: 30/571, Luthra Chowk, Khandwa-382841
+PAN No: ABCDE5587F
+GSTIN: 89ABCDE20502Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 989 Amount: 1978
+
+CGST (9%): %178.02
+SGST (9%): %178.02
+Total Amount Payable: 2334.04
+
+Terms: Goods once sold will not be taken back.

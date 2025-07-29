@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2088/0653
+Date: 2011-07-10
+Buyer Name: Dhanuk Kibe
+Buyer Address: 31, Sathe Street, Chittoor-356707
+PAN No: ABCDE3391F
+GSTIN: 74ABCDE0879Z31
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 811 Amount: %811
+CGST (9%): %72.99
+
+SGST (9%): 872.99
+Total Amount Payable: %956.98
+
+Terms: Goods once sold will not be taken back.

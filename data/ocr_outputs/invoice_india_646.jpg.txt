@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2081/0536
+Date: 1996-09-26
+Buyer Name: Samarth Dhar
+Buyer Address: 181, Bhat Street, Eluru 119312
+PAN No: ABCDE3940F
+GSTIN: 15ABCDE6477Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 486 Amount: 1458
+
+CGST (9%): %131.22
+SGST (9%): 8131.22
+Total Amount Payable: =1720.44
+
+Terms: Goods once sold will not be taken back.

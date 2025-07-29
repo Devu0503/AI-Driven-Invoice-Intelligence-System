@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0772
+Date: 2002-01-21
+Buyer Name: Divyansh Saha
+Buyer Address: 83, Saran Circle, Khora -723592
+PAN No: ABCDE1141F
+GSTIN: 08ABCDE1512Z91
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: $358 Amount: =1074
+CGST (9%): %96.66
+
+SGST (9%): 96.66
+Total Amount Payable: 1267.32
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2044/0842
+Date: 2008-03-04
+Buyer Name: Hiran Edwin
+Buyer Address: H.No. 12, Chaudry, Madanapalle 836424
+PAN No: ABCDE0109F
+GSTIN: 68ABCDE8261211
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 447 Amount: 2235
+
+CGST (9%): %201.15
+SGST (9%): 201.15
+Total Amount Payable: %2637.3
+
+Terms: Goods once sold will not be taken back.

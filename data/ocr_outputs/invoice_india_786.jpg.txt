@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0346
+Date: 2007-03-24
+Buyer Name: Vardaniya Sundaram
+Buyer Address: 412, Kohli Street, Bihar Sharif 247721
+PAN No: ABCDEOS60F
+GSTIN: 31ABCDE0096Z91
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: 3506 Amount: 2530
+CGST (9%): 8227.7
+
+SGST (9%): 8227.7
+Total Amount Payable: %2985.4
+
+Terms: Goods once sold will not be taken back.

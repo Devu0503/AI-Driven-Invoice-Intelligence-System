@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0878
+Date: 2016-06-16
+Buyer Name: Kimaya Keer
+Buyer Address: H.No. 60, Basak Marg, Jabalpur 180556
+PAN No: ABCDE8318F
+GSTIN: 60ABCDE8886Z91
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 3189 Amount: 189
+CGST (9%): %17.01
+
+SGST (9%): %17.01
+Total Amount Payable: 2223.02
+
+Terms: Goods once sold will not be taken back.

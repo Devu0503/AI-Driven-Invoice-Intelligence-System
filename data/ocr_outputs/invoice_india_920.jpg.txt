@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0221
+Date: 1973-03-10
+Buyer Name: Shayak Bhardwaj
+Buyer Address: 200, Kale Chowk, Durgapur 530314
+PAN No: ABCDE3379F
+GSTIN: OSABCDE3366Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 3695 Amount: %695
+
+CGST (9%): %62.55
+SGST (9%): 862.55
+Total Amount Payable: %820.1
+
+Terms: Goods once sold will not be taken back.

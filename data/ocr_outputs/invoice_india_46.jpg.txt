@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2095/0533
+Date: 2017-04-20
+Buyer Name: Riaan Som
+Buyer Address: 31, Suresh Marg, Shimla-956238
+PAN No: ABCDE8359F
+GSTIN: 76ABCDE91602Z91
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: $321 Amount: %642
+CGST (9%): 857.78
+
+SGST (9%): %57.78
+Total Amount Payable: 2757.56
+
+Terms: Goods once sold will not be taken back.

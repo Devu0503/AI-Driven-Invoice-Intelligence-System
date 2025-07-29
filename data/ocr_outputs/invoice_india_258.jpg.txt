@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0607
+Date: 1972-05-05
+Buyer Name: Dhanuk Andra
+Buyer Address: 69/663, Konda Street, Dehri 355083
+PAN No: ABCDE9589F
+GSTIN: 41ABCDE9096Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 465 Amount: 2325
+
+CGST (9%): %209.25
+SGST (9%): 209.25
+Total Amount Payable: %2743.5
+
+Terms: Goods once sold will not be taken back.

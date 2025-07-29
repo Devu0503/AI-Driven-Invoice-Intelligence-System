@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2083/0322
+Date: 2013-05-08
+Buyer Name: Adah Lata
+Buyer Address: 85/28, Kibe Ganj, Sikar-294710
+PAN No: ABCDE8466F
+GSTIN: 18ABCDE45102Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: $365 Amount: 1095
+
+CGST (9%): %98.55
+SGST (9%): %98.55
+Total Amount Payable: %1292.1
+
+Terms: Goods once sold will not be taken back.

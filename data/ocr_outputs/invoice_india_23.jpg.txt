@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2057/0319
+Date: 2005-07-06
+Buyer Name: Kaira Saha
+Buyer Address: 62/337, Karpe Path, Yamunanagar-655675
+PAN No: ABCDE3005F
+GSTIN: 42ABCDE46612Z71
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: 3240 Amount: 240
+CGST (9%): 221.6
+
+SGST (9%): 21.6
+Total Amount Payable: %283.2
+
+Terms: Goods once sold will not be taken back.

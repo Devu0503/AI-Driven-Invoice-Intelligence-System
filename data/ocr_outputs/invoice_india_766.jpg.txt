@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2070/0925
+Date: 2003-04-14
+Buyer Name: Vedika Ram
+Buyer Address: H.No. 852, Badami Road, Unnao-277054
+PAN No: ABCDE3326F
+GSTIN: 98ABCDE0920271
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 453 Amount: 2265
+
+CGST (9%): %203.85
+SGST (9%): 203.85
+Total Amount Payable: %2672.7
+
+Terms: Goods once sold will not be taken back.

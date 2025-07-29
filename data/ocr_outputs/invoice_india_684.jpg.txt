@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0069
+Date: 1984-04-12
+Buyer Name: Rasha Sen
+Buyer Address: 54/296, Varkey Chowk, Rajkot 305574
+PAN No: ABCDE8694F
+GSTIN: 15ABCDE7769Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 3182 Amount: 182
+
+CGST (9%): %16.38
+SGST (9%): 216.38
+Total Amount Payable: 2214.76
+
+Terms: Goods once sold will not be taken back.

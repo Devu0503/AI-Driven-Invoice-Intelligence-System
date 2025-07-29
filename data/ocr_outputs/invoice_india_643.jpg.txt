@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2070/0226
+Date: 2011-03-12
+Buyer Name: Tara Sastry
+Buyer Address: 80/753, Atwal Circle, Nagercoil-424202
+PAN No: ABCDE1756F
+GSTIN: 16ABCDE34872Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: $948 Amount: 3792
+
+CGST (9%): %341.28
+SGST (9%): 341.28
+Total Amount Payable: %4474.56
+
+Terms: Goods once sold will not be taken back.

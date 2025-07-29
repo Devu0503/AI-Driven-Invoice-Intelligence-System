@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2059/0725
+Date: 1990-05-09
+Buyer Name: Kimaya Devi
+Buyer Address: 88/37, Lala Street, Guna 994226
+PAN No: ABCDE8866F
+GSTIN: 99ABCDE6632Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 959 Amount: 1918
+
+CGST (9%): %172.62
+SGST (9%): 2172.62
+Total Amount Payable: 2263.24
+
+Terms: Goods once sold will not be taken back.

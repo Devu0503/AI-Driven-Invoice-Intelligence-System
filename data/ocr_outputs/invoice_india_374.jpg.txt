@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0140
+Date: 2002-04-25
+Buyer Name: Samaira Viswanathan
+Buyer Address: 56/754, Mani Ganj, Udupi-621907
+PAN No: ABCDE7630F
+GSTIN: 67ABCDE2249221
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 479 Amount: 2395
+
+CGST (9%): %215.55
+SGST (9%): 215.55
+Total Amount Payable: %2826.1
+
+Terms: Goods once sold will not be taken back.

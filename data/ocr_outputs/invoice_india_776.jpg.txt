@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2043/0273
+Date: 2004-04-06
+Buyer Name: Ishita Singhal
+Buyer Address: 84/698, Mangat Ganj, Rajahmundry 491090
+PAN No: ABCDE0012F
+GSTIN: 39ABCDE33422Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 737 Amount: 3685
+
+CGST (9%): %331.65
+SGST (9%): %331.65
+Total Amount Payable: %4348.3
+
+Terms: Goods once sold will not be taken back.

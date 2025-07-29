@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2005/0809
+Date: 2015-07-27
+Buyer Name: Dhruv Atwal
+Buyer Address: 59, Srinivasan Road, Amritsar-335784
+PAN No: ABCDE6098F
+GSTIN: 82ABCDE39962Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 3611 Amount: 1833
+
+CGST (9%): %164.97
+SGST (9%): 2164.97
+Total Amount Payable: 2162.94
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0736
+Date: 1995-11-24
+Buyer Name: Amani Chacko
+Buyer Address: H.No. 087, Kashyap Zila, Karawal Nagar 740842
+PAN No: ABCDE4274F
+GSTIN: 15ABCDE13072Z71
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 370 Amount: 370
+CGST (9%): %33.3
+
+SGST (9%): %33.3
+Total Amount Payable: 2436.6
+
+Terms: Goods once sold will not be taken back.

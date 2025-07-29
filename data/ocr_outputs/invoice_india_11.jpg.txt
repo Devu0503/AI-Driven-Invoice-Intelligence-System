@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0757
+Date: 2013-04-01
+Buyer Name: Stuvan Banik
+Buyer Address: H.No. 31, Vala Ganj, Varanasi 852712
+PAN No: ABCDE0430F
+GSTIN: 60ABCDE6546Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 3571 Amount: 1713
+
+CGST (9%): %154.17
+SGST (9%): 8154.17
+Total Amount Payable: 2021.34
+
+Terms: Goods once sold will not be taken back.

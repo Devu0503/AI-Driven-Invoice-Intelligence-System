@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2074/0246
+Date: 2003-08-23
+Buyer Name: Jivika Shenoy
+Buyer Address: 48/11, Bumb Road, Kamarhati 036110
+PAN No: ABCDE2878F
+GSTIN: 26ABCDE93932Z51
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: $837 Amount: %2511
+
+CGST (9%): %225.99
+SGST (9%): %225.99
+Total Amount Payable: %2962.98
+
+Terms: Goods once sold will not be taken back.

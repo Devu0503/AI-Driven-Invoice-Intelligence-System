@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0704
+Date: 2005-03-29
+Buyer Name: Siya Vasa
+Buyer Address: H.No. 00, Rajagopal, Giridih-090452
+PAN No: ABCDE6043F
+GSTIN: 73ABCDE4066Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3282 Amount: 1410
+
+CGST (9%): %126.9
+SGST (9%): %126.9
+Total Amount Payable: 21663.8
+
+Terms: Goods once sold will not be taken back.

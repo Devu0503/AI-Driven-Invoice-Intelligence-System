@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2015/0179
+Date: 2002-12-28
+Buyer Name: Gatik Shukla
+Buyer Address: H.No. 668, Ram Ganj, Bally 553069
+PAN No: ABCDE7121F
+GSTIN: 36ABCDE2775Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3558 Amount: 1674
+
+CGST (9%): %150.66
+SGST (9%): 2150.66
+Total Amount Payable: 1975.32
+
+Terms: Goods once sold will not be taken back.

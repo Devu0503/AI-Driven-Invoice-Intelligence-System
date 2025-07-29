@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2002/0339
+Date: 1995-01-27
+Buyer Name: Faiyaz Walla
+Buyer Address: 80/94, Rajagopalan Street, Yamunanagar-874531
+PAN No: ABCDE4064F
+GSTIN: 03ABCDE0774241
+
+Item Details:
+
+Item: Charger
+
+Quantity: 2 Rate: 338 Amount: %676
+CGST (9%): %60.84
+
+SGST (9%): 60.84
+Total Amount Payable: 2797.68
+
+Terms: Goods once sold will not be taken back.

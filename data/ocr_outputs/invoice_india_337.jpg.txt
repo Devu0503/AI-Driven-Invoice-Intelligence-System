@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2067/0621
+Date: 1973-06-10
+Buyer Name: Sana Baral
+Buyer Address: H.No. 90, Mall Nagar, Karimnagar 039474
+PAN No: ABCDE4552F
+GSTIN: 80ABCDE8967Z61
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 3123 Amount: 246
+CGST (9%): %22.14
+
+SGST (9%): 22.14
+Total Amount Payable: %290.28
+
+Terms: Goods once sold will not be taken back.

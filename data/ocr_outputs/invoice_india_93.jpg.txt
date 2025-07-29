@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0141
+Date: 1982-10-13
+Buyer Name: Kavya Bobal
+Buyer Address: H.No. 806, Batra Circle, Ranchi 655498
+PAN No: ABCDE2088F
+GSTIN: 98ABCDE54492Z11
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 3580 Amount: 1740
+CGST (9%): %156.6
+
+SGST (9%): 2156.6
+Total Amount Payable: 2053.2
+
+Terms: Goods once sold will not be taken back.

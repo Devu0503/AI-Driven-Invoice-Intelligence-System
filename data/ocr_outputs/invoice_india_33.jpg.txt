@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0545
+Date: 2022-06-28
+Buyer Name: Aarush Sunder
+Buyer Address: 75/04, Master Nagar, Guntur 539798
+PAN No: ABCDE7484F
+GSTIN: OOABCDE75182Z91
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: 830 Amount: 4150
+CGST (9%): %373.5
+
+SGST (9%): %373.5
+Total Amount Payable: %4897.0
+
+Terms: Goods once sold will not be taken back.

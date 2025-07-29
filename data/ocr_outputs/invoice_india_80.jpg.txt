@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0904
+Date: 2023-05-31
+Buyer Name: Kanav Jayaraman
+Buyer Address: 88/572, Wadhwa Circle, Sonipat-382085
+PAN No: ABCDE1580F
+GSTIN: 31ABCDE2528Z01
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: $891 Amount: %891
+CGST (9%): %80.19
+SGST (9%): 80.19
+Total Amount Payable: 1051.38
+
+Terms: Goods once sold will not be taken back.

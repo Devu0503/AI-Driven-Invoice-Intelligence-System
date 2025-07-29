@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2036/0407
+Date: 2010-10-09
+Buyer Name: Ishaan Dutt
+Buyer Address: 62/504, Chand Ganj, Gulbarga 906027
+PAN No: ABCDE1961F
+GSTIN: 93ABCDE4338Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 412 Amount: 71648
+
+CGST (9%): %148.32
+SGST (9%): 2148.32
+Total Amount Payable: 21944.64
+
+Terms: Goods once sold will not be taken back.

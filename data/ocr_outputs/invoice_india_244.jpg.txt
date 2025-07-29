@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2016/0324
+Date: 1971-08-24
+Buyer Name: Ishita Taneja
+Buyer Address: H.No. 182, Gola Path, Deoghar 128732
+PAN No: ABCDE4940F
+GSTIN: 90ABCDE5904Z01
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 769 Amount: 769
+CGST (9%): 369.21
+
+SGST (9%): %69.21
+Total Amount Payable: 907.42
+
+Terms: Goods once sold will not be taken back.

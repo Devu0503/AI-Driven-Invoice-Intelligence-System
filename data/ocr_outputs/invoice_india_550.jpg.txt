@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0194
+Date: 2010-04-22
+Buyer Name: Madhav Arya
+Buyer Address: 42, Edwin Circle, Jodhpur-033159
+PAN No: ABCDE5930F
+GSTIN: 55ABCDE12462Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: $366 Amount: 1464
+
+CGST (9%): %131.76
+SGST (9%): 2131.76
+Total Amount Payable: 1727.52
+
+Terms: Goods once sold will not be taken back.

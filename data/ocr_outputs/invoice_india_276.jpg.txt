@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0511
+Date: 1988-05-14
+Buyer Name: Pranay Walia
+Buyer Address: 71/273, Sharma Nagar, Rohtak-163906
+PAN No: ABCDE8685F
+GSTIN: 58ABCDE8638Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 606 Amount: 2424
+
+CGST (9%): %218.16
+SGST (9%): 8218.16
+Total Amount Payable: 2860.32
+
+Terms: Goods once sold will not be taken back.

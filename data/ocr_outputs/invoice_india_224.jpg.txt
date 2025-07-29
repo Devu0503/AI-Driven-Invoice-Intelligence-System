@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0959
+Date: 1983-11-17
+Buyer Name: Zaina Garg
+Buyer Address: 76, Atwal Path, Cuttack 076050
+PAN No: ABCDE7785F
+GSTIN: 84ABCDE84132Z81
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 377 Amount: 754
+CGST (9%): %67.86
+
+SGST (9%): 67.86
+Total Amount Payable: %889.72
+
+Terms: Goods once sold will not be taken back.

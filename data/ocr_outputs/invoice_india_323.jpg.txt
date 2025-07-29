@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2004/0770
+Date: 1973-05-11
+Buyer Name: Veer Dugar
+Buyer Address: 26/75, Dara Ganj, Mumbai-483987
+PAN No: ABCDE4402F
+GSTIN: 11ABCDE2770Z91
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 883 Amount: 4415
+
+CGST (9%): %397.35
+SGST (9%): 397.35
+Total Amount Payable: %5209.7
+
+Terms: Goods once sold will not be taken back.

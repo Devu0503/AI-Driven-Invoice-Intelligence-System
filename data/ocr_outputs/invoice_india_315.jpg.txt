@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2084/0384
+Date: 1981-02-16
+Buyer Name: Farhan Ramachandran
+Buyer Address: H.No. 04, Bora Road, Nanded 898592
+PAN No: ABCDE0388F
+GSTIN: 40ABCDE7942Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3603 Amount: 3015
+
+CGST (9%): %271.35
+SGST (9%): 8271.35
+Total Amount Payable: %3557.7
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2094/0623
+Date: 1982-11-14
+Buyer Name: Dhruv Guha
+Buyer Address: H.No. 80, Bhargava Marg, Akola-821589
+PAN No: ABCDE7948F
+GSTIN: 0S5ABCDE49452Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 784 Amount: 3136
+
+CGST (9%): %282.24
+SGST (9%): %282.24
+Total Amount Payable: 3700.48
+
+Terms: Goods once sold will not be taken back.

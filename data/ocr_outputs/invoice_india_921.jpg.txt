@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0128
+Date: 2011-02-10
+Buyer Name: Nakul Ahluwalia
+Buyer Address: 04/026, Biswas Nagar, Sikar 777478
+PAN No: ABCDE2147F
+GSTIN: 66ABCDE16202Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 221 Amount: 442
+
+CGST (9%): 39.78
+SGST (9%): %39.78
+Total Amount Payable: 2521.56
+
+Terms: Goods once sold will not be taken back.

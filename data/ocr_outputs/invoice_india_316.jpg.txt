@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2054/0653
+Date: 1971-03-22
+Buyer Name: Vaibhav Thaman
+Buyer Address: 81/78, Rao Road, Chandigarh 317072
+PAN No: ABCDE7531F
+GSTIN: 83ABCDE7844Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 603 Amount: %603
+
+CGST (9%): 854.27
+SGST (9%): %54.27
+Total Amount Payable: 2711.54
+
+Terms: Goods once sold will not be taken back.

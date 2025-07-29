@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0187
+Date: 1978-01-18
+Buyer Name: Nitya Barad
+Buyer Address: 80/240, Chana Chowk, Mehsana-617405
+PAN No: ABCDE1598F
+GSTIN: 73ABCDE77052Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 281 Amount: 1124
+
+CGST (9%): %101.16
+SGST (9%): %101.16
+Total Amount Payable: 21326.32
+
+Terms: Goods once sold will not be taken back.

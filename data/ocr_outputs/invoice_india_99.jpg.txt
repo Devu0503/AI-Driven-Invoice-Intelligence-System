@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2084/0043
+Date: 1988-12-01
+Buyer Name: Rasha Chana
+Buyer Address: 51, Guha, Hapur 576147
+PAN No: ABCDE1388F
+GSTIN: 49ABCDE57982Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 759 Amount: 3795
+
+CGST (9%): %341.55
+SGST (9%): %341.55
+Total Amount Payable: %4478.1
+
+Terms: Goods once sold will not be taken back.

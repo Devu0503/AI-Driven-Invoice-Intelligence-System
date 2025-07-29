@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0601
+Date: 2008-10-27
+Buyer Name: Alisha Keer
+Buyer Address: 71, Saran Ganj, Ramagundam 392744
+PAN No: ABCDE1550F
+GSTIN: 33ABCDE1075241
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: 870 Amount: 2610
+CGST (9%): %234.9
+
+SGST (9%): 234.9
+Total Amount Payable: %3079.8
+
+Terms: Goods once sold will not be taken back.

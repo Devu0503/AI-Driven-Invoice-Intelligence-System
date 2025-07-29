@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2011/0175
+Date: 2018-08-03
+Buyer Name: Nirvaan Kumar
+Buyer Address: 13, Kota Path, Thane 940520
+PAN No: ABCDE6800F
+GSTIN: 62ABCDE15432Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 840 Amount: =1680
+
+CGST (9%): %151.2
+SGST (9%): 8151.2
+Total Amount Payable: %1982.4
+
+Terms: Goods once sold will not be taken back.

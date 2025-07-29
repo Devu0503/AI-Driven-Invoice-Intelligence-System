@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2042/0151
+Date: 2017-12-12
+Buyer Name: Vardaniya Jha
+Buyer Address: H.No. 82, Agate Marg, Orai-107314
+PAN No: ABCDE2676F
+GSTIN: 86ABCDE4286Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 974 Amount: 2922
+
+CGST (9%): %262.98
+SGST (9%): %262.98
+Total Amount Payable: 3447.96
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0512
+Date: 1994-11-07
+Buyer Name: Ayesha Rattan
+Buyer Address: 46, Thaker Path, Tirunelveli 368093
+PAN No: ABCDE2883F
+GSTIN: 75ABCDE3391221
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: $322 Amount: 1288
+
+CGST (9%): %115.92
+SGST (9%): 2115.92
+Total Amount Payable: 21519.84
+
+Terms: Goods once sold will not be taken back.

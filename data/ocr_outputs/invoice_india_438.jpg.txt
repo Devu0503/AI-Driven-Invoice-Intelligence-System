@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2015/0610
+Date: 1998-07-06
+Buyer Name: Hansh Agate
+Buyer Address: 64/85, Vaidya Street, Motihari-403415
+PAN No: ABCDE0853F
+GSTIN: 64ABCDE5457Z31
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 1 Rate: $977 Amount: 977
+CGST (9%): %87.93
+SGST (9%): %87.93
+Total Amount Payable: 1152.86
+
+Terms: Goods once sold will not be taken back.

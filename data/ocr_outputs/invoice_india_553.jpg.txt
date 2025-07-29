@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0461
+Date: 1993-06-15
+Buyer Name: Nishith Gill
+Buyer Address: 83/01, Guha Road, Munger-729252
+PAN No: ABCDE1523F
+GSTIN: 75ABCDE56372Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 906 Amount: 1812
+
+CGST (9%): %163.08
+SGST (9%): %163.08
+Total Amount Payable: 2138.16
+
+Terms: Goods once sold will not be taken back.

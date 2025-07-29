@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2090/0941
+Date: 1980-04-30
+Buyer Name: Arhaan Dugar
+Buyer Address: 83/51, Keer Road, Jhansi-447934
+PAN No: ABCDE9738F
+GSTIN: 47ABCDE76932Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 3694 Amount: 1388
+
+CGST (9%): %124.92
+SGST (9%): %124.92
+Total Amount Payable: 21637.84
+
+Terms: Goods once sold will not be taken back.

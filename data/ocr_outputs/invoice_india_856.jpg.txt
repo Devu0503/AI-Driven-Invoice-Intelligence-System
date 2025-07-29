@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0572
+Date: 2004-08-27
+Buyer Name: Eva Joshi
+Buyer Address: 267, Deshpande Chowk, Bhiwandi 597693
+PAN No: ABCDE3455F
+GSTIN: 47ABCDE1281241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 3618 Amount: 2472
+
+CGST (9%): %222.48
+SGST (9%): %222.48
+Total Amount Payable: 2916.96
+
+Terms: Goods once sold will not be taken back.

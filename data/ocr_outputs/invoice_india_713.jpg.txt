@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0779
+Date: 1990-10-22
+Buyer Name: Faiyaz Dass
+Buyer Address: 212, Gara Zila, Pune-824057
+PAN No: ABCDE9694F
+GSTIN: 78ABCDE26162Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 895 Amount: 4475
+
+CGST (9%): %402.75
+SGST (9%): 402.75
+Total Amount Payable: %5280.5
+
+Terms: Goods once sold will not be taken back.

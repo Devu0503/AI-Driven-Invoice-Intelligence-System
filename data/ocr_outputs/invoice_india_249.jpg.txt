@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0566
+Date: 1973-06-22
+Buyer Name: Aarav Dash
+Buyer Address: H.No. 31, Dhingra Road, Pune-582218
+PAN No: ABCDE3227F
+GSTIN: 69ABCDE9277Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 5 Rate: 3658 Amount: ¥3290
+CGST (9%): %296.1
+
+SGST (9%): %296.1
+Total Amount Payable: %3882.2
+
+Terms: Goods once sold will not be taken back.

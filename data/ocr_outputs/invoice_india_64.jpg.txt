@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0058
+Date: 2024-07-27
+Buyer Name: Vardaniya Rajagopalan
+Buyer Address: H.No. 148, Anne Road, Thoothukudi 347835
+PAN No: ABCDE7336F
+GSTIN: 23ABCDE6856Z61
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 3509 Amount: 509
+CGST (9%): %45.81
+
+SGST (9%): %45.81
+Total Amount Payable: 600.62
+
+Terms: Goods once sold will not be taken back.

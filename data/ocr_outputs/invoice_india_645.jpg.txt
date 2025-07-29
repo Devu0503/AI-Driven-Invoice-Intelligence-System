@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2030/0537
+Date: 1997-08-20
+Buyer Name: Shray Tandon
+Buyer Address: 258, Mahal Street, Howrah 412449
+PAN No: ABCDE7904F
+GSTIN: 26ABCDE0678Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 462 Amount: 71386
+
+CGST (9%): %124.74
+SGST (9%): 2124.74
+Total Amount Payable: 21635.48
+
+Terms: Goods once sold will not be taken back.

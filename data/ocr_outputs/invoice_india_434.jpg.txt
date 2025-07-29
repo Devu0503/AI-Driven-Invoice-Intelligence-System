@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0222
+Date: 1989-01-20
+Buyer Name: Anaya Balan
+Buyer Address: H.No. 577, Kala, Gulbarga-894009
+PAN No: ABCDE9661F
+GSTIN: 40ABCDE49622Z91
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 3502 Amount: 502
+CGST (9%): 45.18
+
+SGST (9%): %45.18
+Total Amount Payable: 2592.36
+
+Terms: Goods once sold will not be taken back.

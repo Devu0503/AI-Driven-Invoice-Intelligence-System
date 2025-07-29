@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2087/0605
+Date: 1994-12-20
+Buyer Name: Ayesha Mane
+Buyer Address: 92/596, Deo Ganj, Thoothukudi 719612
+PAN No: ABCDE8412F
+GSTIN: 47ABCDE7755Z31
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: 1000 Amount: ¥3000
+CGST (9%): %270.0
+
+SGST (9%): 270.0
+Total Amount Payable: %3540.0
+
+Terms: Goods once sold will not be taken back.

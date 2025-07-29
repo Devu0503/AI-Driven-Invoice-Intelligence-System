@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0582
+Date: 1998-10-28
+Buyer Name: Azad Chad
+Buyer Address: H.No. 02, lyer Road, Vasai-Virar-206918
+PAN No: ABCDE5853F
+GSTIN: 93ABCDE98852Z71
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 3265 Amount: 530
+CGST (9%): 47.7
+
+SGST (9%): 247.7
+Total Amount Payable: %625.4
+
+Terms: Goods once sold will not be taken back.

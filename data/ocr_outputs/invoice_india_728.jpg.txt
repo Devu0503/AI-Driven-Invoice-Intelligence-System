@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2070/0179
+Date: 2002-02-02
+Buyer Name: Vedika Guha
+Buyer Address: 18/192, Vohra Marg, Khandwa-891573
+PAN No: ABCDE8970F
+GSTIN: 01ABCDE2979Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 422 Amount: 71688
+
+CGST (9%): %151.92
+SGST (9%): 8151.92
+Total Amount Payable: 21991.84
+
+Terms: Goods once sold will not be taken back.

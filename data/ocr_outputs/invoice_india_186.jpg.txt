@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2066/0580
+Date: 1999-05-09
+Buyer Name: Prisha Bala
+Buyer Address: 20/96, Gokhale Street, Imphal-605983
+PAN No: ABCDE8318F
+GSTIN: 0S5ABCDE8306241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 3152 Amount: 152
+
+CGST (9%): %13.68
+SGST (9%): 13.68
+Total Amount Payable: 2179.36
+
+Terms: Goods once sold will not be taken back.

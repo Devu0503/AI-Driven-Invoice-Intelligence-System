@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2014/0738
+Date: 2001-08-22
+Buyer Name: Nishith Vora
+Buyer Address: H.No. 70, Garg Street, Cuttack 978728
+PAN No: ABCDE1847F
+GSTIN: 19ABCDE8321Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 724 Amount: 2896
+
+CGST (9%): %260.64
+SGST (9%): %260.64
+Total Amount Payable: %3417.28
+
+Terms: Goods once sold will not be taken back.

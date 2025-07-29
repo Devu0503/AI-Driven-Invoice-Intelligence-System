@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2096/0220
+Date: 2019-05-23
+Buyer Name: Shray Sha
+Buyer Address: 27/506, Chhabra Marg, Pune-827275
+PAN No: ABCDE4808F
+GSTIN: 67ABCDE15082Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 954 Amount: 3816
+
+CGST (9%): %343.44
+SGST (9%): 343.44
+Total Amount Payable: %4502.88
+
+Terms: Goods once sold will not be taken back.

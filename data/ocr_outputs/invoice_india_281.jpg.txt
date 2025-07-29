@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2047/0315
+Date: 2014-01-19
+Buyer Name: Renee Venkatesh
+Buyer Address: 445, Keer Street, Ranchi 019649
+PAN No: ABCDE7191F
+GSTIN: 74ABCDE2360241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 3617 Amount: 3085
+
+CGST (9%): 8277.65
+SGST (9%): 8277.65
+Total Amount Payable: %3640.3
+
+Terms: Goods once sold will not be taken back.

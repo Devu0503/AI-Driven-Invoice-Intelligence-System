@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0707
+Date: 1976-03-11
+Buyer Name: Urvi D’Alia
+Buyer Address: H.No. 450, Suri Street, Sangli-Miraj & Kupwad 730888
+PAN No: ABCDE8336F
+GSTIN: 81ABCDE47592Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: $345 Amount: %690
+CGST (9%): 262.1
+
+SGST (9%): 62.1
+Total Amount Payable: %814.2
+
+Terms: Goods once sold will not be taken back.

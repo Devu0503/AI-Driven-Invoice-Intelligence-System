@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0355
+Date: 1999-01-04
+Buyer Name: Nitara Sachdev
+Buyer Address: 57, Ray Nagar, Pudukkottai-918424
+PAN No: ABCDE0663F
+GSTIN: 19ABCDE8532241
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3689 Amount: 3445
+
+CGST (9%): %310.05
+SGST (9%): %310.05
+Total Amount Payable: %4065.1
+
+Terms: Goods once sold will not be taken back.

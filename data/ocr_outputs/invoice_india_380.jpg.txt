@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0523
+Date: 2001-11-10
+Buyer Name: Shlok Lalla
+Buyer Address: 958, Wable Street, Jamalpur 490125
+PAN No: ABCDE8601F
+GSTIN: 18ABCDE77972Z11
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 5 Rate: $932 Amount: %4660
+CGST (9%): %419.4
+
+SGST (9%): %419.4
+Total Amount Payable: %5498.8
+
+Terms: Goods once sold will not be taken back.

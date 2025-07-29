@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0157
+Date: 2018-02-14
+Buyer Name: Vritika Karnik
+Buyer Address: 90, Jayaraman Chowk, Bareilly 725210
+PAN No: ABCDE7596F
+GSTIN: 10ABCDE50242Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 4 Rate: 690 Amount: 2760
+CGST (9%): %248.4
+
+SGST (9%): %248.4
+Total Amount Payable: %3256.8
+
+Terms: Goods once sold will not be taken back.

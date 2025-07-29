@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2048/0476
+Date: 2016-07-25
+Buyer Name: Ela Balay
+Buyer Address: H.No. 87, Dixit Path, Kakinada-676338
+PAN No: ABCDES077F
+GSTIN: 57ABCDE1822211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: $353 Amount: 1412
+
+CGST (9%): %127.08
+SGST (9%): 2127.08
+Total Amount Payable: 21666.16
+
+Terms: Goods once sold will not be taken back.

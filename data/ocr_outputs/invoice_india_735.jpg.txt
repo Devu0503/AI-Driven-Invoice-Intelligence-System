@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2082/0885
+Date: 2022-10-23
+Buyer Name: Devansh Ganesan
+Buyer Address: 93/942, Sengupta Road, Raurkela Industrial Township-464275
+PAN No: ABCDE2356F
+GSTIN: 80ABCDE6277Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 886 Amount: 2658
+
+CGST (9%): %239.22
+SGST (9%): %239.22
+Total Amount Payable: 3136.44
+
+Terms: Goods once sold will not be taken back.

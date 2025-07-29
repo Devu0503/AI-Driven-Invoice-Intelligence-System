@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2055/0417
+Date: 1986-09-02
+Buyer Name: Lagan Mangat
+Buyer Address: H.No. 657, Dara Circle, Dehradun 075214
+PAN No: ABCDESO95F
+GSTIN: 68ABCDE1355271
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: $361 Amount: 1444
+
+CGST (9%): %129.96
+SGST (9%): 2129.96
+Total Amount Payable: 1703.92
+
+Terms: Goods once sold will not be taken back.

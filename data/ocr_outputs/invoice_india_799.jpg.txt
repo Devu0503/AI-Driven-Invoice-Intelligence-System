@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2031/0096
+Date: 2012-12-10
+Buyer Name: Kiaan Goyal
+Buyer Address: 98/666, Dash Circle, Bettiah-254878
+PAN No: ABCDE8739F
+GSTIN: 79ABCDE44362Z21
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 200 Amount: 200
+CGST (9%): 218.0
+
+SGST (9%): 18.0
+Total Amount Payable: %236.0
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2001/0701
+Date: 2015-06-12
+Buyer Name: Nirvi Wable
+Buyer Address: H.No. 18, Lala Marg, Sirsa-980229
+PAN No: ABCDE7824F
+GSTIN: 55ABCDE81652Z81
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 997 Amount: %2991
+
+CGST (9%): %269.19
+SGST (9%): %269.19
+Total Amount Payable: 3529.38
+
+Terms: Goods once sold will not be taken back.

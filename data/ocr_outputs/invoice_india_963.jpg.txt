@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2095/0889
+Date: 1991-05-02
+Buyer Name: Ehsaan Baria
+Buyer Address: 78/52, Taneja Zila, Phusro-407763
+PAN No: ABCDE5768F
+GSTIN: 31ABCDE6064241
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: $729 Amount: 2916
+
+CGST (9%): %262.44
+SGST (9%): %262.44
+Total Amount Payable: %3440.88
+
+Terms: Goods once sold will not be taken back.

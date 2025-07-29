@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2067/0277
+Date: 2015-05-10
+Buyer Name: Sumer Bala
+Buyer Address: 589, Choudhry Chowk, Vasai-Virar 873385
+PAN No: ABCDE2749F
+GSTIN: 61ABCDE1872241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 477 Amount: %1431
+
+CGST (9%): %128.79
+SGST (9%): 2128.79
+Total Amount Payable: 21688.58
+
+Terms: Goods once sold will not be taken back.

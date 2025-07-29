@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2007/0302
+Date: 1988-06-17
+Buyer Name: Kimaya Sani
+Buyer Address: H.No. 457, Goel Circle, Bangalore-799884
+PAN No: ABCDES211F
+GSTIN: 16ABCDE5606Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 448 Amount: 1792
+
+CGST (9%): %161.28
+SGST (9%): 2161.28
+Total Amount Payable: 2114.56
+
+Terms: Goods once sold will not be taken back.

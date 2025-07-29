@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2099/0537
+Date: 2005-11-13
+Buyer Name: Chirag Bajaj
+Buyer Address: 10/196, Dugal Zila, Dibrugarh-886059
+PAN No: ABCDE4510F
+GSTIN: 38ABCDE1830Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: 3517 Amount: 2585
+
+CGST (9%): %232.65
+SGST (9%): %232.65
+Total Amount Payable: %3050.3
+
+Terms: Goods once sold will not be taken back.

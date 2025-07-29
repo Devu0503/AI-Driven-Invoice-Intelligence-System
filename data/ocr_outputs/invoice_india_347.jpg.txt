@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0435
+Date: 2014-07-24
+Buyer Name: Amani Chauhan
+Buyer Address: 99/835, Seth Chowk, Rajkot 409327
+PAN No: ABCDE5756F
+GSTIN: 93ABCDE10362Z21
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 260 Amount: 260
+CGST (9%): 223.4
+
+SGST (9%): 23.4
+Total Amount Payable: %306.8
+
+Terms: Goods once sold will not be taken back.

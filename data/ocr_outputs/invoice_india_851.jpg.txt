@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2032/0382
+Date: 2003-07-26
+Buyer Name: Miraan Kanda
+Buyer Address: 57/425, Kari Path, Nadiad 141721
+PAN No: ABCDE4362F
+GSTIN: OSABCDE7800Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 258 Amount: &774
+
+CGST (9%): %69.66
+SGST (9%): 69.66
+Total Amount Payable: 913.32
+
+Terms: Goods once sold will not be taken back.

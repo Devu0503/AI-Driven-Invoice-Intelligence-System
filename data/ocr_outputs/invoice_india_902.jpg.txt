@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0214
+Date: 2016-10-05
+Buyer Name: Arhaan Jayaraman
+Buyer Address: 05/055, Khurana Path, Pondicherry-096491
+PAN No: ABCDE4097F
+GSTIN: 61ABCDE93952Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 963 Amount: 2889
+
+CGST (9%): %260.01
+SGST (9%): %260.01
+Total Amount Payable: %3409.02
+
+Terms: Goods once sold will not be taken back.

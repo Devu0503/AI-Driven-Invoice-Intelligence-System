@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2035/0351
+Date: 1991-02-01
+Buyer Name: Jiya Gokhale
+Buyer Address: H.No. 86, Date Zila, Ramgarh-806511
+PAN No: ABCDE3124F
+GSTIN: 22ABCDE5078Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 304 Amount: %608
+
+CGST (9%): 854.72
+SGST (9%): %54.72
+Total Amount Payable: 2717.44
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2029/0146
+Date: 2018-09-22
+Buyer Name: Ehsaan Wali
+Buyer Address: H.No. 80, Koshy Nagar, Chandrapur 845840
+PAN No: ABCDE2394F
+GSTIN: 73ABCDE5988Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3562 Amount: 2810
+
+CGST (9%): %252.9
+SGST (9%): 252.9
+Total Amount Payable: %3315.8
+
+Terms: Goods once sold will not be taken back.

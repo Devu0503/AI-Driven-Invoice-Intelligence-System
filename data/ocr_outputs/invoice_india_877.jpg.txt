@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0591
+Date: 2024-01-23
+Buyer Name: Ahana_ Dugal
+Buyer Address: 79/23, Bhagat Street, Imphal 448366
+PAN No: ABCDE1226F
+GSTIN: 48ABCDE8069241
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 458 Amount: 916
+CGST (9%): %82.44
+
+SGST (9%): 82.44
+Total Amount Payable: =1080.88
+
+Terms: Goods once sold will not be taken back.

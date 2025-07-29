@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2078/0325
+Date: 1987-06-03
+Buyer Name: Darshit Bhatt
+Buyer Address: 59, Shroff Nagar, New Delhi-358177
+PAN No: ABCDE4877F
+GSTIN: 29ABCDE7828Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 764 Amount: 2292
+
+CGST (9%): %206.28
+SGST (9%): %206.28
+Total Amount Payable: 2704.56
+
+Terms: Goods once sold will not be taken back.

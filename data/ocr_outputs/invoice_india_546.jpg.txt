@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0176
+Date: 2021-11-10
+Buyer Name: Nitara Verma
+Buyer Address: 567, Batta Road, Tadipatri-613871
+PAN No: ABCDE8830F
+GSTIN: 56ABCDE93382Z21
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: 207 Amount: %621
+CGST (9%): 355.89
+
+SGST (9%): %55.89
+Total Amount Payable: 2732.78
+
+Terms: Goods once sold will not be taken back.

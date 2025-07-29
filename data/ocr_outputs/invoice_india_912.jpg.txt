@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2051/0594
+Date: 2010-05-10
+Buyer Name: Zain Wali
+Buyer Address: 95/90, Chowdhury Chowk, Patiala 126675
+PAN No: ABCDE6956F
+GSTIN: 89ABCDE01042Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 868 Amount: 1736
+
+CGST (9%): %156.24
+SGST (9%): 2156.24
+Total Amount Payable: 2048.48
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2060/0088
+Date: 1981-09-28
+Buyer Name: Vidur Savant
+Buyer Address: H.No. 379, Gill Circle, Chandrapur 620067
+PAN No: ABCDE9201F
+GSTIN: 66ABCDE4927Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 821 Amount: %1642
+
+CGST (9%): %147.78
+SGST (9%): 147.78
+Total Amount Payable: 21937.56
+
+Terms: Goods once sold will not be taken back.

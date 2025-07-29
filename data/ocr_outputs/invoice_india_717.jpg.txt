@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2098/0581
+Date: 2020-03-14
+Buyer Name: Nishith Kapur
+Buyer Address: H.No. 582, Saha Nagar, Howrah-574626
+PAN No: ABCDE3104F
+GSTIN: 25ABCDE0061211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: $933 Amount: 2799
+
+CGST (9%): %251.91
+SGST (9%): 251.91
+Total Amount Payable: 3302.82
+
+Terms: Goods once sold will not be taken back.

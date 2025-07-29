@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0519
+Date: 1992-07-15
+Buyer Name: Hazel Vig
+Buyer Address: 678, Agate Road, Jorhat-050513
+PAN No: ABCDE7117F
+GSTIN: 72ABCDE9727Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: 481 Amount: 71443
+
+CGST (9%): %129.87
+SGST (9%): 2129.87
+Total Amount Payable: 1702.74
+
+Terms: Goods once sold will not be taken back.

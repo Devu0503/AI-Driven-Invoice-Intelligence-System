@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0842
+Date: 1994-03-19
+Buyer Name: Ranbir Soni
+Buyer Address: 22, Handa Nagar, Gandhidham 046280
+PAN No: ABCDE7778F
+GSTIN: 18ABCDE3308Z71
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 3260 Amount: 520
+CGST (9%): 246.8
+
+SGST (9%): 246.8
+Total Amount Payable: %613.6
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2068/0110
+Date: 2001-11-16
+Buyer Name: Aayush Saran
+Buyer Address: 09, Mand, Ichalkaranji-0O21657
+PAN No: ABCDE4271F
+GSTIN: 91ABCDE5461Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $319 Amount: 1276
+
+CGST (9%): %114.84
+SGST (9%): 2114.84
+Total Amount Payable: 21505.68
+
+Terms: Goods once sold will not be taken back.

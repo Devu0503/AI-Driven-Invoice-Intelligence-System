@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0674
+Date: 2014-03-10
+Buyer Name: Mehul Bumb
+Buyer Address: 97/13, Loyal Circle, Avadi 721319
+PAN No: ABCDE6474F
+GSTIN: 95ABCDE4389Z91
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 3213 Amount: 426
+CGST (9%): 38.34
+
+SGST (9%): %38.34
+Total Amount Payable: %502.68
+
+Terms: Goods once sold will not be taken back.

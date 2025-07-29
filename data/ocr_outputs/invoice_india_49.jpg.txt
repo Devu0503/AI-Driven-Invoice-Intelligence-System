@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0945
+Date: 1977-05-18
+Buyer Name: Aradhya Dayal
+Buyer Address: 95/535, Suri, Loni 898089
+PAN No: ABCDE1554F
+GSTIN: 97ABCDE19142Z31
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 329 Amount: 329
+CGST (9%): %29.61
+
+SGST (9%): %29.61
+Total Amount Payable: %388.22
+
+Terms: Goods once sold will not be taken back.

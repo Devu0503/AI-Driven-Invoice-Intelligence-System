@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0179
+Date: 2012-09-04
+Buyer Name: Parinaaz Kumar
+Buyer Address: 22/895, Tiwari Zila, Phusro-785290
+PAN No: ABCDE5021F
+GSTIN: 03ABCDE8153Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: $761 Amount: 2283
+
+CGST (9%): %205.47
+SGST (9%): %205.47
+Total Amount Payable: 2693.94
+
+Terms: Goods once sold will not be taken back.

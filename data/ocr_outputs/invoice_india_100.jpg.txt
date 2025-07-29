@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2022/0173
+Date: 1981-03-05
+Buyer Name: Akarsh Sampath
+Buyer Address: H.No. 074, Kapoor Street, Pune 065511
+PAN No: ABCDE5893F
+GSTIN: 18ABCDE5021271
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 792 Amount: 792
+CGST (9%): 71.28
+
+SGST (9%): %71.28
+Total Amount Payable: %934.56
+
+Terms: Goods once sold will not be taken back.

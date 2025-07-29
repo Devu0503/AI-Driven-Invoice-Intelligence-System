@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0188
+Date: 1980-02-26
+Buyer Name: Akarsh Tella
+Buyer Address: H.No. 52, Salvi Circle, Nanded 793388
+PAN No: ABCDE6296F
+GSTIN: 78ABCDE8417Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 3 Rate: 188 Amount: 564
+CGST (9%): %50.76
+
+SGST (9%): %50.76
+Total Amount Payable: 665.52
+
+Terms: Goods once sold will not be taken back.

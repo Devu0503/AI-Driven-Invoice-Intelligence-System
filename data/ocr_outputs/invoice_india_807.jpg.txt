@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2029/0769
+Date: 1986-06-12
+Buyer Name: Prerak Barman
+Buyer Address: H.No. 12, Mangat Nagar, Burhanpur 141698
+PAN No: ABCDE1047F
+GSTIN: 34ABCDE6074211
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 481 Amount: 71443
+
+CGST (9%): %129.87
+SGST (9%): 2129.87
+Total Amount Payable: 1702.74
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2052/0451
+Date: 1994-03-28
+Buyer Name: Kartik Mani
+Buyer Address: H.No. 687, Sen Nagar, Mira-Bhayandar-401512
+PAN No: ABCDE0985F
+GSTIN: O6ABCDE0234Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3283 Amount: 1415
+
+CGST (9%): %127.35
+SGST (9%): 8127.35
+Total Amount Payable: 21669.7
+
+Terms: Goods once sold will not be taken back.

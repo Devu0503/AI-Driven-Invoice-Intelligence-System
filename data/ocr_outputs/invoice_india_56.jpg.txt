@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0125
+Date: 2008-05-12
+Buyer Name: Amira Dhar
+Buyer Address: 370, Sha Nagar, Bidar-052582
+PAN No: ABCDE1672F
+GSTIN: 19ABCDE7771Z91
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 447 Amount: 447
+CGST (9%): 40.23
+
+SGST (9%): %40.23
+Total Amount Payable: 2527.46
+
+Terms: Goods once sold will not be taken back.

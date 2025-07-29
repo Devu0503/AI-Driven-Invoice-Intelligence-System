@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2082/0856
+Date: 1976-03-19
+Buyer Name: Devansh Kata
+Buyer Address: 01/03, Chawla Zila, Kulti-951100
+PAN No: ABCDE6652F
+GSTIN: 60ABCDE6327241
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 398 Amount: 398
+CGST (9%): %35.82
+
+SGST (9%): %35.82
+Total Amount Payable: 2469.64
+
+Terms: Goods once sold will not be taken back.

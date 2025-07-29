@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0430
+Date: 2006-01-16
+Buyer Name: Jayan Ramakrishnan
+Buyer Address: 77, Kapadia Path, Imphal-061027
+PAN No: ABCDE9425F
+GSTIN: 10ABCDE8563241
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 422 Amount: 422
+CGST (9%): %37.98
+
+SGST (9%): 37.98
+Total Amount Payable: %497.96
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2067/0759
+Date: 1985-02-16
+Buyer Name: Charvi Khurana
+Buyer Address: 59, Ghose Circle, Salem-181411
+PAN No: ABCDE0374F
+GSTIN: 71ABCDE0707211
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 609 Amount: 1218
+
+CGST (9%): %109.62
+SGST (9%): %109.62
+Total Amount Payable: 1437.24
+
+Terms: Goods once sold will not be taken back.

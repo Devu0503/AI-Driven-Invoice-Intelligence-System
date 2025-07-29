@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2098/0627
+Date: 1992-12-25
+Buyer Name: Jayant Aurora
+Buyer Address: H.No. 57, Gokhale Marg, Pallavaram-722690
+PAN No: ABCDE9199F
+GSTIN: 96ABCDE0475241
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 464 Amount: 1392
+
+CGST (9%): %125.28
+SGST (9%): 2125.28
+Total Amount Payable: 21642.56
+
+Terms: Goods once sold will not be taken back.

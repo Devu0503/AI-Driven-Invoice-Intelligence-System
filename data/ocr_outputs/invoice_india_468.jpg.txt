@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2093/0133
+Date: 1984-10-02
+Buyer Name: Vaibhav Sibal
+Buyer Address: H.No. 433, Roy Road, Delhi-749080
+PAN No: ABCDE6084F
+GSTIN: 93ABCDE8836241
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 3 Rate: 3236 Amount: 708
+CGST (9%): %63.72
+
+SGST (9%): 863.72
+Total Amount Payable: %835.44
+
+Terms: Goods once sold will not be taken back.

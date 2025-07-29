@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0128
+Date: 2021-05-10
+Buyer Name: Tanya Vohra
+Buyer Address: H.No. 386, Sehgal Ganj, Motihari 610712
+PAN No: ABCDE0457F
+GSTIN: 48ABCDE5009Z01
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 3124 Amount: %620
+CGST (9%): 255.8
+SGST (9%): 55.8
+Total Amount Payable: 2731.6
+
+Terms: Goods once sold will not be taken back.

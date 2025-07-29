@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0450
+Date: 2005-09-21
+Buyer Name: Alisha Saraf
+Buyer Address: H.No. 95, Kar Chowk, Jhansi-038840
+PAN No: ABCDE5679F
+GSTIN: 76ABCDE0394Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 3121 Amount: 484
+
+CGST (9%): 43.56
+SGST (9%): %43.56
+Total Amount Payable: 2571.12
+
+Terms: Goods once sold will not be taken back.

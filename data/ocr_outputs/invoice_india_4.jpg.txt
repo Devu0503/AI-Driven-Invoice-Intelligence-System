@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2027/0124
+Date: 1990-11-27
+Buyer Name: Divij Bajwa
+Buyer Address: 65/236, Lad Nagar, Motihari-855515
+PAN No: ABCDE4936F
+GSTIN: 01ABCDE40812Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 954 Amount: 1908
+
+CGST (9%): 3171.72
+SGST (9%): 2171.72
+Total Amount Payable: 2251.44
+
+Terms: Goods once sold will not be taken back.

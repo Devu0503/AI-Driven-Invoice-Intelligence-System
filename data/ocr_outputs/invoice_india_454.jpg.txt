@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2001/0178
+Date: 1993-06-23
+Buyer Name: Aaryahi Kara
+Buyer Address: H.No. 54, Ratta Road, Tadipatri-318364
+PAN No: ABCDE2851F
+GSTIN: 79ABCDE7022211
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 3508 Amount: 1016
+CGST (9%): %91.44
+SGST (9%): 91.44
+Total Amount Payable: 1198.88
+
+Terms: Goods once sold will not be taken back.

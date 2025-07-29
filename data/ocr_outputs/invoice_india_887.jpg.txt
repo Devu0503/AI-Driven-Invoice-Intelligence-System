@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2072/0469
+Date: 2000-04-27
+Buyer Name: Nakul Rama
+Buyer Address: 81/135, Rattan Road, Malda 122979
+PAN No: ABCDE1367F
+GSTIN: 99ABCDE7412241
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 890 Amount: 1780
+
+CGST (9%): %160.2
+SGST (9%): %160.2
+Total Amount Payable: 2100.4
+
+Terms: Goods once sold will not be taken back.

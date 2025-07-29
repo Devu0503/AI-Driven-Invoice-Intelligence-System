@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2013/0134
+Date: 2017-07-27
+Buyer Name: Jivika Srivastava
+Buyer Address: 52, De Ganj, Ludhiana-233735
+PAN No: ABCDE7127F
+GSTIN: 81ABCDE3830Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 880 Amount: 2640
+
+CGST (9%): %237.6
+SGST (9%): 237.6
+Total Amount Payable: %3115.2
+
+Terms: Goods once sold will not be taken back.

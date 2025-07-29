@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2025/0783
+Date: 2011-03-11
+Buyer Name: Shray Chakraborty
+Buyer Address: 03/134, Kara Path, Jalna 379591
+PAN No: ABCDE9737F
+GSTIN: 87ABCDE16482Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 3631 Amount: 2524
+
+CGST (9%): %227.16
+SGST (9%): 8227.16
+Total Amount Payable: 2978.32
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0532
+Date: 1997-05-17
+Buyer Name: Riya Sahni
+Buyer Address: 90, Chakraborty Path, Baranagar-876898
+PAN No: ABCDE5498F
+GSTIN: 52ABCDE6797Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: $865 Amount: 4325
+
+CGST (9%): %389.25
+SGST (9%): 389.25
+Total Amount Payable: %5103.5
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2057/0287
+Date: 1976-07-05
+Buyer Name: Ehsaan Rama
+Buyer Address: 22/217, Apte Chowk, Kulti 551412
+PAN No: ABCDE7373F
+GSTIN: 86ABCDE9734Z11
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 426 Amount: %426
+CGST (9%): 38.34
+
+SGST (9%): %38.34
+Total Amount Payable: %502.68
+
+Terms: Goods once sold will not be taken back.

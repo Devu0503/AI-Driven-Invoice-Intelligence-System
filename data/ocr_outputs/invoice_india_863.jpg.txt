@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2027/0497
+Date: 1981-07-01
+Buyer Name: Ishita Vala
+Buyer Address: 26/322, Sibal Road, Kolhapur 282314
+PAN No: ABCDES055F
+GSTIN: 64ABCDE6920Z01
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 4 Rate: 3257 Amount: 1028
+CGST (9%): %92.52
+
+SGST (9%): 92.52
+Total Amount Payable: 21213.04
+
+Terms: Goods once sold will not be taken back.

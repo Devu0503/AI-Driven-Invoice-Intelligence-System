@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0414
+Date: 1978-04-16
+Buyer Name: Pranay Dhar
+Buyer Address: H.No. 316, Sane Chowk, Shimla 685685
+PAN No: ABCDE2126F
+GSTIN: 26ABCDE8390Z61
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 330 Amount: 330
+CGST (9%): 229.7
+
+SGST (9%): 29.7
+Total Amount Payable: %389.4
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2084/0211
+Date: 2000-02-03
+Buyer Name: Vaibhav Mangal
+Buyer Address: 88/59, Yadav Road, Medininagar 005476
+PAN No: ABCDE9584F
+GSTIN: 60ABCDE0451211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 3138 Amount: 138
+
+CGST (9%): %12.42
+SGST (9%): 212.42
+Total Amount Payable: 2162.84
+
+Terms: Goods once sold will not be taken back.

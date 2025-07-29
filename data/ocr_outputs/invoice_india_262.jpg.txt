@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0350
+Date: 1970-02-09
+Buyer Name: Charvi Kapoor
+Buyer Address: H.No. 01, Salvi Circle, Amaravati-673392
+PAN No: ABCDE2845F
+GSTIN: 55ABCDE35582Z21
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 820 Amount: 820
+CGST (9%): 273.8
+
+SGST (9%): 273.8
+Total Amount Payable: %967.6
+
+Terms: Goods once sold will not be taken back.

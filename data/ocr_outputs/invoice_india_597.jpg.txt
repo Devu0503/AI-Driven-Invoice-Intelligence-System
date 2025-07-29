@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2092/0111
+Date: 1979-07-11
+Buyer Name: Misha Bath
+Buyer Address: H.No. 87, Shah Street, Ozhukarai 363644
+PAN No: ABCDE2622F
+GSTIN: 61ABCDE33692Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 3682 Amount: 1364
+
+CGST (9%): %122.76
+SGST (9%): 2122.76
+Total Amount Payable: 21609.52
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2033/0896
+Date: 2008-03-09
+Buyer Name: Dhanuk Hayre
+Buyer Address: H.No. 14, Ravi Zila, Loni 282520
+PAN No: ABCDE9213F
+GSTIN: 96ABCDE97212Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 905 Amount: 905
+
+CGST (9%): %81.45
+SGST (9%): %81.45
+Total Amount Payable: 21067.9
+
+Terms: Goods once sold will not be taken back.

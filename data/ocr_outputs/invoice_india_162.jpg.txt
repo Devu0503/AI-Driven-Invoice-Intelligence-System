@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2032/0324
+Date: 2013-11-08
+Buyer Name: Samarth Sahni
+Buyer Address: H.No. 62, Banik Path, Lucknow 628809
+PAN No: ABCDE8027F
+GSTIN: 04ABCDE7133Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 909 Amount: 1818
+
+CGST (9%): %163.62
+SGST (9%): %163.62
+Total Amount Payable: 2145.24
+
+Terms: Goods once sold will not be taken back.

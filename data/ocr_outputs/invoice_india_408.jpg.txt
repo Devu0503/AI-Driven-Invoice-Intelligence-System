@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2070/0823
+Date: 1986-01-14
+Buyer Name: Lavanya Date
+Buyer Address: 48/93, Bhakta Marg, Dewas-153036
+PAN No: ABCDE5181F
+GSTIN: 04ABCDE6084Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $727 Amount: 2908
+
+CGST (9%): %261.72
+SGST (9%): %261.72
+Total Amount Payable: 3431.44
+
+Terms: Goods once sold will not be taken back.

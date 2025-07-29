@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0579
+Date: 1975-03-02
+Buyer Name: Adah Samra
+Buyer Address: 91/70, Apte, Tinsukia-187872
+PAN No: ABCDE6652F
+GSTIN: 53ABCDE4912Z61
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 2 Rate: 3290 Amount: 580
+CGST (9%): 252.2
+
+SGST (9%): 352.2
+Total Amount Payable: %684.4
+
+Terms: Goods once sold will not be taken back.

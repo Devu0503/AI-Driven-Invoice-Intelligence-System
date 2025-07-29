@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0301
+Date: 1980-03-13
+Buyer Name: Saksham Dutta
+Buyer Address: 001, Krishnamurthy Chowk, Silchar-920116
+PAN No: ABCDE4508F
+GSTIN: SOABCDE1662221
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 736 Amount: ¥3680
+CGST (9%): %331.2
+
+SGST (9%): 331.2
+Total Amount Payable: %4342.4
+
+Terms: Goods once sold will not be taken back.

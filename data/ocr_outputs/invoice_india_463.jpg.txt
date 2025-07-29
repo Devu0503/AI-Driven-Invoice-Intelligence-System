@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0066
+Date: 2010-05-23
+Buyer Name: Samaira Aurora
+Buyer Address: 99, Bir Path, Visakhapatnam-060340
+PAN No: ABCDE5970F
+GSTIN: OOABCDE2151Z51
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 5 Rate: 972 Amount: 4860
+CGST (9%): 437.4
+
+SGST (9%): %437.4
+Total Amount Payable: %5734.8
+
+Terms: Goods once sold will not be taken back.

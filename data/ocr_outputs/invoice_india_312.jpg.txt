@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2003/0533
+Date: 2009-04-03
+Buyer Name: Ranbir Hayer
+Buyer Address: 567, Tata Zila, Mirzapur-992863
+PAN No: ABCDE7584F
+GSTIN: 17ABCDE08352Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 3563 Amount: 2252
+
+CGST (9%): %202.68
+SGST (9%): %202.68
+Total Amount Payable: 2657.36
+
+Terms: Goods once sold will not be taken back.

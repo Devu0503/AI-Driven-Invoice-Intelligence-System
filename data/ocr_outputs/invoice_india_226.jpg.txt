@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2086/0143
+Date: 1986-06-29
+Buyer Name: Anay Rajagopalan
+Buyer Address: 69/93, Dixit Path, Guwahati 537161
+PAN No: ABCDE1774F
+GSTIN: 71ABCDE6350Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: $928 Amount: 2784
+
+CGST (9%): %250.56
+SGST (9%): %250.56
+Total Amount Payable: %3285.12
+
+Terms: Goods once sold will not be taken back.

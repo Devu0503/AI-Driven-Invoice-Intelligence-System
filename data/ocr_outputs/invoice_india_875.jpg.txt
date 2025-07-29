@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2051/0542
+Date: 1984-05-30
+Buyer Name: Indranil Kumer
+Buyer Address: 47, Ramakrishnan Marg, Bihar Sharif 243710
+PAN No: ABCDE8352F
+GSTIN: 27ABCDE3474Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 3562 Amount: %1686
+
+CGST (9%): %151.74
+SGST (9%): 8151.74
+Total Amount Payable: 1989.48
+
+Terms: Goods once sold will not be taken back.

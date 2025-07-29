@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2041/0328
+Date: 1976-03-22
+Buyer Name: Taimur Kadakia
+Buyer Address: 66/57, Sur Circle, Warangal-986007
+PAN No: ABCDES177F
+GSTIN: 63ABCDE5202Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 879 Amount: 4395
+
+CGST (9%): %395.55
+SGST (9%): %395.55
+Total Amount Payable: %5186.1
+
+Terms: Goods once sold will not be taken back.

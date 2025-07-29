@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2092/0400
+Date: 2023-11-16
+Buyer Name: Dharmajan Sarraf
+Buyer Address: 509, Dube, Suryapet 759979
+PAN No: ABCDE2115F
+GSTIN: 75ABCDE3722Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: $758 Amount: ¥3032
+
+CGST (9%): %272.88
+SGST (9%): 8272.88
+Total Amount Payable: 3577.76
+
+Terms: Goods once sold will not be taken back.

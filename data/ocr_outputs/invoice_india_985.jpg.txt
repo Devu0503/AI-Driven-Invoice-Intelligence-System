@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2091/0390
+Date: 1972-02-23
+Buyer Name: Jayesh Chowdhury
+Buyer Address: 04/19, Yogi Path, Guwahati 741998
+PAN No: ABCDE3682F
+GSTIN: 94ABCDE8946Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: $366 Amount: 1464
+
+CGST (9%): %131.76
+SGST (9%): 2131.76
+Total Amount Payable: 1727.52
+
+Terms: Goods once sold will not be taken back.

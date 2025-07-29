@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0127
+Date: 1996-09-20
+Buyer Name: Kaira Srivastava
+Buyer Address: 04, Ranganathan Ganj, Karimnagar-162286
+PAN No: ABCDE9064F
+GSTIN: 52ABCDE39682Z91
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 844 Amount: 844
+CGST (9%): 75.96
+
+SGST (9%): 75.96
+Total Amount Payable: 995.92
+
+Terms: Goods once sold will not be taken back.

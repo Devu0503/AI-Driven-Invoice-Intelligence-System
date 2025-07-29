@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2032/0122
+Date: 2002-06-08
+Buyer Name: Vaibhav Talwar
+Buyer Address: 78/72, Deshpande Road, Begusarai 323308
+PAN No: ABCDE7532F
+GSTIN: 19ABCDE0009Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3688 Amount: 2752
+
+CGST (9%): %247.68
+SGST (9%): 8247.68
+Total Amount Payable: 3247.36
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2018/0910
+Date: 1988-04-30
+Buyer Name: Ira Barman
+Buyer Address: 04/66, Sem Marg, Panchkula 453554
+PAN No: ABCDE5883F
+GSTIN: 25ABCDE2709Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 3559 Amount: 2236
+
+CGST (9%): %201.24
+SGST (9%): 201.24
+Total Amount Payable: 2638.48
+
+Terms: Goods once sold will not be taken back.

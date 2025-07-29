@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2088/0706
+Date: 1971-10-07
+Buyer Name: Aarna Arora
+Buyer Address: 37/427, Badami Path, Machilipatnam-453584
+PAN No: ABCDE9080F
+GSTIN: 51ABCDE74042Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 411 Amount: 2055
+
+CGST (9%): %184.95
+SGST (9%): 3184.95
+Total Amount Payable: %2424.9
+
+Terms: Goods once sold will not be taken back.

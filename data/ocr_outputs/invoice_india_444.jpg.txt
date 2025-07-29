@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2007/0594
+Date: 2022-09-21
+Buyer Name: Prisha Bajwa
+Buyer Address: H.No. 471, Sibal, Jaunpur 608089
+PAN No: ABCDE2689F
+GSTIN: 79ABCDE00552Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 3546 Amount: 2730
+
+CGST (9%): %245.7
+SGST (9%): 245.7
+Total Amount Payable: %3221.4
+
+Terms: Goods once sold will not be taken back.

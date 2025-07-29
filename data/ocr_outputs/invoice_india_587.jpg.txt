@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0415
+Date: 2024-03-28
+Buyer Name: Aradhya Vohra
+Buyer Address: 60/18, Sidhu Road, Noida-754467
+PAN No: ABCDE0077F
+GSTIN: 49ABCDE19582Z81
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 3644 Amount: %644
+CGST (9%): 857.96
+
+SGST (9%): %57.96
+Total Amount Payable: 2759.92
+
+Terms: Goods once sold will not be taken back.

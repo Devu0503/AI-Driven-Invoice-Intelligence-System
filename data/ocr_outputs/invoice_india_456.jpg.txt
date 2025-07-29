@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2095/0473
+Date: 1990-06-04
+Buyer Name: Jiya Halder
+Buyer Address: 62/529, Bir, Parbhani 287632
+PAN No: ABCDE3327F
+GSTIN: 04ABCDE7878Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 3510 Amount: 1530
+
+CGST (9%): %137.7
+SGST (9%): 137.7
+Total Amount Payable: %1805.4
+
+Terms: Goods once sold will not be taken back.

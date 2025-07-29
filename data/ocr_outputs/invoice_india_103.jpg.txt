@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2045/0129
+Date: 2012-03-29
+Buyer Name: Kismat Comar
+Buyer Address: 57, Choudhary Street, Bhusawal 031033
+PAN No: ABCDE0041F
+GSTIN: 67ABCDE1515Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: 3145 Amount: 145
+
+CGST (9%): %13.05
+SGST (9%): 13.05
+Total Amount Payable: 2171.1
+
+Terms: Goods once sold will not be taken back.

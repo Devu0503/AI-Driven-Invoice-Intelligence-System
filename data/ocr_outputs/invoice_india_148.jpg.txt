@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2093/0157
+Date: 1978-02-09
+Buyer Name: Hazel Raman
+Buyer Address: 22, Seshadri, Bhind 144822
+PAN No: ABCDE9879F
+GSTIN: 29ABCDE2809Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 449 Amount: %449
+CGST (9%): %40.41
+
+SGST (9%): %40.41
+Total Amount Payable: %529.82
+
+Terms: Goods once sold will not be taken back.

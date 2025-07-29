@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2078/0991
+Date: 2004-03-10
+Buyer Name: Dhanuk Char
+Buyer Address: 677, Vaidya Path, Tiruppur 635318
+PAN No: ABCDE4511F
+GSTIN: 91ABCDE7683Z91
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3246 Amount: 984
+
+CGST (9%): %88.56
+SGST (9%): 88.56
+Total Amount Payable: 21161.12
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2091/0914
+Date: 1975-08-23
+Buyer Name: Damini Bhakta
+Buyer Address: 61, Lala Street, Begusarai-753127
+PAN No: ABCDE4181F
+GSTIN: 98ABCDE4727Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: 3114 Amount: 114
+
+CGST (9%): %10.26
+SGST (9%): 10.26
+Total Amount Payable: 2134.52
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2097/0980
+Date: 2019-11-29
+Buyer Name: Jivika Kakar
+Buyer Address: 86, Deshpande Path, Thiruvananthapuram 884794
+PAN No: ABCDE6824F
+GSTIN: 88ABCDE9065211
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 991 Amount: =1982
+
+CGST (9%): %178.38
+SGST (9%): 2178.38
+Total Amount Payable: 2338.76
+
+Terms: Goods once sold will not be taken back.

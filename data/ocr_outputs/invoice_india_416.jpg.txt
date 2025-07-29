@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2073/0706
+Date: 2016-12-28
+Buyer Name: Prerak Kapoor
+Buyer Address: 89, Tripathi Chowk, Mangalore 975109
+PAN No: ABCDE7950F
+GSTIN: 54ABCDE64632Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: 608 Amount: 608
+
+CGST (9%): 854.72
+SGST (9%): %54.72
+Total Amount Payable: 2717.44
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2026/0016
+Date: 1993-03-21
+Buyer Name: Indrajit Sandal
+Buyer Address: H.No. 245, Bhalla Street, Muzaffarpur 398622
+PAN No: ABCDE7756F
+GSTIN: 51ABCDE5691Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: $807 Amount: %2421
+
+CGST (9%): %217.89
+SGST (9%): 8217.89
+Total Amount Payable: 2856.78
+
+Terms: Goods once sold will not be taken back.

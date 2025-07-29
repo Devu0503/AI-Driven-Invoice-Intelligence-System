@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2052/0957
+Date: 1993-03-26
+Buyer Name: Bhamini Krishnan
+Buyer Address: 05, Agate Ganj, Panchkula-132023
+PAN No: ABCDE2358F
+GSTIN: 91ABCDE36542Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 3595 Amount: =1190
+
+CGST (9%): %107.1
+SGST (9%): %107.1
+Total Amount Payable: %1404.2
+
+Terms: Goods once sold will not be taken back.

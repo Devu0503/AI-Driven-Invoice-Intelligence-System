@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2018/0702
+Date: 2008-05-20
+Buyer Name: Nakul Lall
+Buyer Address: 731, Mall Circle, Ludhiana-328927
+PAN No: ABCDE8917F
+GSTIN: 75ABCDE8894Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 426 Amount: 1704
+
+CGST (9%): %153.36
+SGST (9%): 2153.36
+Total Amount Payable: 2010.72
+
+Terms: Goods once sold will not be taken back.

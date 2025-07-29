@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0956
+Date: 1985-05-17
+Buyer Name: Saanvi Dyal
+Buyer Address: H.No. 239, Mani Ganj, Khandwa-375069
+PAN No: ABCDE3984F
+GSTIN: 98ABCDE04252Z01
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 450 Amount: ¥900
+CGST (9%): %81.0
+
+SGST (9%): 381.0
+Total Amount Payable: 1062.0
+
+Terms: Goods once sold will not be taken back.

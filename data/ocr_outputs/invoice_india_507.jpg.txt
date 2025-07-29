@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2039/0352
+Date: 1972-08-12
+Buyer Name: Urvi Gade
+Buyer Address: 91/47, Sood Zila, Guwahati-262069
+PAN No: ABCDE4104F
+GSTIN: 77ABCDE0444Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 887 Amount: 4435
+
+CGST (9%): %399.15
+SGST (9%): 399.15
+Total Amount Payable: %5233.3
+
+Terms: Goods once sold will not be taken back.

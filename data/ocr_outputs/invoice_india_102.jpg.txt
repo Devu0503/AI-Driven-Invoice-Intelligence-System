@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2007/0664
+Date: 2007-11-16
+Buyer Name: Taran Kapur
+Buyer Address: 806, Goda Zila, Panvel-423318
+PAN No: ABCDE7705F
+GSTIN: 84ABCDE5463241
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: 3525 Amount: 525
+
+CGST (9%): %47.25
+SGST (9%): %47.25
+Total Amount Payable: %619.5
+
+Terms: Goods once sold will not be taken back.

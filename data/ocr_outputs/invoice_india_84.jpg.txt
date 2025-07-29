@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2028/0352
+Date: 1977-07-11
+Buyer Name: Farhan Dyal
+Buyer Address: 83, Vora Circle, Chittoor 775815
+PAN No: ABCDE5225F
+GSTIN: 15ABCDE2974Z81
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 3159 Amount: 477
+CGST (9%): %42.93
+
+SGST (9%): %42.93
+Total Amount Payable: 2562.86
+
+Terms: Goods once sold will not be taken back.

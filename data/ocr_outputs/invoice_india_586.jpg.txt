@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2031/0197
+Date: 1990-04-08
+Buyer Name: Himmat Khalsa
+Buyer Address: 281, Saraf Nagar, Raichur 027329
+PAN No: ABCDE9975F
+GSTIN: 54ABCDE9490Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: $367 Amount: 734
+
+CGST (9%): %66.06
+SGST (9%): 866.06
+Total Amount Payable: %866.12
+
+Terms: Goods once sold will not be taken back.

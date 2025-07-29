@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2056/0710
+Date: 2009-07-21
+Buyer Name: Adira Wali
+Buyer Address: H.No. 522, Konda Road, Korba-494659
+PAN No: ABCDE9378F
+GSTIN: 87ABCDE6413Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 808 Amount: 2424
+
+CGST (9%): %218.16
+SGST (9%): 8218.16
+Total Amount Payable: 2860.32
+
+Terms: Goods once sold will not be taken back.

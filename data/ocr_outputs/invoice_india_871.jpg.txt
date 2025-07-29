@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0961
+Date: 1990-11-24
+Buyer Name: Amani Bumb
+Buyer Address: 243, Wason Zila, Jabalpur-012672
+PAN No: ABCDE1363F
+GSTIN: 38ABCDE8483Z91
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 486 Amount: 486
+CGST (9%): 43.74
+
+SGST (9%): %43.74
+Total Amount Payable: 2573.48
+
+Terms: Goods once sold will not be taken back.

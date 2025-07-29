@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0326
+Date: 1977-07-01
+Buyer Name: Nitara Goel
+Buyer Address: 70/327, Tripathi Nagar, Shimoga 581025
+PAN No: ABCDE3702F
+GSTIN: 71ABCDE1943241
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 4 Rate: 3126 Amount: 504
+CGST (9%): 45.36
+
+SGST (9%): %45.36
+Total Amount Payable: %594.72
+
+Terms: Goods once sold will not be taken back.

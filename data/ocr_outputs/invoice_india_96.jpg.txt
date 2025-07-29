@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2068/0632
+Date: 2022-04-28
+Buyer Name: Jayesh Kaul
+Buyer Address: 51/34, D’Alia Circle, Hyderabad-671671
+PAN No: ABCDE4738F
+GSTIN: 33ABCDE4739Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3609 Amount: 2436
+
+CGST (9%): %219.24
+SGST (9%): 8219.24
+Total Amount Payable: 2874.48
+
+Terms: Goods once sold will not be taken back.

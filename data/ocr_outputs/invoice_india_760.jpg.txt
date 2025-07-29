@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2076/0813
+Date: 2015-02-07
+Buyer Name: Nirvaan Aurora
+Buyer Address: H.No. 77, Luthra Circle, Nanded 064290
+PAN No: ABCDE9029F
+GSTIN: 67ABCDE07402Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 3672 Amount: 2688
+
+CGST (9%): %241.92
+SGST (9%): 8241.92
+Total Amount Payable: 3171.84
+
+Terms: Goods once sold will not be taken back.

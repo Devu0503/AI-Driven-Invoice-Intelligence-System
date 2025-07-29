@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2094/0936
+Date: 2023-03-09
+Buyer Name: Adira Kadakia
+Buyer Address: 47/31, Sodhi Marg, Tirupati 461340
+PAN No: ABCDE7953F
+GSTIN: 26ABCDE72312Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: $321 Amount: 1284
+
+CGST (9%): %115.56
+SGST (9%): 2115.56
+Total Amount Payable: 1515.12
+
+Terms: Goods once sold will not be taken back.

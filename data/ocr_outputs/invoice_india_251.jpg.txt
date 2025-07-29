@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0913
+Date: 1973-05-18
+Buyer Name: Chirag Uppal
+Buyer Address: 43/398, Devan Circle, Tumkur 592213
+PAN No: ABCDE4512F
+GSTIN: 92ABCDE3210Z31
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 254 Amount: 254
+CGST (9%): %22.86
+
+SGST (9%): 22.86
+Total Amount Payable: %299.72
+
+Terms: Goods once sold will not be taken back.

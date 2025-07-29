@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2029/0110
+Date: 1989-05-26
+Buyer Name: Darshit Chandran
+Buyer Address: 051, Kota, Vadodara 549045
+PAN No: ABCDE4312F
+GSTIN: 88ABCDE4338Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: $753 Amount: ¥3012
+
+CGST (9%): %271.08
+SGST (9%): 271.08
+Total Amount Payable: 3554.16
+
+Terms: Goods once sold will not be taken back.

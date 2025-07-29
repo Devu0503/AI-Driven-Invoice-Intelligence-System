@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0173
+Date: 1986-10-01
+Buyer Name: Ayesha Ray
+Buyer Address: H.No. 272, Kata Zila, Gandhinagar 692149
+PAN No: ABCDE4491F
+GSTIN: 20ABCDE0100221
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 836 Amount: 1672
+
+CGST (9%): %150.48
+SGST (9%): %150.48
+Total Amount Payable: 21972.96
+
+Terms: Goods once sold will not be taken back.

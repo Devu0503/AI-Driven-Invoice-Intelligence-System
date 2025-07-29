@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2032/0328
+Date: 2008-08-23
+Buyer Name: Aarna Bumb
+Buyer Address: H.No. 048, Char Nagar, Katni-974566
+PAN No: ABCDE5237F
+GSTIN: 85ABCDE95032Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $369 Amount: 1476
+
+CGST (9%): %132.84
+SGST (9%): 2132.84
+Total Amount Payable: 1741.68
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0222
+Date: 1984-04-10
+Buyer Name: Nishith Chahal
+Buyer Address: 22, Ravi Marg, Belgaum-152083
+PAN No: ABCDE0440F
+GSTIN: 21ABCDE8639Z51
+
+Item Details:
+
+Item: Charger
+
+Quantity: 4 Rate: 3147 Amount: 588
+CGST (9%): 852.92
+
+SGST (9%): 852.92
+Total Amount Payable: 693.84
+
+Terms: Goods once sold will not be taken back.

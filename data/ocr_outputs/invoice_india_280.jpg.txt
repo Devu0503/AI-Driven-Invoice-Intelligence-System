@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2018/0889
+Date: 1997-04-04
+Buyer Name: Anya Shere
+Buyer Address: H.No. 14, Sami Street, Rajkot 773120
+PAN No: ABCDE8128F
+GSTIN: 90ABCDE79522Z61
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: 699 Amount: 2796
+
+CGST (9%): %251.64
+SGST (9%): %251.64
+Total Amount Payable: 3299.28
+
+Terms: Goods once sold will not be taken back.

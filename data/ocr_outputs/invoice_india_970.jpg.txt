@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2079/0909
+Date: 1989-05-17
+Buyer Name: Nehmat Sami
+Buyer Address: 48/74, Sheth Path, Panihati 405002
+PAN No: ABCDE0659F
+GSTIN: 90ABCDE6144211
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 494 Amount: 2470
+
+CGST (9%): %222.3
+SGST (9%): 222.3
+Total Amount Payable: %2914.6
+
+Terms: Goods once sold will not be taken back.

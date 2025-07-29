@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2073/0567
+Date: 1990-06-14
+Buyer Name: Nitya Apte
+Buyer Address: H.No. 55, Goswami Chowk, Kanpur-895086
+PAN No: ABCDE4337F
+GSTIN: 20ABCDE1423271
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 3501 Amount: =1002
+
+CGST (9%): %90.18
+SGST (9%): %90.18
+Total Amount Payable: %1182.36
+
+Terms: Goods once sold will not be taken back.

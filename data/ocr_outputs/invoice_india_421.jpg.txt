@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2048/0868
+Date: 2007-11-08
+Buyer Name: Miraya Khosla
+Buyer Address: H.No. 82, Krishnamurthy Circle, Morena-333283
+PAN No: ABCDE4026F
+GSTIN: 87ABCDE44272Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: $952 Amount: 4760
+
+CGST (9%): %428.4
+SGST (9%): %428.4
+Total Amount Payable: %5616.8
+
+Terms: Goods once sold will not be taken back.

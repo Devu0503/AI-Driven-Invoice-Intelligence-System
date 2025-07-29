@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2018/0377
+Date: 1997-12-13
+Buyer Name: Manjari Badal
+Buyer Address: H.No. 23, Edwin Circle, Salem-986651
+PAN No: ABCDE2531F
+GSTIN: 02ABCDE98952Z61
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 763 Amount: ¥3052
+
+CGST (9%): %274.68
+SGST (9%): 8274.68
+Total Amount Payable: 3601.36
+
+Terms: Goods once sold will not be taken back.

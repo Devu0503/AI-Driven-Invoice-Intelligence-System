@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0362
+Date: 1986-05-25
+Buyer Name: Ishaan Basu
+Buyer Address: 78/660, Varma Circle, Sirsa 892297
+PAN No: ABCDE4389F
+GSTIN: 79ABCDE1745221
+
+Item Details:
+
+Item: Charger
+
+Quantity: 1 Rate: 210 Amount: 210
+CGST (9%): 218.9
+
+SGST (9%): 218.9
+Total Amount Payable: %247.8
+
+Terms: Goods once sold will not be taken back.

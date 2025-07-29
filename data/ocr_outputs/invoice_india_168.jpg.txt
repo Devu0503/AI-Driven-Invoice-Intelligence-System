@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0629
+Date: 2019-11-25
+Buyer Name: Pari Cheema
+Buyer Address: H.No. 85, Chauhan Path, Rewa 054062
+PAN No: ABCDE9291F
+GSTIN: 46ABCDE25422Z81
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 481 Amount: %481
+CGST (9%): 43.29
+
+SGST (9%): %43.29
+Total Amount Payable: 2567.58
+
+Terms: Goods once sold will not be taken back.

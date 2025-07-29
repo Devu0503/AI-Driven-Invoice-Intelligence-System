@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2036/0650
+Date: 1981-09-17
+Buyer Name: Alisha Raja
+Buyer Address: 50/637, Krishna Nagar, Mira-Bhayandar 015337
+PAN No: ABCDE0634F
+GSTIN: 42ABCDE7002Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: 983 Amount: ¥3932
+
+CGST (9%): %353.88
+SGST (9%): %353.88
+Total Amount Payable: 4639.76
+
+Terms: Goods once sold will not be taken back.

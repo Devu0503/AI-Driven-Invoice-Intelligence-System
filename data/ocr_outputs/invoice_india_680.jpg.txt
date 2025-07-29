@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2065/0487
+Date: 2005-09-18
+Buyer Name: Aarav Kulkarni
+Buyer Address: 24, Borde Ganj, Chittoor-067064
+PAN No: ABCDE1721F
+GSTIN: 40ABCDE2580Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: 997 Amount: 1994
+
+CGST (9%): %179.46
+SGST (9%): 2179.46
+Total Amount Payable: ¥2352.92
+
+Terms: Goods once sold will not be taken back.

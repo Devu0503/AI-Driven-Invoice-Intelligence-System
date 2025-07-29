@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2058/0431
+Date: 1999-08-20
+Buyer Name: Nitara Srivastava
+Buyer Address: H.No. 63, Bhalla Nagar, Thiruvananthapuram 440136
+PAN No: ABCDE2409F
+GSTIN: 25ABCDE7334Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: 719 Amount: 2876
+
+CGST (9%): %258.84
+SGST (9%): %258.84
+Total Amount Payable: %3393.68
+
+Terms: Goods once sold will not be taken back.

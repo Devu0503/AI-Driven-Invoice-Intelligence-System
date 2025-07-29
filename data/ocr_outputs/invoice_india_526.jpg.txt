@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0683
+Date: 1993-07-31
+Buyer Name: Devansh Thaker
+Buyer Address: 954, Kata Chowk, Saharanpur 888751
+PAN No: ABCDE4961F
+GSTIN: 49ABCDE00692Z61
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: $353 Amount: %1059
+CGST (9%): %95.31
+
+SGST (9%): %95.31
+Total Amount Payable: 21249.62
+
+Terms: Goods once sold will not be taken back.

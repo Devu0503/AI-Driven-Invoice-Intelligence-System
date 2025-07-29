@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2004/0420
+Date: 1988-08-04
+Buyer Name: Onkar Bansal
+Buyer Address: 38/296, Kara Nagar, Malegaon 347079
+PAN No: ABCDE3912F
+GSTIN: 94ABCDE8502Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 488 Amount: 976
+
+CGST (9%): %87.84
+SGST (9%): 87.84
+Total Amount Payable: 1151.68
+
+Terms: Goods once sold will not be taken back.

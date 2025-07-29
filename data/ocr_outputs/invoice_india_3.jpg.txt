@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2087/0064
+Date: 2006-12-19
+Buyer Name: Rasha Mann
+Buyer Address: H.No. 240, Ganesh Circle, Jabalpur 063397
+PAN No: ABCDE3283F
+GSTIN: 57ABCDE90172Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: $367 Amount: §367
+CGST (9%): %33.03
+
+SGST (9%): 33.03
+Total Amount Payable: %433.06
+
+Terms: Goods once sold will not be taken back.

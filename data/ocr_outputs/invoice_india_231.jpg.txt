@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2012/0564
+Date: 1994-11-25
+Buyer Name: Divit Kuruvilla
+Buyer Address: 54/978, Kaul Nagar, Berhampur-429005
+PAN No: ABCDE7703F
+GSTIN: 58ABCDE9678Z11
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 487 Amount: 2435
+
+CGST (9%): %219.15
+SGST (9%): 219.15
+Total Amount Payable: %2873.3
+
+Terms: Goods once sold will not be taken back.

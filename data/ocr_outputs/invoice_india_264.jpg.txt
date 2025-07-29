@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2030/0717
+Date: 1988-08-13
+Buyer Name: Sumer Lala
+Buyer Address: H.No. 90, Kapur Road, Secunderabad 440482
+PAN No: ABCDE9350F
+GSTIN: 78ABCDE2867Z81
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 918 Amount: 918
+CGST (9%): %82.62
+
+SGST (9%): %82.62
+Total Amount Payable: 21083.24
+
+Terms: Goods once sold will not be taken back.

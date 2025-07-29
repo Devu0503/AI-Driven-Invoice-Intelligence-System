@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2080/0344
+Date: 2024-06-30
+Buyer Name: Neelofar Garde
+Buyer Address: H.No. 214, Krishna, Satna-322966
+PAN No: ABCDE6521F
+GSTIN: 71ABCDE1319211
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: 778 Amount: 1556
+
+CGST (9%): %140.04
+SGST (9%): %140.04
+Total Amount Payable: =1836.08
+
+Terms: Goods once sold will not be taken back.

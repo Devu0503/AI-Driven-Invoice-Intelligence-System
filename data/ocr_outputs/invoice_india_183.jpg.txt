@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0913
+Date: 2023-12-07
+Buyer Name: Rasha Butala
+Buyer Address: 95/412, Som Path, Davanagere-792117
+PAN No: ABCDE6853F
+GSTIN: 22ABCDE38912Z31
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 4 Rate: 3142 Amount: $568
+CGST (9%): 851.12
+
+SGST (9%): 51.12
+Total Amount Payable: 670.24
+
+Terms: Goods once sold will not be taken back.

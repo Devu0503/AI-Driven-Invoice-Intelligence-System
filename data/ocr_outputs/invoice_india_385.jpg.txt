@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2054/0717
+Date: 1997-09-28
+Buyer Name: Ojas Devan
+Buyer Address: H.No. 15, Ben Zila, Aizawl-689095
+PAN No: ABCDE8540F
+GSTIN: 83ABCDE9666Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 602 Amount: %602
+
+CGST (9%): 354.18
+SGST (9%): %54.18
+Total Amount Payable: 2710.36
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2071/0268
+Date: 2019-04-27
+Buyer Name: Anay Sabharwal
+Buyer Address: 31/154, Chaudry Street, Faridabad-957901
+PAN No: ABCDE8082F
+GSTIN: 49ABCDE2963Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 702 Amount: 3510
+
+CGST (9%): %315.9
+SGST (9%): 315.9
+Total Amount Payable: %4141.8
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0881
+Date: 1982-10-12
+Buyer Name: Himmat Bakshi
+Buyer Address: 710, Chacko Circle, Tenali 886058
+PAN No: ABCDE7416F
+GSTIN: 34ABCDE51782Z31
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 894 Amount: 2682
+
+CGST (9%): %241.38
+SGST (9%): 241.38
+Total Amount Payable: 3164.76
+
+Terms: Goods once sold will not be taken back.

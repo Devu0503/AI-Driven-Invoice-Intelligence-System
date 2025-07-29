@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2076/0641
+Date: 2023-12-17
+Buyer Name: Bhavin Shenoy
+Buyer Address: H.No. 386, Dey Ganj, Jammu-877245
+PAN No: ABCDE7323F
+GSTIN: OOABCDE8237241
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 3693 Amount: 2772
+
+CGST (9%): %249.48
+SGST (9%): 249.48
+Total Amount Payable: %3270.96
+
+Terms: Goods once sold will not be taken back.

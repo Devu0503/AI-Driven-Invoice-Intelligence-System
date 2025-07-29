@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0848
+Date: 1989-05-13
+Buyer Name: Umang Dar
+Buyer Address: H.No. 26, lyengar, Raipur-923546
+PAN No: ABCDE0989F
+GSTIN: 93ABCDE1994Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 5 Rate: 774 Amount: 3870
+CGST (9%): %348.3
+
+SGST (9%): %348.3
+Total Amount Payable: %4566.6
+
+Terms: Goods once sold will not be taken back.

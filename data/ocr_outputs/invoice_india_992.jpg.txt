@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2060/0892
+Date: 1987-02-24
+Buyer Name: Suhana Batra
+Buyer Address: H.No. 295, Magar Chowk, Kochi-180716
+PAN No: ABCDE7872F
+GSTIN: 83ABCDE67872Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 3607 Amount: 1214
+
+CGST (9%): %109.26
+SGST (9%): %109.26
+Total Amount Payable: 21432.52
+
+Terms: Goods once sold will not be taken back.

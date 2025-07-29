@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2003/0717
+Date: 1996-12-24
+Buyer Name: Adira Mall
+Buyer Address: H.No. 212, Balan Street, Bulandshahr-094244
+PAN No: ABCDE7792F
+GSTIN: 61ABCDE7868Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3134 Amount: 134
+
+CGST (9%): %12.06
+SGST (9%): 212.06
+Total Amount Payable: 2158.12
+
+Terms: Goods once sold will not be taken back.

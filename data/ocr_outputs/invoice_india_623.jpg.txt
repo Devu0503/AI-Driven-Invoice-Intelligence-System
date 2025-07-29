@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0919
+Date: 1980-01-24
+Buyer Name: Kiaan Cheema
+Buyer Address: H.No. 917, Magar, Ozhukarai-239700
+PAN No: ABCDE0653F
+GSTIN: 53ABCDE5902Z71
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3536 Amount: =1072
+CGST (9%): %96.48
+
+SGST (9%): %96.48
+Total Amount Payable: 21264.96
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2027/0471
+Date: 1980-11-07
+Buyer Name: Rhea Kalita
+Buyer Address: 50/217, Krishnan Marg, Bhilai-913267
+PAN No: ABCDE8370F
+GSTIN: 20ABCDE56242Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: 3240 Amount: 1200
+
+CGST (9%): %108.0
+SGST (9%): %108.0
+Total Amount Payable: %1416.0
+
+Terms: Goods once sold will not be taken back.

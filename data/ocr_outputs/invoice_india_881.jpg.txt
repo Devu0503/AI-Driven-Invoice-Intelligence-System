@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2092/0899
+Date: 2012-05-13
+Buyer Name: Aradhya Rastogi
+Buyer Address: 62/30, Aurora Marg, Bhatpara-541024
+PAN No: ABCDE4904F
+GSTIN: 15ABCDE4331Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 3662 Amount: 1324
+
+CGST (9%): %119.16
+SGST (9%): 2119.16
+Total Amount Payable: 21562.32
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2061/0681
+Date: 1975-02-07
+Buyer Name: Saanvi Karan
+Buyer Address: H.No. 53, Kapoor, Bidhannagar 701470
+PAN No: ABCDE7411F
+GSTIN: 99ABCDE6594Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: $358 Amount: =1790
+
+CGST (9%): %161.1
+SGST (9%): 161.1
+Total Amount Payable: 2112.2
+
+Terms: Goods once sold will not be taken back.

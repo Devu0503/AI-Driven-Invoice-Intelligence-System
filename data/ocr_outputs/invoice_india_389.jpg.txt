@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2021/0514
+Date: 2012-04-05
+Buyer Name: Rohan Chaudhry
+Buyer Address: H.No. 76, Ratta Road, Vasai-Virar-870959
+PAN No: ABCDE4258F
+GSTIN: 7OABCDE0263Z01
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 997 Amount: =997
+CGST (9%): %89.73
+SGST (9%): %89.73
+Total Amount Payable: 1176.46
+
+Terms: Goods once sold will not be taken back.

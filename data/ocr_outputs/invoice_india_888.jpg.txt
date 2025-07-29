@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2037/0412
+Date: 1990-05-21
+Buyer Name: Kanav Gola
+Buyer Address: 28/403, Sastry Street, Ballia 004170
+PAN No: ABCDE7914F
+GSTIN: 92ABCDE2472Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 3636 Amount: =1908
+
+CGST (9%): 3171.72
+SGST (9%): 2171.72
+Total Amount Payable: 2251.44
+
+Terms: Goods once sold will not be taken back.

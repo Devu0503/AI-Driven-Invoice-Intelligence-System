@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2087/0945
+Date: 2002-04-22
+Buyer Name: Shray Golla
+Buyer Address: H.No. 93, Rajagopal, Vadodara 083493
+PAN No: ABCDE5383F
+GSTIN: 39ABCDE7116Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 3633 Amount: =1899
+
+CGST (9%): =170.91
+SGST (9%): 170.91
+Total Amount Payable: 2240.82
+
+Terms: Goods once sold will not be taken back.

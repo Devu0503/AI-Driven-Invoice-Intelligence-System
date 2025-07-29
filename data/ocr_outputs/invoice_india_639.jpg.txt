@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0874
+Date: 1992-08-19
+Buyer Name: Trisha Dewan
+Buyer Address: H.No. 51, Kunda Zila, Aizawl 232850
+PAN No: ABCDE5987F
+GSTIN: 24ABCDE6788Z51
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 2 Rate: 990 Amount: 1980
+CGST (9%): %178.2
+
+SGST (9%): 178.2
+Total Amount Payable: 2336.4
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0188
+Date: 1985-09-30
+Buyer Name: Tanya Balasubramanian
+Buyer Address: 91, Batta Zila, Kirari Suleman Nagar-749267
+PAN No: ABCDE7538F
+GSTIN: 26ABCDE33682Z31
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 1 Rate: 397 Amount: 397
+CGST (9%): %35.73
+
+SGST (9%): %35.73
+Total Amount Payable: 2468.46
+
+Terms: Goods once sold will not be taken back.

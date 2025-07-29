@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0759
+Date: 1987-05-15
+Buyer Name: Anvi Chaudhary
+Buyer Address: 40/49, Kapadia Chowk, Madhyamgram-752016
+PAN No: ABCDE4868F
+GSTIN: 46ABCDE7927Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: 3182 Amount: 182
+
+CGST (9%): %16.38
+SGST (9%): 216.38
+Total Amount Payable: 2214.76
+
+Terms: Goods once sold will not be taken back.

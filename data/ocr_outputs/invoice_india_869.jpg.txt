@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2081/0070
+Date: 2024-11-26
+Buyer Name: Purab Sha
+Buyer Address: 465, Ahluwalia Marg, Munger 689855
+PAN No: ABCDE0793F
+GSTIN: S56ABCDE74032Z21
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 2 Rate: 277 Amount: 554
+CGST (9%): 49.86
+
+SGST (9%): %49.86
+Total Amount Payable: 653.72
+
+Terms: Goods once sold will not be taken back.

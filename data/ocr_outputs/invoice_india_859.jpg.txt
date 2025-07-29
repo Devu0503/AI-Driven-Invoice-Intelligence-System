@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2009/0922
+Date: 1972-11-15
+Buyer Name: Aradhya Kumer
+Buyer Address: 56/62, Khare Marg, Chandrapur 574764
+PAN No: ABCDE1490F
+GSTIN: 24ABCDE7866Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: 3186 Amount: 186
+
+CGST (9%): %16.74
+SGST (9%): 16.74
+Total Amount Payable: 2219.48
+
+Terms: Goods once sold will not be taken back.

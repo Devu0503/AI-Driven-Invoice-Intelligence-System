@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2036/0419
+Date: 2000-08-12
+Buyer Name: Kimaya Desai
+Buyer Address: H.No. 61, Dube Path, Faridabad 668529
+PAN No: ABCDE1666F
+GSTIN: 93ABCDE82482Z41
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 3588 Amount: 1764
+
+CGST (9%): %158.76
+SGST (9%): 2158.76
+Total Amount Payable: 2081.52
+
+Terms: Goods once sold will not be taken back.

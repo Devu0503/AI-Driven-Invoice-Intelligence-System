@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2008/0243
+Date: 1987-10-09
+Buyer Name: Yasmin Choudhry
+Buyer Address: 303, Singhal Path, Alwar 617489
+PAN No: ABCDE0641F
+GSTIN: 43ABCDE7076Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: 474 Amount: 948
+
+CGST (9%): %85.32
+SGST (9%): 85.32
+Total Amount Payable: 1118.64
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0271
+Date: 2012-06-16
+Buyer Name: Advik Mahal
+Buyer Address: 10/09, Kohli Street, Indore-500084
+PAN No: ABCDE2135F
+GSTIN: 22ABCDE4354241
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 3 Rate: 3107 Amount: %321
+CGST (9%): %28.89
+
+SGST (9%): %28.89
+Total Amount Payable: %378.78
+
+Terms: Goods once sold will not be taken back.

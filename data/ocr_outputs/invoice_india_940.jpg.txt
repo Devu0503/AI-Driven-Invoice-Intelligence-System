@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0495
+Date: 2014-08-31
+Buyer Name: Tejas Rout
+Buyer Address: H.No. 95, Suri Street, Parbhani-491695
+PAN No: ABCDE1695F
+GSTIN: 15ABCDE4442221
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 879 Amount: 1758
+
+CGST (9%): %158.22
+SGST (9%): 2158.22
+Total Amount Payable: 2074.44
+
+Terms: Goods once sold will not be taken back.

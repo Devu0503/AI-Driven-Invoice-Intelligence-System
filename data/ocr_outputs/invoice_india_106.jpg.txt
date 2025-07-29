@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2001/0981
+Date: 1973-12-10
+Buyer Name: Tushar Dubey
+Buyer Address: 21/23, Wadhwa Zila, Pondicherry 328698
+PAN No: ABCDE5321F
+GSTIN: 98ABCDE4209Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 606 Amount: 1818
+
+CGST (9%): %163.62
+SGST (9%): %163.62
+Total Amount Payable: 2145.24
+
+Terms: Goods once sold will not be taken back.

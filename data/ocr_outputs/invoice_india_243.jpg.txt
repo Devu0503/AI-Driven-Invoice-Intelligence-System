@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2073/0623
+Date: 2008-08-06
+Buyer Name: Shaan Rastogi
+Buyer Address: 50/19, Choudhary, Sri Ganganagar 735030
+PAN No: ABCDE2499F
+GSTIN: 84ABCDE4262271
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 417 Amount: %1251
+
+CGST (9%): %112.59
+SGST (9%): 2112.59
+Total Amount Payable: 1476.18
+
+Terms: Goods once sold will not be taken back.

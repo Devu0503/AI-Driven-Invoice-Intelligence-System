@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2090/0637
+Date: 1981-11-06
+Buyer Name: Ehsaan Sur
+Buyer Address: 45/41, Dada Road, Mumbai 935426
+PAN No: ABCDE7735F
+GSTIN: 76ABCDE4689Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 835 Amount: =1670
+
+CGST (9%): %150.3
+SGST (9%): 150.3
+Total Amount Payable: %1970.6
+
+Terms: Goods once sold will not be taken back.

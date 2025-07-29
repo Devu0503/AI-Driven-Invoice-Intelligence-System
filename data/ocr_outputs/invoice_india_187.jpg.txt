@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0226
+Date: 2022-02-24
+Buyer Name: Taimur Gade
+Buyer Address: 54/80, Sarna Path, Karimnagar-021419
+PAN No: ABCDE6954F
+GSTIN: 33ABCDE68462Z21
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 1 Rate: 308 Amount: 308
+CGST (9%): 827.72
+
+SGST (9%): %27.72
+Total Amount Payable: %363.44
+
+Terms: Goods once sold will not be taken back.

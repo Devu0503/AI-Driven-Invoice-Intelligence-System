@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0418
+Date: 2016-12-25
+Buyer Name: Dhanush Rau
+Buyer Address: 16/76, Sem Nagar, Kalyan-Dombivli 813983
+PAN No: ABCDE4064F
+GSTIN: 11ABCDE55812Z91
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: 3196 Amount: 588
+CGST (9%): 852.92
+
+SGST (9%): 852.92
+Total Amount Payable: 693.84
+
+Terms: Goods once sold will not be taken back.

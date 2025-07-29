@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2054/0466
+Date: 1989-07-22
+Buyer Name: Azad Rattan
+Buyer Address: 54/059, Wason, Ludhiana-716132
+PAN No: ABCDE2440F
+GSTIN: 60ABCDE61892Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: 361 Amount: 1805
+
+CGST (9%): %162.45
+SGST (9%): 2162.45
+Total Amount Payable: 2129.9
+
+Terms: Goods once sold will not be taken back.

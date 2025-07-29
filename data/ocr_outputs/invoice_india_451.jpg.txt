@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2064/0908
+Date: 2013-08-29
+Buyer Name: Yashvi Suresh
+Buyer Address: 905, Shan Zila, Darbhanga-043927
+PAN No: ABCDE3496F
+GSTIN: 98ABCDE9298Z61
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 1 Rate: 997 Amount: =997
+CGST (9%): %89.73
+SGST (9%): %89.73
+Total Amount Payable: 1176.46
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2063/0965
+Date: 1979-10-26
+Buyer Name: Tejas Sem
+Buyer Address: H.No. 871, Kant Road, Uluberia-727891
+PAN No: ABCDE9490F
+GSTIN: 46ABCDE4646Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: 969 Amount: 1938
+
+CGST (9%): %174.42
+SGST (9%): 2174.42
+Total Amount Payable: 2286.84
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0887
+Date: 1998-04-19
+Buyer Name: Vardaniya Agate
+Buyer Address: 689, Atwal Chowk, Kamarhati 242536
+PAN No: ABCDE2067F
+GSTIN: 23ABCDE11642Z81
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: 3142 Amount: 426
+CGST (9%): 38.34
+
+SGST (9%): %38.34
+Total Amount Payable: %502.68
+
+Terms: Goods once sold will not be taken back.

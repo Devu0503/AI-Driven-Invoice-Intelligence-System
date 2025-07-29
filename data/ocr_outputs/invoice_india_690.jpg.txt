@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2097/0148
+Date: 2023-08-27
+Buyer Name: Faiyaz Mani
+Buyer Address: 09/825, Shere Path, Udupi-388876
+PAN No: ABCDE6495F
+GSTIN: 38ABCDE66552Z31
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 5 Rate: 788 Amount: 3940
+CGST (9%): %354.6
+
+SGST (9%): 354.6
+Total Amount Payable: %4649.2
+
+Terms: Goods once sold will not be taken back.

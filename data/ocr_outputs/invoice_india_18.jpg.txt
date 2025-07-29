@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2040/0748
+Date: 1990-03-21
+Buyer Name: Miraya Dutta
+Buyer Address: H.No. 030, Kar Circle, Ambattur 556018
+PAN No: ABCDE2384F
+GSTIN: 82ABCDE6001Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 433 Amount: 1299
+
+CGST (9%): %116.91
+SGST (9%): %116.91
+Total Amount Payable: 21532.82
+
+Terms: Goods once sold will not be taken back.

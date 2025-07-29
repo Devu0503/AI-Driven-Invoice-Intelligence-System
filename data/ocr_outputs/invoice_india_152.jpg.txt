@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2064/0976
+Date: 2011-12-25
+Buyer Name: Aayush Savant
+Buyer Address: H.No. 671, Barman Circle, Alwar 966078
+PAN No: ABCDE2523F
+GSTIN: 23ABCDE6844Z01
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 5 Rate: 3222 Amount: 1110
+CGST (9%): 299.9
+
+SGST (9%): 399.9
+Total Amount Payable: %1309.8
+
+Terms: Goods once sold will not be taken back.

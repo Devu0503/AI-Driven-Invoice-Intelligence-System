@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2022/0326
+Date: 1999-09-23
+Buyer Name: Rania Kohli
+Buyer Address: H.No. 754, Biswas Ganj, Bhilai 170059
+PAN No: ABCDE2723F
+GSTIN: 86ABCDE63752Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: $355 Amount: %1420
+
+CGST (9%): %127.8
+SGST (9%): 127.8
+Total Amount Payable: 21675.6
+
+Terms: Goods once sold will not be taken back.

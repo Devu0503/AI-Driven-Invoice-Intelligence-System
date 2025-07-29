@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2098/0374
+Date: 1976-02-16
+Buyer Name: Heer Dubey
+Buyer Address: 08/821, Kapoor Marg, Baranagar 492573
+PAN No: ABCDE4011F
+GSTIN: 91ABCDE9756Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 3509 Amount: 1018
+
+CGST (9%): %91.62
+SGST (9%): 91.62
+Total Amount Payable: 1201.24
+
+Terms: Goods once sold will not be taken back.

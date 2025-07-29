@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2023/0048
+Date: 1983-02-11
+Buyer Name: Kabir Sura
+Buyer Address: 11/88, Chaudhry Circle, Kozhikode-605945
+PAN No: ABCDE9525F
+GSTIN: 02ABCDE5073241
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 972 Amount: 2916
+
+CGST (9%): %262.44
+SGST (9%): %262.44
+Total Amount Payable: %3440.88
+
+Terms: Goods once sold will not be taken back.

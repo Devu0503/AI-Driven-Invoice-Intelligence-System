@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2074/0492
+Date: 1978-01-13
+Buyer Name: Chirag Raja
+Buyer Address: 78/54, Sanghvi Path, Saharsa-742505
+PAN No: ABCDE6971F
+GSTIN: SOABCDE9615241
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: 420 Amount: 1260
+
+CGST (9%): %113.4
+SGST (9%): %113.4
+Total Amount Payable: %1486.8
+
+Terms: Goods once sold will not be taken back.

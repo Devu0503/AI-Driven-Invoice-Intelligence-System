@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0880
+Date: 1980-12-17
+Buyer Name: Akarsh Khurana
+Buyer Address: 78, Jaggi Nagar, Pali 527373
+PAN No: ABCDE1327F
+GSTIN: 42ABCDE43852Z71
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3652 Amount: 2608
+
+CGST (9%): %234.72
+SGST (9%): %234.72
+Total Amount Payable: 3077.44
+
+Terms: Goods once sold will not be taken back.

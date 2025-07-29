@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2076/0301
+Date: 1980-12-13
+Buyer Name: Pranay Uppal
+Buyer Address: 03, Vyas Ganj, Bareilly 114287
+PAN No: ABCDE8391F
+GSTIN: 12ABCDE08732Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: 3661 Amount: 2644
+
+CGST (9%): %237.96
+SGST (9%): 8237.96
+Total Amount Payable: 3119.92
+
+Terms: Goods once sold will not be taken back.

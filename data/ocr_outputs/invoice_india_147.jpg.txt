@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2027/0970
+Date: 2020-10-09
+Buyer Name: Zeeshan Bir
+Buyer Address: 40, Sarin Zila, Kavali-261154
+PAN No: ABCDE2996F
+GSTIN: 38ABCDE0557Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 2 Rate: 909 Amount: 1818
+
+CGST (9%): %163.62
+SGST (9%): %163.62
+Total Amount Payable: 2145.24
+
+Terms: Goods once sold will not be taken back.

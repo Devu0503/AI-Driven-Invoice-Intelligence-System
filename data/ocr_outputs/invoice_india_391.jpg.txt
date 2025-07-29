@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2003/0642
+Date: 2013-07-11
+Buyer Name: Jivika Sem
+Buyer Address: H.No. 98, Dave Chowk, Panchkula 017818
+PAN No: ABCDE2616F
+GSTIN: 58ABCDE6540Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: 3513 Amount: 1539
+
+CGST (9%): %138.51
+SGST (9%): %138.51
+Total Amount Payable: =1816.02
+
+Terms: Goods once sold will not be taken back.

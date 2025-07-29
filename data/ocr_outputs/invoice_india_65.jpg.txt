@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2005/0861
+Date: 1978-08-05
+Buyer Name: Manjari Chander
+Buyer Address: 09, Chokshi Path, Pudukkottai-260133
+PAN No: ABCDE2457F
+GSTIN: 46ABCDE5505271
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 1 Rate: 3529 Amount: 529
+CGST (9%): 47.61
+
+SGST (9%): 247.61
+Total Amount Payable: 624.22
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2062/0286
+Date: 2015-04-08
+Buyer Name: Eva Konda
+Buyer Address: 06, Kakar Path, Jodhpur-025496
+PAN No: ABCDE4428F
+GSTIN: 66ABCDE08952Z91
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: 3579 Amount: 1737
+
+CGST (9%): %156.33
+SGST (9%): %156.33
+Total Amount Payable: 2049.66
+
+Terms: Goods once sold will not be taken back.

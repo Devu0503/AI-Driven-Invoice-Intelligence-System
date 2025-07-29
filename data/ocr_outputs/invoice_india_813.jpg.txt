@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0577
+Date: 1984-02-25
+Buyer Name: Aarna Thaman
+Buyer Address: 01/540, Mann Circle, Proddatur 217770
+PAN No: ABCDE9578F
+GSTIN: 18ABCDE8664Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: 451 Amount: 1353
+
+CGST (9%): %121.77
+SGST (9%): 8121.77
+Total Amount Payable: 21596.54
+
+Terms: Goods once sold will not be taken back.

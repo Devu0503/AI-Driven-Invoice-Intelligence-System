@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2065/0002
+Date: 1990-10-13
+Buyer Name: Nitya Hans
+Buyer Address: H.No. 721, Gade Circle, Udupi 908488
+PAN No: ABCDE1750F
+GSTIN: 35ABCDE16662Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 3638 Amount: 2552
+
+CGST (9%): %229.68
+SGST (9%): %229.68
+Total Amount Payable: 3011.36
+
+Terms: Goods once sold will not be taken back.

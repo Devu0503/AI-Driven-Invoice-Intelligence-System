@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0317
+Date: 2010-11-30
+Buyer Name: Misha Yadav
+Buyer Address: 66/402, Virk, Bongaigaon-598795
+PAN No: ABCDE6701F
+GSTIN: 03ABCDE9015Z01
+
+Item Details:
+
+Item: USB Cable
+
+Quantity: 3 Rate: 3227 Amount: %681
+CGST (9%): %61.29
+
+SGST (9%): 861.29
+Total Amount Payable: %803.58
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2053/0229
+Date: 1990-11-09
+Buyer Name: Samiha Raja
+Buyer Address: 71/550, Grover Street, Karnal 358248
+PAN No: ABCDE2185F
+GSTIN: 54ABCDE27702Z11
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: 3968 Amount: 1936
+
+CGST (9%): %174.24
+SGST (9%): 8174.24
+Total Amount Payable: 2284.48
+
+Terms: Goods once sold will not be taken back.

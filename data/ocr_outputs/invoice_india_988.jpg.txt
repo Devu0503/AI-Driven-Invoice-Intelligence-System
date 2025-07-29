@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2017/0953
+Date: 1976-03-11
+Buyer Name: Jiya Suri
+Buyer Address: 31/41, Varughese Road, Sangli-Miraj & Kupwad-660188
+PAN No: ABCDE9828F
+GSTIN: 66ABCDE15132Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 3575 Amount: 2875
+
+CGST (9%): %258.75
+SGST (9%): §258.75
+Total Amount Payable: %3392.5
+
+Terms: Goods once sold will not be taken back.

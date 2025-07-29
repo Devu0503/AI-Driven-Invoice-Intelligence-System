@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2077/0812
+Date: 2008-11-16
+Buyer Name: Umang Hayer
+Buyer Address: 835, Keer Circle, Barasat 508378
+PAN No: ABCDE2036F
+GSTIN: 57ABCDE2733Z11
+
+Item Details:
+
+Item: Keyboard
+
+Quantity: 3 Rate: 3268 Amount: 804
+CGST (9%): 872.36
+
+SGST (9%): 72.36
+Total Amount Payable: %948.72
+
+Terms: Goods once sold will not be taken back.

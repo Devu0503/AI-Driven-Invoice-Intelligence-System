@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0880
+Date: 2020-06-07
+Buyer Name: Inaaya Sarin
+Buyer Address: 16/321, Rajagopal Ganj, Bikaner-451236
+PAN No: ABCDE7454F
+GSTIN: 78ABCDE46982Z71
+
+Item Details:
+
+Item: Mouse
+
+Quantity: 3 Rate: 3156 Amount: 468
+CGST (9%): %42.12
+
+SGST (9%): %42.12
+Total Amount Payable: %552.24
+
+Terms: Goods once sold will not be taken back.

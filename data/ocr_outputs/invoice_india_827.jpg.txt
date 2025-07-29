@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2077/0580
+Date: 2015-03-22
+Buyer Name: Alia Bhatnagar
+Buyer Address: 28, Chacko Street, Barasat-374611
+PAN No: ABCDE7365F
+GSTIN: 22ABCDE7623Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: $747 Amount: %2241
+
+CGST (9%): %201.69
+SGST (9%): %201.69
+Total Amount Payable: %2644.38
+
+Terms: Goods once sold will not be taken back.

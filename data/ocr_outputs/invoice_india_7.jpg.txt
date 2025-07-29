@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2095/0127
+Date: 1981-03-25
+Buyer Name: Arnav Khosla
+Buyer Address: 11, Arya Circle, Muzaffarpur-731330
+PAN No: ABCDE8549F
+GSTIN: 45ABCDE32982Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: 153 Amount: 765
+
+CGST (9%): %68.85
+SGST (9%): 68.85
+Total Amount Payable: %902.7
+
+Terms: Goods once sold will not be taken back.

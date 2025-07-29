@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2082/0905
+Date: 1983-01-29
+Buyer Name: Ishaan Subramanian
+Buyer Address: H.No. 043, Singhal Nagar, Gaya-292762
+PAN No: ABCDE5788F
+GSTIN: 74ABCDE0978Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: 3153 Amount: 459
+
+CGST (9%): %41.31
+SGST (9%): %41.31
+Total Amount Payable: 2541.62
+
+Terms: Goods once sold will not be taken back.

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2016/0732
+Date: 1992-07-15
+Buyer Name: Faiyaz Dara
+Buyer Address: 72/231, Chaudhary Nagar, Tadipatri-577745
+PAN No: ABCDE0051F
+GSTIN: 35ABCDE13402Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: 823 Amount: ¥3292
+
+CGST (9%): %296.28
+SGST (9%): %296.28
+Total Amount Payable: 3884.56
+
+Terms: Goods once sold will not be taken back.

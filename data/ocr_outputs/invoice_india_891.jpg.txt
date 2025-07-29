@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2006/0884
+Date: 2009-12-14
+Buyer Name: Baiju Chhabra
+Buyer Address: 35/15, Tara Marg, Bokaro-299346
+PAN No: ABCDE4341F
+GSTIN: 02ABCDE2982211
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: 911 Amount: 3644
+
+CGST (9%): %327.96
+SGST (9%): %327.96
+Total Amount Payable: 4299.92
+
+Terms: Goods once sold will not be taken back.

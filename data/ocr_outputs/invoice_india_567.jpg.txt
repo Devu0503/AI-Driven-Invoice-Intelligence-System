@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2004/0105
+Date: 2022-06-26
+Buyer Name: Faiyaz Som
+Buyer Address: 96/02, Rege Street, Nandyal 292459
+PAN No: ABCDE1503F
+GSTIN: 71ABCDE2999Z61
+
+Item Details:
+
+Item: Mobile Case
+
+Quantity: 2 Rate: 3172 Amount: 344
+CGST (9%): %30.96
+
+SGST (9%): 30.96
+Total Amount Payable: %405.92
+
+Terms: Goods once sold will not be taken back.

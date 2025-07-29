@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0738
+Date: 2007-03-13
+Buyer Name: Kanav Deo
+Buyer Address: 385, Dhar Path, Salem-026026
+PAN No: ABCDE8723F
+GSTIN: 39ABCDE28452Z81
+
+Item Details:
+
+Item: Charger
+
+Quantity: 5 Rate: 796 Amount: ¥3980
+CGST (9%): %358.2
+
+SGST (9%): 358.2
+Total Amount Payable: %4696.4
+
+Terms: Goods once sold will not be taken back.

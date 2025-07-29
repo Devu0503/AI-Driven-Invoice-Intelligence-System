@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2084/0457
+Date: 2008-12-28
+Buyer Name: Indranil Kade
+Buyer Address: H.No. 00, Chand, Jamnagar-048019
+PAN No: ABCDE8622F
+GSTIN: 94ABCDE50512Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: $396 Amount: 1188
+
+CGST (9%): %106.92
+SGST (9%): %106.92
+Total Amount Payable: =1401.84
+
+Terms: Goods once sold will not be taken back.

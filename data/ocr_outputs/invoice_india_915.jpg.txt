@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2087/0012
+Date: 1996-08-04
+Buyer Name: Yuvraj Sura
+Buyer Address: H.No. 383, Rana Marg, Hazaribagh 611420
+PAN No: ABCDE4160F
+GSTIN: 40ABCDE33352Z81
+
+Item Details:
+
+Item: Charger
+
+Quantity: 4 Rate: 3276 Amount: 1104
+CGST (9%): %99.36
+
+SGST (9%): %99.36
+Total Amount Payable: 1302.72
+
+Terms: Goods once sold will not be taken back.

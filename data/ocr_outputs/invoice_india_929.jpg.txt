@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0777
+Date: 1991-06-21
+Buyer Name: Miraan Mani
+Buyer Address: 777, Kanda Ganj, Lucknow-106457
+PAN No: ABCDE8605F
+GSTIN: 55ABCDE36612Z71
+
+Item Details:
+
+Item: Power Bank
+
+Quantity: 3 Rate: 290 Amount: 870
+CGST (9%): 278.3
+
+SGST (9%): 278.3
+Total Amount Payable: %1026.6
+
+Terms: Goods once sold will not be taken back.

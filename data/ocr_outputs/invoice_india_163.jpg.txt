@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2019/0711
+Date: 1995-12-07
+Buyer Name: Raunak Krishnan
+Buyer Address: H.No. 922, Gara Chowk, Mathura 235670
+PAN No: ABCDE8689F
+GSTIN: 25ABCDE0367Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: 403 Amount: 2015
+
+CGST (9%): %181.35
+SGST (9%): 2181.35
+Total Amount Payable: 22377.7
+
+Terms: Goods once sold will not be taken back.

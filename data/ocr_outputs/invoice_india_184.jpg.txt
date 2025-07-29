@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV/2091/0327
+Date: 1989-08-20
+Buyer Name: Arhaan Dash
+Buyer Address: 24/293, Dash Zila, Noida-275801
+PAN No: ABCDE4557F
+GSTIN: 49ABCDE05662Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: 274 Amount: 1370
+
+CGST (9%): %123.3
+SGST (9%): 123.3
+Total Amount Payable: 1616.6
+
+Terms: Goods once sold will not be taken back.
