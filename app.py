@@ -80,30 +80,30 @@ def _seed_db_from_csv(csv_path: str):
     except Exception as e:
         st.warning(f"DB seed from CSV skipped: {e}")
 
-def _copy_dummy_into_user_csv(csv_path: str) -> bool:
-    """Overwrite user's CSV with the master dummy CSV."""
-    if not os.path.exists(DUMMY_CSV):
-        st.error(f"Dummy CSV not found at {DUMMY_CSV}")
-        return False
-    df = pd.read_csv(DUMMY_CSV).reindex(columns=REQUIRED_COLS).fillna("")
-    _ensure_dir(os.path.dirname(csv_path))
-    df.to_csv(csv_path, index=False)
-    return True
+# def _copy_dummy_into_user_csv(csv_path: str) -> bool:
+#     """Overwrite user's CSV with the master dummy CSV."""
+#     if not os.path.exists(DUMMY_CSV):
+#         st.error(f"Dummy CSV not found at {DUMMY_CSV}")
+#         return False
+#     df = pd.read_csv(DUMMY_CSV).reindex(columns=REQUIRED_COLS).fillna("")
+#     _ensure_dir(os.path.dirname(csv_path))
+#     df.to_csv(csv_path, index=False)
+#     return True
 
-def _clear_table_and_seed_from_csv(csv_path: str):
-    """Wipe the invoices table in the current user DB and reseed from CSV."""
-    dbp = current_db_path()
-    _ensure_dir(os.path.dirname(dbp))
-    with sqlite3.connect(dbp) as conn:
-        cur = conn.cursor()
-        cur.execute("DELETE FROM invoices")
-        conn.commit()
-    try:
-        df = pd.read_csv(csv_path).fillna("")
-        for _, row in df.iterrows():
-            insert_row(row.to_dict())
-    except Exception as e:
-        st.warning(f"DB reseed skipped: {e}")
+# def _clear_table_and_seed_from_csv(csv_path: str):
+#     """Wipe the invoices table in the current user DB and reseed from CSV."""
+#     dbp = current_db_path()
+#     _ensure_dir(os.path.dirname(dbp))
+#     with sqlite3.connect(dbp) as conn:
+#         cur = conn.cursor()
+#         cur.execute("DELETE FROM invoices")
+#         conn.commit()
+#     try:
+#         df = pd.read_csv(csv_path).fillna("")
+#         for _, row in df.iterrows():
+    #         insert_row(row.to_dict())
+    # except Exception as e:
+    #     st.warning(f"DB reseed skipped: {e}")
 
 def init_user_storage(username: str) -> str:
     """
@@ -193,18 +193,18 @@ def main_app():
                                    file_name=f"{_safe_username(u)}_invoices.db",
                                    mime="application/octet-stream", use_container_width=True)
 
-        # admin tools for demo user to recover dummy quickly
-        if _safe_username(u) == "devu_05":
-            st.markdown("---")
-            st.caption("Admin actions (demo user)")
-            if st.button("Replace CSV with 1000‑row dummy", use_container_width=True):
-                if _copy_dummy_into_user_csv(csv_path):
-                    _clear_table_and_seed_from_csv(csv_path)
-                    st.success("Replaced CSV and reseeded DB from dummy dataset.")
-                    st.rerun()
-            if st.button("Reseed DB from current CSV (overwrite)", use_container_width=True):
-                _clear_table_and_seed_from_csv(csv_path)
-                st.success("DB reseeded from your current CSV.")
+        # # admin tools for demo user to recover dummy quickly
+        # if _safe_username(u) == "devu_05":
+        #     st.markdown("---")
+        #     st.caption("Admin actions (demo user)")
+        #     if st.button("Replace CSV with 1000‑row dummy", use_container_width=True):
+        #         if _copy_dummy_into_user_csv(csv_path):
+        #             _clear_table_and_seed_from_csv(csv_path)
+        #             st.success("Replaced CSV and reseeded DB from dummy dataset.")
+        #             st.rerun()
+        #     if st.button("Reseed DB from current CSV (overwrite)", use_container_width=True):
+        #         _clear_table_and_seed_from_csv(csv_path)
+        #         st.success("DB reseeded from your current CSV.")
 
         st.markdown("---")
         if st.button("🔍 Re-run Invoice Extraction", use_container_width=True):
