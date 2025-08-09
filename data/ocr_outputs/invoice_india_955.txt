@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0344
+Date: 1996-01-17
+Time: 02:05:42
+Buyer Name: Parinaaz Sandhu
+Buyer Address: 593, Chhabra Chowk, Saharanpur-378292
+PAN: ABCDE8739F
+GSTIN: 66ABCDE0831Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.150 Amount: Rs.300
+
+CGST (9%): Rs.27.0
+SGST (9%): Rs.27.0
+Total Amount Payable: Rs.354.0
+
+Goods once sold will not be taken back.

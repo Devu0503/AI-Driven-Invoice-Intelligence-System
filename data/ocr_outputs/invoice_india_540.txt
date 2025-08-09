@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0856
+Date: 1980-10-03
+Time: 12:46:57
+Buyer Name: Dharmajan Devi
+Buyer Address: H.No. 131, Chakrabarti, Jammu 868992
+PAN: ABCDE5334F
+GSTIN: 51ABCDE1897211
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.283 Amount: Rs.1415
+
+CGST (9%): Rs.127.35
+SGST (9%): Rs.127.35
+Total Amount Payable: Rs.1669.7
+
+Goods once sold will not be taken back.

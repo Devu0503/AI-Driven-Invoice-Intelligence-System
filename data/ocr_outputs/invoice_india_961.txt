@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0924
+Date: 2017-05-15
+Time: 13:11:17
+Buyer Name: Anika Aurora
+Buyer Address: 41/62, Kadakia Road, Thanjavur 999232
+PAN: ABCDE3829F
+GSTIN: 17ABCDE1524Z21
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.774 Amount: Rs.774
+
+CGST (9%): Rs.69.66
+SGST (9%): Rs.69.66
+Total Amount Payable: Rs.913.32
+
+Goods once sold will not be taken back.

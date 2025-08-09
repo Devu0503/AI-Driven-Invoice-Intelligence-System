@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0814
+Date: 1989-01-07
+Time: 18:47:45
+Buyer Name: Neysa Tank
+Buyer Address: 54/965, Lal Ganj, Ichalkaranji-739381
+PAN: ABCDE3023F
+GSTIN: 40ABCDE4325Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.877 Amount: Rs.1754
+
+CGST (9%): Rs.157.86
+SGST (9%): Rs.157.86
+Total Amount Payable: Rs.2069.72
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0563
+Date: 2008-10-27
+Time: 06:57:20
+Buyer Name: Aayush Savant
+Buyer Address: 524, Wable Marg, Sirsa-788059
+PAN: ABCDES5092F
+GSTIN: 04ABCDE6308Z61
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.631 Amount: Rs.1893
+
+CGST (9%): Rs.170.37
+SGST (9%): Rs.170.37
+Total Amount Payable: Rs.2233.74
+
+Goods once sold will not be taken back.

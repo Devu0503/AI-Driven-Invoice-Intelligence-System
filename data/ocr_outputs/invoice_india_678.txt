@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0410
+Date: 2019-07-24
+Time: 08:23:07
+Buyer Name: Inaaya Vala
+Buyer Address: 78/989, Zachariah Marg, Ludhiana-000483
+PAN: ABCDE2837F
+GSTIN: 46ABCDE9563Z31
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.178 Amount: Rs.534
+
+CGST (9%): Rs.48.06
+SGST (9%): Rs.48.06
+Total Amount Payable: Rs.630.12
+
+Goods once sold will not be taken back.

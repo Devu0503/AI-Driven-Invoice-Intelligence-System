@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0108
+Date: 1977-03-08
+Time: 11:32:46
+Buyer Name: Amira Varma
+Buyer Address: 81, Baria Nagar, Chennai 208508
+PAN: ABCDE8300F
+GSTIN: 50ABCDE6463Z71
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.398 Amount: Rs.398
+
+CGST (9%): Rs.35.82
+SGST (9%): Rs.35.82
+Total Amount Payable: Rs.469.64
+
+Goods once sold will not be taken back.

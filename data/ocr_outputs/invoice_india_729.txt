@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0407
+Date: 2015-11-15
+Time: 12:29:03
+Buyer Name: Onkar Tailor
+Buyer Address: H.No. 185, Choudhury Zila, Dindigul 772625
+PAN: ABCDE3990F
+GSTIN: 17ABCDE0744Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.432 Amount: Rs.2160
+
+CGST (9%): Rs.194.4
+SGST (9%): Rs.194.4
+Total Amount Payable: Rs.2548.8
+
+Goods once sold will not be taken back.

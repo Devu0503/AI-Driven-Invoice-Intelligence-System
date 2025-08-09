@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0887
+Date: 1993-07-31
+Time: 00:16:40
+Buyer Name: Uthkarsh Kannan
+Buyer Address: H.No. 562, Chand Zila, Adoni-895610
+PAN: ABCDE0540F
+GSTIN: 74ABCDE1709Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.673 Amount: Rs.2019
+
+CGST (9%): Rs.181.71
+SGST (9%): Rs.181.71
+Total Amount Payable: Rs.2382.42
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2081/0872
+Date: 1999-03-01
+Time: 01:11:41
+Buyer Name: Zeeshan Ramachandran
+Buyer Address: 99, Din Ganj, Kalyan-Dombivli 154742
+PAN: ABCDE6729F
+GSTIN: 07ABCDE6890Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: Rs.922 Amount: Rs.922
+
+CGST (9%): Rs.82.98
+SGST (9%): Rs.82.98
+Total Amount Payable: Rs.1087.96
+
+Goods once sold will not be taken back.

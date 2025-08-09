@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0682
+Date: 1985-03-26
+Time: 17:58:40
+Buyer Name: Neysa Kurian
+Buyer Address: H.No. 109, Zacharia, Bihar Sharif 530007
+PAN: ABCDE0678F
+GSTIN: 44ABCDE4782Z51
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.577 Amount: Rs.2885
+
+CGST (9%): Rs.259.65
+SGST (9%): Rs.259.65
+Total Amount Payable: Rs.3404.3
+
+Goods once sold will not be taken back.

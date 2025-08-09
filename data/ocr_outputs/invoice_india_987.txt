@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0028
+Date: 1990-12-28
+Time: 03:07:01
+Buyer Name: Mishti Contractor
+Buyer Address: 582, Lanka Street, Hospet-937089
+PAN: ABCDE8656F
+GSTIN: 12ABCDE7365Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.509 Amount: Rs.2545
+
+CGST (9%): Rs.229.05
+SGST (9%): Rs.229.05
+Total Amount Payable: Rs.3003.1
+
+Goods once sold will not be taken back.

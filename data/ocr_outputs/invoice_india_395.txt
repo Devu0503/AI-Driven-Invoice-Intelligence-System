@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0116
+Date: 1993-05-06
+Time: 23:49:24
+Buyer Name: Nirvi Badal
+Buyer Address: 323, Bail, Saharanpur 751902
+PAN: ABCDES021F
+GSTIN: O6ABCDE7392Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.702 Amount: Rs.2106
+
+CGST (9%): Rs.189.54
+SGST (9%): Rs.189.54
+Total Amount Payable: Rs.2485.08
+
+Goods once sold will not be taken back.

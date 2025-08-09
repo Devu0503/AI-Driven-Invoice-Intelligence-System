@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0227
+Date: 1997-11-19
+Time: 21:48:14
+Buyer Name: Samaira Sinha
+Buyer Address: 953, Banerjee, Varanasi 888320
+PAN: ABCDE6591F
+GSTIN: 68ABCDE6837Z31
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.587 Amount: Rs.1761
+
+CGST (9%): Rs.158.49
+SGST (9%): Rs.158.49
+Total Amount Payable: Rs.2077.98
+
+Goods once sold will not be taken back.

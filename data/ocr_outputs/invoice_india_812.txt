@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0001
+Date: 1997-11-29
+Time: 07:40:20
+Buyer Name: Yuvaan Lall
+Buyer Address: H.No. 647, Zacharia Circle, Karawal Nagar-343391
+PAN: ABCDE7702F
+GSTIN: 77ABCDE8257Z61
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.371 Amount: Rs.1113
+
+CGST (9%): Rs.100.17
+SGST (9%): Rs.100.17
+Total Amount Payable: Rs.1313.34
+
+Goods once sold will not be taken back.

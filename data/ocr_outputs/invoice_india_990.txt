@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0402
+Date: 2013-10-18
+Time: 01:15:26
+Buyer Name: Indranil Sem
+Buyer Address: 22/47, Srinivas Zila, Panchkula-15007 1
+PAN: ABCDE5572F
+GSTIN: 03ABCDE7860Z71
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 4 Rate: Rs.562 Amount: Rs.2248
+
+CGST (9%): Rs.202.32
+SGST (9%): Rs.202.32
+Total Amount Payable: Rs.2652.64
+
+Goods once sold will not be taken back.

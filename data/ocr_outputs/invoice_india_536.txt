@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0325
+Date: 1997-07-29
+Time: 18:35:42
+Buyer Name: Jhanvi Borde
+Buyer Address: H.No. 371, Solanki Circle, Junagadh-510898
+PAN: ABCDE5535F
+GSTIN: 74ABCDE0512Z21
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.599 Amount: Rs.1797
+
+CGST (9%): Rs.161.73
+SGST (9%): Rs.161.73
+Total Amount Payable: Rs.2120.46
+
+Goods once sold will not be taken back.

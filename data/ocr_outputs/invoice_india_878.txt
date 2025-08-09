@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0559
+Date: 2021-10-16
+Time: 23:38:18
+Buyer Name: Alisha Kata
+Buyer Address: H.No. 83, Goel Path, Bhalswa Jahangir Pur 097780
+PAN: ABCDES998F
+GSTIN: 41ABCDE8924Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.334 Amount: Rs.334
+
+CGST (9%): Rs.30.06
+SGST (9%): Rs.30.06
+Total Amount Payable: Rs.394.12
+
+Goods once sold will not be taken back.

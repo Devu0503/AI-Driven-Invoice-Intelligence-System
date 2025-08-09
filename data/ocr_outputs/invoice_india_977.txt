@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2013/0143
+Date: 2015-12-15
+Time: 14:14:23
+Buyer Name: Anika Kibe
+Buyer Address: 42, Shroff Path, Proddatur-567498
+PAN: ABCDE8803F
+GSTIN: 44ABCDE0671Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.642 Amount: Rs.642
+
+CGST (9%): Rs.57.78
+SGST (9%): Rs.57.78
+Total Amount Payable: Rs.757.56
+
+Goods once sold will not be taken back.

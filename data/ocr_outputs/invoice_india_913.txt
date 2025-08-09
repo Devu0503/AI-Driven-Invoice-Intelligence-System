@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0944
+Date: 1985-12-20
+Time: 09:37:04
+Buyer Name: Oorja Chander
+Buyer Address: H.No. 07, Sabharwal Marg, Bhalswa Jahangir Pur 421316
+PAN: ABCDE7293F
+GSTIN: 683ABCDE3254Z41
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.945 Amount: Rs.2835
+
+CGST (9%): Rs.255.15
+SGST (9%): Rs.255.15
+Total Amount Payable: Rs.3345.3
+
+Goods once sold will not be taken back.

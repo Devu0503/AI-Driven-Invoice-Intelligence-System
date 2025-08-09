@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0936
+Date: 2022-03-27
+Time: 20:18:50
+Buyer Name: Adah Banerjee
+Buyer Address: 48/36, Goel Road, Rewa 687872
+PAN: ABCDES780F
+GSTIN: OSABCDE3509Z71
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.442 Amount: Rs.884
+
+CGST (9%): Rs.79.56
+SGST (9%): Rs.79.56
+Total Amount Payable: Rs.1043.12
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0926
+Date: 2020-10-27
+Time: 14:32:05
+Buyer Name: Lavanya Kant
+Buyer Address: 11, Sarna Street, Imphal 974822
+PAN: ABCDE0622F
+GSTIN: 25ABCDE1702Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.257 Amount: Rs.771
+
+CGST (9%): Rs.69.39
+SGST (9%): Rs.69.39
+Total Amount Payable: Rs.909.78
+
+Goods once sold will not be taken back.

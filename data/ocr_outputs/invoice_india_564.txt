@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2037/0446
+Date: 2020-06-06
+Time: 11:10:12
+Buyer Name: Heer Lalla
+Buyer Address: H.No. 62, Saha Street, Nangloi Jat-473676
+PAN: ABCDE5330F
+GSTIN: 64ABCDE7998Z91
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.135 Amount: Rs.675
+
+CGST (9%): Rs.60.75
+SGST (9%): Rs.60.75
+Total Amount Payable: Rs.796.5
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0410
+Date: 1990-08-14
+Time: 20:53:20
+Buyer Name: Neelofar Lad
+Buyer Address: 41, Bandi Path, Silchar 053046
+PAN: ABCDE7095F
+GSTIN: 64ABCDE4811Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.882 Amount: Rs.1764
+
+CGST (9%): Rs.158.76
+SGST (9%): Rs.158.76
+Total Amount Payable: Rs.2081.52
+
+Goods once sold will not be taken back.

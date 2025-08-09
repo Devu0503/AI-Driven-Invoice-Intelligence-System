@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0363
+Date: 1984-10-27
+Time: 01:22:09
+Buyer Name: Faiyaz Bahri
+Buyer Address: 603, Sharaf Marg, Kumbakonam-183038
+PAN: ABCDE6750F
+GSTIN: 75ABCDE6186Z21
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.266 Amount: Rs.798
+
+CGST (9%): Rs.71.82
+SGST (9%): Rs.71.82
+Total Amount Payable: Rs.941.64
+
+Goods once sold will not be taken back.

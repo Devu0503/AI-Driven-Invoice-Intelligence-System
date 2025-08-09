@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0067
+Date: 1983-03-14
+Time: 00:49:19
+Buyer Name: Trisha Batra
+Buyer Address: 47/15, Sankar Chowk, Erode-314405
+PAN: ABCDE9337F
+GSTIN: 33ABCDE9842Z41
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.108 Amount: Rs.324
+
+CGST (9%): Rs.29.16
+SGST (9%): Rs.29.16
+Total Amount Payable: Rs.382.32
+
+Goods once sold will not be taken back.

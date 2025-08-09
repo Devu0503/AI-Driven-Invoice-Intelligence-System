@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2003/0533
-Date: 2009-04-03
-Buyer Name: Ranbir Hayer
-Buyer Address: 567, Tata Zila, Mirzapur-992863
-PAN No: ABCDE7584F
-GSTIN: 17ABCDE08352Z01
+Invoice No: INV/2044/0015
+Date: 1985-11-19
+Time: 04:20:42
+Buyer Name: Devansh Aggarwal
+Buyer Address: 75/284, Malhotra Nagar, Karnal-677664
+PAN: ABCDE7555F
+GSTIN: 63ABCDE9329Z51
 
 Item Details:
 
-Item: Power Bank
-Quantity: 4 Rate: 3563 Amount: 2252
+Item: Mobile Case
+Quantity: 3 Rate: Rs.532 Amount: Rs.1596
 
-CGST (9%): %202.68
-SGST (9%): %202.68
-Total Amount Payable: 2657.36
+CGST (9%): Rs.143.64
+SGST (9%): Rs.143.64
+Total Amount Payable: Rs.1883.28
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

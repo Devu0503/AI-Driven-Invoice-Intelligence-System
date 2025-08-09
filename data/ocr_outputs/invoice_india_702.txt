@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2008/0925
+Date: 2020-09-25
+Time: 02:38:59
+Buyer Name: Charvi Chand
+Buyer Address: H.No. 329, Guha Street, Raiganj-146713
+PAN: ABCDE2146F
+GSTIN: 30ABCDE0354Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.525 Amount: Rs.1050
+
+CGST (9%): Rs.94.5
+SGST (9%): Rs.94.5
+Total Amount Payable: Rs.1239.0
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2032/0816
+Date: 1970-07-05
+Time: 16:49:45
+Buyer Name: Lakshit Dasgupta
+Buyer Address: H.No. 394, Chaudhari Chowk, Bikaner 434542
+PAN: ABCDE0070F
+GSTIN: 20ABCDE5184Z21
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.794 Amount: Rs.3970
+
+CGST (9%): Rs.357.3
+SGST (9%): Rs.357.3
+Total Amount Payable: Rs.4684.6
+
+Goods once sold will not be taken back.

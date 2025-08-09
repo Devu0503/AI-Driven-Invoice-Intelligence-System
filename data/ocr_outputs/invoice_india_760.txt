@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0976
+Date: 1995-07-25
+Time: 23:13:29
+Buyer Name: Faiyaz Bahl
+Buyer Address: 39, Brahmbhatt Nagar, Rajpur Sonarpur-486420
+PAN: ABCDE7496F
+GSTIN: 25ABCDE8624Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 3 Rate: Rs.445 Amount: Rs.1335
+
+CGST (9%): Rs.120.15
+SGST (9%): Rs.120.15
+Total Amount Payable: Rs.1575.3
+
+Goods once sold will not be taken back.

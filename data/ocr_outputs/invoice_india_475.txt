@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0635
+Date: 2015-02-14
+Time: 17:42:16
+Buyer Name: Tiya Lata
+Buyer Address: H.No. 044, Sami Zila, Tadepalligudem 878842
+PAN: ABCDE7254F
+GSTIN: 34ABCDE3922Z51
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.914 Amount: Rs.914
+
+CGST (9%): Rs.82.26
+SGST (9%): Rs.82.26
+Total Amount Payable: Rs.1078.52
+
+Goods once sold will not be taken back.

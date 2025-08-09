@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0844
+Date: 1971-10-11
+Time: 21:13:09
+Buyer Name: Anaya Ghose
+Buyer Address: 49, Loke Zila, Vijayanagaram 849196
+PAN: ABCDE1296F
+GSTIN: 43ABCDE1540Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.487 Amount: Rs.487
+
+CGST (9%): Rs.43.83
+SGST (9%): Rs.43.83
+Total Amount Payable: Rs.574.66
+
+Goods once sold will not be taken back.

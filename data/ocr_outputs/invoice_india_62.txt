@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0128
+Date: 1970-03-13
+Time: 14:25:57
+Buyer Name: Samar Rege
+Buyer Address: 69/617, Master Nagar, Cuttack 109916
+PAN: ABCDE2332F
+GSTIN: 79ABCDE2391Z71
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.502 Amount: Rs.2008
+
+CGST (9%): Rs.180.72
+SGST (9%): Rs.180.72
+Total Amount Payable: Rs.2369.44
+
+Goods once sold will not be taken back.

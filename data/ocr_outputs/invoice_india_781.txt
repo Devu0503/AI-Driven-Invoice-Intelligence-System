@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0109
+Date: 1987-07-12
+Time: 12:21:51
+Buyer Name: Kismat Dey
+Buyer Address: 38/31, Dewan Road, Jehanabad-399351
+PAN: ABCDE2315F
+GSTIN: 11ABCDE0605Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: Rs.751 Amount: Rs.3004
+
+CGST (9%): Rs.270.36
+SGST (9%): Rs.270.36
+Total Amount Payable: Rs.3544.72
+
+Goods once sold will not be taken back.

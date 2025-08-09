@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2089/0125
+Date: 2019-08-26
+Time: 15:35:56
+Buyer Name: Drishya Kakar
+Buyer Address: H.No. 23, Cheema Ganj, Hyderabad 043294
+PAN: ABCDE2642F
+GSTIN: 62ABCDE9177Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.634 Amount: Rs.634
+
+CGST (9%): Rs.57.06
+SGST (9%): Rs.57.06
+Total Amount Payable: Rs.748.12
+
+Goods once sold will not be taken back.

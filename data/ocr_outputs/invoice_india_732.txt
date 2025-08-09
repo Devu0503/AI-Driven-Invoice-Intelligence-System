@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0976
+Date: 1998-03-04
+Time: 09:21:00
+Buyer Name: Siya Karan
+Buyer Address: 42/204, Luthra Nagar, Panchkula-626819
+PAN: ABCDE7435F
+GSTIN: 79ABCDE1181211
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.300 Amount: Rs.600
+
+CGST (9%): Rs.54.0
+SGST (9%): Rs.54.0
+Total Amount Payable: Rs.708.0
+
+Goods once sold will not be taken back.

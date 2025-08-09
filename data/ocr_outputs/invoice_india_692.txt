@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0404
+Date: 2002-12-29
+Time: 21:03:28
+Buyer Name: Shlok Biswas
+Buyer Address: 48, Shan Road, Rourkela 373414
+PAN: ABCDES019F
+GSTIN: 86ABCDE7894Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.343 Amount: Rs.1372
+
+CGST (9%): Rs.123.48
+SGST (9%): Rs.123.48
+Total Amount Payable: Rs.1618.96
+
+Goods once sold will not be taken back.

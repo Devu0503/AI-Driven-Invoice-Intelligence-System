@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2031/0958
+Date: 1978-04-22
+Time: 06:09:36
+Buyer Name: Sahil Kulkarni
+Buyer Address: 55/181, Doshi Chowk, Madurai-085502
+PAN: ABCDE4081F
+GSTIN: 97ABCDE8827Z01
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.796 Amount: Rs.2388
+
+CGST (9%): Rs.214.92
+SGST (9%): Rs.214.92
+Total Amount Payable: Rs.2817.84
+
+Goods once sold will not be taken back.

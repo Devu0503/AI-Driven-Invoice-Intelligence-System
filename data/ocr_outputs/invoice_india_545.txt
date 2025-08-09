@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0771
+Date: 1996-06-20
+Time: 03:44:12
+Buyer Name: Urvi Vaidya
+Buyer Address: 43/774, Borde Street, Hyderabad-764640
+PAN: ABCDE1955F
+GSTIN: 32ABCDE1621Z41
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.222 Amount: Rs.222
+
+CGST (9%): Rs.19.98
+SGST (9%): Rs.19.98
+Total Amount Payable: Rs.261.96
+
+Goods once sold will not be taken back.

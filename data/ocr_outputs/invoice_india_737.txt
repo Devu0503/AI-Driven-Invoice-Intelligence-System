@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2022/0659
+Date: 2019-05-16
+Time: 04:42:12
+Buyer Name: Fateh Singhal
+Buyer Address: H.No. 894, Mane, Bihar Sharif 989953
+PAN: ABCDE7418F
+GSTIN: 86ABCDE6673Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.649 Amount: Rs.1947
+
+CGST (9%): Rs.175.23
+SGST (9%): Rs.175.23
+Total Amount Payable: Rs.2297.46
+
+Goods once sold will not be taken back.

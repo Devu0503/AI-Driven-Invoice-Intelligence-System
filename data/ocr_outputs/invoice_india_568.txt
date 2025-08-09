@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2061/0510
+Date: 2018-06-07
+Time: 12:26:30
+Buyer Name: Advika De
+Buyer Address: 94/11, Tailor Nagar, Rewa-015673
+PAN: ABCDE5914F
+GSTIN: 98ABCDE0650Z21
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.679 Amount: Rs.3395
+
+CGST (9%): Rs.305.55
+SGST (9%): Rs.305.55
+Total Amount Payable: Rs.4006.1
+
+Goods once sold will not be taken back.

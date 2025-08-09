@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0704
+Date: 1989-11-24
+Time: 17:55:40
+Buyer Name: Faiyaz Kohli
+Buyer Address: 553, Chana Zila, Karawal Nagar-328884
+PAN: ABCDES051F
+GSTIN: 44ABCDE3580Z41
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.775 Amount: Rs.3875
+
+CGST (9%): Rs.348.75
+SGST (9%): Rs.348.75
+Total Amount Payable: Rs.4572.5
+
+Goods once sold will not be taken back.

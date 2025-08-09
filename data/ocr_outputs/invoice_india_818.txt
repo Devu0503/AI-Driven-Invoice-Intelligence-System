@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0697
+Date: 1980-08-28
+Time: 00:35:27
+Buyer Name: Alia Kala
+Buyer Address: 99, Sood Zila, Madhyamgram-637607
+PAN: ABCDE3255F
+GSTIN: 37ABCDE0556Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.534 Amount: Rs.2136
+
+CGST (9%): Rs.192.24
+SGST (9%): Rs.192.24
+Total Amount Payable: Rs.2520.48
+
+Goods once sold will not be taken back.

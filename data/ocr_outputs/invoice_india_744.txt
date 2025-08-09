@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0453
+Date: 1974-12-26
+Time: 14:22:21
+Buyer Name: Piya Barad
+Buyer Address: 84/31, Chandra Street, Bidhannagar 220348
+PAN: ABCDE2834F
+GSTIN: 98ABCDE8659Z51
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.598 Amount: Rs.2990
+
+CGST (9%): Rs.269.1
+SGST (9%): Rs.269.1
+Total Amount Payable: Rs.3528.2
+
+Goods once sold will not be taken back.

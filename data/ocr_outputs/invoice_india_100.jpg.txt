@@ -1,19 +1,19 @@
 INVOICE
-Invoice No: INV/2022/0173
-Date: 1981-03-05
-Buyer Name: Akarsh Sampath
-Buyer Address: H.No. 074, Kapoor Street, Pune 065511
-PAN No: ABCDE5893F
-GSTIN: 18ABCDE5021271
+Invoice No: INV/2022/0887
+Date: 1996-12-30
+Time: 19:30:42
+Buyer Name: Zara Behl
+Buyer Address: 672, Bora, Shimla 088369
+PAN: ABCDE4708F
+GSTIN: O8ABCDE0657Z61
 
 Item Details:
 
-Item: Keyboard
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.331 Amount: Rs.662
 
-Quantity: 1 Rate: 792 Amount: 792
-CGST (9%): 71.28
+CGST (9%): Rs.59.58
+SGST (9%): Rs.59.58
+Total Amount Payable: Rs.781.16
 
-SGST (9%): %71.28
-Total Amount Payable: %934.56
-
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

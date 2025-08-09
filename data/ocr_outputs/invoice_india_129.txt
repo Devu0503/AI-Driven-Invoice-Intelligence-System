@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0699
+Date: 1988-01-19
+Time: 12:45:32
+Buyer Name: Madhav Kapoor
+Buyer Address: H.No. 768, Mangal Street, Tadepalligudem 042884
+PAN: ABCDE5468F
+GSTIN: 03ABCDE7666Z51
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.228 Amount: Rs.228
+
+CGST (9%): Rs.20.52
+SGST (9%): Rs.20.52
+Total Amount Payable: Rs.269.04
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2049/0423
+Date: 2007-02-21
+Time: 19:04:07
+Buyer Name: Aniruddh Ben
+Buyer Address: 340, Boase Path, Gulbarga 235472
+PAN: ABCDE8554F
+GSTIN: 55ABCDE9162Z21
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.173 Amount: Rs.519
+
+CGST (9%): Rs.46.71
+SGST (9%): Rs.46.71
+Total Amount Payable: Rs.612.42
+
+Goods once sold will not be taken back.

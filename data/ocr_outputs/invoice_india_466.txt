@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0977
+Date: 2009-10-17
+Time: 13:54:35
+Buyer Name: Vardaniya Lalla
+Buyer Address: 08, Devi Zila, Bongaigaon-215027
+PAN: ABCDE9754F
+GSTIN: 13ABCDE1436Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.425 Amount: Rs.1275
+
+CGST (9%): Rs.114.75
+SGST (9%): Rs.114.75
+Total Amount Payable: Rs.1504.5
+
+Goods once sold will not be taken back.

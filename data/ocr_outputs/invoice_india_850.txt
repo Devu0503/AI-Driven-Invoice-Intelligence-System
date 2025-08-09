@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2081/0318
+Date: 1971-03-27
+Time: 09:03:56
+Buyer Name: Jayan Ahluwalia
+Buyer Address: H.No. 438, Bhatia Zila, Patna-201236
+PAN: ABCDE2721F
+GSTIN: 42ABCDE5865Z41
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.606 Amount: Rs.606
+
+CGST (9%): Rs.54.54
+SGST (9%): Rs.54.54
+Total Amount Payable: Rs.715.08
+
+Goods once sold will not be taken back.

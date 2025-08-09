@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0407
+Date: 2014-10-24
+Time: 11:29:45
+Buyer Name: Eshani Samra
+Buyer Address: 88, Dube Chowk, Kurnool-818514
+PAN: ABCDE8686F
+GSTIN: 97ABCDE0335Z11
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.911 Amount: Rs.911
+
+CGST (9%): Rs.81.99
+SGST (9%): Rs.81.99
+Total Amount Payable: Rs.1074.98
+
+Goods once sold will not be taken back.

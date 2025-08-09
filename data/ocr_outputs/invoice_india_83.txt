@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0809
+Date: 2008-04-03
+Time: 01:50:27
+Buyer Name: Yuvaan Sama
+Buyer Address: 92/162, Lal Circle, Jaunpur-455188
+PAN: ABCDE8510F
+GSTIN: 23ABCDE7605Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.840 Amount: Rs.4200
+
+CGST (9%): Rs.378.0
+SGST (9%): Rs.378.0
+Total Amount Payable: Rs.4956.0
+
+Goods once sold will not be taken back.

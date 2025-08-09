@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2099/0018
+Date: 1995-09-15
+Time: 17:07:48
+Buyer Name: Mehul Agate
+Buyer Address: H.No. 669, Khosla Chowk, Nadiad-729175
+PAN: ABCDES766F
+GSTIN: 71ABCDE6626Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.599 Amount: Rs.1198
+
+CGST (9%): Rs.107.82
+SGST (9%): Rs.107.82
+Total Amount Payable: Rs.1413.64
+
+Goods once sold will not be taken back.

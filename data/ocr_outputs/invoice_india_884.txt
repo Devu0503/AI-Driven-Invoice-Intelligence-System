@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2059/0836
+Date: 2022-07-05
+Time: 00:46:24
+Buyer Name: Anya Baria
+Buyer Address: 83, Basu Nagar, Nagercoil-572357
+PAN: ABCDE8879F
+GSTIN: 99ABCDE7244Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.916 Amount: Rs.916
+
+CGST (9%): Rs.82.44
+SGST (9%): Rs.82.44
+Total Amount Payable: Rs.1080.88
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2017/0359
+Date: 1999-11-30
+Time: 19:47:03
+Buyer Name: Baiju Butala
+Buyer Address: 50, Ghose Zila, Motihari 498386
+PAN: ABCDE0461F
+GSTIN: 23ABCDE3369Z41
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.320 Amount: Rs.960
+
+CGST (9%): Rs.86.4
+SGST (9%): Rs.86.4
+Total Amount Payable: Rs.1132.8
+
+Goods once sold will not be taken back.

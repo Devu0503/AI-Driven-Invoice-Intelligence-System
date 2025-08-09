@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0627
+Date: 2009-05-01
+Time: 22:57:26
+Buyer Name: Zaina Jani
+Buyer Address: H.No. 472, Edwin Street, Faridabad-156013
+PAN: ABCDE4540F
+GSTIN: 15ABCDE5303Z01
+
+Item Details:
+
+Item: Webcam
+Quantity: 1 Rate: Rs.605 Amount: Rs.605
+
+CGST (9%): Rs.54.45
+SGST (9%): Rs.54.45
+Total Amount Payable: Rs.713.9
+
+Goods once sold will not be taken back.

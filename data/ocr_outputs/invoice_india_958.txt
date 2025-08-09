@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2038/0619
+Date: 2015-08-19
+Time: 08:50:16
+Buyer Name: Sumer Tata
+Buyer Address: H.No. 30, Dhar Chowk, Chapra-937811
+PAN: ABCDE9234F
+GSTIN: 49ABCDE3914Z21
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.392 Amount: Rs.784
+
+CGST (9%): Rs.70.56
+SGST (9%): Rs.70.56
+Total Amount Payable: Rs.925.12
+
+Goods once sold will not be taken back.

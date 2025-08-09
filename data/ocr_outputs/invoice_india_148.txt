@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0365
+Date: 1997-08-16
+Time: 00:56:31
+Buyer Name: Shayak Khurana
+Buyer Address: 96, Raja Street, Bareilly 185628
+PAN: ABCDE7136F
+GSTIN: OOABCDE7819Z11
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.318 Amount: Rs.1590
+
+CGST (9%): Rs.143.1
+SGST (9%): Rs.143.1
+Total Amount Payable: Rs.1876.2
+
+Goods once sold will not be taken back.

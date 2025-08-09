@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2057/0012
+Date: 1971-01-22
+Time: 06:37:19
+Buyer Name: Kartik Chatterjee
+Buyer Address: 96/265, Savant Zila, Siliguri 796084
+PAN: ABCDE6328F
+GSTIN: 92ABCDE0988Z71
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.468 Amount: Rs.468
+
+CGST (9%): Rs.42.12
+SGST (9%): Rs.42.12
+Total Amount Payable: Rs.552.24
+
+Goods once sold will not be taken back.

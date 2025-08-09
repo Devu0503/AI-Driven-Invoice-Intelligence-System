@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2062/0176
+Date: 1970-12-24
+Time: 12:55:23
+Buyer Name: Jayesh Kapoor
+Buyer Address: 79, Malhotra Chowk, Raurkela Industrial Township 208063
+PAN: ABCDE6765F
+GSTIN: 30ABCDE6583Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.454 Amount: Rs.1816
+
+CGST (9%): Rs.163.44
+SGST (9%): Rs.163.44
+Total Amount Payable: Rs.2142.88
+
+Goods once sold will not be taken back.

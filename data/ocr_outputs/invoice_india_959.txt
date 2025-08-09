@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0216
+Date: 1985-09-22
+Time: 17:30:13
+Buyer Name: Kiaan Verma
+Buyer Address: 49/24, Bath Path, Thoothukudi-686759
+PAN: ABCDE1333F
+GSTIN: 64ABCDE9516Z91
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.488 Amount: Rs.976
+
+CGST (9%): Rs.87.84
+SGST (9%): Rs.87.84
+Total Amount Payable: Rs.1151.68
+
+Goods once sold will not be taken back.

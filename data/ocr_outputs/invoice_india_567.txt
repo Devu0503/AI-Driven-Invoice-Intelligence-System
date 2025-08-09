@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0133
+Date: 2007-06-08
+Time: 23:45:49
+Buyer Name: Advika Sinha
+Buyer Address: 014, Mahal Chowk, Miryalaguda 404449
+PAN: ABCDE2636F
+GSTIN: 53ABCDE0362Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.170 Amount: Rs.850
+
+CGST (9%): Rs.76.5
+SGST (9%): Rs.76.5
+Total Amount Payable: Rs.1003.0
+
+Goods once sold will not be taken back.

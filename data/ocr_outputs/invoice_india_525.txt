@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2093/0264
+Date: 2009-03-31
+Time: 08:14:00
+Buyer Name: Adah Hora
+Buyer Address: H.No. 808, Sood, Warangal 977692
+PAN: ABCDE6974F
+GSTIN: 49ABCDE2003Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.182 Amount: Rs.728
+
+CGST (9%): Rs.65.52
+SGST (9%): Rs.65.52
+Total Amount Payable: Rs.859.04
+
+Goods once sold will not be taken back.

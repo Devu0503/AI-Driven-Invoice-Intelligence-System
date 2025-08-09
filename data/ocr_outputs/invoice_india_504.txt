@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2076/0895
+Date: 1971-04-30
+Time: 19:40:50
+Buyer Name: Ojas Savant
+Buyer Address: H.No. 64, Rama Road, Alwar-373641
+PAN: ABCDE6270F
+GSTIN: 26ABCDE2471Z81
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 5 Rate: Rs.184 Amount: Rs.920
+
+CGST (9%): Rs.82.8
+SGST (9%): Rs.82.8
+Total Amount Payable: Rs.1085.6
+
+Goods once sold will not be taken back.

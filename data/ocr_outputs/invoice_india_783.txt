@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0303
+Date: 2008-12-29
+Time: 19:51:46
+Buyer Name: Onkar Deep
+Buyer Address: 83, Subramanian Zila, Bellary-482099
+PAN: ABCDE6316F
+GSTIN: 55ABCDE4682Z41
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.256 Amount: Rs.512
+
+CGST (9%): Rs.46.08
+SGST (9%): Rs.46.08
+Total Amount Payable: Rs.604.16
+
+Goods once sold will not be taken back.

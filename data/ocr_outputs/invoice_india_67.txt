@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0071
+Date: 2023-05-20
+Time: 21:20:34
+Buyer Name: Bhavin Goel
+Buyer Address: H.No. 60, Mall Circle, Bally 367328
+PAN: ABCDE1174F
+GSTIN: 683ABCDE0872Z11
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.352 Amount: Rs.352
+
+CGST (9%): Rs.31.68
+SGST (9%): Rs.31.68
+Total Amount Payable: Rs.415.36
+
+Goods once sold will not be taken back.

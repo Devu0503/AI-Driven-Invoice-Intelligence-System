@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2019/0459
+Date: 1998-06-17
+Time: 11:36:51
+Buyer Name: Indrajit Bakshi
+Buyer Address: 19, Vyas Ganj, Barasat-290409
+PAN: ABCDES721F
+GSTIN: 91ABCDE7829Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.609 Amount: Rs.2436
+
+CGST (9%): Rs.219.24
+SGST (9%): Rs.219.24
+Total Amount Payable: Rs.2874.48
+
+Goods once sold will not be taken back.

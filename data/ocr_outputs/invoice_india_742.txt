@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2022/0442
+Date: 1986-08-09
+Time: 02:58:59
+Buyer Name: Renee Agate
+Buyer Address: H.No. 949, Buch Ganj, Buxar-792865
+PAN: ABCDE4280F
+GSTIN: 07ABCDE1407211
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.120 Amount: Rs.600
+
+CGST (9%): Rs.54.0
+SGST (9%): Rs.54.0
+Total Amount Payable: Rs.708.0
+
+Goods once sold will not be taken back.

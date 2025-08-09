@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0090
+Date: 1974-10-23
+Time: 11:41:25
+Buyer Name: Shray Konda
+Buyer Address: 251, Raja Ganj, Kolkata-313877
+PAN: ABCDE3724F
+GSTIN: 47ABCDE1247211
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.723 Amount: Rs.2892
+
+CGST (9%): Rs.260.28
+SGST (9%): Rs.260.28
+Total Amount Payable: Rs.3412.56
+
+Goods once sold will not be taken back.

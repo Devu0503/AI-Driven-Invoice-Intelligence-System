@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2017/0835
+Date: 1982-06-28
+Time: 18:07:03
+Buyer Name: Anika Bala
+Buyer Address: H.No. 09, Sura Nagar, Bidhannagar-447123
+PAN: ABCDE8770F
+GSTIN: 21ABCDE9778Z31
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.650 Amount: Rs.2600
+
+CGST (9%): Rs.234.0
+SGST (9%): Rs.234.0
+Total Amount Payable: Rs.3068.0
+
+Goods once sold will not be taken back.

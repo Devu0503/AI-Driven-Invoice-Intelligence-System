@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2017/0416
+Date: 1998-02-15
+Time: 15:08:31
+Buyer Name: Aarna Bhargava
+Buyer Address: H.No. 203, Kari Ganj, Bokaro 329515
+PAN: ABCDE5230F
+GSTIN: 37ABCDE1439Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.343 Amount: Rs.686
+
+CGST (9%): Rs.61.74
+SGST (9%): Rs.61.74
+Total Amount Payable: Rs.809.48
+
+Goods once sold will not be taken back.

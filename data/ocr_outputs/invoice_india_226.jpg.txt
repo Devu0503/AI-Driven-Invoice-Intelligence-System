@@ -1,18 +1,19 @@
 INVOICE
-Invoice No: INV/2086/0143
-Date: 1986-06-29
-Buyer Name: Anay Rajagopalan
-Buyer Address: 69/93, Dixit Path, Guwahati 537161
-PAN No: ABCDE1774F
-GSTIN: 71ABCDE6350Z81
+Invoice No: INV/2066/0698
+Date: 1976-05-28
+Time: 04:30:32
+Buyer Name: Kashvi Choudhry
+Buyer Address: 60, Bhagat Chowk, Rewa 372999
+PAN: ABCDE6498F
+GSTIN: OSABCDE2447Z01
 
 Item Details:
 
-Item: Mobile Case
-Quantity: 3 Rate: $928 Amount: 2784
+Item: USB Cable
+Quantity: 4 Rate: Rs.117 Amount: Rs.468
 
-CGST (9%): %250.56
-SGST (9%): %250.56
-Total Amount Payable: %3285.12
+CGST (9%): Rs.42.12
+SGST (9%): Rs.42.12
+Total Amount Payable: Rs.552.24
 
-Terms: Goods once sold will not be taken back.
+Goods once sold will not be taken back.

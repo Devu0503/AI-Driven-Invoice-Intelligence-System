@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0764
+Date: 1974-09-18
+Time: 08:40:58
+Buyer Name: Prisha Bail
+Buyer Address: 144, Kibe, Muzaffarnagar-317276
+PAN: ABCDE2590F
+GSTIN: 56ABCDE4278Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.407 Amount: Rs.1221
+
+CGST (9%): Rs.109.89
+SGST (9%): Rs.109.89
+Total Amount Payable: Rs.1440.78
+
+Goods once sold will not be taken back.

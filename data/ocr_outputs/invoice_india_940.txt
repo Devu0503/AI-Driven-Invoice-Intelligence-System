@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2013/0307
+Date: 2000-10-12
+Time: 07:51:44
+Buyer Name: Kartik Bal
+Buyer Address: 39/04, Sen Road, Meerut-080379
+PAN: ABCDE4103F
+GSTIN: 78ABCDE9928Z41
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.504 Amount: Rs.2016
+
+CGST (9%): Rs.181.44
+SGST (9%): Rs.181.44
+Total Amount Payable: Rs.2378.88
+
+Goods once sold will not be taken back.

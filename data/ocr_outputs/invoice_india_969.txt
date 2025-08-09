@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2064/0090
+Date: 1983-01-05
+Time: 12:19:11
+Buyer Name: Reyansh Batra
+Buyer Address: 48/864, Saraf Zila, Sirsa-995879
+PAN: ABCDE0482F
+GSTIN: 21ABCDE6947Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.288 Amount: Rs.576
+
+CGST (9%): Rs.51.84
+SGST (9%): Rs.51.84
+Total Amount Payable: Rs.679.68
+
+Goods once sold will not be taken back.

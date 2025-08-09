@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2031/0003
+Date: 1993-08-09
+Time: 01:35:45
+Buyer Name: Misha Walia
+Buyer Address: H.No. 29, Chaudhuri Path, Dhule-331496
+PAN: ABCDE2009F
+GSTIN: 68ABCDE0459Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.115 Amount: Rs.345
+
+CGST (9%): Rs.31.05
+SGST (9%): Rs.31.05
+Total Amount Payable: Rs.407.1
+
+Goods once sold will not be taken back.

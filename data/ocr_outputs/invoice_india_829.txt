@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0174
+Date: 2022-05-13
+Time: 13:01:09
+Buyer Name: Prisha Tak
+Buyer Address: H.No. 834, Sibal Path, Rajahmundry 841050
+PAN: ABCDE0961F
+GSTIN: 60ABCDE5785Z71
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.480 Amount: Rs.960
+
+CGST (9%): Rs.86.4
+SGST (9%): Rs.86.4
+Total Amount Payable: Rs.1132.8
+
+Goods once sold will not be taken back.

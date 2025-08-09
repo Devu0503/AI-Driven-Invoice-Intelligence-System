@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0191
+Date: 2010-09-17
+Time: 05:37:27
+Buyer Name: Armaan Aurora
+Buyer Address: 86, Lanka Zila, Saharsa 325625
+PAN: ABCDE5652F
+GSTIN: 82ABCDE80112Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.313 Amount: Rs.626
+
+CGST (9%): Rs.56.34
+SGST (9%): Rs.56.34
+Total Amount Payable: Rs.738.68
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2049/0725
+Date: 2000-12-16
+Time: 02:40:26
+Buyer Name: Samiha Setty
+Buyer Address: 21/847, Chauhan Path, Uluberia 524263
+PAN: ABCDE0291F
+GSTIN: 87ABCDE5782Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 5 Rate: Rs.173 Amount: Rs.865
+
+CGST (9%): Rs.77.85
+SGST (9%): Rs.77.85
+Total Amount Payable: Rs.1020.7
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0658
+Date: 2023-01-03
+Time: 22:19:59
+Buyer Name: Shayak Keer
+Buyer Address: 72, Bail Nagar, Patiala-820989
+PAN: ABCDE7321F
+GSTIN: 76ABCDE6601Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.816 Amount: Rs.1632
+
+CGST (9%): Rs.146.88
+SGST (9%): Rs.146.88
+Total Amount Payable: Rs.1925.76
+
+Goods once sold will not be taken back.

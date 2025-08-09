@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0498
+Date: 1993-01-31
+Time: 02:02:17
+Buyer Name: Neysa Comar
+Buyer Address: H.No. 46, Som Street, Jalna 960753
+PAN: ABCDE1212F
+GSTIN: 74ABCDE2364Z31
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.685 Amount: Rs.3425
+
+CGST (9%): Rs.308.25
+SGST (9%): Rs.308.25
+Total Amount Payable: Rs.4041.5
+
+Goods once sold will not be taken back.

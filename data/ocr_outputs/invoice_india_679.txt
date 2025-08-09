@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2028/0728
+Date: 1975-04-21
+Time: 16:28:49
+Buyer Name: Himmat Krishnamurthy
+Buyer Address: 466, Kurian Chowk, Tinsukia-399157
+PAN: ABCDE8155F
+GSTIN: 26ABCDE9597Z81
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.726 Amount: Rs.3630
+
+CGST (9%): Rs.326.7
+SGST (9%): Rs.326.7
+Total Amount Payable: Rs.4283.4
+
+Goods once sold will not be taken back.

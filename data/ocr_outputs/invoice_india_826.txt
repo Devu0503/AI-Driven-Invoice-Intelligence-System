@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0443
+Date: 2010-10-29
+Time: 17:00:47
+Buyer Name: Jivika Lanka
+Buyer Address: H.No. 731, Sagar Marg, Jehanabad 993542
+PAN: ABCDE7368F
+GSTIN: 66ABCDE7614Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.867 Amount: Rs.1734
+
+CGST (9%): Rs.156.06
+SGST (9%): Rs.156.06
+Total Amount Payable: Rs.2046.12
+
+Goods once sold will not be taken back.

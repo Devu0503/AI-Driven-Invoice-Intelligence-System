@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2038/0822
+Date: 1987-01-08
+Time: 17:00:01
+Buyer Name: Saksham Bir
+Buyer Address: 16, Wali Nagar, Siwan 695810
+PAN: ABCDE1061F
+GSTIN: 38ABCDE8007Z01
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.903 Amount: Rs.903
+
+CGST (9%): Rs.81.27
+SGST (9%): Rs.81.27
+Total Amount Payable: Rs.1065.54
+
+Goods once sold will not be taken back.

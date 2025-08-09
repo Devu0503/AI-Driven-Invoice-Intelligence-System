@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0409
+Date: 2001-08-20
+Time: 15:23:25
+Buyer Name: Kismat Mahajan
+Buyer Address: 30/50, Bahl Road, Gaya 829216
+PAN: ABCDE3128F
+GSTIN: 29ABCDE1982Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.904 Amount: Rs.3616
+
+CGST (9%): Rs.325.44
+SGST (9%): Rs.325.44
+Total Amount Payable: Rs.4266.88
+
+Goods once sold will not be taken back.

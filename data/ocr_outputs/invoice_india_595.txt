@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0514
+Date: 2016-05-23
+Time: 10:02:54
+Buyer Name: Trisha Mand
+Buyer Address: 98, Talwar Zila, Gandhinagar 050837
+PAN: ABCDE6675F
+GSTIN: 40ABCDE1477Z21
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.420 Amount: Rs.2100
+
+CGST (9%): Rs.189.0
+SGST (9%): Rs.189.0
+Total Amount Payable: Rs.2478.0
+
+Goods once sold will not be taken back.

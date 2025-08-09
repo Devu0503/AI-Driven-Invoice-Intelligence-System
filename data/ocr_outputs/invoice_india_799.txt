@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2085/0526
+Date: 1980-11-10
+Time: 00:43:46
+Buyer Name: Vritika Bedi
+Buyer Address: H.No. 12, Madan Path, Sri Ganganagar-697508
+PAN: ABCDE1462F
+GSTIN: 73ABCDE5795Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.541 Amount: Rs.541
+
+CGST (9%): Rs.48.69
+SGST (9%): Rs.48.69
+Total Amount Payable: Rs.638.38
+
+Goods once sold will not be taken back.

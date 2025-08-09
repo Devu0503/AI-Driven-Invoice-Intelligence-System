@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2022/0925
+Date: 2016-07-10
+Time: 11:00:55
+Buyer Name: Baiju Kalla
+Buyer Address: 55/760, Keer Road, Panihati 791508
+PAN: ABCDE5318F
+GSTIN: 21ABCDE6963Z11
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.937 Amount: Rs.1874
+
+CGST (9%): Rs.168.66
+SGST (9%): Rs.168.66
+Total Amount Payable: Rs.2211.32
+
+Goods once sold will not be taken back.

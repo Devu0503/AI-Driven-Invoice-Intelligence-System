@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2069/0250
+Date: 2017-08-26
+Time: 04:03:12
+Buyer Name: Urvi Sen
+Buyer Address: 31/33, Sunder Path, Rajahmundry-917873
+PAN: ABCDE6183F
+GSTIN: 77ABCDE6402Z81
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 1 Rate: Rs.132 Amount: Rs.132
+
+CGST (9%): Rs.11.88
+SGST (9%): Rs.11.88
+Total Amount Payable: Rs.155.76
+
+Goods once sold will not be taken back.

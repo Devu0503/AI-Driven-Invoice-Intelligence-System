@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0569
+Date: 1975-06-09
+Time: 05:24:52
+Buyer Name: Zain Gara
+Buyer Address: 13, Sangha Street, Bhusawal 765770
+PAN: ABCDE7557F
+GSTIN: 97ABCDE9197Z81
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.564 Amount: Rs.564
+
+CGST (9%): Rs.50.76
+SGST (9%): Rs.50.76
+Total Amount Payable: Rs.665.52
+
+Goods once sold will not be taken back.

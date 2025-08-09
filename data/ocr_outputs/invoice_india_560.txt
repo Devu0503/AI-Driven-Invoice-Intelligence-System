@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2091/0995
+Date: 1970-10-03
+Time: 08:20:24
+Buyer Name: Indrans Hayre
+Buyer Address: H.No. 683, Venkataraman Circle, Rajpur Sonarpur 855406
+PAN: ABCDE2411F
+GSTIN: 18ABCDE7592Z01
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.708 Amount: Rs.3540
+
+CGST (9%): Rs.318.6
+SGST (9%): Rs.318.6
+Total Amount Payable: Rs.4177.2
+
+Goods once sold will not be taken back.

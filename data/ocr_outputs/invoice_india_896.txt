@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2043/0891
+Date: 2000-04-24
+Time: 22:42:50
+Buyer Name: Nishith Mangat
+Buyer Address: 034, Gour Zila, Tinsukia-358950
+PAN: ABCDE8865F
+GSTIN: 20ABCDE1975Z21
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.284 Amount: Rs.852
+
+CGST (9%): Rs.76.68
+SGST (9%): Rs.76.68
+Total Amount Payable: Rs.1005.36
+
+Goods once sold will not be taken back.

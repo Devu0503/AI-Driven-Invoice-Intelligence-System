@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0143
+Date: 2013-09-20
+Time: 10:19:22
+Buyer Name: Tushar Dhar
+Buyer Address: 35/732, Sem, Amravati 492141
+PAN: ABCDE6336F
+GSTIN: 19ABCDE5964Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.483 Amount: Rs.1932
+
+CGST (9%): Rs.173.88
+SGST (9%): Rs.173.88
+Total Amount Payable: Rs.2279.76
+
+Goods once sold will not be taken back.

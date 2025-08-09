@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2077/0531
+Date: 2019-11-24
+Time: 17:21:14
+Buyer Name: Anika Lalla
+Buyer Address: 653, Bahri Ganj, Bidhannagar-243063
+PAN: ABCDE0803F
+GSTIN: 35ABCDE7647Z11
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.840 Amount: Rs.3360
+
+CGST (9%): Rs.302.4
+SGST (9%): Rs.302.4
+Total Amount Payable: Rs.3964.8
+
+Goods once sold will not be taken back.

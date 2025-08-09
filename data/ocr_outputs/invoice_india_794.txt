@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0427
+Date: 1983-05-21
+Time: 23:33:54
+Buyer Name: Diya Kulkarni
+Buyer Address: 01/329, Kadakia Zila, Mau-325557
+PAN: ABCDE4840F
+GSTIN: 42ABCDE2961Z71
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.444 Amount: Rs.1776
+
+CGST (9%): Rs.159.84
+SGST (9%): Rs.159.84
+Total Amount Payable: Rs.2095.68
+
+Goods once sold will not be taken back.

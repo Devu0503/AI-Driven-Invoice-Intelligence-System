@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2079/0890
+Date: 2019-07-23
+Time: 19:53:26
+Buyer Name: Vivaan Borra
+Buyer Address: 37/66, Srivastava Ganj, Srinagar-716190
+PAN: ABCDE6698F
+GSTIN: 0S5ABCDE97792Z11
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.296 Amount: Rs.1184
+
+CGST (9%): Rs.106.56
+SGST (9%): Rs.106.56
+Total Amount Payable: Rs.1397.12
+
+Goods once sold will not be taken back.

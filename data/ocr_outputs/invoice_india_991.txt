@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0032
+Date: 1973-04-15
+Time: 06:35:39
+Buyer Name: Shalv Borra
+Buyer Address: 44, Randhawa Chowk, Amritsar 330904
+PAN: ABCDE8133F
+GSTIN: 77ABCDE5039Z21
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.372 Amount: Rs.1488
+
+CGST (9%): Rs.133.92
+SGST (9%): Rs.133.92
+Total Amount Payable: Rs.1755.84
+
+Goods once sold will not be taken back.

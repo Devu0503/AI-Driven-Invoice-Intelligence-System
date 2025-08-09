@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0055
+Date: 1976-06-10
+Time: 11:51:02
+Buyer Name: Anahi Jaggi
+Buyer Address: H.No. 14, Ravel Circle, Bijapur 523012
+PAN: ABCDE0585F
+GSTIN: 63ABCDE7620Z81
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.714 Amount: Rs.2142
+
+CGST (9%): Rs.192.78
+SGST (9%): Rs.192.78
+Total Amount Payable: Rs.2527.56
+
+Goods once sold will not be taken back.

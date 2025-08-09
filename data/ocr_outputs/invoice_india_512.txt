@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0217
+Date: 2003-06-24
+Time: 13:07:55
+Buyer Name: Adah Manda
+Buyer Address: H.No. 38, Bose Street, Karaikudi 613448
+PAN: ABCDE6771F
+GSTIN: 51ABCDE8879Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.713 Amount: Rs.2139
+
+CGST (9%): Rs.192.51
+SGST (9%): Rs.192.51
+Total Amount Payable: Rs.2524.02
+
+Goods once sold will not be taken back.

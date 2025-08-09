@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0639
+Date: 2021-10-09
+Time: 07:45:23
+Buyer Name: Neysa Gera
+Buyer Address: 80, Gole Chowk, Alwar-439610
+PAN: ABCDE2573F
+GSTIN: 78ABCDE8954Z41
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.814 Amount: Rs.814
+
+CGST (9%): Rs.73.26
+SGST (9%): Rs.73.26
+Total Amount Payable: Rs.960.52
+
+Goods once sold will not be taken back.

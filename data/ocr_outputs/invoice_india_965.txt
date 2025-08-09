@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2045/0305
+Date: 1996-09-24
+Time: 19:45:26
+Buyer Name: Jayan Gill
+Buyer Address: 951, Badami Circle, Rajpur Sonarpur-575195
+PAN: ABCDE7707F
+GSTIN: 36ABCDE7370Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.363 Amount: Rs.1089
+
+CGST (9%): Rs.98.01
+SGST (9%): Rs.98.01
+Total Amount Payable: Rs.1285.02
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2018/0514
+Date: 1978-02-11
+Time: 12:41:42
+Buyer Name: Myra Sarma
+Buyer Address: 68/940, Krish Nagar, Silchar-908488
+PAN: ABCDE7994F
+GSTIN: 73ABCDE3462Z11
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.505 Amount: Rs.1010
+
+CGST (9%): Rs.90.9
+SGST (9%): Rs.90.9
+Total Amount Payable: Rs.1191.8
+
+Goods once sold will not be taken back.

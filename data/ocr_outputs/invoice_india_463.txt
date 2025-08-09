@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0042
+Date: 2003-09-09
+Time: 11:40:47
+Buyer Name: Hunar Shetty
+Buyer Address: H.No. 52, Savant Nagar, Shivpuri 019862
+PAN: ABCDE0053F
+GSTIN: 39ABCDE3048Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.187 Amount: Rs.748
+
+CGST (9%): Rs.67.32
+SGST (9%): Rs.67.32
+Total Amount Payable: Rs.882.64
+
+Goods once sold will not be taken back.

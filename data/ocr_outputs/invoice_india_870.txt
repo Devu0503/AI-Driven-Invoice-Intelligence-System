@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0122
+Date: 2018-06-27
+Time: 06:02:00
+Buyer Name: Shamik Rege
+Buyer Address: H.No. 544, Kanda Chowk, Chittoor-747315
+PAN: ABCDE9965F
+GSTIN: 95ABCDE8044Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.632 Amount: Rs.3160
+
+CGST (9%): Rs.284.4
+SGST (9%): Rs.284.4
+Total Amount Payable: Rs.3728.8
+
+Goods once sold will not be taken back.

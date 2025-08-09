@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2012/0614
+Date: 2001-06-23
+Time: 06:01:05
+Buyer Name: Indranil Issac
+Buyer Address: H.No. 05, Sood Circle, Salem-716081
+PAN: ABCDES149F
+GSTIN: 32ABCDE4802Z11
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.106 Amount: Rs.424
+
+CGST (9%): Rs.38.16
+SGST (9%): Rs.38.16
+Total Amount Payable: Rs.500.32
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2052/0935
+Date: 2005-02-14
+Time: 20:32:31
+Buyer Name: Akarsh Gara
+Buyer Address: 52, Bajwa Marg, Bijapur 290002
+PAN: ABCDE0412F
+GSTIN: 74ABCDE1270Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.410 Amount: Rs.410
+
+CGST (9%): Rs.36.9
+SGST (9%): Rs.36.9
+Total Amount Payable: Rs.483.8
+
+Goods once sold will not be taken back.

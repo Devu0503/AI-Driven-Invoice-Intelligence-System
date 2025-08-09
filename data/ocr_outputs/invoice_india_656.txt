@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2071/0192
+Date: 1971-09-26
+Time: 00:17:38
+Buyer Name: Shaan Sekhon
+Buyer Address: 743, Dhar Chowk, Ballia 556051
+PAN: ABCDE8800F
+GSTIN: 99ABCDE9091Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.434 Amount: Rs.868
+
+CGST (9%): Rs.78.12
+SGST (9%): Rs.78.12
+Total Amount Payable: Rs.1024.24
+
+Goods once sold will not be taken back.

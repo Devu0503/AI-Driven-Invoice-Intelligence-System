@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0474
+Date: 2021-05-20
+Time: 20:09:11
+Buyer Name: Kimaya Bath
+Buyer Address: H.No. 727, Wali Circle, Latur 829120
+PAN: ABCDE4466F
+GSTIN: 49ABCDE0693Z71
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.418 Amount: Rs.1254
+
+CGST (9%): Rs.112.86
+SGST (9%): Rs.112.86
+Total Amount Payable: Rs.1479.72
+
+Goods once sold will not be taken back.

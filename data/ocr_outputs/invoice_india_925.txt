@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2025/0100
+Date: 2002-07-14
+Time: 18:08:04
+Buyer Name: Alisha Gade
+Buyer Address: 38/32, Zacharia Zila, Berhampur 358082
+PAN: ABCDE7097F
+GSTIN: 21ABCDE1826Z91
+
+Item Details:
+
+Item: Earphones
+Quantity: 2 Rate: Rs.267 Amount: Rs.534
+
+CGST (9%): Rs.48.06
+SGST (9%): Rs.48.06
+Total Amount Payable: Rs.630.12
+
+Goods once sold will not be taken back.

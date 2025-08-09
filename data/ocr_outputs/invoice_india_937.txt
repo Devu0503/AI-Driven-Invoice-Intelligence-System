@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0209
+Date: 1990-03-13
+Time: 06:23:24
+Buyer Name: Madhav Thaker
+Buyer Address: 27, Warrior Zila, Madanapalle 486447
+PAN: ABCDE1843F
+GSTIN: 56ABCDE4121Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.587 Amount: Rs.2348
+
+CGST (9%): Rs.211.32
+SGST (9%): Rs.211.32
+Total Amount Payable: Rs.2770.64
+
+Goods once sold will not be taken back.

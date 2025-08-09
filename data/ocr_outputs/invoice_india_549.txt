@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2090/0965
+Date: 2007-05-21
+Time: 16:13:39
+Buyer Name: Riaan De
+Buyer Address: H.No. 924, Sarma Road, Ahmednagar 592615
+PAN: ABCDE6652F
+GSTIN: 90ABCDE8299Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.595 Amount: Rs.1190
+
+CGST (9%): Rs.107.1
+SGST (9%): Rs.107.1
+Total Amount Payable: Rs.1404.2
+
+Goods once sold will not be taken back.

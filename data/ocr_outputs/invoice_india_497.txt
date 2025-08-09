@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0094
+Date: 1974-03-07
+Time: 06:19:38
+Buyer Name: Anika Roy
+Buyer Address: 580, Sheth Street, Morbi-745039
+PAN: ABCDE9136F
+GSTIN: 04ABCDE3849Z81
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: Rs.250 Amount: Rs.250
+
+CGST (9%): Rs.22.5
+SGST (9%): Rs.22.5
+Total Amount Payable: Rs.295.0
+
+Goods once sold will not be taken back.

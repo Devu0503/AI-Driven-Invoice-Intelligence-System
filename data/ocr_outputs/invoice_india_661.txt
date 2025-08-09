@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2055/0200
+Date: 2002-05-26
+Time: 04:22:30
+Buyer Name: Jayan Dhar
+Buyer Address: 03/60, Dara Marg, Salem-900222
+PAN: ABCDE7469F
+GSTIN: 11ABCDE8190Z71
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.956 Amount: Rs.3824
+
+CGST (9%): Rs.344.16
+SGST (9%): Rs.344.16
+Total Amount Payable: Rs.4512.32
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0273
+Date: 2013-12-09
+Time: 12:13:29
+Buyer Name: Lakshit Loyal
+Buyer Address: H.No. 54, Kanda Chowk, Rajahmundry 909250
+PAN: ABCDE6117F
+GSTIN: 06ABCDE8815Z11
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.403 Amount: Rs.2015
+
+CGST (9%): Rs.181.35
+SGST (9%): Rs.181.35
+Total Amount Payable: Rs.2377.7
+
+Goods once sold will not be taken back.

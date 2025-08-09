@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2038/0683
+Date: 2007-11-28
+Time: 17:21:13
+Buyer Name: Elakshi Zacharia
+Buyer Address: 38/63, Dada Nagar, Jorhat-633904
+PAN: ABCDE7430F
+GSTIN: OOABCDE6665211
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.700 Amount: Rs.2800
+
+CGST (9%): Rs.252.0
+SGST (9%): Rs.252.0
+Total Amount Payable: Rs.3304.0
+
+Goods once sold will not be taken back.

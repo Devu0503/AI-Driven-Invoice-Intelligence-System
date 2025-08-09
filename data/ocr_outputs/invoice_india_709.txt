@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0348
+Date: 2010-08-26
+Time: 22:52:17
+Buyer Name: Zeeshan Khurana
+Buyer Address: H.No. 25, Walla Road, Hosur-765490
+PAN: ABCDE0336F
+GSTIN: 78ABCDE2804Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: Rs.497 Amount: Rs.994
+
+CGST (9%): Rs.89.46
+SGST (9%): Rs.89.46
+Total Amount Payable: Rs.1172.92
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0054
+Date: 1995-02-17
+Time: 07:00:53
+Buyer Name: Lakshay Sathe
+Buyer Address: H.No. 04, Bhatt Road, Bulandshahr 223029
+PAN: ABCDE9741F
+GSTIN: 64ABCDE8446Z31
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.752 Amount: Rs.2256
+
+CGST (9%): Rs.203.04
+SGST (9%): Rs.203.04
+Total Amount Payable: Rs.2662.08
+
+Goods once sold will not be taken back.

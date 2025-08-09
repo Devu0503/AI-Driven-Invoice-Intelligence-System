@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2020/0739
+Date: 1978-12-25
+Time: 07:01:41
+Buyer Name: Yuvaan Cherian
+Buyer Address: 07/41, Sur Ganj, Nagercoil 938972
+PAN: ABCDE4534F
+GSTIN: 97ABCDE3202Z31
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.137 Amount: Rs.274
+
+CGST (9%): Rs.24.66
+SGST (9%): Rs.24.66
+Total Amount Payable: Rs.323.32
+
+Goods once sold will not be taken back.

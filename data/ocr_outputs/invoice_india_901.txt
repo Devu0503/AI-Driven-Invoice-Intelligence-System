@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2095/0819
+Date: 1994-10-24
+Time: 01:09:50
+Buyer Name: Seher Ganesan
+Buyer Address: 81/13, Bobal Ganj, Kishanganj 240927
+PAN: ABCDE8648F
+GSTIN: 85ABCDE7156Z51
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.485 Amount: Rs.1455
+
+CGST (9%): Rs.130.95
+SGST (9%): Rs.130.95
+Total Amount Payable: Rs.1716.9
+
+Goods once sold will not be taken back.

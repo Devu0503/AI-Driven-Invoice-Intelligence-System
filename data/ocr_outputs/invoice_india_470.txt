@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2093/0218
+Date: 1978-07-07
+Time: 16:58:08
+Buyer Name: Jayan Brahmbhatt
+Buyer Address: H.No. 257, Bath Marg, Bikaner-210955
+PAN: ABCDE2831F
+GSTIN: 19ABCDE0248Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.130 Amount: Rs.390
+
+CGST (9%): Rs.35.1
+SGST (9%): Rs.35.1
+Total Amount Payable: Rs.460.2
+
+Goods once sold will not be taken back.

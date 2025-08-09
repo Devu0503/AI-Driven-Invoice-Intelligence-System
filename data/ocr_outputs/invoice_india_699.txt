@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0702
+Date: 2010-06-27
+Time: 09:54:32
+Buyer Name: Piya Agate
+Buyer Address: H.No. 91, Sodhi Chowk, Durgapur-571902
+PAN: ABCDE4845F
+GSTIN: O89ABCDE0208Z91
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.976 Amount: Rs.976
+
+CGST (9%): Rs.87.84
+SGST (9%): Rs.87.84
+Total Amount Payable: Rs.1151.68
+
+Goods once sold will not be taken back.

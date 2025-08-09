@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0195
+Date: 2015-09-28
+Time: 17:39:42
+Buyer Name: Mahika Rajan
+Buyer Address: H.No. 42, Ramaswamy Circle, Sonipat-973353
+PAN: ABCDE7023F
+GSTIN: 16ABCDE7628Z41
+
+Item Details:
+
+Item: Charger
+Quantity: 5 Rate: Rs.896 Amount: Rs.4480
+
+CGST (9%): Rs.403.2
+SGST (9%): Rs.403.2
+Total Amount Payable: Rs.5286.4
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2034/0586
+Date: 1984-05-03
+Time: 04:18:10
+Buyer Name: Vardaniya Dey
+Buyer Address: 74/77, Lal Path, Kottayam-300224
+PAN: ABCDE9115F
+GSTIN: 84ABCDE3298Z61
+
+Item Details:
+
+Item: Webcam
+Quantity: 1 Rate: Rs.177 Amount: Rs.177
+
+CGST (9%): Rs.15.93
+SGST (9%): Rs.15.93
+Total Amount Payable: Rs.208.86
+
+Goods once sold will not be taken back.

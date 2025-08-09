@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2024/0560
+Date: 1990-07-01
+Time: 06:50:22
+Buyer Name: Arhaan Kumar
+Buyer Address: 18/496, Wali Street, Miryalaguda 200236
+PAN: ABCDE5283F
+GSTIN: 93ABCDE9593Z01
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.499 Amount: Rs.1497
+
+CGST (9%): Rs.134.73
+SGST (9%): Rs.134.73
+Total Amount Payable: Rs.1766.46
+
+Goods once sold will not be taken back.

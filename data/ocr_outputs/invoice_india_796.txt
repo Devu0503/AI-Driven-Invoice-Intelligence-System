@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0383
+Date: 2023-02-19
+Time: 00:56:16
+Buyer Name: Mohanlal Ramakrishnan
+Buyer Address: 37/145, Sarna Zila, Firozabad-108128
+PAN: ABCDE0734F
+GSTIN: 66ABCDE6505Z61
+
+Item Details:
+
+Item: Power Bank
+Quantity: 1 Rate: Rs.737 Amount: Rs.737
+
+CGST (9%): Rs.66.33
+SGST (9%): Rs.66.33
+Total Amount Payable: Rs.869.66
+
+Goods once sold will not be taken back.

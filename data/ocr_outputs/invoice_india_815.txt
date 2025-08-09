@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2092/0086
+Date: 1997-09-13
+Time: 23:48:43
+Buyer Name: Eva Ghosh
+Buyer Address: H.No. 828, Saraf Zila, Bettiah 970669
+PAN: ABCDE6026F
+GSTIN: 39ABCDE11212Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.228 Amount: Rs.684
+
+CGST (9%): Rs.61.56
+SGST (9%): Rs.61.56
+Total Amount Payable: Rs.807.12
+
+Goods once sold will not be taken back.

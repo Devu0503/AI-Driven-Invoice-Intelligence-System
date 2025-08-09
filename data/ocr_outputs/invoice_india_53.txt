@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2002/0557
+Date: 2013-11-03
+Time: 05:48:38
+Buyer Name: Anvi lyer
+Buyer Address: 17, Sood Road, Loni 481607
+PAN: ABCDE3787F
+GSTIN: O6ABCDE4953Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.227 Amount: Rs.908
+
+CGST (9%): Rs.81.72
+SGST (9%): Rs.81.72
+Total Amount Payable: Rs.1071.44
+
+Goods once sold will not be taken back.

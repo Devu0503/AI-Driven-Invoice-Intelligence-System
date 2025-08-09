@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0116
+Date: 2014-07-18
+Time: 17:11:57
+Buyer Name: Emir Dugar
+Buyer Address: 78, Kannan Ganj, Nizamabad 393205
+PAN: ABCDE8558F
+GSTIN: 97ABCDE9590Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: Rs.111 Amount: Rs.444
+
+CGST (9%): Rs.39.96
+SGST (9%): Rs.39.96
+Total Amount Payable: Rs.523.92
+
+Goods once sold will not be taken back.

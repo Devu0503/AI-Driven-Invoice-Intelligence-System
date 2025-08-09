@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2049/0159
+Date: 1986-05-20
+Time: 19:30:13
+Buyer Name: Tushar Mann
+Buyer Address: H.No. 120, Buch Nagar, Firozabad 181916
+PAN: ABCDE9024F
+GSTIN: 0SABCDE3255Z01
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.973 Amount: Rs.973
+
+CGST (9%): Rs.87.57
+SGST (9%): Rs.87.57
+Total Amount Payable: Rs.1148.14
+
+Goods once sold will not be taken back.

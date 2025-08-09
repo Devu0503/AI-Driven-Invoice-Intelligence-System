@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2033/0448
+Date: 2021-12-09
+Time: 13:25:51
+Buyer Name: Heer Bora
+Buyer Address: 12/51, Kari Nagar, Unnao 836498
+PAN: ABCDE8926F
+GSTIN: 72ABCDE4636Z41
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.994 Amount: Rs.1988
+
+CGST (9%): Rs.178.92
+SGST (9%): Rs.178.92
+Total Amount Payable: Rs.2345.84
+
+Goods once sold will not be taken back.

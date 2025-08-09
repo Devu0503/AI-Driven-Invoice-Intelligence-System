@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0014
+Date: 2001-02-09
+Time: 06:15:07
+Buyer Name: Kavya Ramachandran
+Buyer Address: H.No. 311, Kunda Chowk, Tinsukia 940665
+PAN: ABCDE2219F
+GSTIN: 40ABCDE9876Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.915 Amount: Rs.4575
+
+CGST (9%): Rs.411.75
+SGST (9%): Rs.411.75
+Total Amount Payable: Rs.5398.5
+
+Goods once sold will not be taken back.

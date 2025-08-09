@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0738
+Date: 1999-05-15
+Time: 12:09:31
+Buyer Name: Shamik Dutta
+Buyer Address: 89/30, Bhakta Ganj, Karimnagar-431899
+PAN: ABCDE3860F
+GSTIN: O6ABCDE2739Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.159 Amount: Rs.477
+
+CGST (9%): Rs.42.93
+SGST (9%): Rs.42.93
+Total Amount Payable: Rs.562.86
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2087/0326
+Date: 1972-02-14
+Time: 16:29:04
+Buyer Name: Nirvaan Karpe
+Buyer Address: 21, Raval Circle, Shimoga 941420
+PAN: ABCDE3096F
+GSTIN: 57ABCDE7200Z71
+
+Item Details:
+
+Item: Charger
+Quantity: 4 Rate: Rs.907 Amount: Rs.3628
+
+CGST (9%): Rs.326.52
+SGST (9%): Rs.326.52
+Total Amount Payable: Rs.4281.04
+
+Goods once sold will not be taken back.

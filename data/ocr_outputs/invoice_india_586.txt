@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0809
+Date: 1982-11-12
+Time: 20:30:19
+Buyer Name: Eva Jayaraman
+Buyer Address: H.No. 999, Comar Path, Surendranagar Dudhrej 885178
+PAN: ABCDE2862F
+GSTIN: 20ABCDE0722Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.107 Amount: Rs.214
+
+CGST (9%): Rs.19.26
+SGST (9%): Rs.19.26
+Total Amount Payable: Rs.252.52
+
+Goods once sold will not be taken back.

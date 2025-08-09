@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0996
+Date: 2008-08-19
+Time: 12:27:12
+Buyer Name: Shaan Handa
+Buyer Address: 54, Hayre Ganj, Pudukkottai-253131
+PAN: ABCDE5118F
+GSTIN: 31ABCDE5537Z01
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.545 Amount: Rs.2725
+
+CGST (9%): Rs.245.25
+SGST (9%): Rs.245.25
+Total Amount Payable: Rs.3215.5
+
+Goods once sold will not be taken back.

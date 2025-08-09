@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2017/0857
+Date: 1993-05-25
+Time: 12:18:56
+Buyer Name: Rania Bhatt
+Buyer Address: 81/313, Gole Road, Nashik 250579
+PAN: ABCDE8137F
+GSTIN: 07ABCDE7837Z71
+
+Item Details:
+
+Item: Webcam
+Quantity: 2 Rate: Rs.352 Amount: Rs.704
+
+CGST (9%): Rs.63.36
+SGST (9%): Rs.63.36
+Total Amount Payable: Rs.830.72
+
+Goods once sold will not be taken back.

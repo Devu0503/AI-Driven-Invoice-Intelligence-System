@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0675
+Date: 1976-10-20
+Time: 21:27:12
+Buyer Name: Ayesha Vora
+Buyer Address: 39, Zachariah Marg, Mau-398923
+PAN: ABCDE0497F
+GSTIN: 20ABCDE4573Z81
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.181 Amount: Rs.905
+
+CGST (9%): Rs.81.45
+SGST (9%): Rs.81.45
+Total Amount Payable: Rs.1067.9
+
+Goods once sold will not be taken back.

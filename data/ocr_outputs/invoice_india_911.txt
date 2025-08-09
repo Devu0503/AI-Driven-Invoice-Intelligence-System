@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2025/0884
+Date: 1978-02-02
+Time: 16:19:34
+Buyer Name: Khushi Lanka
+Buyer Address: 967, Chhabra Path, Raurkela Industrial Township 953371
+PAN: ABCDE1732F
+GSTIN: 12ABCDE6481Z51
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.681 Amount: Rs.681
+
+CGST (9%): Rs.61.29
+SGST (9%): Rs.61.29
+Total Amount Payable: Rs.803.58
+
+Goods once sold will not be taken back.

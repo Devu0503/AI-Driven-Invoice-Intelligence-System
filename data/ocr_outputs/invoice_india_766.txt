@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2025/0427
+Date: 2018-08-09
+Time: 18:47:20
+Buyer Name: Vanya Karpe
+Buyer Address: 29/94, Kaul Nagar, Darbhanga 241513
+PAN: ABCDE4574F
+GSTIN: 68ABCDE1070Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.162 Amount: Rs.810
+
+CGST (9%): Rs.72.9
+SGST (9%): Rs.72.9
+Total Amount Payable: Rs.955.8
+
+Goods once sold will not be taken back.

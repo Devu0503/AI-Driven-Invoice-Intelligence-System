@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2041/0010
+Date: 2020-12-14
+Time: 05:34:40
+Buyer Name: Hiran Buch
+Buyer Address: 46, Kalita Chowk, Mysore 360765
+PAN: ABCDE2060F
+GSTIN: 17ABCDE8114Z31
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.954 Amount: Rs.4770
+
+CGST (9%): Rs.429.3
+SGST (9%): Rs.429.3
+Total Amount Payable: Rs.5628.6
+
+Goods once sold will not be taken back.

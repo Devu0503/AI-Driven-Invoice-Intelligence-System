@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2096/0025
+Date: 1975-06-07
+Time: 00:31:26
+Buyer Name: Madhup Dhar
+Buyer Address: 79/31, Borah, Bally-598818
+PAN: ABCDE6909F
+GSTIN: 33ABCDE4274Z81
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.702 Amount: Rs.1404
+
+CGST (9%): Rs.126.36
+SGST (9%): Rs.126.36
+Total Amount Payable: Rs.1656.72
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2063/0109
+Date: 1972-09-09
+Time: 11:39:44
+Buyer Name: Miraan Ramakrishnan
+Buyer Address: 26/98, Ahluwalia Path, Rajahmundry-482781
+PAN: ABCDE9590F
+GSTIN: 95ABCDE3612Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.151 Amount: Rs.453
+
+CGST (9%): Rs.40.77
+SGST (9%): Rs.40.77
+Total Amount Payable: Rs.534.54
+
+Goods once sold will not be taken back.

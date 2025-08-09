@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2067/0315
+Date: 1983-11-22
+Time: 10:15:08
+Buyer Name: Inaaya Sundaram
+Buyer Address: H.No. 979, Buch Nagar, Nadiad 988728
+PAN: ABCDE1020F
+GSTIN: 91ABCDE4637Z21
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.781 Amount: Rs.2343
+
+CGST (9%): Rs.210.87
+SGST (9%): Rs.210.87
+Total Amount Payable: Rs.2764.74
+
+Goods once sold will not be taken back.

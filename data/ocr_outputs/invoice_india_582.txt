@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2081/0331
+Date: 2008-05-02
+Time: 11:13:54
+Buyer Name: Yasmin Bhardwaj
+Buyer Address: H.No. 267, Venkataraman Nagar, Bidar 027160
+PAN: ABCDE6523F
+GSTIN: 63ABCDE4002Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.670 Amount: Rs.1340
+
+CGST (9%): Rs.120.6
+SGST (9%): Rs.120.6
+Total Amount Payable: Rs.1581.2
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2048/0514
+Date: 1990-09-12
+Time: 22:57:11
+Buyer Name: Jayant Lala
+Buyer Address: 24/58, Kakar Ganj, Bettiah 985725
+PAN: ABCDE6843F
+GSTIN: 24ABCDE2929Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 2 Rate: Rs.192 Amount: Rs.384
+
+CGST (9%): Rs.34.56
+SGST (9%): Rs.34.56
+Total Amount Payable: Rs.453.12
+
+Goods once sold will not be taken back.

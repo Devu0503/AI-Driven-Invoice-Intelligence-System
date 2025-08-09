@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0381
+Date: 2018-10-30
+Time: 09:33:22
+Buyer Name: Ela Edwin
+Buyer Address: 60/08, Bajwa Path, Khandwa 946125
+PAN: ABCDE0501F
+GSTIN: 93ABCDE9062Z91
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.497 Amount: Rs.1491
+
+CGST (9%): Rs.134.19
+SGST (9%): Rs.134.19
+Total Amount Payable: Rs.1759.38
+
+Goods once sold will not be taken back.

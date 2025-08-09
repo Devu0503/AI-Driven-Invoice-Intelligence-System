@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2084/0434
+Date: 1999-07-18
+Time: 01:14:58
+Buyer Name: Aarna Kata
+Buyer Address: 10, Cherian, Rohtak 748340
+PAN: ABCDE8134F
+GSTIN: 35ABCDE5123Z41
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 1 Rate: Rs.371 Amount: Rs.371
+
+CGST (9%): Rs.33.39
+SGST (9%): Rs.33.39
+Total Amount Payable: Rs.437.78
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0104
+Date: 1996-01-17
+Time: 12:34:29
+Buyer Name: Abram Bhargava
+Buyer Address: H.No. 565, Sura, Gwalior 802472
+PAN: ABCDE3422F
+GSTIN: 32ABCDE8737Z31
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 1 Rate: Rs.665 Amount: Rs.665
+
+CGST (9%): Rs.59.85
+SGST (9%): Rs.59.85
+Total Amount Payable: Rs.784.7
+
+Goods once sold will not be taken back.

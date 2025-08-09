@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2005/0661
+Date: 1980-10-31
+Time: 05:52:01
+Buyer Name: Vaibhav Arora
+Buyer Address: 31/06, Boase Path, Madhyamgram-903851
+PAN: ABCDESO60F
+GSTIN: 75ABCDE6038Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.783 Amount: Rs.1566
+
+CGST (9%): Rs.140.94
+SGST (9%): Rs.140.94
+Total Amount Payable: Rs.1847.88
+
+Goods once sold will not be taken back.

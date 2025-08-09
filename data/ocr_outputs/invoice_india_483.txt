@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2007/0122
+Date: 1991-06-02
+Time: 17:48:20
+Buyer Name: Rhea Bhasin
+Buyer Address: 83, Dhillon Path, Unnao 536660
+PAN: ABCDE9675F
+GSTIN: 75ABCDE5185Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 5 Rate: Rs.902 Amount: Rs.4510
+
+CGST (9%): Rs.405.9
+SGST (9%): Rs.405.9
+Total Amount Payable: Rs.5321.8
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2039/0626
+Date: 2021-09-26
+Time: 19:09:47
+Buyer Name: Azad Guha
+Buyer Address: H.No. 50, Divan Marg, Allahabad 563722
+PAN: ABCDE3033F
+GSTIN: 53ABCDE9488Z71
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 3 Rate: Rs.964 Amount: Rs.2892
+
+CGST (9%): Rs.260.28
+SGST (9%): Rs.260.28
+Total Amount Payable: Rs.3412.56
+
+Goods once sold will not be taken back.

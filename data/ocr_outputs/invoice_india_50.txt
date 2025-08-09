@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0740
+Date: 2011-09-29
+Time: 08:23:38
+Buyer Name: Darshit Jani
+Buyer Address: H.No. 413, Shere Nagar, Ghaziabad-248835
+PAN: ABCDE8671F
+GSTIN: 28ABCDE6757Z01
+
+Item Details:
+
+Item: Webcam
+Quantity: 1 Rate: Rs.946 Amount: Rs.946
+
+CGST (9%): Rs.85.14
+SGST (9%): Rs.85.14
+Total Amount Payable: Rs.1116.28
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2002/0116
+Date: 1996-10-11
+Time: 05:45:50
+Buyer Name: Ojas Ratta
+Buyer Address: 76/07, Ganesh Zila, Singrauli-453856
+PAN: ABCDE8302F
+GSTIN: 82ABCDE5015Z71
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.664 Amount: Rs.3320
+
+CGST (9%): Rs.298.8
+SGST (9%): Rs.298.8
+Total Amount Payable: Rs.3917.6
+
+Goods once sold will not be taken back.

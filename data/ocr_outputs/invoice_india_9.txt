@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2070/0952
+Date: 1997-08-29
+Time: 12:49:17
+Buyer Name: Ayesha Agate
+Buyer Address: H.No. 887, Ram Ganj, Allahabad 090850
+PAN: ABCDE9527F
+GSTIN: 44ABCDE9660Z91
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.349 Amount: Rs.1047
+
+CGST (9%): Rs.94.23
+SGST (9%): Rs.94.23
+Total Amount Payable: Rs.1235.46
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0822
+Date: 1984-11-06
+Time: 06:34:59
+Buyer Name: Priyansh Grover
+Buyer Address: 18, Krish Path, Bhimavaram-492812
+PAN: ABCDE3407F
+GSTIN: 75ABCDE5287211
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.312 Amount: Rs.1560
+
+CGST (9%): Rs.140.4
+SGST (9%): Rs.140.4
+Total Amount Payable: Rs.1840.8
+
+Goods once sold will not be taken back.

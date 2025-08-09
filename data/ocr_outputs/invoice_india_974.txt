@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2087/0583
+Date: 1987-05-31
+Time: 11:34:09
+Buyer Name: Kartik Devan
+Buyer Address: 96, Wable Nagar, Allahabad 705920
+PAN: ABCDE1750F
+GSTIN: 99ABCDE2013Z41
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 5 Rate: Rs.908 Amount: Rs.4540
+
+CGST (9%): Rs.408.6
+SGST (9%): Rs.408.6
+Total Amount Payable: Rs.5357.2
+
+Goods once sold will not be taken back.

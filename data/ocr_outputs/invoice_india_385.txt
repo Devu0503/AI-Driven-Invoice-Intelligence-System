@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0731
+Date: 1995-07-04
+Time: 00:22:29
+Buyer Name: Dhanuk Lanka
+Buyer Address: H.No. 18, Dubey, Mysore 089445
+PAN: ABCDES795F
+GSTIN: 93ABCDE70112Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.336 Amount: Rs.1008
+
+CGST (9%): Rs.90.72
+SGST (9%): Rs.90.72
+Total Amount Payable: Rs.1189.44
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2010/0574
+Date: 2002-09-28
+Time: 07:57:26
+Buyer Name: Veer Boase
+Buyer Address: 886, Varghese Path, Pali-430136
+PAN: ABCDE0374F
+GSTIN: 47ABCDE9714Z31
+
+Item Details:
+
+Item: Webcam
+Quantity: 3 Rate: Rs.787 Amount: Rs.2361
+
+CGST (9%): Rs.212.49
+SGST (9%): Rs.212.49
+Total Amount Payable: Rs.2785.98
+
+Goods once sold will not be taken back.

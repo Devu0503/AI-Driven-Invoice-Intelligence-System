@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0310
+Date: 2023-06-15
+Time: 06:04:29
+Buyer Name: Miraan Vala
+Buyer Address: 23, Shetty Street, Gorakhpur-649731
+PAN: ABCDE3940F
+GSTIN: 29ABCDE0815Z91
+
+Item Details:
+
+Item: Webcam
+Quantity: 1 Rate: Rs.399 Amount: Rs.399
+
+CGST (9%): Rs.35.91
+SGST (9%): Rs.35.91
+Total Amount Payable: Rs.470.82
+
+Goods once sold will not be taken back.

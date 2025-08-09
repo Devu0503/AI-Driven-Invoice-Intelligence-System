@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2021/0751
+Date: 2003-01-01
+Time: 04:48:05
+Buyer Name: Aaryahi Kanda
+Buyer Address: 36, Lanka Road, Asansol-3551 86
+PAN: ABCDE1261F
+GSTIN: 22ABCDE1295Z21
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.240 Amount: Rs.960
+
+CGST (9%): Rs.86.4
+SGST (9%): Rs.86.4
+Total Amount Payable: Rs.1132.8
+
+Goods once sold will not be taken back.

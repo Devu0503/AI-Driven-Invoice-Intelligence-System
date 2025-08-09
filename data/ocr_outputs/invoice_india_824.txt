@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2072/0500
+Date: 2003-06-03
+Time: 20:53:35
+Buyer Name: Samar Chaudhary
+Buyer Address: H.No. 257, Cheema Path, Burhanpur 154321
+PAN: ABCDE0226F
+GSTIN: 82ABCDE7556Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 2 Rate: Rs.749 Amount: Rs.1498
+
+CGST (9%): Rs.134.82
+SGST (9%): Rs.134.82
+Total Amount Payable: Rs.1767.64
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2026/0426
+Date: 1974-04-28
+Time: 13:31:43
+Buyer Name: Nakul Buch
+Buyer Address: H.No. 36, Sarraf, Patiala-162218
+PAN: ABCDE3751F
+GSTIN: 51ABCDE5922Z11
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.987 Amount: Rs.2961
+
+CGST (9%): Rs.266.49
+SGST (9%): Rs.266.49
+Total Amount Payable: Rs.3493.98
+
+Goods once sold will not be taken back.

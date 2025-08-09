@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2009/0799
+Date: 1976-12-28
+Time: 07:12:43
+Buyer Name: Arnav Dave
+Buyer Address: 006, Chadha, Ghaziabad 251716
+PAN: ABCDE6275F
+GSTIN: 94ABCDE4532Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 5 Rate: Rs.104 Amount: Rs.520
+
+CGST (9%): Rs.46.8
+SGST (9%): Rs.46.8
+Total Amount Payable: Rs.613.6
+
+Goods once sold will not be taken back.

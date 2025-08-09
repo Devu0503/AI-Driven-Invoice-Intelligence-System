@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2036/0390
+Date: 1988-12-06
+Time: 00:14:22
+Buyer Name: Advik Doctor
+Buyer Address: 20/43, Balan Street, Nanded-612830
+PAN: ABCDE5529F
+GSTIN: 32ABCDE0782Z81
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.758 Amount: Rs.2274
+
+CGST (9%): Rs.204.66
+SGST (9%): Rs.204.66
+Total Amount Payable: Rs.2683.32
+
+Goods once sold will not be taken back.

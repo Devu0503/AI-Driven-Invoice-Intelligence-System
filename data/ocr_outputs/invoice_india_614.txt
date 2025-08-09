@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0531
+Date: 1978-12-06
+Time: 04:09:49
+Buyer Name: Kartik Thaman
+Buyer Address: 12, Korpal Road, Pondicherry 716920
+PAN: ABCDE4234F
+GSTIN: 30ABCDE2283Z11
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.862 Amount: Rs.4310
+
+CGST (9%): Rs.387.9
+SGST (9%): Rs.387.9
+Total Amount Payable: Rs.5085.8
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0845
+Date: 1994-05-07
+Time: 06:58:43
+Buyer Name: Saanvi Contractor
+Buyer Address: 74, Vohra Street, Jamalpur 586625
+PAN: ABCDE5133F
+GSTIN: 88ABCDE1576Z71
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.845 Amount: Rs.2535
+
+CGST (9%): Rs.228.15
+SGST (9%): Rs.228.15
+Total Amount Payable: Rs.2991.3
+
+Goods once sold will not be taken back.

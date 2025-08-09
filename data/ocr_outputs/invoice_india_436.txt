@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2099/0961
+Date: 1981-12-10
+Time: 09:31:44
+Buyer Name: Riaan Deep
+Buyer Address: 273, Kadakia Marg, Sultan Pur Majra 822685
+PAN: ABCDE9888F
+GSTIN: 35ABCDE1640Z51
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 2 Rate: Rs.601 Amount: Rs.1202
+
+CGST (9%): Rs.108.18
+SGST (9%): Rs.108.18
+Total Amount Payable: Rs.1418.36
+
+Goods once sold will not be taken back.

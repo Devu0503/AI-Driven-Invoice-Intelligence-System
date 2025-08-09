@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2000/0881
+Date: 2007-07-16
+Time: 09:56:17
+Buyer Name: Seher Lal
+Buyer Address: H.No. 79, Sarin Road, Yamunanagar 584331
+PAN: ABCDE7951F
+GSTIN: 34ABCDE6039Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 1 Rate: Rs.268 Amount: Rs.268
+
+CGST (9%): Rs.24.12
+SGST (9%): Rs.24.12
+Total Amount Payable: Rs.316.24
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2001/0105
+Date: 2005-11-21
+Time: 16:41:01
+Buyer Name: Romil Dewan
+Buyer Address: 88/029, Reddy Ganj, Tadepalligudem 217785
+PAN: ABCDE8501F
+GSTIN: 89ABCDE8757Z01
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.200 Amount: Rs.400
+
+CGST (9%): Rs.36.0
+SGST (9%): Rs.36.0
+Total Amount Payable: Rs.472.0
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0344
+Date: 1972-09-12
+Time: 15:41:20
+Buyer Name: Nakul Apte
+Buyer Address: 82/81, Lad Path, Sagar 386686
+PAN: ABCDE3468F
+GSTIN: 69ABCDE4294211
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.838 Amount: Rs.2514
+
+CGST (9%): Rs.226.26
+SGST (9%): Rs.226.26
+Total Amount Payable: Rs.2966.52
+
+Goods once sold will not be taken back.

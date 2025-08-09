@@ -1,17 +1,29 @@
 import os
 import re
 import pandas as pd
+from datetime import datetime
 
 def parse_invoice_text(text):
-    # Basic example using regex
-    invoice_no = re.search(r"Invoice\s*No[:\-]?\s*(\w+)", text, re.IGNORECASE)
-    date = re.search(r"Date[:\-]?\s*([0-9]{2}/[0-9]{2}/[0-9]{4})", text)
-    total = re.search(r"Total\s*Amount[:\-]?\s*₹?([\d,]+\.\d{2})", text)
+    def extract(pattern, default=""):
+        match = re.search(pattern, text, re.IGNORECASE)
+        return match.group(1).strip() if match else default
 
     return {
-        "Invoice_No": invoice_no.group(1) if invoice_no else "",
-        "Date": date.group(1) if date else "",
-        "Total_Amount": total.group(1) if total else "",
+        "Invoice_No": extract(r"Invoice\s*No[:\-]?\s*([\w\/-]+)", "INV"),
+        "Date": extract(r"Date[:\-]?\s*([\d\-\/]+)", datetime.today().strftime("%Y-%m-%d")),
+        "Time": extract(r"Time[:\-]?\s*([\d:APMapm\s]+)", datetime.now().strftime("%H:%M:%S")),
+        "Buyer_Name": extract(r"Buyer\s*Name[:\-]?\s*(.+)"),
+        "Buyer_Address": extract(r"Buyer\s*Address[:\-]?\s*(.+)"),
+        "PAN": extract(r"PAN\s*No[:\-]?\s*(\w{10})"),
+        "GSTIN": extract(r"GSTIN[:\-]?\s*([\dA-Z]{15})"),
+        "Item": extract(r"Item[:\-]?\s*(.+)"),
+        "Qty": extract(r"Quantity[:\-]?\s*(\d+)"),
+        "Rate": extract(r"Rate[:\-]?\s*Rs\.?(\d+)"),
+        "Amount": extract(r"Amount[:\-]?\s*Rs\.?([\d,.]+)"),
+        "CGST": extract(r"CGST.*Rs\.?([\d,.]+)"),
+        "SGST": extract(r"SGST.*Rs\.?([\d,.]+)"),
+        "Total": extract(r"Total\s*Amount\s*Payable[:\-]?\s*Rs\.?([\d,.]+)"),
+        "Terms": extract(r"Terms[:\-]?\s*(.+)"),
     }
 
 def extract_from_ocr_outputs(input_folder, output_csv):
@@ -27,7 +39,7 @@ def extract_from_ocr_outputs(input_folder, output_csv):
     df = pd.DataFrame(records)
     os.makedirs(os.path.dirname(output_csv), exist_ok=True)
     df.to_csv(output_csv, index=False)
-    print(f"✅ Extracted data saved to: {output_csv}")
+    print(f" Extracted structured data saved to: {output_csv}")
 
 if __name__ == "__main__":
     extract_from_ocr_outputs("data/ocr_outputs", "data/structured_csv/invoice_data.csv")

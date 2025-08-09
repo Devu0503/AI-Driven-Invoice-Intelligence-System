@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2042/0931
+Date: 1980-03-26
+Time: 12:16:29
+Buyer Name: Kiara Gera
+Buyer Address: 133, Kumar Road, Ajmer 979682
+PAN: ABCDE3040F
+GSTIN: 27ABCDE3817Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.134 Amount: Rs.402
+
+CGST (9%): Rs.36.18
+SGST (9%): Rs.36.18
+Total Amount Payable: Rs.474.36
+
+Goods once sold will not be taken back.

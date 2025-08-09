@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2035/0206
+Date: 2021-02-17
+Time: 12:10:20
+Buyer Name: Vaibhav Grover
+Buyer Address: 238, Chand, Sangli-Miraj & Kupwad 094590
+PAN: ABCDE3716F
+GSTIN: 01ABCDE2553Z21
+
+Item Details:
+
+Item: Keyboard
+Quantity: 1 Rate: Rs.972 Amount: Rs.972
+
+CGST (9%): Rs.87.48
+SGST (9%): Rs.87.48
+Total Amount Payable: Rs.1146.96
+
+Goods once sold will not be taken back.

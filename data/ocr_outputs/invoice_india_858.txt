@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2034/0238
+Date: 1996-10-04
+Time: 16:08:24
+Buyer Name: Mishti Chaudhary
+Buyer Address: 324, Dutta Zila, Asansol 073462
+PAN: ABCDE6101F
+GSTIN: 55ABCDE2571Z71
+
+Item Details:
+
+Item: Power Bank
+Quantity: 2 Rate: Rs.102 Amount: Rs.204
+
+CGST (9%): Rs.18.36
+SGST (9%): Rs.18.36
+Total Amount Payable: Rs.240.72
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2066/0529
+Date: 2022-09-13
+Time: 16:15:29
+Buyer Name: Ishaan Borde
+Buyer Address: 37, Salvi Chowk, Madhyamgram-403223
+PAN: ABCDE7183F
+GSTIN: 67ABCDE8085Z41
+
+Item Details:
+
+Item: Charger
+Quantity: 3 Rate: Rs.519 Amount: Rs.1557
+
+CGST (9%): Rs.140.13
+SGST (9%): Rs.140.13
+Total Amount Payable: Rs.1837.26
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0189
+Date: 1984-01-27
+Time: 11:09:15
+Buyer Name: Pari Sule
+Buyer Address: 55/56, Devan Street, Buxar-869236
+PAN: ABCDE6706F
+GSTIN: 61ABCDE3954Z01
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 5 Rate: Rs.740 Amount: Rs.3700
+
+CGST (9%): Rs.333.0
+SGST (9%): Rs.333.0
+Total Amount Payable: Rs.4366.0
+
+Goods once sold will not be taken back.

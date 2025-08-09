@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2006/0120
+Date: 2021-12-08
+Time: 22:25:56
+Buyer Name: Hansh Walla
+Buyer Address: H.No. 60, Dugar Path, Panchkula 916286
+PAN: ABCDE8117F
+GSTIN: 90ABCDE1869Z71
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.421 Amount: Rs.1684
+
+CGST (9%): Rs.151.56
+SGST (9%): Rs.151.56
+Total Amount Payable: Rs.1987.12
+
+Goods once sold will not be taken back.

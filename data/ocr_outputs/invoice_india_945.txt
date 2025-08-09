@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2032/0387
+Date: 1976-09-06
+Time: 02:59:01
+Buyer Name: Jayant Aurora
+Buyer Address: H.No. 938, Dua Street, Junagadh 760190
+PAN: ABCDE0216F
+GSTIN: 92ABCDE3400Z11
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 5 Rate: Rs.642 Amount: Rs.3210
+
+CGST (9%): Rs.288.9
+SGST (9%): Rs.288.9
+Total Amount Payable: Rs.3787.8
+
+Goods once sold will not be taken back.

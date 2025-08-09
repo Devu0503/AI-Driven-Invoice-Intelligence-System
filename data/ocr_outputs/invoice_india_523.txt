@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2094/0350
+Date: 1976-06-02
+Time: 15:07:21
+Buyer Name: Renee Sahni
+Buyer Address: H.No. 669, Bhatia Ganj, Kolhapur-526992
+PAN: ABCDE5814F
+GSTIN: 33ABCDE1340Z61
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.694 Amount: Rs.2776
+
+CGST (9%): Rs.249.84
+SGST (9%): Rs.249.84
+Total Amount Payable: Rs.3275.68
+
+Goods once sold will not be taken back.

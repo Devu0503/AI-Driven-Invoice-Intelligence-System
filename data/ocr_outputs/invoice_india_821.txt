@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2078/0127
+Date: 1993-06-10
+Time: 00:58:12
+Buyer Name: Eva Bhatia
+Buyer Address: 689, Kar Chowk, Akola-016547
+PAN: ABCDE1261F
+GSTIN: 60ABCDE5483Z51
+
+Item Details:
+
+Item: Power Bank
+Quantity: 4 Rate: Rs.237 Amount: Rs.948
+
+CGST (9%): Rs.85.32
+SGST (9%): Rs.85.32
+Total Amount Payable: Rs.1118.64
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2047/0327
+Date: 1998-05-09
+Time: 15:29:08
+Buyer Name: Ranbir Loyal
+Buyer Address: H.No. 376, Jain Ganj, Hindupur-679689
+PAN: ABCDE1305F
+GSTIN: 53ABCDE8218Z71
+
+Item Details:
+
+Item: Earphones
+Quantity: 5 Rate: Rs.235 Amount: Rs.1175
+
+CGST (9%): Rs.105.75
+SGST (9%): Rs.105.75
+Total Amount Payable: Rs.1386.5
+
+Goods once sold will not be taken back.

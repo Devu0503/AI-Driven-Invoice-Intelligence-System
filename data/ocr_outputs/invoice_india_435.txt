@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2030/0103
+Date: 2013-01-07
+Time: 22:28:45
+Buyer Name: Rasha Kala
+Buyer Address: 24/17, Wali Ganj, Kolkata-137722
+PAN: ABCDES035F
+GSTIN: 47ABCDE2987Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 1 Rate: Rs.894 Amount: Rs.894
+
+CGST (9%): Rs.80.46
+SGST (9%): Rs.80.46
+Total Amount Payable: Rs.1054.92
+
+Goods once sold will not be taken back.

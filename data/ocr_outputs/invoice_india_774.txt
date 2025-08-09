@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2058/0399
+Date: 2017-03-21
+Time: 20:22:02
+Buyer Name: Mamooty Walla
+Buyer Address: H.No. 539, Sama Marg, Jammu-139725
+PAN: ABCDE0514F
+GSTIN: 42ABCDE8438Z11
+
+Item Details:
+
+Item: Earphones
+Quantity: 2 Rate: Rs.308 Amount: Rs.616
+
+CGST (9%): Rs.55.44
+SGST (9%): Rs.55.44
+Total Amount Payable: Rs.726.88
+
+Goods once sold will not be taken back.

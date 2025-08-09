@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2098/0152
+Date: 1988-07-14
+Time: 18:44:53
+Buyer Name: Saira Sridhar
+Buyer Address: H.No. 99, Sood Path, Mumbai-167169
+PAN: ABCDE0849F
+GSTIN: 96ABCDE0587Z91
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.448 Amount: Rs.1792
+
+CGST (9%): Rs.161.28
+SGST (9%): Rs.161.28
+Total Amount Payable: Rs.2114.56
+
+Goods once sold will not be taken back.

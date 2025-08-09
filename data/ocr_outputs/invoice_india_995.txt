@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2086/0889
+Date: 1976-12-20
+Time: 10:39:11
+Buyer Name: Heer Agrawal
+Buyer Address: H.No. 903, Bail Ganj, Thane 182053
+PAN: ABCDE3104F
+GSTIN: 33ABCDE8239Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: Rs.632 Amount: Rs.2528
+
+CGST (9%): Rs.227.52
+SGST (9%): Rs.227.52
+Total Amount Payable: Rs.2983.04
+
+Goods once sold will not be taken back.

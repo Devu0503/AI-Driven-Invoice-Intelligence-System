@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2083/0075
+Date: 1986-01-09
+Time: 21:55:16
+Buyer Name: Kashvi Lalla
+Buyer Address: 61/047, Chaudhary Marg, Surat-639566
+PAN: ABCDE5424F
+GSTIN: 80ABCDE8883Z21
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 4 Rate: Rs.196 Amount: Rs.784
+
+CGST (9%): Rs.70.56
+SGST (9%): Rs.70.56
+Total Amount Payable: Rs.925.12
+
+Goods once sold will not be taken back.

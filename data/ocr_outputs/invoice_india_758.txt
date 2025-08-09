@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2023/0121
+Date: 1975-02-14
+Time: 08:49:53
+Buyer Name: Tanya Ratti
+Buyer Address: 781, Brar Marg, Morena-285385
+PAN: ABCDE3409F
+GSTIN: 33ABCDE6489Z91
+
+Item Details:
+
+Item: USB Cable
+Quantity: 5 Rate: Rs.299 Amount: Rs.1495
+
+CGST (9%): Rs.134.55
+SGST (9%): Rs.134.55
+Total Amount Payable: Rs.1764.1
+
+Goods once sold will not be taken back.

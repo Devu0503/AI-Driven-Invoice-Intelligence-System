@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2011/0325
+Date: 2000-04-26
+Time: 23:09:30
+Buyer Name: Sumer Bakshi
+Buyer Address: H.No. 84, Bail Nagar, Latur 084457
+PAN: ABCDE6696F
+GSTIN: 07ABCDE0487Z61
+
+Item Details:
+
+Item: Webcam
+Quantity: 1 Rate: Rs.1000 Amount: Rs.1000
+
+CGST (9%): Rs.90.0
+SGST (9%): Rs.90.0
+Total Amount Payable: Rs.1180.0
+
+Goods once sold will not be taken back.

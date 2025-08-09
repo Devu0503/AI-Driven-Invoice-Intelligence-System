@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2093/0958
+Date: 2008-02-12
+Time: 05:41:46
+Buyer Name: Devansh Raj
+Buyer Address: 13, Shah Path, Gurgaon 509045
+PAN: ABCDE2520F
+GSTIN: 76ABCDE2067Z41
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.370 Amount: Rs.1110
+
+CGST (9%): Rs.99.9
+SGST (9%): Rs.99.9
+Total Amount Payable: Rs.1309.8
+
+Goods once sold will not be taken back.

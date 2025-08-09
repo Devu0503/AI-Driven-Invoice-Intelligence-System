@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2054/0220
+Date: 2017-11-10
+Time: 02:37:25
+Buyer Name: Prerak Bassi
+Buyer Address: 24/801, Singhal Street, Karaikudi 125152
+PAN: ABCDE6443F
+GSTIN: 20ABCDE8623Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.742 Amount: Rs.2968
+
+CGST (9%): Rs.267.12
+SGST (9%): Rs.267.12
+Total Amount Payable: Rs.3502.24
+
+Goods once sold will not be taken back.

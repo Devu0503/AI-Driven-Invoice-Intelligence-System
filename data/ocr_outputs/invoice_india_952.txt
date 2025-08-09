@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2044/0520
+Date: 2003-05-06
+Time: 04:52:46
+Buyer Name: Riaan Gala
+Buyer Address: H.No. 16, Ramanathan Nagar, Patna 674859
+PAN: ABCDE3598F
+GSTIN: 37ABCDE4531Z61
+
+Item Details:
+
+Item: USB Cable
+Quantity: 3 Rate: Rs.932 Amount: Rs.2796
+
+CGST (9%): Rs.251.64
+SGST (9%): Rs.251.64
+Total Amount Payable: Rs.3299.28
+
+Goods once sold will not be taken back.

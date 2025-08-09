@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0640
+Date: 2024-02-07
+Time: 19:18:52
+Buyer Name: Eshani Dayal
+Buyer Address: 59/633, Cherian, Purnia 279687
+PAN: ABCDE3391F
+GSTIN: 90ABCDE9050Z81
+
+Item Details:
+
+Item: Webcam
+Quantity: 5 Rate: Rs.851 Amount: Rs.4255
+
+CGST (9%): Rs.382.95
+SGST (9%): Rs.382.95
+Total Amount Payable: Rs.5020.9
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0068
+Date: 2002-11-27
+Time: 20:39:12
+Buyer Name: Urvi Thakkar
+Buyer Address: H.No. 945, Raju Circle, Ichalkaranji-600543
+PAN: ABCDE5303F
+GSTIN: 32ABCDE6850Z51
+
+Item Details:
+
+Item: Mouse
+Quantity: 4 Rate: Rs.101 Amount: Rs.404
+
+CGST (9%): Rs.36.36
+SGST (9%): Rs.36.36
+Total Amount Payable: Rs.476.72
+
+Goods once sold will not be taken back.

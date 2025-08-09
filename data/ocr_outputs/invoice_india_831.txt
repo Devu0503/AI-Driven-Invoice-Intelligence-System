@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2073/0733
+Date: 1995-01-30
+Time: 04:04:15
+Buyer Name: Sahil Ravel
+Buyer Address: 17/15, Choudhary Circle, Vijayawada 695318
+PAN: ABCDE5957F
+GSTIN: 65ABCDE7413Z41
+
+Item Details:
+
+Item: Mouse
+Quantity: 3 Rate: Rs.148 Amount: Rs.444
+
+CGST (9%): Rs.39.96
+SGST (9%): Rs.39.96
+Total Amount Payable: Rs.523.92
+
+Goods once sold will not be taken back.

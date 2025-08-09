@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2064/0654
+Date: 1983-11-25
+Time: 17:24:02
+Buyer Name: Anaya Bhakta
+Buyer Address: 81/032, Sehgal, Nagercoil 036515
+PAN: ABCDE8943F
+GSTIN: 15ABCDE4482Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.223 Amount: Rs.669
+
+CGST (9%): Rs.60.21
+SGST (9%): Rs.60.21
+Total Amount Payable: Rs.789.42
+
+Goods once sold will not be taken back.

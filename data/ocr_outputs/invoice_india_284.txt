@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2074/0314
+Date: 2017-12-31
+Time: 13:08:08
+Buyer Name: Vedika Saraf
+Buyer Address: H.No. 64, Goel Street, Tiruvottiyur 302336
+PAN: ABCDE5116F
+GSTIN: 683ABCDE6127211
+
+Item Details:
+
+Item: Earphones
+Quantity: 3 Rate: Rs.999 Amount: Rs.2997
+
+CGST (9%): Rs.269.73
+SGST (9%): Rs.269.73
+Total Amount Payable: Rs.3536.46
+
+Goods once sold will not be taken back.

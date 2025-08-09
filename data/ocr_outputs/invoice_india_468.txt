@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2087/0177
+Date: 1997-06-27
+Time: 18:00:16
+Buyer Name: Miraan Thaman
+Buyer Address: 057, Mann, Bhimavaram-633215
+PAN: ABCDE0290F
+GSTIN: 683ABCDE0145Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 4 Rate: Rs.143 Amount: Rs.572
+
+CGST (9%): Rs.51.48
+SGST (9%): Rs.51.48
+Total Amount Payable: Rs.674.96
+
+Goods once sold will not be taken back.

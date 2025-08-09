@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2075/0783
+Date: 1982-09-20
+Time: 01:49:18
+Buyer Name: Samarth Rana
+Buyer Address: 25/909, Rajagopal Nagar, Bhatpara-121807
+PAN: ABCDE1158F
+GSTIN: 82ABCDE4700Z41
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: Rs.200 Amount: Rs.400
+
+CGST (9%): Rs.36.0
+SGST (9%): Rs.36.0
+Total Amount Payable: Rs.472.0
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2064/0103
+Date: 2009-07-19
+Time: 08:06:27
+Buyer Name: Nakul Kalla
+Buyer Address: H.No. 020, D’Alia Road, Raichur-511579
+PAN: ABCDE1624F
+GSTIN: 42ABCDE30112Z81
+
+Item Details:
+
+Item: Charger
+Quantity: 1 Rate: Rs.372 Amount: Rs.372
+
+CGST (9%): Rs.33.48
+SGST (9%): Rs.33.48
+Total Amount Payable: Rs.438.96
+
+Goods once sold will not be taken back.

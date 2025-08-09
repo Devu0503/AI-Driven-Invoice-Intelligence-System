@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2068/0005
+Date: 1999-06-08
+Time: 06:51:34
+Buyer Name: Raghav Bandi
+Buyer Address: 664, Singhal Marg, Durgapur-279523
+PAN: ABCDE9311F
+GSTIN: 83ABCDE0931Z41
+
+Item Details:
+
+Item: Earphones
+Quantity: 4 Rate: Rs.840 Amount: Rs.3360
+
+CGST (9%): Rs.302.4
+SGST (9%): Rs.302.4
+Total Amount Payable: Rs.3964.8
+
+Goods once sold will not be taken back.

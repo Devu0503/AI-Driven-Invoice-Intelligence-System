@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0908
+Date: 1995-02-16
+Time: 07:21:19
+Buyer Name: Ivana Majumdar
+Buyer Address: 70/588, Kaul Street, Jabalpur-885428
+PAN: ABCDE1317F
+GSTIN: 70ABCDE2851Z91
+
+Item Details:
+
+Item: Laptop Stand
+Quantity: 3 Rate: Rs.375 Amount: Rs.1125
+
+CGST (9%): Rs.101.25
+SGST (9%): Rs.101.25
+Total Amount Payable: Rs.1327.5
+
+Goods once sold will not be taken back.

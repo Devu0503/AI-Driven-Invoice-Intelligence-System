@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2046/0960
+Date: 1985-05-10
+Time: 20:16:32
+Buyer Name: Faiyaz Dalal
+Buyer Address: 772, Mani Circle, Buxar-515335
+PAN: ABCDE0423F
+GSTIN: 54ABCDE2218Z01
+
+Item Details:
+
+Item: Keyboard
+Quantity: 5 Rate: Rs.340 Amount: Rs.1700
+
+CGST (9%): Rs.153.0
+SGST (9%): Rs.153.0
+Total Amount Payable: Rs.2006.0
+
+Goods once sold will not be taken back.

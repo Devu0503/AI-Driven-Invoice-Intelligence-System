@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2053/0983
+Date: 1977-02-10
+Time: 11:52:41
+Buyer Name: Mohanlal Krishnamurthy
+Buyer Address: 35/14, Barad Chowk, Bardhaman-180287
+PAN: ABCDE3506F
+GSTIN: 20ABCDE8363Z91
+
+Item Details:
+
+Item: Keyboard
+Quantity: 2 Rate: Rs.658 Amount: Rs.1316
+
+CGST (9%): Rs.118.44
+SGST (9%): Rs.118.44
+Total Amount Payable: Rs.1552.88
+
+Goods once sold will not be taken back.

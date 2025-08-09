@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2003/0751
+Date: 1986-11-25
+Time: 04:50:21
+Buyer Name: Alia Balay
+Buyer Address: 25/62, Mallick Chowk, Sirsa 890131
+PAN: ABCDE9609F
+GSTIN: 27ABCDE8334Z01
+
+Item Details:
+
+Item: Power Bank
+Quantity: 3 Rate: Rs.694 Amount: Rs.2082
+
+CGST (9%): Rs.187.38
+SGST (9%): Rs.187.38
+Total Amount Payable: Rs.2456.76
+
+Goods once sold will not be taken back.

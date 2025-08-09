@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0442
+Date: 2005-12-26
+Time: 05:07:00
+Buyer Name: Adira Bhavsar
+Buyer Address: H.No. 985, Boase Street, Firozabad 385896
+PAN: ABCDE4502F
+GSTIN: 35ABCDE1240211
+
+Item Details:
+
+Item: HDMI Cable
+Quantity: 4 Rate: Rs.943 Amount: Rs.3772
+
+CGST (9%): Rs.339.48
+SGST (9%): Rs.339.48
+Total Amount Payable: Rs.4450.96
+
+Goods once sold will not be taken back.

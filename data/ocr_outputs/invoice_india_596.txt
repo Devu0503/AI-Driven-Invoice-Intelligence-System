@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2051/0225
+Date: 1989-07-22
+Time: 09:21:17
+Buyer Name: Dhruv Subramaniam
+Buyer Address: 57/668, Tandon Road, Bhiwandi 628288
+PAN: ABCDE9964F
+GSTIN: 34ABCDE5006Z31
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.681 Amount: Rs.1362
+
+CGST (9%): Rs.122.58
+SGST (9%): Rs.122.58
+Total Amount Payable: Rs.1607.16
+
+Goods once sold will not be taken back.

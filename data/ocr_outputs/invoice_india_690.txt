@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2027/0162
+Date: 1986-08-02
+Time: 16:00:26
+Buyer Name: Zara Aggarwal
+Buyer Address: 16/21, Tank Circle, Bhubaneswar-735105
+PAN: ABCDE6988F
+GSTIN: 10ABCDE88792Z11
+
+Item Details:
+
+Item: Charger
+Quantity: 2 Rate: Rs.110 Amount: Rs.220
+
+CGST (9%): Rs.19.8
+SGST (9%): Rs.19.8
+Total Amount Payable: Rs.259.6
+
+Goods once sold will not be taken back.

@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2008/0322
+Date: 1999-04-06
+Time: 15:46:55
+Buyer Name: Baiju Ratta
+Buyer Address: H.No. 546, Lall Path, Imphal 971284
+PAN: ABCDE3679F
+GSTIN: 50ABCDE4459Z61
+
+Item Details:
+
+Item: Mobile Case
+Quantity: 4 Rate: Rs.367 Amount: Rs.1468
+
+CGST (9%): Rs.132.12
+SGST (9%): Rs.132.12
+Total Amount Payable: Rs.1732.24
+
+Goods once sold will not be taken back.

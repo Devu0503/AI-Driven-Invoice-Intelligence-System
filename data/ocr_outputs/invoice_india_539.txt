@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2056/0900
+Date: 1996-11-08
+Time: 06:10:23
+Buyer Name: Lagan Srinivas
+Buyer Address: 73/15, Hari Ganj, Hubli-Dharwad-488053
+PAN: ABCDE3355F
+GSTIN: 80ABCDE4114241
+
+Item Details:
+
+Item: Earphones
+Quantity: 1 Rate: Rs.655 Amount: Rs.655
+
+CGST (9%): Rs.58.95
+SGST (9%): Rs.58.95
+Total Amount Payable: Rs.772.9
+
+Goods once sold will not be taken back.

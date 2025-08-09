@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2059/0335
+Date: 1977-04-12
+Time: 05:40:32
+Buyer Name: Madhav Majumdar
+Buyer Address: 58/06, Bajaj Nagar, Udaipur-527466
+PAN: ABCDE1116F
+GSTIN: 95ABCDE7023Z21
+
+Item Details:
+
+Item: Webcam
+Quantity: 4 Rate: Rs.771 Amount: Rs.3084
+
+CGST (9%): Rs.277.56
+SGST (9%): Rs.277.56
+Total Amount Payable: Rs.3639.12
+
+Goods once sold will not be taken back.

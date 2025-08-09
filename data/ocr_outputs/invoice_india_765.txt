@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2028/0346
+Date: 2013-03-12
+Time: 18:31:27
+Buyer Name: Amani Saha
+Buyer Address: 778, Thaker Nagar, Hosur-854677
+PAN: ABCDE6113F
+GSTIN: 33ABCDE7026Z11
+
+Item Details:
+
+Item: Mouse
+Quantity: 2 Rate: Rs.419 Amount: Rs.838
+
+CGST (9%): Rs.75.42
+SGST (9%): Rs.75.42
+Total Amount Payable: Rs.988.84
+
+Goods once sold will not be taken back.

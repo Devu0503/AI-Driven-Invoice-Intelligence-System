@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2040/0059
+Date: 2024-05-14
+Time: 10:51:37
+Buyer Name: Nayantara Sinha
+Buyer Address: 475, Bobal Chowk, Bikaner 616284
+PAN: ABCDE8205F
+GSTIN: 56ABCDE0889Z51
+
+Item Details:
+
+Item: Keyboard
+Quantity: 3 Rate: Rs.475 Amount: Rs.1425
+
+CGST (9%): Rs.128.25
+SGST (9%): Rs.128.25
+Total Amount Payable: Rs.1681.5
+
+Goods once sold will not be taken back.

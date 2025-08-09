@@ -1,0 +1,19 @@
+INVOICE
+Invoice No: INV/2083/0375
+Date: 1992-10-31
+Time: 14:11:01
+Buyer Name: Reyansh Dora
+Buyer Address: 06/32, Chahal Path, Mahbubnagar 536959
+PAN: ABCDE3553F
+GSTIN: 57ABCDE9878Z41
+
+Item Details:
+
+Item: USB Cable
+Quantity: 4 Rate: Rs.509 Amount: Rs.2036
+
+CGST (9%): Rs.183.24
+SGST (9%): Rs.183.24
+Total Amount Payable: Rs.2402.48
+
+Goods once sold will not be taken back.
