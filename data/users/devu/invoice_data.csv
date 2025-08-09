@@ -1,0 +1,2 @@
+Invoice_No,Date,Time,Buyer_Name,Buyer_Address,PAN,GSTIN,Item,Qty,Rate,Amount,CGST,SGST,Total,Terms,Source_File
+INV/2025/089019,2025-08-10,00:04:11.824092,devanshi gupta,wer,ABCDE1234F,16ABCDE8273Z01,Power Bank,1,500.0,500.0,45.0,45.0,590.0,Goods once sold will not be taken back.,INV/2025/089019.pdf

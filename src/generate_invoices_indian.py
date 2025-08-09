@@ -12,7 +12,61 @@ items = ["USB Cable", "Power Bank", "Mouse", "Keyboard", "Charger", "Mobile Case
 structured_data = []
 
 def generate_invoice_data():
-    qty = random.randint(1, 5)
+    qty = random.randint(1, 5)# src/visual_builder.py
+import pandas as pd
+import streamlit as st
+import plotly.express as px
+
+def builder(df: pd.DataFrame):
+    st.subheader("Visual Builder")
+
+    # sensible defaults
+    numeric_cols = [c for c in df.columns if pd.api.types.is_numeric_dtype(df[c])]
+    text_date_cols = [c for c in df.columns if not pd.api.types.is_numeric_dtype(df[c])]
+
+    c1, c2, c3, c4 = st.columns(4)
+    with c1:
+        chart_type = st.selectbox("Chart", ["Bar", "Line", "Pie"])
+    with c2:
+        group_by = st.selectbox("Group by", text_date_cols or [None])
+    with c3:
+        agg_col = st.selectbox("Aggregate", numeric_cols or [None])
+    with c4:
+        agg_fn = st.selectbox("Agg fn", ["sum", "mean", "count"])
+
+    if not group_by or not agg_col:
+        st.info("Pick a group and a numeric column to aggregate.")
+        return
+
+    # prepare data
+    tmp = df.copy()
+    # parse date if possible for nicer x-axis
+    if "Date" in tmp.columns:
+        try:
+            tmp["Date"] = pd.to_datetime(tmp["Date"])
+        except Exception:
+            pass
+
+    if agg_fn == "sum":
+        g = tmp.groupby(group_by, dropna=False)[agg_col].sum().reset_index()
+    elif agg_fn == "mean":
+        g = tmp.groupby(group_by, dropna=False)[agg_col].mean().reset_index()
+    else:  # count
+        g = tmp.groupby(group_by, dropna=False)[agg_col].count().reset_index(name=agg_col)
+
+    # render
+    if chart_type == "Bar":
+        fig = px.bar(g, x=group_by, y=agg_col, title=f"{agg_fn}({agg_col}) by {group_by}")
+    elif chart_type == "Line":
+        fig = px.line(g, x=group_by, y=agg_col, markers=True, title=f"{agg_fn}({agg_col}) by {group_by}")
+    else:
+        # Pie: group column as labels, agg as values
+        fig = px.pie(g, names=group_by, values=agg_col, title=f"{agg_fn}({agg_col}) by {group_by}")
+    st.plotly_chart(fig, use_container_width=True)
+
+    with st.expander("Show grouped data"):
+        st.dataframe(g)
+
     rate = random.randint(100, 1000)
     amount = qty * rate
     cgst = amount * 0.09
