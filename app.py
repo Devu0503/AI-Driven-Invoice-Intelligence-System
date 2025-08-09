@@ -1,4 +1,4 @@
-# app.py — Invoice Intelligence (Phase 3)
+# app.py — Invoice Intelligence (Phase 4)
 # devu_05 gets the big dummy dataset (copied once) but can still add/create.
 # All other users get an empty personal CSV + personal SQLite DB.
 
@@ -17,7 +17,7 @@ if "user_csv" not in st.session_state:
     st.session_state.user_csv = ""
 
 # ---- Page config
-st.set_page_config(page_title="Intelligence - Invoice - System",
+st.set_page_config(page_title="Intelligence-Invoice-System",
                    page_icon="📄", layout="wide")
 
 # ---- Local modules
