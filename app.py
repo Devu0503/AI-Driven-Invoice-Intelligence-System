@@ -214,7 +214,7 @@ def main_app():
             except Exception as e:
                 st.warning(f"Extraction skipped: {e}")
 
-    st.title("🧾 Invoice Intelligence — Phase 3")
+    st.title("🧾 Intelligence-Invoice-System")
 
     tabs = st.tabs(["📊 EDA", "✏️ Edit", "🧲 Builder", "🧾 Create Invoice", "📤 Upload"])
 
