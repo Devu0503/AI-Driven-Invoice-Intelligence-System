@@ -5,16 +5,17 @@
 An end-to-end AI + OCR + Data Intelligence solution for automating invoice management, from extraction to analytics and editing.
 The project is built in 4 incremental phases, with each phase adding new features and capabilities.
 
+Deployed link of the project
+https://phase-4-invoice-system-121121.streamlit.app/
 
+📅 Project Phases Overview
 
- 📅 Project Phases Overview
-
-| Phase       | Focus Area                | Key Features                                                                |
-| ----------- | ------------------------- | --------------------------------------------------------------------------- |
-| Phase 1     | OCR Extraction            | Generate invoices, extract text, structure data into CSV                    |
-| Phase 2     | EDA & SQLite              | Streamlit dashboard, EDA visualizations, database integration               |
-| Phase 3     | Invoice Builder & Editor  | Create, edit, and upload invoices directly from UI                          |
-| Phase 4     | User-Specific Data Access | Multi-user system, `devu_05` seeded with 2000+ invoices, others start empty |
+| Phase    | Focus Area                | Key Features                                                                |
+| ---------| ------------------------- | --------------------------------------------------------------------------- |
+|  Phase 1 | OCR Extraction            | Generate invoices, extract text, structure data into CSV                    |
+|  Phase 2 | EDA & SQLite              | Streamlit dashboard, EDA visualizations, database integration               |
+|  Phase 3 | Invoice Builder & Editor  | Create, edit, and upload invoices directly from UI                          |
+|  Phase 4 | User-Specific Data Access | Multi-user system, `devu_05` seeded with 2000+ invoices, others start empty |
 
 
 
