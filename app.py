@@ -49,10 +49,10 @@ def main_app():
     st.sidebar.success(f"👤 Logged in as: {st.session_state.username}")
     st.title("📄 AI-Driven Invoice Intelligence Dashboard")
 
-    # --- Re-run Extraction ---
-    if st.sidebar.button("🔍 Re-run Invoice Extraction"):
-        extract_from_ocr_outputs("data/ocr_outputs", CSV_PATH)
-        st.sidebar.success("✅ Data extracted and saved to CSV!")
+    # # --- Re-run Extraction ---
+    # if st.sidebar.button("🔍 Re-run Invoice Extraction"):
+    #     extract_from_ocr_outputs("data/ocr_outputs", CSV_PATH)
+    #     st.sidebar.success("✅ Data extracted and saved to CSV!")
 
     # --- Load and Run EDA ---
     if os.path.exists(CSV_PATH):
