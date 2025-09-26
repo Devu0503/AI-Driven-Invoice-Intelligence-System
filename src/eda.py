@@ -47,7 +47,7 @@ def run_eda(df):
             st.write(f" {col}")
             st.write(df[col].value_counts().head(3))
 
-    #  Top 10 Items by Quantity
+    #  Top 10 Buyer_Name  by Quantity
     st.subheader("Top 10 Buyer_Name by Quantity")
     if 'Buyer_Name' in df.columns and 'Qty' in df.columns:
         try:

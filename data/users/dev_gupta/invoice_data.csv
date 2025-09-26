@@ -1,0 +1,2 @@
+Invoice_No,Date,Time,Buyer_Name,Buyer_Address,PAN,GSTIN,Item,Qty,Rate,Amount,CGST,SGST,Total,Terms,Source_File
+INV/2025/089019,2025-08-17,23:47:26.139704,dev_gupta,365 new delhi,ABCDE1234F,16ABCDE8273Z01,chocolate,6,50.0,300.0,27.0,27.0,354.0,Goods once sold will not be taken back.,INV/2025/089019.pdf

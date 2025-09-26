@@ -107,3 +107,42 @@ def process_upload(file, csv_path: str) -> Tuple[Dict, str]:
 
     else:
         return {}, f"❌ Unsupported file type: {file.name}"
+
+
+
+# # Purpose: Ingest uploaded invoices (PDF/JPG/PNG), extract text, parse structured fields, and persist them (CSV + SQLite). Returns the parsed record + a status message for the UI.
+
+# Text extraction logic:
+
+# PDFs: Try direct text with PyPDF2. If empty (scanned PDFs), render pages via pypdfium2 (~200 DPI) → light preprocess (grayscale + threshold) → Tesseract OCR (--psm 6).
+
+# Images: Open with PIL and run Tesseract OCR.
+
+# Parsing & persistence:
+
+# Raw text → parse_invoice_text(...) → a dict of invoice fields.
+
+# Adds Source_File (original filename).
+
+# Appends one row to CSV and attempts SQLite insert (insert_row).
+
+# Entry point for the app:
+# process_upload(file, csv_path) → (record_dict, message_str)
+
+# Routes by file extension (.pdf, .png/.jpg/.jpeg).
+
+# Handles failures gracefully (empty OCR, unsupported type) with informative messages.
+
+# Utilities inside:
+
+# _text_from_pdf(...) – dual path (native text → OCR fallback).
+
+# _text_from_image(...) – simple OCR for images.
+
+# _append_csv(...) – creates/extends the CSV.
+
+# structure_and_save(...) – parse → persist → return record.
+
+# Design choices: Lightweight, stateless per call, safe fallbacks, and UI-friendly messages; silent DB errors don’t break the flow.
+
+# Typical flow: Upload file → extract text → parse fields → save (CSV/DB) → return record + “✅ Parsed and saved: <name>”.
