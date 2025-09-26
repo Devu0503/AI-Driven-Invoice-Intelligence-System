@@ -6,7 +6,7 @@ An end-to-end AI + OCR + Data Intelligence solution for automating invoice manag
 The project is built in 4 incremental phases, with each phase adding new features and capabilities.
 
 Deployed link of the project
-[https://phase-4-invoice-system-121121.streamlit.app/](https://ai-driven-invoice-intelligence-system-phase-5.streamlit.app/)
+https://ai-driven-invoice-intelligence-system-phase-5.streamlit.app/
 
 📅 Project Phases Overview
 
